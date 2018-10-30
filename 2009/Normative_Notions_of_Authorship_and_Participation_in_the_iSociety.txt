@@ -1,0 +1,553 @@
+Normative Notions of Authorship and Participation in the
+iSociety
+Laura R. Lenhart
+School of Information Resources and Library Science
+University of Arizona
+1515 E. 1st St.
+Tucson, AZ 85719
+
+lenhartl@email.arizona.edu
+ABSTRACT
+This paper addresses the role that conceptions of authorship play
+in governing participation in society. Following a brief review of
+the literature, the philosophical method of conceptual analysis is
+combined with historical examples to argue that conceptions of
+authorship have at least three universal features.
+First,
+'authorship' demarcates certain activities and practices. Secondly,
+conceptions of authorship contain a normative element which is
+used to identify which activities and practices are constitutive.
+Finally, once identified those activities and practices become
+eligible for social, legal, and economic benefits that enable
+participation in the i-society.
+
+Topics
+e-Inclusion in the iSociety
+Information policy, ethics, and law
+
+Keywords
+Authorship, participation, conceptual analysis, normativity
+
+1. INTRODUCTION
+Authorship is a topic that has been studied by researchers from a
+wide variety of fields, including literary theory, sociology, history,
+bibliography, and critical theory. Each of these researchers are
+equipped with very different sets of theoretical commitments,
+preferred methodologies, and objects of study.
+Literary theorists have typically focused on the role, or lack
+thereof, that authors have played in fixing or constructing the
+meaning and significance of their texts. Towards this end, they
+have often been particularly concerned with teasing out the
+intentions of individual authors through close readings of their
+works, correspondence, unpublished materials, and other
+documentation of their lives. In Barthes “The Death of the
+Author,” he argues not that individuals have ceased to engage in
+text-producing activities, but that the author is not, and should not
+be, the figure around which meaning and significance are
+constructed (Barthes, 1977).
+While often grouped with Barthes’ critique of intentionalist
+approaches, Foucault’s seminal “What is an author,” is better
+
+characterized as a broad sketch of a research agenda which aims
+to identify the social, legal, and economic processes that lead to
+the development of the particular role played by the authorfunction. Following Foucault, the legal historian David Saunders
+has stated that "it is certainly valuable to distinguish between the
+individuals who writes and the authorial personality, status, or
+function which he or she might bear and to which legal capacities
+might attach" (1994, p. 99). So, too, with the actual practices and
+activities that individuals may engage in, and the special
+recognition or function that is borne out by conceptions of
+authorship.
+Despite the attention and effort that has recently been paid to the
+subject, there is relatively little consensus regarding what
+authorship is. There is certainly no widely agreed upon definition
+of authorship, despite the multitude of historically and culturally
+specific definitions of authorship that have been used in the
+literature. Authorship has been variously defined, implicitly or
+explicitly, as the professional, market-driven production of
+cultural commodities (cf. Adams, 1990; Griffin, 1990; Turnovsky,
+2003); the autonomous creation of original texts or ideas (cf.
+Haynes, 2005); and authorship as compilation or craftsmanship
+(cf. Summit, 2003; Minnis, 1984).
+Attempts to define the term are complicated by the fact that
+authorship is a social construct that has been constructed in
+different ways in different historical periods and contexts
+(Summit, 2005). At best, these definitions are well-suited to
+describing authorship within certain historical periods or contexts,
+but as authorship is not limited to a particular historical period,
+nor isolated to any particular culture, none of these definitions are
+well-suited to describing authorship as a global phenomenon. In
+particular, these sorts of definitions are unable to capture
+authorship practices in the early manuscript period, or authorship
+outside of the West and among indigenous peoples. As a result,
+they are poor responses to the question, “What is authorship?’
+Given the recent attention and the central role ‘authorship’ plays
+in our conceptual web, it would be useful for researchers and
+scholars to have some consensus regarding an answer to the
+question posed above. The philosophical method of conceptual
+analysis may be a useful tool to identify such common ground.
+Conceptual analysis can generally be described as the process of
+breaking a concept down into its basic components in order to
+reveal its logical structure. Despite the fact that substantive
+conceptions of authorship have changed over time and differ
+between cultures, it is possible that the structure and function of
+the concept may be stable.
+
+Conceptual analysis is also a useful methodology in this particular
+case, as it allows us to avoid problematic anachronism, teleology,
+and arguably cultural specificity which can make universal
+definitions impossible, and consensus in a multidisciplinary
+environment difficult. I argue that there are several universal
+features of ‘authorship,’ and that these features shed light on the
+role that conceptions of authorship play governing participation in
+society. By illustrating these features with historical examples, we
+can also attempt to ensure that they are consistent with the
+historical record. While by no means offering a universal
+definition of authorship, these features do form the basis for a
+useful theoretical framework.
+
+2. DEMARCATION
+Quite apparently, not all text-producing activities and practices
+are those which we consider authorship. As Foucault observes, "a
+private letter may well have a signer-it does not have an author; a
+contract may have a guarantor-it does not have an author. An
+anonymous text posted on a wall probably has a writer-but not an
+author" (Foucault, 1979, 148). This illustrates an important
+feature of society: only certain kinds of activities and practices are
+constitutive of authorship in any given context.
+Authorship is something that persons do, either alone or in
+concert. It refers to a particular set of activities or practices. There
+are a wide range of practices and activities which have at times
+been associated with authorship: writing, publication, patronage,
+compilation, dictation, editing, etc. (cf. Griffin, 2005; Summit
+2003; Dobranski, 1999). This list is by no means exhaustive,
+rather, it is intended to demonstrate the variety of activities and
+practices which are candidates for authorship. Not all, or even
+most, of these activities or practices have been constitutive of
+authorship in any particular context. Depending on the context
+and historical period, different activities have been interpreted as
+"authoring" (Summit, 2003). The same activities and practices in
+one historical context that were considered authorship may not
+necessarily have been considered authorship in another.
+Conceptions and definitions of authorship necessarily identify
+which activities and practices are constitutive of the concept. In
+other words, 'authorship' necessarily demarcates certain activities
+and practices.
+
+3. NORMATIVE ELEMENTS OF
+'AUTHORSHIP'
+If we accept that 'authorship' demarcates certain practices or
+activities, we can further examine the means of demarcation: that
+is, how and why are certain practices selected but not others? I
+argue that conceptions of authorship necessarily contain a
+normative element that is used to identify those activities and
+practices that are consistent with the standard.
+
+3.1 Types of normative judgments
+Descriptive statements are those that purport to describe some
+feature of the world: "The sky is blue," "The table has four legs."
+These can generally be contrasted with normative claims that
+involve evaluative judgments and prescriptions: "Sushi is good,"
+
+"That's not fair," "One ought never lie" (cf. Wengert, 2001).
+There are also several different classes or categories of normative
+judgments or claims: aesthetic, epistemic, and moral judgments
+are each different sorts of normative judgments.
+Aesthetic judgments involve judgments of taste and beauty.
+“Sushi is good” is an example of an aesthetic judgment, as is “The
+Pieta is beautiful.” Similarly, the statement that “Mann’s The
+Magic Mountain is a masterpiece” is also an aesthetic judgment.
+In arguing that ‘authorship’ involves a normative element that is
+used to demarcate certain activities and practices, I do not mean
+to argue that ‘authorship’ involves aesthetic judgments. Rather, I
+contend that in addition to judgments of taste or beauty,
+conceptions of authorship also contain moral and epistemic
+normative judgments which are used identify certain kinds of
+practices and activities that are deemed more worthy or valuable.
+Moral judgments and claims are those which track the rightness
+or wrongness and goodness or badness of actions or character.
+Normative epistemic judgments or claims track features of some
+of our epistemological beliefs about how we acquire knowledge
+and what knowledge consists in. Not all epistemic judgments or
+claims are normative. Statements or judgments concerning truth
+are arguably descriptive. However, statements and judgments
+concerning knowledge are normative, and are also importantly
+involved in conceptions of authorship.
+
+3.2 The Romantic conception of authorship
+To illustrate, let us consider the Romantic conception of
+authorship: the autonomous creation of original ideas and text (cf.
+Haynes, 2005; Woodmansee, 1984). This particular conception of
+authorship involves the notions of 'originality' and 'genius' and
+can be traced as far back as Edward Young's Conjectures on
+Original Composition (1759). His work would be influential on
+many German philosophers during the 18th century, who adopted
+his thoughts on original composition in their own works on the
+nature of authorship and literary property.
+Prior to this, the received view of authorship was the idea that the
+author is best characterized as an artisan or as a craftsman: he uses
+traditional materials, rules, and ideas, those that had been handed
+down by posterity, in order to produce certain effects. Authors
+could occasionally move beyond the mere manipulation of
+received goods to create works that were truly great. In these
+instances, authors were said to be inspired: typically by the Muses
+or God (Woodmansee, 1984). What is important is that the source
+of inspiration was external to the individuals who were actually
+writing.
+Young substituted originality and genius for inspiration. The
+source of the great works was no longer situated outside of the
+author, but within:
+The mind of a man of Genius is a
+fertile and pleasant field, pleasant as
+Elysium, and fertile as Tempe; it enjoys
+a perpetual Spring. Of that Spring,
+Originals are the fairest Flowers:
+Imitations are of quicker growth, but
+fainter bloom (1759).
+
+This particular passage highlights two features that have been
+inherited by the Romantic conception of authorship. First, it is
+notable that the source of originality lies in the mind of the writer.
+Secondly, while the genius produces both works that are
+imitations and works that are original, original works are to be
+valued more than imitations. While this may seem both intuitive
+and obvious to the modern reader, it is a marked contrast to earlier
+scholastic attitudes towards composition, knowledge, and
+authority.
+On this interpretation of authorship, we can equate "Mary is an
+author," with "Mary autonomously creates original ideas and
+text." That statement is much stronger than descriptive statements
+such as "Mary writes" or "Mary wrote that text." While the latter
+two statements are descriptive accounts of a particular individual's
+activities, the former involves an evaluative judgment about the
+nature and result of those activities: that Mary acts autonomously,
+and that the results are "original." Built into this particular
+concept of authorship is the notion that originality is to be sought
+and encouraged.
+
+4. SOCIAL, LEGAL, AND ECONOMIC
+BENEFITS
+Having hopefully established the normative feature and the
+demarcative function of 'authorship', we can identify another
+common feature: once certain practices or activities have been
+demarcated as constitutive of authorship, those practices and
+activities are eligible for certain social, economic, and legal
+benefits. These benefits play an important role in governing
+participation in society. As a result, there are practical
+ramifications to the particular conception of authorship that
+obtains in any context.
+The legal instrument of copyright, for example, is designed to
+give individuals the exclusive rights to copy, distribute, display,
+and make derivative works. These rights give copyright holders
+an ability to control how works are accessed, disseminated, and
+used within society. It also allows authors to profit, either socially,
+economically, or both, from the distribution and sale of their
+works. Copyright originates with authors, but only certain kinds
+of works are eligible for copyright. Eligibility is dependent upon a
+particular normative conception of authorship: works must
+display originality in order to qualify. The following sections will
+attempt to demonstrate that intellectual property laws, copyright
+in this case, often assume or are based upon particular
+conceptions of authorship.
+
+4.1 'Authorship' and copyright
+The German states were slow to adopt copyright laws. Even as
+they did so, each state only had the ability to enforce the laws
+within their particular territory. Combined with a shared language
+and literary culture, this created an environment ripe for piracy
+(Saunders, 1992). Piracy negatively affected writers, as it reduced
+printers' ability to compensate them for their works. Most authors
+wanted to end piracy and therefore wanted more stringent,
+enforceable copyright laws that recognized their interests and
+rights in regard to their work.
+
+The 18th century German philosophers work on the nature of
+authorship and composition was motivated by, and contingent
+upon, a particular set of historical circumstances (cf. Saunders,
+1992; Woodmansee, 1984). They were doing more than just
+theorizing about the nature of authorship: they were utilizing this
+conception of authorship as an argument for a particular kind of
+intellectual property law. If an authors' work is an expression of
+his or her personality or essence, who else would it belong to but
+him or her? They were establishing the groundwork for what
+would later be called the rights of personality which formed the
+basis for much of the Continental framework of intellectual
+property.
+Intellectual property laws tend to presume or rely upon particular
+conceptions of authorship. This is true not only of the Continental
+framework for intellectual property, but also of the AngloAmerican model instigated with the landmark 1710 Statute of
+Anne. The Statute of Anne was the first legal copyright law
+implemented, and also marked the first time that authors, rather
+than printers or booksellers, were the locus of the right to copy,
+sell, and distribute works. For our purposes, it is important that
+rather than cementing the status of literary property in early
+modern England, the Statute of Anne sparked a debate on the
+nature of authorship and literary property that lasted from 1710
+until 1774, with the House of Lords ruling on Donaldson v.
+Becket (Rose, 1994).
+An important thread running through the debate was the role of
+authors within society. The early 18th century was the beginning
+of the rise of the professionalization of authorship heralded by the
+growth of a literary marketplace and a decline in the importance
+of certain kinds of patronage. Authors, including the likes of
+Samuel Johnson and Alexander Pope, were increasingly
+considered independent professionals. This particular conception
+of authorship could be characterized as the production of cultural
+commodities. When the House of Lords ruled in 1774 to uphold
+the limits to copyright terms established by the Statute of Anne,
+the House effectively ruled in favor of a conception of authorship
+that presented the author as a proprietor, whose interests must be
+balanced with those of the public (cf. Ross, 1992).
+These two competing conceptions of authorship, as the production
+of cultural commodities and as the autonomous original text and
+ideas, form the basis for two very different models of intellectual
+property law. The Continental model, which presumes the
+Romantic notion of authorship, assumes that authors have certain
+inalienable rights in regards to their works. Our Anglo-American
+model, while influenced by the Romantic notion in it's
+requirements on originality, is still primarily based on the idea
+that the author is best characterized as a proprietor.
+
+5. AUTHORSHIP AND PARTICIPATION
+As demonstrated by the fact that these laws and policies presume
+a particular conception of authorship, there are ethical
+considerations regarding whether that conception of authorship
+fosters participation in the i-society. The activities and practices
+demarcated by conceptions of authorship become eligible for
+social, legal, and economic benefits; but those activities and
+practices that are not demarcated can be hindered and individuals'
+
+engaging in them may be excluded. This section of the paper will
+use examples of indigenous cultural production to demonstrate
+that there are important ethical considerations to be made
+regarding how we foster participation in the i-society, and what
+our objectives ought to be.
+First, however, it will be necessary to demonstrate the importance
+of authors and authorship to participation in society. The
+following section endeavors to lay out the relationship between
+authorship and participation.
+
+5.1 The importance of authors and authorship
+to participation in society
+Whether we characterizes ourselves as members of an information
+society, knowledge society, post-industrial society, or dismiss
+such assertions as misleading, it seems relatively uncontroversial
+to note that the means through which information is accessed,
+disseminated, and used are changing. Perhaps more controversial,
+but nonetheless plausible, is the assertion that information itself is
+becoming or has become more fundamental to the cultural,
+economic, and social activities that we engage in.
+Regardless, it remains true that before information or knowledge
+can be accessed or acquired, it must first be created or be
+available through some means. Primarily, information or
+knowledge is possessed by individuals who then choose to share
+or exchange it. Writing, editing, collaborating, and other similar
+activities can be means of sharing and exchanging that
+information or knowledge. From the foregoing sections, it should
+hopefully be clear that authorship, then, is a particular kind of
+sharing and exchange of information, one that is facilitated by the
+social, legal, and economic benefits that are conferred upon those
+activities and practices that are deemed constitutive.
+Writing, collaborating, editing and similar activities are just a few
+ways that individuals participate in society by sharing the
+knowledge or information they have. And when individuals
+access and use the products of those activities, they, too, are
+participating in society. This raises an important point about these
+activities and participation: by engaging in them individuals
+actively participate in society, however, their engagement also
+enables other individuals to participate by accessing the products
+of those activities.
+
+5.2 Indigenous attitudes towards intellectual
+property and authorship
+As noted above, the Anglo-American system of intellectual
+property law is deeply influenced by the idea that the author is
+best characterized as a proprietor: an individual involved in the
+production of commodities which are available through a market,
+whose interest must be balanced with that of the public. This can
+be contrasted with the Continental model of intellectual property
+law that is apt to consider works created by an author to be an
+expression or manifestation of her personality or essence. While
+these are markedly different approaches to intellectual property
+law influenced by different notions of authorship, they are more
+closely related to each other than to indigenous or non-Western
+conceptions of authorship and intellectual property.
+
+Both conceptions assume that the appropriate locus of intellectual
+property is that of the individual. Many indigenous and nonWestern cultures view the community or society as the possessors
+of ideas, information, and knowledge (cf. Brown, 2003; Townley,
+2002; Endeshaw, 2005). While individual writers, artists, or
+storytellers may be the custodians or guardians who are entrusted
+with preserving and sharing such information or knowledge, their
+role as authors is more akin to that of a trustee (Brown, 2003, p.
+46). Ultimate responsibility and ownership for the intellectual
+property rests with the community, group, or society.
+The case of Bulun Bulun and Milpurrurru v. R & T Textiles Pty.
+Ltd. is a good illustration of the way that many indigenous
+cultures view the relationship between an author and the
+community (Brown, 2003, p. 44). The first plaintiff in this
+copyright infringement suit, Bulun Bulun, is an Aboriginal artist
+whose work has attained a global following. The second plaintiff,
+George Milpurrurru, is a senior clan official for the Ganalbingu
+community. When a textile company imported fabric containing
+images from one of Bulun Bulun’s more famous paintings without
+his consent, Bulun Bulun and Milpurrurru together brought suit:
+they alleged that not only was Bulun Bulun harmed, but his
+community, as well (Brown, 2003, p. 45-46). While Bulun Bulun
+may be “authorized” by his clan to depict certain kinds of
+religious and cultural imagery, he does so for the benefit and
+under the supervision of the traditional owners: the clan.
+This particular case illustrates the role that many indigenous
+authors or creators play within their communities. Case law
+regarding indigenous cultural production has in many ways
+improved, for instance, much indigenous art was once deemed
+uncopyrightable: folklore, or “folkloric” art, was regarded as
+lacking the requisite originality (Brown, 2003, p. 44).
+These conceptions of authorship and intellectual property are not
+uncommon among indigenous peoples and outside of the West. In
+Asia, difficulty enforcing intellectual property law is partly
+attributable to differing social and cultural assumptions regarding
+the nature of intellectual property, namely that intellectual
+“property” is ultimately held by society or the community as a
+whole (cf. Endeshaw, 2005).
+At this point, it should hopefully be clear that conceptions of
+authorship underlying intellectual property law are fundamentally
+different from those held by many indigenous communities and
+non-Western cultures.
+
+5.3 Ethical considerations
+By conferring certain social, legal, or economic benefits on the
+activities and practices that are deemed constitutive, the notion of
+authorship facilitates participation in society for those who
+engage in those activities, and also for other individuals accessing
+the products of those activities. Depending on the particular
+conception of authorship that obtains, more or fewer of those
+activities will be facilitated, which will have consequences for not
+only those engaging in them, but also for those who participate by
+accessing those products.
+It does not follow from the fact that the conceptions of authorship
+which underlie intellectual property law are fundamentally
+different from those which obtain in indigenous cultures that the
+
+conception somehow fails to foster participation in society, or that
+other conceptions of authorship foster participation more
+effectively. But, it does demonstrate that we are faced with a set
+of alternatives. Presented with such, we can ask ourselves which
+conception is the best means to foster participation. The final
+section of this paper attempts to identify one ethical consideration
+regarding conceptions of authorship and participation in society,
+though ultimately abstains on the issue.
+Before we can address the question of which conception of
+authorship best fosters participation in society, we must first
+address the question of what our goals are. A natural objective
+regarding participation would be to maximize participation in
+terms of the total number of individuals who participate. Another
+compelling objective would be to ensure participation among the
+least-advantaged members of society. There are certainly other
+objectives that we might adopt, however, given limited time and
+space, I will devote my attention to what seem the most
+compelling candidates.
+
+5.3.1 Maximizing participation among individuals
+In his defense of intellectual freedom, John Stuart Mill provides
+us with one reason to think that maximizing participation among
+individuals would be optimal: exposure to a wide array of
+opinions, perspectives, and beliefs is the best means to ensure that
+individuals acquire true beliefs. If, as Mill argues, truth is
+generally more useful than falsity, then maximizing participation
+among individuals would be a way to attempt to ensure that they
+acquired more useful beliefs (Mill, 1989). If this were our goal,
+then we would ideally want a conception of authorship which
+would facilitate participation for as large a number of individuals
+as possible.
+
+benefits that facilitate participation. This framework for
+authorship provides a means of establishing non-arbitrary order
+on what is a rich and varied subject, as well as raises some
+important ethical considerations regarding which conceptions of
+authorship best foster participation in society.
+
+7. REFERENCES
+[1] Adams, J.E. (1990). "The Economies of Authorship:
+Imagination and Trade in Johnson's Dryden." Studies in
+English Literature 1500-1900, 30, 467-486.
+[2] Brown, M.F. (2003). Who Owns Native Culture?
+Cambridge, MA: Harvard University Press.
+[3] Dobranski, S. B. (1999). Milton, Authorship, and the Book
+Trade. New York: Cambridge University Press.
+[4] Endeshaw, A. (2005). “Intellectual property enforcement in
+Asia: A reality check.” International Journal of Law and
+Information Technology, 13(3), 378-411.
+[5] Foucault, M. (1979). "What is an author?" From Textual
+Strategies: Perspectives in Post-Structuralist Criticism.
+Ithaca: Cornell University Press
+[6] Griffin, D. (2005). "The social world of authorship
+1660-1714." From The Cambridge History of English
+Literature, 1660-1784. New York: Cambridge University
+Press.
+[7] Griffin, D. (1990). "The beginnings of modern authorship:
+Milton and Dryden." Milton Quarterly, 24(1), 1-7.
+[8] Haynes, C. (2005). "Reassessing 'genius' in studies of
+authorship." Book History, 8, 287-320.
+
+5.3.2 Ensuring participation among the leastadvantaged members of society
+
+[9] Mill, J.S. (1975). On Liberty. Ed. by David Spitz. New York:
+Norton.
+
+Alternatively, we might decide that in the interest of being just,
+we might decide to ensure participation among the leastadvantaged members of society. While the best way to ensure
+participation is not immediately clear, John Rawls’ could
+potentially provide us with the principles that might guide such an
+endeavor (Rawls, 1999).
+
+[10] Minnis, A.J. (1984). "Literary theory and literary practice."
+Medieval theory of authorship: scholastic literary attitudes
+in the later Middle Ages. London: Scholar Press.
+
+Consistent with Rawls’ two principles of justice, to ensure
+participation among the least advantaged members of society we
+might adopt a conception of authorship that preserved an
+egalitarian right to participate, such that individuals have equal
+opportunity to engage in the practices and activities that are
+constitutive. Any differences in the way social, legal, economic
+benefits of demarcation would be distributed would need to be
+guided by the principle that inequalities should be structured in
+such as way as to benefit the least advantaged members of society.
+
+6. CONCLUSION
+The picture that emerges from the above discussion of authorship
+hopefully establishes that conceptions of authorship utilize
+normative judgments regarding which text-producing practices
+and activities are more valuable in order to establish the limits and
+boundaries of the term. Once demarcated, those activities and
+practices are eligible for certain legal, economic, and social
+
+[11] Rawls, J. (1971). A Theory of Justice. Cambridge, MA:
+Belknap Press.
+[12] Rose, M. (1994). “The author as proprietor: Donaldson v.
+Becket and the genealogy of modern authorship." From Of
+authors and origins: Essays on copyright law. New York:
+Oxford.
+[13] Ross, T. (1992). "Copyright and the Invention of Tradition."
+Eighteenth-Century Studies, 26(1), 1-27.
+[14] Saunders, D. (1992). Authorship and Copyright. New York:
+Routledge.
+[15] Saunders, D. (1994). "Dropping the subject: An argument for
+a positive history of authorship and the law of copyright."
+From Of authors and origins: Essays on copyright law. New
+York: Oxford University Press
+[16] Summit, J. (2003). "Women and authorship." The Cambridge
+Companion to Medieval Women's Writing. Cambridge, U.K.:
+Cambridge University Press.
+
+[17] Townley, C. (2002). “Intellectual property and indigenous
+knowledge.” Philosophy and Public Policy Quarterly, 22(4),
+21-28.
+[18] Turnovsky, G. (2003). "The Enlightenment literary market:
+Rousseau, authorship, and the book trade." EighteenthCentury Studies, 36(3), 387-410.
+
+[19] Wengert, R. (2001). "Some ethical aspects of being an
+information professional." Library Trends, 49(3), 486-509.
+
+

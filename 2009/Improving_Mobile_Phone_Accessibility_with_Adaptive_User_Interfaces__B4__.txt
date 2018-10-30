@@ -1,0 +1,78 @@
+Improving Mobile Phone Accessibility with  Adaptive User Interfaces
+Shaun K. Kane
+The Information School DUB Group University of Washington Seattle, WA 98195 USA
+skane@u.washington.edu
+
+
+
+
+
+ABSTRACT
+Mobile phones have become an important and ubiquitous tool for people of all ages and abilities. However, mobile phones can often be difficult or impossible to use by people with visual impairments, motor impairments, or other disabilities. Although users with disabilities are sometimes able to overcome these accessibility barriers, it is possible and preferable to design mobile phones that adapt to users with a range of abilities. We are investigating the problems that people with disabilities encounter when using mobile devices, and are developing new techniques to adapt mobile phone user interfaces to a user’s abilities. These techniques may increase the accessibility of mobile phones for all users.
+Categories and Subject Descriptors
+H.5.2 [Information Interfaces and Presentation]: User Interfaces – Input devices and strategies, Voice I/O.  K.4.2. [Computers and society]: Social issues – assistive technologies for persons with disabilities.
+General Terms: Design, Human Factors, Experimentation.
+Keywords: Universal access, human-computer interaction, mobile devices, design.
+INTRODUCTION
+Mobile phones and other mobile devices are quickly becoming an integrated part of our daily lives. In addition to connecting people via voice, modern mobile phones are powerful computing tools that provide access to information from anywhere and at any time. Many current mobile phones enable their users to read or send email, browse the Web, find directions or maps, play music and video, and install and run new applications. As these features become more common, they will change how people seek, use, and share information.
+
+
+
+
+Submitted for publication.
+
+For people with disabilities, mobile phones present both opportunities and pitfalls. Mobile phones provide ubiquitous connectivity that allows people with disabilities to stay in contact with friends, family, and caregivers, to access important information such as maps and directions, and to request help if they encounter difficulties. This allows people with disabilities to act more independently in the world [1]. However, mobile phones can also present accessibility issues that make them difficult or impossible to use by some people. Many mobile phones have small buttons that are difficult to use for people with limited mobility, or small screens that are difficult to read for people with visual impairments. In addition, many mobile phones provide feedback in only one format, such as through audio tones or text only, which can present difficulties for people with sensory impairments. Finally, many assistive technologies that people currently use on PCs cannot be easily transferred to mobile devices [8]. These problems are further exacerbated by the fact that mobile phones are rarely used in a static environment, but are instead used out in the world, where environmental factors such as noise, unsteady surfaces and inclement weather can harm accessibility [6]. 
+Many people with disabilities have managed to overcome these accessibility barriers and use mobile devices. Some users have learned to work around accessibility barriers and use mainstream devices, but may be faced with increased difficulty or find that some functions of the device remain inaccessible [5]. Other users have adopted devices that are designed for people with disabilities, such as HumanWare’s mobile devices for the visually impaired. Each of these solutions presents problems. Using mainstream devices without accessibility features can be difficult and prone to failure, while customized devices are often more expensive, more difficult to learn, and slower to update than their mainstream counterparts. We believe that there is a third option: to increase the accessibility of mainstream mobile devices by developing new techniques for interacting with and customizing these devices.
+For these reasons, we are investigating and developing a framework of accessible interaction techniques that can be used to increase the accessibility of mainstream mobile devices. This framework is informed by qualitative investigation and participatory design with mobile device users with disabilities, and will be implemented as user-installable software for current and future mobile devices.
+RELATED WORK
+Many current mobile accessibility solutions rely upon customized hardware devices. While these devices can be useful, they can also be expensive, difficult to use, and lacking in features. An alternative approach is to develop new software that enables people with disabilities to use mainstream mobile devices. For example, EdgeWrite [7] is a novel text entry method that enables people with motor impairments to enter text into a mobile device more accurately than with traditional methods. Barrier Widgets [2] allow motor impaired users to select targets on a touch screen-based device by leveraging the physical edges of the device to increase stability. Slide Rule [5] allows blind and visually impaired people to use mobile touch screen-based devices through gestural input and speech output. With these techniques, people with disabilities can use mainstream mobile devices effectively. 
+Prior research has also explored the use of contextual information sensed by a mobile device to improve usability. Hinckley et al. [3] described several interaction scenarios that used the sensors on a mobile device to reduce user effort. For example, their prototype switched modes when the user rotated the device or held it near their face. These types of automatic actions can reduce the effort required to use a device, thereby increasing accessibility. This type of sensing can also be used to provide support to a user when he or she is in a situation that makes using a mobile device difficult. Kane et al. [4] developed a prototype touch screen-based mobile device that could detect when the user was walking, which makes on-screen targets more difficult to hit, and automatically increased the size of those targets to improve usability. This type of adaptive user interface can provide extra support to users in distracting or difficult environments.
+PROPOSED WORK
+Our goal is to develop a framework of adaptive, accessible interaction techniques that enable users with a wide range of abilities to use mainstream mobile devices.  For example, some users with motor impairments have difficulty entering text on small mobile device keyboards. However, the user might be able to enter text effectively if the keyboard provided automatic typing correction, or if the user could enter text with EdgeWrite [7] on the device’s touch screen. We are focusing on techniques that can be applied to existing mainstream phones, rather than requiring the development of new specialized hardware. In addition, we are investigating techniques that leverage information that can be sensed automatically by a mobile device. For example, a mobile phone application might use an on-board accelerometer to detect that the user is on a moving bus, which can make on-screen text harder to read, and automatically increase the text size to improve readability. 
+While prior research has often focused on a single type of disability or interaction, we intend to develop a cohesive set of techniques that will allow users with a range of abilities to perform basic interactions with a mobile device. Furthermore, we hope to develop generalizable techniques that can be implemented on a range of mobile devices, rather than on a single device only.
+In order to develop these techniques, we must first understand the accessibility issues experienced by mobile device users with disabilities as they go about their daily lives. We will then explore and develop techniques for adapting existing user interfaces to meet the needs of people with disabilities. Finally, because people have different abilities and therefore different accessibility needs, we will integrate these techniques in a mobile application that will allow users to manage and personalize these adaptations on their mobile device.
+Research Plan
+Development of this system will involve a three-stage research process, which will each include significant involvement of mobile device users with visual and motor impairments.
+Exploratory Research
+To better understand the accessibility issues experienced by users of current mobile devices, we will engage in qualitative observations and interviews with mobile device users with disabilities. Our investigation will explore the types of mobile devices currently used by people with disabilities, common accessibility issues that these people encounter, and adaptation strategies that they use to overcome accessibility issues. We are also considering using focus groups and diary studies to uncover additional mobile accessibility concerns.
+Participatory Design and Development
+In this phase we will begin to design and develop accessible interaction techniques for mobile devices. When possible, we will include mobile device users with disabilities as our design partners, drawing on both their experiences with mobile technology and their adaptive strategies for overcoming accessibility issues. These techniques will be refined through iterative design, prototyping, and pilot evaluations, and will result in a prototype mobile phone application that implements these techniques.
+System Evaluation
+Once we have completed prototyping, we will evaluate our interaction techniques with people with a range of abilities to ensure that they are usable and accessible. This evaluation will include users with a range of motor and visual impairments, and will involve evaluation both in the lab and in the field. 
+CURRENT STATUS AND CONCLUSION
+We are currently in the first phase of this research. We have conducted interviews with blind mobile device users [5] about the devices that they currently use. We found that our informants were avid mobile device users, but often encountered accessibility problems with their devices, echoing the need for improved mobile device accessibility. In addition, our informants shared some of the strategies that they use to work with inaccessible technologies. These strategies have informed our initial design explorations and sketches. We are planning additional interviews with users with motor and visual impairments.
+Following these interviews, we will begin the design and development phase of this research. We are currently working to assemble a group of mobile device users with disabilities who can assist us in the design and evaluation of this system. 
+The expected contributions of this work include qualitative information about mobile accessibility issues experienced by real users, a set of new interaction techniques that increase mobile device accessibility, and a prototype framework that combines these techniques to create a more accessible, context-aware mobile phone. By integrating these techniques into mainstream mobile devices, we hope to develop solutions that can benefit people with a wide range of abilities.
+ACKNOWLEDGMENTS
+I thank my advisor, Jacob O. Wobbrock, for his guidance in this research.
+REFERENCES
+Abascal, J. and Civit, A. (2000). Mobile communication for people with disabilities and older people: New opportunities for autonomous life. In Proceedings of the 6th ERCIM Workshop.
+Froehlich, J., Wobbrock, J.O. and Kane, S.K. (2007). Barrier Pointing: Using physical edges to assist target acquisition on mobile device touch screens. In Proc. ASSETS '07. New York: ACM Press, 19-26
+Hinckley, K., Pierce, J., Sinclair, M. and Horvitz, E. (2000). Sensing techniques for mobile interaction. In Proc. UIST '00. New York: ACM Press, 91-100.
+Kane, S.K., Wobbrock, J.O. and Smith, I.E. (2008). Getting off the treadmill: Evaluating walking user interfaces for mobile devices in public spaces. In Proc. MobileHCI '08. New York: ACM Press.
+Kane, S.K., Bigham, J.P. and Wobbrock, J.O. (2008). Slide Rule: Making mobile touch screens accessible to blind people using multi-touch interaction techniques. In Proc. ASSETS '08. New York: ACM Press, 73-80.
+Newell, A.F. and Gregor, P. (1999). Extra-ordinary human-machine interaction: What can be learned from people with disabilities? Cognition, Technology & Work, 1(2), 78-85.
+Wobbrock, J.O., Myers, B.A. and Kembel, J.A. (2003). EdgeWrite: A stylus-based text entry method designed for high accuracy and stability of motion. In Proc. UIST '03. New York: ACM Press, 61-70.
+Wobbrock, J.O. (2006). The future of mobile device research in HCI. In CHI 2006 Workshop Proceedings: What is the Next Generation of Human-Computer Interaction? New York: ACM Press, 131-134. 
+
+
+ http://www.humanware.com
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  
+
+
+
+
+
+

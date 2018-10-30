@@ -1,0 +1,216 @@
+ICTs For Synergy: A Case Study Of Scientific Knowledge And Local Farmers’
+Innovative Activities In Ghana
+Benjamin Kwasi Addom
+Doctoral Candidate
+Syracuse University School of Information Studies
+SYNOPSIS
+The proposed study aims at understanding the existing media and contents of
+communication between and among local farmers (LF), agricultural extension officers
+(AEO) and agricultural researchers (AR) and their implications on the advent of the new
+Information and Communication Technologies (ICTs) for agricultural development in
+Ghana. While the study recognizes the transformative power of the new digital network
+and its applications in openly disseminating scientific knowledge (Stiglitz, 1999) from
+one location to another, it also argues that without an intelligent approach to unearthing
+the innovative activities and local experiences of the communities, the impact of the
+information age on these economies will remain nebulous. With underlying concepts
+from the literature on knowledge management (scientific and local knowledge) and the
+theory of absorptive capacity, the study uses a mixed method approach to analyze the
+current communication processes and explore new avenues for future improvement. It
+employs the use of survey, interviews and focus group discussions to elicit data from the
+three groups at two selected agricultural districts of Ghana where there is a strong linkage
+between research, extension, and farming. The result of the study is expected to have
+theoretical, practical and policy implications on knowledge sharing among the actors.
+PROBLEM STATEMENT
+The importance of knowledge generation in any agricultural innovation system
+cannot be overemphasized. This becomes more critical in the case of Ghana considering
+the declining statistics on productivity despite national and international efforts and
+initiatives. In the wake of this, agricultural research, extension and development have
+progressed in Ghana through the Transfer of Technology (ToT) model from the colonial
+period through Training and Visit (T&V) model of the World Bank that emerged in
+response to the inefficiencies in the ToT system, to the current program of Farmer Field
+Schools (FFS). Several studies in the area reveal that the emphasis is being shifted onto
+sharing of knowledge between technical experts and local people (Coldevin, 2003)
+instead of the conventional approach of ‘knowledge transfer’. This is being recognized
+considering the special characteristics of the new ICTs to take knowledge generated from
+one location to another (Stiglitz, 1999; Colle and Roman, 2003). At the same time,
+skeptics such as Sevigny and Prevost (2006) see ICTs as accelerating the dissemination
+of information but not knowledge, a view that goes to support arguments made by
+Polanyi (1966) and Szulanski (2003) on the nature of knowledge which makes tacit
+knowledge very difficult to transfer. It will therefore be interesting to explore how these
+technologies can help in sharing farmers local knowledge which is embedded in their
+day-to-day activities and experiences.
+On the other hand, every succesful innovation system involves a continuous
+exchange of knowledge for ideas to be turned into processes or products. Considering the
+important role agriculture plays in Ghanas' economy (Dzidonu, 2002), it is critical to
+1
+
+understand and analyze knowledge flow within the national agricultural innovation
+system, comprising mainly of farmers, researchers and extension workers. While science
+and technology (scientific knowledge) has heavily influenced the country’s agricultural
+production system for decades, there is also a huge body of literature on the value of
+farmers’ local knowledge and innovations in agriculture (Amanor, 1994).
+Taking into account the rich professional and scientific work that has been going
+on in these three areas - i) scientific knowledge in agricultural production (content); ii)
+local knowledge and farmer innovations (content), and iii) ICTs for development
+(media), one would have expected a synergy for employing ICTs to tap farmers’ local
+knowledge and innovative activities back into scientific research. Empirically, however,
+little is known (if any) of how access to ICTs by agricultural researchers and extension
+officers is use to unearth the existing knowledge and innovative activities of local
+farmers.
+This dissertation research argues that, for a stable agricultural innovation system
+in Ghana, agricultural scientists need to reconsider ways by which farmers’ local
+knowledge and innovative activities can be incorporated into scientific research for
+further innovations.
+GOAL
+The main goal of this research is to explore with the three stakeholders, the role of
+the new ICTs, and how these technologies can facilitate the functions of agricultural
+research and extension.
+RESEARCH QUESTIONS
+RQ1: What is the current state (media and contents) of communication between and
+among local farmers, agricultural extension officers, and agricultural researchers in
+Ghana?
+RQ2: What is the role of the new ICTs and how can these tools help in identifying,
+documenting, and acquiring farmers’ local innovations by extension officers and
+researchers?
+CONCEPTUAL FRAMEWORK
+The study draws and builds upon knowledge from the following interrelated
+concepts and fields;
+a) The significant contribution of scientific knowledge and innovations to
+agriculture (Agrawal, 1995; Andersen, 2007) through transfer of technology model
+(Rogers, 1962); training and visit model (Tanaka, 2007); and the current farmer field
+school model (Simpson and Owen, 2002) cannot be ignored.
+b) At the same time, the value of farmers’ local knowledge and innovations in
+agriculture in developing nations (Ghana inclusive) (Amanor, 1994; Bentley, 1992;
+Sperling et al., 1993; Amanor, 1994; Kamangira, 1997; Bellon, 2001) has been
+extensively documented.
+c) The unique characteristics of the new ICTs as invaluable resources for
+agricultural research (ISNAR, 2003), and the driver of knowledge and information
+society (Okpaku, 2003; Dahlman and Aubert, 2002; OECD, 2001; Stern and Furman,
+
+2
+
+2000) has also been argued. Colle and Roman (2003) stated that ICTs are uniquely useful
+for reaching many people simultaneously and overcoming geographic boundaries and
+capturing the reality of events.
+d) But for synergy between scientific knowledge and local knowledge and
+innovations of farmers, there should be a willingness of the scientists to incorporate
+farmers’ local innovations into their research activities and also for the local farmers to be
+willing to share their experiences with the scientists. The process of identifying,
+documenting, and incorporating farmers’ local innovations into scientific research draws
+on the underlying theory for the study. This idea takes it root from the theory of
+absorptive capacity - the capability of any system to acquire, assimilate and exploit
+external knowledge makes the system innovative and competitive. Zahra and George
+(2002) reconceptualized to include the potential (acquire and assimilate) and realized
+(transform and exploit) absorptive capacity. The theory has been successfully explored in
+the for-profit sector such as in firms (Cohen and Levinthal, 1990; Zahra and George,
+2002); inter-firm collaborations (Stuart, 1998); and within nations (Liu and White, 1997).
+This study therefore explores the theory under a not-for-profit organizations - research
+institutes but also limits its scope to only the potential absorptive capacity.
+METHODOLOGY
+The study is designed as an analytical multi-case study aimed at using a
+sequential mixed-method approach of survey (quantitative); and in-depth interview and
+focus group discussion (qualitative) for data collection. Two cases will be selected by
+replication logic (Yin, 1994) and each of the two sites (or cases) will be considered as an
+experiment in itself. Result from the subsequent site is expected to confirm findings from
+the first or yield similar results (literal replication) (Eisenhardt, 1989).
+Two sites in the country have met the three basic requirements for gathering the
+appropriate data for the study – i) presence of agricultural research institute, ii) history of
+agricultural extension work, and iii) extensive farming activities. The first case is located
+at the southern sector of the country while the second case at the northern sector. Both
+cases have a long history of collaborative work between research, extension and smallscale farming. The full research process will be conducted at the first site and then
+repeated at the second site. The process begins with a descriptive approach to understand
+the current communication system among and between the three groups of actors, and
+then analytically interpret the situation for use in the second phase. A survey technique
+for data collection at this stage is mainly designed for researchers and extension officers.
+The second phase will use exploratory approach to find ways by which the new ICTs can
+be effectively and efficiently deployed into the system.
+The results from the survey will be used to design the instrument for the in-depth
+interview, and the result from the interview will be used to design the instrument for the
+focus group discussion. The idea behind the focus group method is that group processes
+can help people to explore and clarify their views in ways that would be less easily
+accessible in a one-to-one interview (Kitzinger, 1994). The approach also does not
+discriminate against people who cannot read or write and can encourage participation
+from people reluctant to be interviewed on their own (Kitzinger, 1994). Focus group
+
+3
+
+discussion is also useful in explaining or exploring survey results (O’Brien, 1993). The
+second phase will be fully explored among the three actors.
+The design as employed in the first case will then be repeated in the second case
+with minor changes to the instruments depending on the situation on the ground.
+SIGNIFICANCE AND EXPECTED IMPACT
+A number of gaps have been identified in the literature as mentioned above, and
+the results of this study will significantly contribute to bridging these gaps. This include
+i) strengthening the basic assumption by most development initiatives that by using ICTs,
+poor communities in Africa can contribute more efficiently to their own development; ii)
+increasing the efficiency of agricultural production, processing, storage and marketing
+mechanisms; iii) theoretically, resulting in the extension of the theory of absorptive
+capacity that has been explored in several other situations such as in firms; inter-firms;
+and within nations; iv) increase a sense of ownership, empowerment, and help promote
+and integrate local knowledge sharing habits; v) enhance farmers’ welfare; increase job
+efficiency for scientists; and increase food production for society.
+Key Words: Scientific Knowledge; Local Knowledge and Innovation; Open Innovation;
+Information Communication Technologies; and Agriculture Development
+REFERENCES
+Agrawal, A. (1995). Indigenous and scientific knowledge: some critical comments, IK
+Monitor 3(3)
+Ahuja, G. and Katila, R. (2001). Technological acquisitions and the innovation
+performance of acquiring firms: A longitudinal study. Strategic Management
+Journal, 197-220.
+Amanor, K. S. (1994). Ecological knowledge and the regional economy: environmental
+management in the Asesewa district of Ghana. Development and Change 25(1):
+4167.
+Bellon, M. R. (2001). Participatory Research Methods for Technology Evaluation: A
+Manual for Scientists Working with Farmers. Mexico, D.F.: CIMMYT.
+Chesbrough, H. (2003). Open Innovation: the new imperative for creating and profiting
+from technology, Harvard Business School Press
+Chesbrough, H., Vanhaverbeke, W. and West, J., (eds.) (2006). Open Innovation:
+Researching a New Paradigm, Oxford: Oxford University Press
+Cohen, W. M. and Levinthal, D. A. (1990). Absorptive capacity: A new perspective on
+Learning and innovation. Administrative Science Quarterly. 35: 128-152
+Coldevin, G. (2003). Participatory Communication: a Key to Rural Learning Systems.
+Sustainable Development Department, FAO SD Dimensions
+http://www.fao.org/docrep/005/y4774e/y4774e06.htm#TopOfPage
+Farrington, J. and Martin, A. M. (1988). Farmer Participation in Agricultural Research: A
+Review or Concepts and Practices, Agricultural Administration Unit Occasional
+Paper 9, Overseas Development Institute, London.
+
+4
+
+Gilgun, J. F. (1994). A case for case studies in social work research. Social Work, 4,
+371–380.
+Haverkort, B. and de Zeeuw, H. (1992). Development of Technologies towards
+Sustainable Agriculture: Institutional Implications. pp.231-242, In W.M. Rivera
+and D.J. Gustafson (Eds.), Agricultural Extension: Worldwide Institutional
+Evolution and Forces for Change. New York: Elsevier Science Publishing Company.
+Kamangira, J. B. (1997). Assessment of soil fertility status using conventional and
+participatory methods. MSc. thesis, Department of Crop Science, Bunda College of
+Agriculture, University of Malawi. 107 pp
+Keller, W. (1996). Absorptive capacity: On the creation and acquisition of technology in
+Development. Journal of Development Economics, Vol. 49, 199-227
+Liu, X. and White, R. S. (1997). The relative contributions of foreign technology and
+domestic inputs to innovation in Chinese manufacturing industries Technovation,
+17(3), 119-125
+Nonaka, I. and Takeuchi, H. (1995). The knowledge creating company: How Japanese
+companies create the dynamics of innovation. London: Oxford University Press.
+Norgaard, R. B. (1984). Traditional Agricultural Knowledge: Past Performance,
+Future Prospects, and Institutional Implications." American Journal of
+Agricultural Economics 66:874-878.
+Stiglitz, J. (1999). Scan Globally, Reinvent Locally: Knowledge Infrastructure and the
+Localization of Knowledge, A Keynote Address given at the first Global
+Development Network Conference, Germany
+Stuart, T. E. (1998). Network positions and propensities to collaborate: An investigation
+of strategic alliance formation in a high-technology industry. Administrative
+Science Quarterly, 43: 668-698.
+Tashakkori, A. and Teddlie, C. (2003). Handbook of Mixed Methods in Social and
+Behavioral Research, Sage, Thousand Oaks.
+Yin, R. K. (1984). Case Study Research: Design and Methods. Sage Publications,
+Beverly Hills, California.
+Yin, R. (2003). Case Study Research, 3rd ed. Sage Publications, Thousand Oaks, CA
+Zahra, S. A. and George, G. (2002). Absorptive capacity: a review and
+Re-conceptualization, and extension. Academy of Management Review 27 (2),
+185-203.
+
+5
+
+

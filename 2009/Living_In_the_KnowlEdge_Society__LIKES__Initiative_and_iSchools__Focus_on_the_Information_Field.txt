@@ -1,0 +1,352 @@
+Living In the KnowlEdge Society (LIKES) Initiative and
+iSchools’ Focus on the Information Field
+Poster Proposal
+Seungwon Yang
+Edward A. Fox
+
+Wingyan Chung
+
+Department of Computer Science
+Virginia Tech
+Blacksburg, VA USA
++1 540-231-5113
+
+Department of Operations and Management
+Information Systems
+Santa Clara University
+Santa Clara, CA USA
++1 408-554-4329
+
+{seungwon, fox}@vt.edu
+
+wchung@scu.edu
+
+ABSTRACT
+In this poster, we describe the similarities between the Living In
+the KnowlEdge Society (LIKES) project and iSchools – both
+focus on the information field. This might lead to future
+collaborations between the two. One of the LIKES objectives is
+to spread computational thinking, fundamental CS/IT paradigms,
+key computing concepts and ICT paradigms across the
+Knowledge Society. This is analogous to iSchools’ vision of
+education for thorough understanding of information, IT and their
+applications. In the previous three LIKES workshops, participants
+from various disciplines had an intense discussion about grand
+challenges to incorporate computing/IT in their disciplines. All
+iSchools have courses that teach computing and informationrelated topics. If those courses can be expanded for other noncomputing disciplines on their campuses with support from
+experiences of LIKES, it would further empower professionals in
+the iField.
+
+Categories and Subject Descriptors
+K.3.2 [Computing Milieux]: Computer and information science
+education
+K.4.m [Computers and Society]: Miscellaneous
+
+General Terms
+Design, Experimentation.
+
+Keywords
+
+to zoology [1].” Ron Larsen, Dean of the University of
+Pittsburgh's School of Information Sciences, emphasizes the
+importance of ‘totality,’ which is to integrate information in
+different disciplines, with technology in society, when educating
+students [3]. As with LIKES, iSchools often aim to reach out to
+all parts of their campuses, to broaden the impact of their
+education, research, and service programs.
+
+2. LIKES VISION and iSCHOOLS
+LIKES was launched in 2007, as part of NSF’s CPATH program
+to transform computing education at the undergraduate level [5].
+While curricular improvements are often appropriate, it is
+particularly urgent that changes be made in computing-related
+education efforts, since there have been steep declines in the
+number and diversity of those studying in these areas. While
+information proliferates at an accelerating rate, and technologies
+emerge ubiquitously to help with the management of information
+and knowledge, fewer college graduates choose to major in
+computer science and information systems disciplines. To address
+the potential lack of adequate workforce for the knowledge
+society, the LIKES project tries to transform computing education
+to meet the challenges ahead.
+In the first two years of LIKES, four universities – North Carolina
+A&T, Santa Clara University, Villanova University, and Virginia
+Tech – have been collaborating to prepare students to have an
+active role in the knowledge society. The goals and objectives of
+the LIKES project [2] are as follows:
+•
+
+Goal 1: Transform computing education so graduates
+can help build systems, services, tools, or new
+paradigms for the Knowledge Society.
+
+•
+
+Goal 2: Establish collaboration between computing
+educators and all other disciplines to support educating
+the next-generation of knowledge society builders.
+
+•
+
+Objective 1: Ensure that all interested undergraduates
+are prepared for living in the emerging Knowledge
+Society of the 21st Century.
+
+•
+
+Objective 2: Spread computational thinking,
+fundamental CS/IT paradigms, key computing concepts,
+and ICT paradigms across the Knowledge Society.
+
+iSchool,
+knowledge
+society,
+undergraduate education,
+interdisciplinary collaboration, computing, information
+
+1. INTRODUCTION
+As iSchools try to equip college graduates with skills and
+knowledge to work in the Information Field (iField [4]), the
+Living In the KnowlEdge Society (LIKES) Community Building
+project [2] focuses broadly on preparing these graduates to live in,
+and to build, the emerging knowledge society of the 21st century.
+We expect that LIKES graduates will connect naturally with the
+iField, and we hope for more synergy between the two initiatives.
+iSchools attempt to immerse people in the iField, which is “at the
+heart of everything that individuals, organizations, and societies
+need in order to advance any area of human endeavor, from acting
+
+There is a strong synergy between our efforts and those of
+iSchools. In particular, Objective 2 has a close connection. For
+example, an excerpt from ‘What Are iSchools?’ [1] mentions, “…
+
+This expertise must include understanding of the uses and users of
+information, as well as information technologies and their
+application.” Another example would be a course, Programming
+for Chemical and Life Science Informatics, which is provided by
+the School of Informatics at Indiana University. The course title
+shows that a key computing concept (programming) is
+incorporated in other disciplines (Chemistry and Life Sciences).
+If more courses similar to the aforementioned could be developed
+through collaboration between computing and non-computing
+disciplines, it will be analogous to Goal 2.
+
+web architecture. Figure 1 has computing topics, which are taught
+in more than two iSchools. Other topics are present in Table 1.
+iSchool curricula often lead to coverage of many computingrelated concepts, so these schools might be able to spread those
+concepts, as well as information-related concepts, to other
+disciplines on their campuses. That would further empower
+professionals in the iField.
+Table 1. Other computing topics taught in iSchools (each one
+is taught in one iSchool)
+architectures
+
+machine learning
+
+broadband wireless tech.
+
+multimedia systems
+
+classification systems
+
+music information processing
+
+communication protocols
+
+network system admin.
+
+computational informatics
+
+networked computing
+
+computer architecture
+
+networking and internet tech.
+
+computer concepts
+
+programming
+
+computer design
+
+programming languages
+
+computer-mediated comm.
+
+rapid prototyping and eval.
+
+cyber security
+
+recommender systems
+
+data compression
+
+semantic web
+
+data modeling
+
+social computing
+
+data visualization
+
+software development
+
+design of complex web sites
+
+software foundations
+
+digital government
+
+software systems
+
+e-government
+
+statistics and data analysis
+
+expert systems
+
+text mining
+
+hypermedia education
+
+video game design
+
+indexing and abstracting sys.
+
+wireless interactive comm.
+
+interactive system design
+
+XML
+
+interoperability issues
+
+3. LESSONS LEARNED AND
+CHALLENGES
+
+Figure 1. Computing concepts taught in iSchools (concepts
+presented here are taught in more than two iSchools)
+Although the number of courses varies, all iSchools provide
+courses that teach computing concepts as well as informationrelated topics. Frequently, there is coverage of computing topics
+like: database management systems, programming, designing
+computing applications, human-computer interaction, security,
+computer-mediated communication, distributed computing, and
+
+In the three previous LIKES workshops, there was intensive
+discussion of computing concepts, as well as their application in
+different disciplines, such as geography, history, music, biology,
+architecture, physics, chemistry, mathematics, etc. We found that
+students of these disciplines all benefit from learning computing
+concepts and more needs to be done to integrate these concepts
+into their curricula. Having recognized that, we have launched or
+revised new programs and courses in each of our four sites. At
+Viginia Tech, a new pathway called “LIKES” was introduced to
+the undergraduate general education curriculum. At Santa Clara
+University, a new course titled “Information Technology,
+Business, and Society” has been proposed as a required course of
+the 2009 new undergraduate core curriculum. At NCA&T, a new
+program named “Introduction to Web Science” is being
+developed. At Villanova University, a new course called “The
+Laptop Instrument” was launched to combine computer science
+and music disciplines. The fourth LIKES workshop is scheduled
+
+for March 2009 at Villanova University. All of the participants
+have interest in achieving the LIKES goals and objectives. Yet,
+much work is needed. Some of the challenges identified at the
+workshops include:
+•
+
+Archiving limitations (especially in subjects such as
+history)
+
+•
+
+Deep understanding and ability to match abstractions
+with problems in various contexts through
+modeling/using
+
+have been learned to date. Some of those might be directly
+applicable at iSchools, or help in iSchool outreach activities.
+It is our belief that we need knowledge in both computing as
+well as information areas to understand deeply and get prepared
+for the emerging Knowledge Society or iField. We look forward
+to working together with interested iSchools.
+
+ACKNOWLEDGEMENTS
+This project was funded by the NSF grant nos. CCF-0722259,
+0722276, 0722289 and 0752865.
+
+•
+
+Enticing faculty to incorporate computational thinking
+and to collaborate with each other (especially in the arts
+and humanities)
+
+•
+
+Information literacy and critical thinking regarding
+technology
+
+•
+
+[1] iSchools Caucus. (2008). Who are the iSchools? Retrieved
+November 27, 2008, from http://www. .org/oc/ .html.
+
+Lack of research support (e.g., funding, etc.)
+
+•
+
+Limitations in software tools and their use –
+visualization/simulation for large classes, lack of tools
+for specific purposes, disconnect between humanity’s
+needs and the developers of the tools (making usable
+tools)
+
+[2] The Living In the KnowlEdge Society Project homepage.
+Retrieved November 27, 2008, from
+http://www.livingknowledgesociety.org.
+
+•
+
+Moving from massive amount of data to hypothesis
+generation to testing
+
+•
+
+Preparing students for scholarship and work in
+collaborative environments
+
+•
+
+Spreading LIKES to other disciplines and implementing
+LIKES processes in terms of maintainability (e.g.,
+incorporation of new computing concepts dynamically –
+supercomputing/grid computing/cloud computing)
+
+4. CONCLUSION
+Since the LIKES project has a strong synergy with the building of
+the iField, we believe that a discussion between the LIKES team
+and i-Conference attendees would beneficially impact both the
+efforts of LIKES and the iSchools. Our poster will highlight our
+common interests, challenges, and plans. The poster also will
+detail accomplishments at the four LIKES sites, and what lessons
+
+REFERENCES
+
+[3] An Interview with Ron Larson about iSchools, presented by
+CNI (2005). Retrieved November 27, 2008, from
+http://connect.educause.edu/blog/mpasiewicz/aninterviewwit
+hronlarsena/1717?t.
+[4] Mal Schwartz. (2008). Group of Leading Colleges Launch
+Major Effort to Put The Information Field “On The Map”,
+press release from MBS Associates, Montrose, NY.
+Retrieved November 28, 2008 from
+http://www.mbsa.info/resources/Putting%20iField%20on%2
+0the%20Map%20Announcement%20081407%20final.pdf.
+[5] NSF. (2006). CISE Pathways to Revitalized Undergraduate
+Computing Education (CPATH). US National Science
+Foundation Program Solicitation NSF 06-608. Arlington,
+VA. Retrieved 2006-2006 from
+http://www.nsf.gov/pubs/2006/nsf06608/nsf06608.htm
+
+

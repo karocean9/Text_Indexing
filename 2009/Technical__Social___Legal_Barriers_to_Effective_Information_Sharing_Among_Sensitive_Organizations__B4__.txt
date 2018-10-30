@@ -1,0 +1,76 @@
+Technical, Social & Legal Barriers to Effective Information Sharing Among Sensitive Organizations
+
+Joseph V. Treglia
+School of Information Studies Syracuse University Syracuse, NY, USA
+ HYPERLINK "mailto:jvtregli@syr.edu" jvtregli@syr.edu
+
+Joon S. Park School of Information Studies Syracuse University Syracuse, NY, USA
+ HYPERLINK "mailto:jspark@syr.edu" jspark@syr.edu 
+
+ABSTRACT
+While millions of dollars have been invested in information technologies to improve intelligence information sharing among law enforcement agencies at the Federal, Tribal, State and Local levels, there remains a hesitation to share information between agencies. This lack of coordination hinders the ability to prevent and respond to crime and terrorism. Work to date has not produced solutions nor widely accepted paradigms for understanding the problem. Therefore, to enhance the current intelligence information sharing services between government entities, we have identified three major problem areas; Technical, Social, and Legal. Furthermore, we have developed a preliminary model and theory of intelligence information sharing through a literature review, experience and interviews with practitioners in the field. This model and theory should serve as a basic conceptual framework for further academic work and lead to further investigation and clarification of the identified factors and the degree of impact they exert on the system so that actionable solutions can be identified and implemented.
+Categories and Subject Descriptors
+K.4.1 [Computers and Society] Public Policy Issues – Use.  K.4.3 Organizational Impacts - Computer-supported collaborative work. K.5.2 [Legal Aspects of Computing] – Governmental Issues – Regulation.  K.6.1 [Management of Computing and Information Systems] Project and People Management – Strategic Information Systems Planning.  K.6.4 System Management – Centralization/decentralization.
+Keywords
+Information sharing, collaboration, intelligence information, trust.
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee.
+
+Conference’09, February 9–11, 2009, Chapel Hill, NC, USA.
+Copyright 2009 ACM 1-58113-000-0/00/0004…$5.00.
+
+
+PROBLEMS AND MODEL
+While millions of dollars have been invested in information technologies to improve information sharing capabilities among all law enforcement agencies, according to the National Security Agency there remains a hesitation to share intelligence information between agencies  ADDIN ZOTERO_ITEM {"citationItems":[{"itemID":12101}]} (Lieberman, 2007). This project aimed to identify barriers affecting effective information sharing between federal, tribal, state and local law enforcement agencies in the United States. Research in understanding these dynamics will lead to identification of actionable solutions to law enforcement intelligence information sharing across the federal, tribal, state and local levels. 
+To enhance the current intelligence information sharing services between government entities, we have identified three major problem areas; Technical, Social, and Legal. Furthermore, we have developed a preliminary model and theory of intelligence information sharing through a literature review, experience and interviews with practitioners in the field. Within each problem area we identified, individual factors were found that influence whether or not intelligence information is ultimately shared. Technical factors include interoperability, availability, and control issues. Social factors involve trust, shadow networks, and criticality issues. Finally, Legal factors are defined by considering local, state, and federal policies and their conflict. 
+
+Figure 1: Intelligence Information Sharing Factors
+
+ EMBED Visio.Drawing.11  
+FRAMEWORK AND THEORY
+Within this framework we describe two types of influences affecting whether or not sharing occurs; facilitators and detractors. This model is an offspring of Lewin’s force field analysis which is used here as a framework for looking at factors or forces influencing the decision of an individual or organization to share intelligence information  ADDIN ZOTERO_ITEM {"sort":true,"citationItems":[{"itemID":1693}]} (Thomas, 1985). Forces act as facilitators, driving movement toward information sharing, or detractors drawing momentum away from a choice to share intelligence information.  Each of the factors under the headings given has a potential for facilitating or detracting from a choice to share intelligence information in a given context.
+Facilitators include the positive influences that result from technical, social and legal rules, regulations, actions or perceptions. 
+Technical issues such as having compatible operating systems, software, hardware, data definitions, secure access, control, high usability, system availability all can work towards improving the potential for information sharing but do not cause information to be shared  ADDIN ZOTERO_ITEM {"citationItems":[{"itemID":"15660"},{"itemID":"4177"}]} (Lee & Rao, 2007; Scott, 2006). Regarding technology we may picture two young friends who tie two tin cans together on a string to communicate; it is not the technology of the cans that cause the two to talk across the string but their desire to share with each other that controls use of technology. It is therefore the social and cultural aspects of the relationship that matter more than the technology in the equation for information sharing. Today, the two kids from our example are texting.
+Socially, greater trust and knowledge of the other parties involved lead to greater tendency towards intelligence information sharing. This involves agency culture and personal ties or connections with other involved agencies; which include shadow networking ties outside the workplace to include family and friend or other associations that involve one member having some other contact or relationship with someone associated with another agency  ADDIN ZOTERO_ITEM {"citationItems":[{"itemID":"6012"},{"itemID":"6782"},{"itemID":"9291"}]} (Drake, Steckler, & Koch, 2004b; “Information Sharing in and Across Government Agencies: The Role and Influence of Scientist, Politician, and Bureaucrat Subcultures -- Drake et al. 22 (1): 67 -- Social Science Computer Review,” n.d.; Marks & Sun, 2007). A ready example is family, friends or participation in clubs or activities which involve others apart from the work environment. These external contacts can have a positive influence on the likelihood of intelligence information sharing. Shared training and joint operations such as the U.S. Marshals joint fugitive round up effort with state and local agencies in Florida can have a positive effect on information sharing  ADDIN ZOTERO_ITEM {"citationItems":[{"itemID":8931}]} (Clark, 2008). Importance, as described previously, can be a very critical factor influencing the sharing of intelligence information as well. Information that is credible and which may result in some specific harm or loss is more readily shared and the pressure to share this information increased where there may be an approaching deadline  ADDIN ZOTERO_ITEM {"citationItems":[{"itemID":15660,"position":1}]} (Lee & Rao, 2007).  
+In the area of legal influence, having a clear and enforced agency policy regarding intelligence information sharing will lead to the greater likelihood that information will be shared as will increased knowledge of laws and regulations which allow for intelligence information sharing. System governance and participation by others is also expected to be facilitator of intelligence information sharing where members and organizations have positive regard for and accept each other’s roles  ADDIN ZOTERO_ITEM {"citationItems":[{"itemID":11820}]} (Cresswell, Pardo, & Hassan, 2007). People within agencies are more likely to participate in systems that they have choice, investment and control over.
+Detractors include negative influences resulting from technical, social and legal rules, regulations, actions or perceptions.
+Intelligence comes from the field or other sources to an agency and the identified factors may negatively affect the degree to which this information is likely to be shared  ADDIN ZOTERO_ITEM {"citationItems":[{"itemID":13300}]} (Carter & United States, 2004). Legal factors with a negative influence include security clearances which are not uniform or recognized across agencies, laws regarding privacy, secrecy or sharing of information that are conflicting or not well understood by participants. Social issues here involve issues of lack of trust, integrity, assurance or an agency culture which is geared towards not sharing  ADDIN ZOTERO_ITEM {"citationItems":[{"itemID":15660,"position":1}]} (Lee & Rao, 2007). Trust is reduced where agencies compete for statistics, media attention and funding. Informal or outside contacts which are described as part of the shadow network have great potential to provide a negative influence if the information may be potentially damaging to an entity or person. Criticality includes timing of information and its potential impact so where there is little urgency the pressure to share this intelligence is reduced. Where there is no identified time frame or deadline the information may not be reacted to in a timely manner thus reducing the pressure to share this information. Lack of knowledge or inaccurate knowledge about what actions can be taken regarding sharing of information can hinder information sharing. Matters of jurisdiction, authority, and governance or control over the power or influence work against sharing  ADDIN ZOTERO_ITEM {"citationItems":[{"itemID":10125}]} (Drake, Steckler, & Koch, 2004a). 
+Technical factors act as detractors as well. Many agencies use different hardware and software programs for communication and information management and these may not interact together. Systems which are not responsive or show poor performance may not be adopted. Agencies with existing systems may not be financially able to change to more compatible or standardized systems. The costs for retraining onto new services can be high as well. Costs for maintenance of the systems must be considered.
+These factors serve as the basis and framework for investigation. Inter-relationships of the identified factors influence the degree to which information sharing is more or less likely to occur and can be viewed as the balance of the result (see Figure 2 below).
+ Figure 2: Factors influencing the sharing of intelligence information
+
+We are developing a formula and model based on this framework to describe and to predict resulting conditions regarding information sharing behaviors based on knowledge of the influencing factors. Probable effects from modifying the influencing factors are more readily apparent and easier to identify using such a model. The further investigation of these influences will inform the model as to the degree of influence each may have relative to the other so that decision makers can pattern solutions towards desired ends.
+RESEARCH CONTRIBUTIONS
+By using the model developed we can visualize the effects of making changes in different areas and observe the outcomes. We can see how adjustments in degree of influence for the influencing factors identified determine whether or not intelligence information is shared under the given circumstances. This leads to the theory that intelligence information sharing between law enforcement agencies is affected by technical, social and legal factors which are comprised of issues of interoperability, availability, control, trust, shadow networks, criticality, knowledge, and governance. We have identified the major problem areas and posit that these factors work to facilitate or detract from the sharing of intelligence information between agencies.
+This model and theory should serve as a basic conceptual framework for further academic work and lead to further investigation and clarification of the identified factors and the degree of impact they exert on the system so that actionable solutions can be identified and implemented.
+ACKNOWLEDGMENTS
+Our thanks go out to the 2009 iConference reviewers for their constructive recommendations and comments on this work. The views and ideas expressed here are of the authors alone and do not reflect the views or policies of the iConference personnel. 
+REFERENCES
+ ADDIN ZOTERO_BIBL Carter, D. L., & United States. (2004). Law Enforcement Intelligence a Guide for State, Local, and Tribal Law Enforcement Agencies. Washington, D.C.: U.S. Dept. of Justice, Office of Community Oriented Policing Services.
+Clark, J. (2008, September 18). Remarks by Director John Clark at the Operation Orange Crush Press Conference. USMarshals.gov. Government Agency, . Retrieved November 27, 2008, from http://www.usmarshals.gov/news/chron/2008/091808.htm.
+Cresswell, A. M., Pardo, T. A., & Hassan, S. (2007). Assessing capability for justice information sharing. In Proceedings of the 8th annual international conference on Digital government research: bridging disciplines \& domains (pp. 122-130). Philadelphia, Pennsylvania: Digital Government Society of North America. Retrieved September 18, 2008, from http://portal.acm.org/citation.cfm?id=1248460.1248479&coll=ACM&dl=ACM&CFID=3249028&CFTOKEN=78511360.
+Drake, D., Steckler, N. A., & Koch, M. J. (2004a). Information Sharing in and Across Government Agencies: The Role and Influence of Scientist, Politician, and Bureaucrat Subcultures. Social Science Computer Review, 22(1), 67-84. doi: 10.1177/0894439303259889.
+Lee, J., & Rao, H. R. (2007). Exploring the causes and effects of inter-agency information sharing systems adoption in the anti/counter-terrorism and disaster management domains. In Proceedings of the 8th annual international conference on Digital government research: bridging disciplines \& domains (pp. 155-163). Philadelphia, Pennsylvania: Digital Government Research Center.
+Lieberman, J. (2007). Confronting the Terrorist Threat to the Homeland: Six Years After 9/11. 342 DIRKSEN SENATE OFFICE BUILDING, WASHINGTON, D.C.: Federal News Service. Retrieved May 8, 2008, from http://www.fas.org/irp/congress/2007_hr/091007transcript.pdf.
+Marks, D. E., & Sun, I. Y. (2007). The impact of 9/11 on organizational development among state and local law enforcement agencies. Journal of Contemporary Criminal Justice, 23(2), 159-173.
+Scott, E. D. (2006). Factors influencing user-level success in police information sharing: An examination of Florida's FINDER system. Retrieved from http://proquest.umi.com/pqdweb?did=1251886251&Fmt=7&clientId=3739&RQT=309&VName=PQD.
+Thomas, J. (1985). Force field analysis: A new way to evaluate your strategy. Long Range Planning, 18(6), 54-59. doi: 10.1016/0024-6301(85)90064-0.
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+
+
+
+
+
+
+
+

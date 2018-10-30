@@ -1,0 +1,140 @@
+Group Maintenance Behaviors in the Decision-Making Styles of Self-Organizing Distributed TeamsMichael J. Scialdone and Qing Li
+Syracuse University 337 Hinds Hall Syracuse, NY 13244 + 1 (315) 443-5509
+mjsciald@syr.edu qli03@syr.edu
+Robert Heckman
+Syracuse University 344 Hinds Hall Syracuse, NY 13244 +1 (315) 443-4479
+rheckman@syr.eduKevin Crowston
+Syracuse University 348 Hinds Hall Syracuse, NY 13244 +1 (315) 443-1676
+crowston@syr.edu
+
+Categories and Subject Descriptors
+H.5.3 [Group and Organization Interfaces] – Computer Supported Cooperative Work. 
+General Terms
+Management, Human Factors, Theory
+Keywords
+Free/libre open source software, distributed teams, virtual teams, group decision making, group maintenance
+INTRODUCTION
+Businesses, universities, and other organizations are increasingly reliant on self-organizing, distributed teams which are enabled by information and communication technologies (ICTs). However, inherent geographical, organizational, and social limitations of ICTs challenge the relationships necessary for groups to make effective decisions. Understanding how group maintenance plays out within the context of different styles of decision making may provide insight into social tactics undertaken in such teams. Group maintenance is defined as discretionary, relation-building behavior that enables group members to trust and cooperate with one another more easily  ADDIN EN.CITE <EndNote><Cite><Author>Ridley</Author><Year>1996</Year><RecNum>18748</RecNum><record><rec-number>18748</rec-number><ref-type name="Book">6</ref-type><contributors><authors><author>Ridley, M.</author></authors></contributors><titles><title>The Origins of Virtue:  Human Instincts and the Evolution of Cooperation</title></titles><dates><year>1996</year></dates><pub-location>New York</pub-location><publisher>Viking</publisher><urls></urls></record></Cite></EndNote>[1]. Decision style refers to the extent to which group decision making involves a broad contribution from group members other than leaders. It may range from the most autocratic style where a decision is made by one or a few individuals, to truly collaborative where every member has the opportunity to affect the decision.
+
+This study examines group maintenance within decision-making behaviors of Free/Libre Open Source Software (FLOSS) development teams as examples of distributed teams. Most FLOSS software is developed by such teams that are both dynamic and self-organizing, comprised of professionals, users, and other volunteers working in a loosely coupled manner  ADDIN EN.CITE <EndNote><Cite><Author>von Hippel</Author><Year>2001</Year><RecNum>11</RecNum><record><rec-number>11</rec-number><ref-type name="Journal Article">17</ref-type><contributors><authors><author>von Hippel, E.</author></authors></contributors><titles><title>Innovation by user communities: Learning from open-source software</title><secondary-title>Sloan Management Review</secondary-title></titles><periodical><full-title>Sloan Management Review</full-title></periodical><pages>82-86</pages><number>Summer</number><dates><year>2001</year></dates><urls></urls></record></Cite><Cite><Author>von Hippel</Author><Year>2002</Year><RecNum>12</RecNum><record><rec-number>12</rec-number><ref-type name="Book">6</ref-type><contributors><authors><author>von Hippel, E.</author><author>von Krogh, G.</author></authors></contributors><titles><title>Exploring the Open Source Software Phenomenon: Issues for Organization Science </title></titles><dates><year>2002</year></dates><publisher>Sloan School of Management, MIT</publisher><urls></urls></record></Cite><Cite><Author>von Hippel</Author><Year>2003</Year><RecNum>13</RecNum><record><rec-number>13</rec-number><ref-type name="Journal Article">17</ref-type><contributors><authors><author>von Hippel, E.</author><author>von Krogh, G.</author></authors></contributors><titles><title>Open Source Software and the &quot;Private-Collective&quot; Innovation Model: Issues for Organization Science</title><secondary-title>Organization Science</secondary-title></titles><periodical><full-title>Organization Science</full-title></periodical><pages>209-213</pages><volume>14</volume><number>2</number><dates><year>2003</year></dates><urls></urls></record></Cite></EndNote>[2-4]. These teams are nearly entirely virtual in that developers contribute from around the world, meet face-to-face infrequently (if at all), and coordinate their activities primarily through computer-mediated communications (CMC)  ADDIN EN.CITE <EndNote><Cite><Author>Wayner</Author><Year>2000</Year><RecNum>9</RecNum><record><rec-number>9</rec-number><ref-type name="Book">6</ref-type><contributors><authors><author>Wayner, P.</author></authors></contributors><titles><title>Free For All</title></titles><dates><year>2000</year></dates><publisher>New York: HarperCollins</publisher><urls></urls></record></Cite><Cite><Author>Raymond</Author><Year>1998</Year><RecNum>10</RecNum><record><rec-number>10</rec-number><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Raymond, E.S.</author></authors></contributors><titles><title>The cathedral and the bazaar</title><secondary-title>First Monday</secondary-title></titles><periodical><full-title>First Monday</full-title></periodical><volume>3</volume><number>3</number><dates><year>1998</year></dates><urls></urls></record></Cite></EndNote>[6, 7]. 
+LITERATURE REVIEW
+Based on literatures in social presence  ADDIN EN.CITE <EndNote><Cite><Author>Garrison</Author><Year>2000</Year><RecNum>18736</RecNum><record><rec-number>2</rec-number><ref-type name="Journal Article">17</ref-type><contributors><authors><author>R. Garrison</author><author>T. Anderson</author><author>W. Archer</author></authors></contributors><titles><title>Critical thinking in a text-based environment: Computer conferencing in higher education</title><secondary-title>The Internet and Higher Education</secondary-title></titles><periodical><full-title>The Internet and Higher Education</full-title></periodical><pages>87-105</pages><volume>2</volume><dates><year>2000</year></dates><urls></urls></record></Cite><Cite><Author>Rourke</Author><Year>1999</Year><RecNum>3129</RecNum><record><rec-number>3</rec-number><ref-type name="Journal Article">17</ref-type><contributors><authors><author>L. Rourke</author><author>T. Anderson</author><author>D. R. Garrison</author><author>W. Archer</author></authors></contributors><titles><title>Assessing social presence in asynchronous, text-based computer conferencing</title><secondary-title>Journal of Distance Education</secondary-title></titles><periodical><full-title>Journal of Distance Education</full-title></periodical><pages>51-70</pages><volume>14</volume><dates><year>1999</year></dates><urls></urls></record></Cite></EndNote>[8, 9], social-emotional behavior  ADDIN EN.CITE <EndNote><Cite><Author>Gouran</Author><Year>1978</Year><RecNum>15</RecNum><record><rec-number>15</rec-number><ref-type name="Book Section">5</ref-type><contributors><authors><author>D. S. Gouran</author><author>C. Brown</author><author>D. R. Henry</author></authors></contributors><titles><title>Behavioral correlates of perceptions of quality in decision-making discussions</title><secondary-title>Communication Monographs</secondary-title></titles><pages>51-63</pages><dates><year>1978</year></dates><urls></urls></record></Cite></EndNote>[10], and politeness theory  ADDIN EN.CITE <EndNote><Cite><Author>Gouran</Author><Year>1978</Year><RecNum>18771</RecNum><record><rec-number>18771</rec-number><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Gouran, D. S.</author><author>Brown, C.</author><author>Henry, D. R.</author></authors></contributors><titles><title>Behavioral correlates of perceptions of quality in decision-making discussions</title><secondary-title>Communication Monographs</secondary-title></titles><periodical><full-title>Communication Monographs</full-title></periodical><pages>51-63</pages><number>45</number><keywords><keyword>IOC2006Grant</keyword></keywords><dates><year>1978</year></dates><urls></urls></record></Cite><Cite><Author>Ocker</Author><Year>2001</Year><RecNum>18779</RecNum><record><rec-number>18779</rec-number><ref-type name="Conference Paper">47</ref-type><contributors><authors><author>Ocker, R. J.</author></authors></contributors><titles><title>The Relationship between Interaction, Group Development, and Outcome: A Study of Virtual Communication</title><secondary-title>Proceedings of the Thirty-forth Annual Hawaii International Conference on System Science</secondary-title></titles><dates><year>2001</year></dates><urls></urls></record></Cite><Cite><Author>Morand</Author><Year>2003</Year><RecNum>18777</RecNum><record><rec-number>18777</rec-number><ref-type name="Conference Paper">47</ref-type><contributors><authors><author>Morand, D. A.</author><author>Ocker, R. J.</author></authors></contributors><titles><title>Politeness theory and Computer-Mediated communication: A Sociolinguistic Approach to Analyzing Relational Messages</title><secondary-title>Proceedings of the 36th Hawaii International Conference on System Sciences (HICSS’03)</secondary-title></titles><keywords><keyword>IOC2006Grant</keyword></keywords><dates><year>2003</year></dates><urls></urls></record></Cite></EndNote>[11-13], we developed a coding scheme to identify group maintenance behaviors in virtual teams. The scheme, shown in Table 1, has three top-level categories: emotional expression, positive politeness, and negative politeness. Emotional expression refers to textual expressions of emotion. Positive politeness behaviors show closeness and familiarity between group members, whereas negative politeness behaviors demonstrate respect for the autonomy of others and acts as distancing tactics  ADDIN EN.CITE <EndNote><Cite><Author>Morand</Author><Year>2003</Year><RecNum>14</RecNum><record><rec-number>14</rec-number><ref-type name="Conference Proceedings">10</ref-type><contributors><authors><author>D. A. Morand</author><author>R. J. Ocker</author></authors></contributors><titles><title>Politeness theory and Computer-Mediated communication: A Sociolinguistic Approach to Analyzing Relational Messages</title><secondary-title>Proceedings of the 36th Hawaii International Conference on System Sciences (HICSS)</secondary-title></titles><dates><year>2003</year></dates><urls></urls></record></Cite></EndNote>[16]. 
+
+Table 1: Group Maintenance Coding Scheme
+CategoryIndicatorEmotional ExpressionsEmoticonsCapitalizationPunctuationPositive PolitenessColloquialisms/SlangVocativesInclusive pronounsSalutations/ClosingsComplimentingExpressing agreementApologiesEncouraging participationExpressing appreciationNegative PolitenessDisclaimers/Self-depreciationRational for FTAHedges/HesitationFormal verbiage
+Group decision-making style attempts to capture patterns of participation by members, focusing on the extent of their involvement. [17-21]. Previous studies have found the positive relationship between the level of member involvement and group effectiveness. In order to characterize group decision making style in FLOSS context, we adopted this member involvement approach [17-21] and developed a decision style typology based on participation of core (developers) and peripheral (users) members in different phases of the decision process, illustrated below in Table 2.
+
+
+
+
+
+
+Table 2: Decision Making Styles
+Decision Style
+Discussion
+Decision
+1. Autocratic
+None (or Core only)
+Core
+2. Democratic
+Core and Periphery
+Group
+
+It is also important to note that decisions made by FLOSS groups can be categorized into two broad sections: software and non-software. Software decisions involved choices about the primary work of the team: bug fixes, additions of new features, or enhancement of the final product through a change in software. Meanwhile, non-software decisions involved other types of choices such as those about strategic direction, organizational and legal issues, and alliances and partnerships. Though these decisions generally do not result in a change of software code, they may influence the future of project development, thus sometimes requiring more attention and participation from the group.
+
+METHOD
+This study employs a multiple case study method. We chose two FLOSS projects that developed Instant Messaging (IM) clients: Gaim and Fire. The nature of FLOSS teams provides unique opportunities to observe group maintenance behavior since most FLOSS activities (if not all) are archived. We collected 60 episodes of messages sent to the developers’ email lists or forums by all contributors for each project. Episodes consisted of multiple email messages focusing on a particular issue in regard to decision making. We differentiated three stages in both projects. At each stage, twenty episodes were identified based on topics in discussion and attention from members. We took the first 20 episodes available as the beginning stage and last 20 as the ending stage. The middle stage is located around a major software release approximately halfway between the beginning and ending stages. With 60 episodes for both projects, we analyzed a total of 120 decision-making episodes for this research.
+Decision styles for each episode were coded by a two graduate students, with an inter-rater reliability of 95%. In regard to group maintenance, we conducted content analysis within each episode, adopting a thematic measure as our unit of analysis: “a single thought unit or idea unit that conveys a single item of information extracted from a segment of content” or the “unit of meaning”  ADDIN EN.CITE <EndNote><Cite><Author>Budd</Author><Year>1967</Year><RecNum>16</RecNum><record><rec-number>16</rec-number><ref-type name="Book">6</ref-type><contributors><authors><author>Budd, R.</author><author>Robert K. Thorpe </author><author>Donohue, L.</author></authors></contributors><titles><title>Content analysis of communication</title></titles><dates><year>1967</year></dates><pub-location>New York</pub-location><publisher>Macmillan</publisher><urls></urls></record></Cite></EndNote>[22]. Such units vary in size from an emoticon or punctuation to a word, a phrase, a part of a sentence, a sentence, or even a few sentences when appropriate. The coding scheme was initially created deductively from the literature reviewed above, revised through several iterations until a relatively solid coding scheme was achieved. An inter-rater reliability of 85% was reached.  
+
+For each category and group maintenance indicator, we calculated a density measure in order to determine the extent to which behaviors were used by participants. We calculated density by looking at the number of indicators assigned to every 1000 words within each episode. In other words, Density (D) is defined as the number of codes in a message (c) divided by the number of words in the message (w) multiplied by 1000. Our formula can be represented as such:
+
+D = 1000 (c / w)
+
+By calculating density, we were able to determine how much group maintenance was used in episodes that were indicative of each of the decision styles, and to compare the balance of group maintenance within each style. 
+
+RESULTS AND DISCUSSION
+The densities of the three main categories of group maintenance behaviors within the different decision styles we have identified are illustrated below in Table 3. The following illustration, Figure 1, shows these same densities in bar graph form for easy comparison. Decision episodes that were indicative of the democratic contained the highest density of group maintenance across all categories of the behavior.
+
+Table 3: Decision Styles and Group Maintenance Densities
+Decision Style
+Emotional Expressions
+Positive Politeness
+Negative Politeness
+Autocratic
+4.59
+19.43
+16.25
+Democratic
+5.14
+22.92
+18.96
+
+Figure 1: Decision Styles and Group Maintenance Densities
+ SHAPE  \* MERGEFORMAT 
+
+We suspect that this may be due to open participation across the groups as a whole. As group maintenance is a way for participants to maintain a sense of cohesion, when all members are allowed to participate in a decision-making event, they may in fact feel that their group is more cohesive and thus demonstrate such behaviors in a higher degree than when decision making is less inclusive.
+As the illustrations above indicate, positive politeness, a behavior that demonstrates familiarity and closeness, was observed to be the most pervasive behavior in both styles. This indicates that group members, both core and periphery, feel a sense of camaraderie with their fellow group members, and even more so when a decision allows for input from all participants. Negative politeness, a behavior that demonstrates a sense of respect and amicable distance from others, was also more prevalent in the democratic style of decision making. This may indicate a stronger sense of not wanting to threaten anyone’s face when the larger group is involved with an issue. In regard to the low display of emotional expressions in both styles, we suspect that as the content of decision episodes is nearly entirely work-focused, participants  do not feel a need, or do not find it appropriate, to enact strategies that broadcast human emotion.
+
+In regard to group maintenance behaviors in different decision types, Table 4 illustrates group maintenance category densities for both software and non-software decisions, while Figure 2 shows these in bar graph form.
+
+Table 4: Decision Triggers and Group Maintenance Densities
+Decision Trigger
+Emotional Expressions
+Positive Politeness
+Negative Politeness
+Software
+4.65
+20.19
+16.97
+Non-software
+6.42
+30.38
+23.83
+
+Figure 2: Decision Triggers and Group Maintenance Densities
+
+
+As the illustrations above show, there is more group maintenance that occurs within non-software decisions than in software decisions. We suspect that this may be due to non-software issues having more of an impact on the group members themselves than on the functionality of the software product, as they often involve strategic, organizational, and partnership issues. The high density of positive politeness behavior in non-software decisions may be evidence that individuals show more camaraderie when discussing decisions that are less technical, and more group-effecting. Such a show of being personable would also account for the higher amount of emotional expressions in such episodes. The continued high density of negative politeness behaviors across both types of decisions are quite likely a product of these groups being a product of work, meaning that members will always enact some tactics that are appropriate professional distancing strategies. 
+
+FUTURE WORK
+The work presented in this poster abstract considers group maintenance within decision-making styles. We hope to further explore the role of group maintenance in two other areas of decision making: triggers and decision processes. Triggers classify episodes by the type of decision that has to be made. In other words, what was the issue that created the decision opportunity? The decision process looks at how a decision is made, rather than who works on the decision, as indicated by decision styles. We hope that through continuing to explore group maintenance from a myriad of perspectives, we will gain a better understanding of how self-organizing, distributed teams maintain cohesion when faced with the need to make decisions.
+REFERENCES
+ ADDIN EN.REFLIST [1]	M. Ridley, The Origins of Virtue:  Human Instincts and the Evolution of Cooperation. New York: Viking, 1996.
+ [2]	E. von Hippel, "Innovation by user communities: Learning from open-source software," Sloan Management Review, pp. 82-86, 2001.
+[3]	E. von Hippel and G. von Krogh, Exploring the Open Source Software Phenomenon: Issues for Organization Science Sloan School of Management, MIT, 2002.
+[4]	E. von Hippel and G. von Krogh, "Open Source Software and the "Private-Collective" Innovation Model: Issues for Organization Science," Organization Science, vol. 14, pp. 209-213, 2003.
+[6]	P. Wayner, Free For All: New York: HarperCollins, 2000.
+[7]	E. S. Raymond, "The cathedral and the bazaar," First Monday, vol. 3, 1998.
+[8]	R. Garrison, T. Anderson, and W. Archer, "Critical thinking in a text-based environment: Computer conferencing in higher education," The Internet and Higher Education, vol. 2, pp. 87-105, 2000.
+[9]	L. Rourke, T. Anderson, D. R. Garrison, and W. Archer, "Assessing social presence in asynchronous, text-based computer conferencing," Journal of Distance Education, vol. 14, pp. 51-70, 1999.
+[10]	D. S. Gouran, C. Brown, and D. R. Henry, "Behavioral correlates of perceptions of quality in decision-making discussions," in Communication Monographs, 1978, pp. 51-63.
+[11]	D. S. Gouran, C. Brown, and D. R. Henry, "Behavioral correlates of perceptions of quality in decision-making discussions," Communication Monographs, pp. 51-63, 1978.
+[12]	R. J. Ocker, "The Relationship between Interaction, Group Development, and Outcome: A Study of Virtual Communication," in Proceedings of the Thirty-forth Annual Hawaii International Conference on System Science, 2001.
+[13]	D. A. Morand and R. J. Ocker, "Politeness theory and Computer-Mediated communication: A Sociolinguistic Approach to Analyzing Relational Messages," in Proceedings of the 36th Hawaii International Conference on System Sciences (HICSS’03), 2003.
+[16]	D. A. Morand and R. J. Ocker, "Politeness theory and Computer-Mediated communication: A Sociolinguistic Approach to Analyzing Relational Messages," in Proceedings of the 36th Hawaii International Conference on System Sciences (HICSS), 2003.
+[17]	Holloman, C. R., & Hendrick, H. W. (1972). Adequacy of Group Decisions as a Function of the Decision-Making Process. The Academy of Management Journal, 15(2), 175-184.
+[18] 	Miller, C. E., & Anderson, P. D. (1979). Group decision rules and the rejection of deviates.Social Psychology Quarterly, 42, 354–363.
+[19] 	Kameda, T. (1991). Procedural influence in small-group decision making: deliberation style and assigned decision rule. Journal of personality and social psychology, 61(2) 245-256	
+[20] 	Schwartz, A. E. (1994) Group decision-making. The CPA Journal Online. 	 http://www.nysscpa.org/cpajournal/old/15703015.htm
+[21]	Rebori, M.K. (1998) “Decision-Making Styles and Techniques. Community Board Development: Series 5”. Available from:	 http://www.unce.unr.edu/publications/FS98/FS9856.pdf
+ [22]	R. Budd, R. K. Thorpe, and L. Donohue, Content analysis of communication. New York: Macmillan, 1967.
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+
+
+
+

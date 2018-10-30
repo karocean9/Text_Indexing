@@ -1,0 +1,45 @@
+The Classification of Religion Topics in Wikipedia: Examining an Evolution
+
+This research considers the nature of organizing information resources in a shared, open content encyclopedia.  While the organization of information resources entails many complementary phenomena (cf. Wilson, 1978; Taylor, 2004), this study focuses on classification.  The act of classification allows for things to be set “in relation to one another” (Sayers, 1944, p. 79, emphasis in the original).  Effectively, classifications seek to communicate how things are related for a particular purpose or context (cf. Kwasnik, 1999).  This work closely examines the classification of Religion-related topics in the English-language Wikipedia, focusing on how the classification has evolved over time.
+
+Wikipedia is an ongoing project to create a free, online, multilingual encyclopedia.  Started in 2001, the English-language edition included over 2.6 million articles at the start of December 2008.  Wikipedia is often invoked as an exemplar of an emerging information landscape, one that provides a platform for the integration of contributions from multiple participants (Tapscott & Williams, 2006).  Variously termed “Web 2.0” or the “social Web” (cf. O’Reilly, 2005; Madden & Fox, 2006; Weinberger, 2007), these collaborative online environments signal a shift in the evolution of information systems.  Information science researchers increasingly regard such participatory systems and the potential of human collaboration as a transformative force on the information landscape (cf. Lankes, et al., 2007; Nilan & D’Eredita, 2008).
+
+To study the classification of religion topics in Wikipedia, this research examines the 190 edits that separate the current (December 2008) template for Religion topics (shown in Appendix 1) from the original (March 2006) version (shown in Appendix 2).  Wikipedia maintains all previous versions as part of its system architecture; these are publicly accessible via the edit-history archive.  By leveraging the public archive, this study can systematically examine how Wikipedia participants have modified the classification of articles related to Religion.  The classification of Religion was purposively selected because traditional library classifications (e.g., Dewey Decimal Classification) have long been criticized for their treatment of religious topics (cf. Berman, 1971).
+
+This research is grounded theoretically by two models: one outlining how value is added to information systems (Taylor, 1986), and the other outlining how subject representations (such as classifications) function in terms of semantics, syntax, and pragmatics (Svenonius, 2000).  While both models predate the current wave of participatory information systems on the Internet, they nonetheless offer important perspectives for the current research.  At their core, both models address change in their phenomenon of interest: change in the value of an information system (Taylor, 1986) and linguistic change in terms of information organization (Svenonius, 2000).  Taken together the two models form a framework for analyzing change in encyclopedic classification.
+
+The in-depth examination will describe, review, and analyze the individual edits people make when they modify the classification of Religion topics.  The study relies on unobtrusive methods to gather data, and content-analytic techniques to probe the data.  The study is guided by a broad research question: What is the nature of the evolution of the Religion classification?  Analytical questions include:
+	•	How does the Religion classification evolve syntactically over time (e.g., are there fluctuation in the number of subdivisions)?
+	•	How does the Religion classification change in semantic scope or complexity (e.g. are subdivisions renamed to broaden the scope of a topic or subcategory)?
+	•	To what extent does the Religion classification grow (e.g. entries added) or shrink (e.g. entries removed) over time?  Are these gradual changes?  Or do they occur in punctuated spurts?  Do entries once removed reappear later?  With what frequency?
+
+By answering these questions in the context of two established information science models, this research hopes to contribute to a richer theoretical understanding of emergent classifications in participatory information systems.  The particular case of the Religion Topics classification is part of a larger, ongoing study; the broader study seeks to more fully articulate and understand the scope of information-organizing practices in Wikipedia.
+
+
+References
+Berman, S. (1971). Prejudices and antipathies: A tract on the LC subject heads concerning people. Metuchen, N.J.: Scarecrow.  
+Dervin, B. & Nilan, M.S. (1986).  Information needs and uses.  Annual review of information science and technology (ARIST), 21: 3-33.
+Kwasnik, B.H. (1999). The role of classification in knowledge representation and discovery. Library trends, 48 (1): 22-47.
+Lankes, R.D., et al. (2007). Participatory networks: The library as conversation.  Information Institute of Syracuse.  Available online: http://iis.syr.edu/projects/PNOpen/ParticiaptoryNetworks.pdf
+Madden, M. and Fox, S. (2006).  Riding the waves of “web 2.0”: more than a buzzword, but still not easily defined. Pew Internet Project. Available online: http://www.pewinternet.org/pdfs/PIP_Web_2.0.pdf 
+Nilan, M.S. and D'Eredita, M.A. (2008).  In the spirit of collaborating.  Paper presented at the Third Annual iConference – iFutures: Systems, Selves, Society.  University of California, Los Angeles, February 28-March 1, 2008.  Available online: http://www.ischools.org/oc/conference08/pc/PA4-4_iconf08.doc
+O’Reilly, T. (2005). What is Web 2.0: Design patterns and business models for the next generation of software. O'Reilly Network. Available online: 
+http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html
+Sayers, W.C.B. (1944). A manual of classification for librarians and bibliographers. 2nd ed. London: Grafton.
+Svenonius, E.  (2000). The intellectual foundation of information organization.  Cambridge: MIT Press.
+Tapscott, D. & Williams, A.D. (2006).  Wikinomics: How mass collaboration changes everything. New York: Portfolio.
+Taylor, A.G.  (2004). The organization of information.  2nd ed.  Westport, Conn.: Libraries Unlimited.
+Taylor, R.S. (1986). Value-added processes in information systems.  Norwood, NJ: Ablex.
+Weinberger, D.  (2007).  Everything is miscellaneous: The power of the new digital disorder.  New York: Times Books.
+Wilson, P. (1978).  Two kinds of power: An essay on bibliographical control.  Berkeley: University of California Press.
+Appendix 1: The current (December 2008) template for Religion topics 
+http://en.wikipedia.org/w/index.php?title=Template:Religion_topics&oldid=252419163
+
+
+
+
+
+Appendix 2: The earliest (March 2006) template for Religion topics
+http://en.wikipedia.org/w/index.php?title=Template:Religion_topics&oldid=43758094
+
+

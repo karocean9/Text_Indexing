@@ -1,0 +1,93 @@
+What is Community Informatics in Japan? A look at 12 cases
+
+Abstract
+In this paper, we are concerned with the applicability of the concept of Community
+Informatics (CI) rooted in North American studies to a different context, Japan. Despite the
+fact that CI is a relatively new filed of study, and Japan’s intensive use of mobile information
+and communication technologies (ICT) are a common area to find in articles, Japanese CI
+practices are little known. Among major academic journals that CI scholars appear, there
+have none of CI articles by Japanese scholars published so far. These draw our attention. We
+review cases in Japan that apply and adapt information and communications technology
+(ICT) to local community settings. Applying Williams and Durrance’s framework
+encompassing community informatics practices, twelve community projects and groups
+were identified in the study (2007). The projects are categorized into four types based on
+different conceptions of ICT use in fulfilling community needs and objectives (Williams and
+Durrance, 2007). These are community groups, organizations, and projects that rely on (1)
+actual places, i.e., public computing places and cyber cafes, (2) virtual spaces, i.e. ,
+community networks and online resources, (3) some combination of those two, and (4)
+organic, that is, borne out of community efforts not particularly concerned with technology
+but which now involve ICT. We chose an opportunistic sampling technique in order to find
+cases that fit in those four types of CI models. For the very first step, we draw on a small
+number of articles by Japanese scholars on the utilization of social network service
+developed by municipal offices using open source software for community development
+(Toyama, 2007; Shoji, 2007).
+Our preliminary analysis showed that in each case they are harnessing the dynamics
+of social relations in the use of ICT interactivities. At least one of the following basic
+functionalities of the Internet has become dominant in the course of development in all the
+cases, such as web portals, bulletin board systems, email, blogs, archives, social networking
+services, and audio and video streaming. In addition, a commonality we have found is the
+collaborative effort brought by different sectors in the community: government officials,
+representatives from local corporations, universities, and members of community
+organizations. Interestingly, most of the cases distinguish itself and their activities from
+interest groups sharing specific areas of activities comprised of individuals. They also
+describe them as a group that mainly relies on volunteers and private donations. Instead, a
+sustainable business model is the goal of their pursuit, particularly in the sense of
+philosophical uniformity and financial obligations. Phrases like “consumer relations
+management” and “corporate social responsibility” are well received. On the other hand, it
+is apparent that their activities do promote interaction between individuals by providing
+“spaces” online through various forms of ICT. We see the projects as facilitating the
+exchange of information among and the mobilization of people using technology within and
+beyond their communities.
+When we trace the history of each project and relevant policy enforcement, the
+particular tendency toward developing those alliances and emphasizing their identity is
+closely intertwined with Japan’s prolonged economic stagnation in the 1990s when social
+force came to play in various aspects of social systems that yielded in political, economical,
+and educational reforms. Financial crises with the collapse of long-established corporations,
+massive layoffs, and record-high unemployment rates were the examples of what the nation
+experienced during the time. Most of these projects were initiated in the early 2000s, while
+the penetration of ICT with an introduction of the mobile Internet service in 1999 became
+phenomena in different levels of society. We see this specific trajectory as a key to
+
+understand the conception of 1) community, 2) community groups serving locals as a notfor-profit/government organization, and 3) information in the community. Furthermore, the
+local communities are taking a vital role to support information sharing and exchange
+between individuals in their communities, rather than to mediate information flow between
+the government and individuals. After a few years passed by, the notion of a citizen-tocitizen platform in community building seems strong in the developmental phases. For
+example, the Tokyo-centric notion of social activities and systems started to transform, while
+local communities are adapting ICT in parallel to cope with those social forces. The basis of
+geographic location and division of labor due to the individual resources in access to
+technologies and level of technical skills are reasonable conclusions to draw. We suggest that
+segmentation of social relations is the driving force behind these projects, as is the case with
+CI in the U.S. The growing gap in Japan between those who are computer literate and have
+access to ICT and those who are not computer literate and do not have access to ICT was
+found in this study. The salient concern is the segregation of different social groups, such as
+people living in rural and urban areas; seniors and youth; university students outside Tokyo
+and those in Tokyo; housewives and working mothers; and young adults/teens in school
+and dropouts.
+Gurstein (2000) denoted Community Informatics as “a technological strategy or
+discipline” that links community development with emerging opportunities presented by
+ICT. Sparked by the information economy in the 1990s, concerns arose for a new medium
+that would bring together community activists, webmasters, Internet enthusiasts, and digital
+artists as well as a wide variety of academic scholars including political scientists, computer
+scientists, historians, and sociologists. In addition, initiatives were proposed to support local
+communities as an intermediate level of social relations. Loader (2000, cited in Keeble and
+Loader 2001) has described CI as navigating the interaction between transformation as
+expressed in information technology and continuity as expressed in a local, historical
+community. Early studies applied outcome-based and qualitative evaluation methodology in
+order to assess public ICT services and projects (Cordell, 2005; O’Neil, 2002). The objective of
+this approach was to uncover the intertwined social problems over the inherent of ICTs
+diffusion due to the limited accessibility to and availability of the networked environment.
+Simultaneously, the concepts and scope addressed in CI research and practice expanded into
+different arenas including cyberspace, indigenous locals, developing countries, and
+international organizations (McIver, 2003). With the emergence of empirical studies, CI
+research began to branch out into various subjects and fields. Our goal is not only to bolster
+the applicability of the original typology of Williams and Durrance (2007), but also to foster
+development of theoretical foundation within CI. Applying Keeble and Loader’s notion of
+Community Informatics (CI) as a “multidisciplinary field for the investigation and
+development of the social and cultural factors shaping the development and diffusion of
+new ICT and its effects upon community development, regeneration and sustainability”
+(2001), in the end we hope this examination helps demonstrate the applicability of CI
+interdisciplinarity to a wider audience.
+
+2
+
+

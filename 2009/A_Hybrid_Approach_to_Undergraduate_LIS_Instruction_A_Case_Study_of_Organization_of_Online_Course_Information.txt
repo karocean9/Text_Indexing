@@ -1,0 +1,217 @@
+A Hybrid Approach to Undergraduate LIS Instruction: A
+Case Study of Organization of Online Course Information
+Sarah T. Roberts
+School of Library and Information
+Studies, University of WisconsinMadison
+600 N. Park St.
+Madison, WI 53706
+(608) 263-2900
+
+stroberts2@wisc.edu
+ABSTRACT
+Hybrid courses, a combination of online/asynchronous and inclass/synchronous learning, are relative newcomers among the
+different types of course delivery options available to instructors.
+Along with them comes the need to develop and organize online
+course materials to ensure student participation and success with
+the online component, usually fully 50% of the course. A
+concurrent recent development is the movement to reintroduce
+classes in Library and Information Studies/Science (LIS) directed
+toward undergraduates, of which this course was one. This poster
+captures one such attempt at piloting and delivering a hybrid
+course in the field of Library and Information Studies by
+graphically showcasing the different online elements utilized in
+the course, their development and organizational implementation.
+It then offers analysis, provides a discussion of relevant
+theoretical notions and frameworks useful for contextualizing the
+observations made, and suggest several areas of and possibilities
+for future inquiry.
+
+Topics
+What is 'engagement' in a research institution? Information
+organization.
+
+Keywords
+Undergraduate LIS education, hybrid course, information
+organization, online collaborative tools.
+
+1. INTRODUCTION
+The advent of collaborative Internet information technologies has
+provided instructors in higher education access to tools that have
+the potential to greatly broaden learning environments beyond the
+traditional barriers of space and time. These new asynchronous
+combination in-person/Internet learning environments have given
+rise to a new instructional paradigm, known as the hybrid course
+[Reasons 2005]. The hybrid course is different from the
+traditional classroom model in that it offers both students and
+instructor the ability to engage with the course material beyond
+the confines of a group meeting at a specified time and place. It
+differs, too, from courses considered distance-education, in which
+there are few to no physical class meetings at all, replaced instead
+by course activities that are held exclusively online.
+Hybrid courses, a combination of online/asynchronous and inclass/synchronous learning, are the newest of these pedagogical
+models, intended for students who reside and attend class on
+campus. A portion of the class does meet in person at a fixed
+
+class time. The other portion of the course time, however, is
+consecrated to online activities, usually asynchronous, and
+constitutes roughly 45% to 80% of the class activity as a whole,
+following the commonly understood definition of the hybrid
+course [Smith 2007].
+A concurrent recent development is the movement to reintroduce
+classes in Library and Information Studies/Science (LIS) directed
+toward undergraduates. Since the professionalization of the
+library field and the development of the Master’s level curriculum
+for library practitioners, many LIS and iSchools ceased to offer an
+undergraduate major or courses for undergraduates at all. Yet, in
+recent years, this trend has slowly begun a reversal, and some
+schools have returned to offering undergraduate classes.
+
+2. PURVIEW
+This exploratory inquiry captures one attempt at piloting and
+delivering a hybrid LIS undergraduate course focused on the
+“Information Society” by showcasing the multiple online course
+organizational elements, such as blogs, wikis, and online syllabi,
+employed in the course and the modes of informational
+engagement fostered by each. A preliminary analysis of the
+elements suggests a number of affordances and constraints, both
+hard, or technologically imposed, and soft, or socially imposed,
+influencing the development of these online course organizational
+elements. These include the architecture of the organizational
+elements themselves (e.g. the pbWiki platform), conventions of
+their use (e.g. what a blog should look like), the relationships and
+influence among those charged with their development (e.g. the
+role of the instructor and TAs), and the interplay of these factors
+with each other.
+
+3. METHODOLOGY
+The methodology employed in this case study consisted of
+elements of both participant observation, a relative newcomer to
+the research methodologies favored by LIS researchers [Baker
+2006] and grounded theory [Glaser 1978 and Pace 2004]
+particularly instructive when formulating a burgeoning research
+agenda, launching a preliminary inquiry or examining relatively
+new or unstudied phenomena . The methods complemented each
+other, allowing for access, and offering qualitative, inductive
+approaches particularly useful at the nascent development stage of
+a research agenda and for generating conceptual observations and
+theories.
+
+4. CONTEXT
+At the University of Wisconsin-Madison, a large Midwestern
+Research I university with a School of Library and Information
+Studies, a pilot undergraduate LIS class was launched in the fall
+semester of 2008. The course, entitled “The Information
+Society,” or LIS 201, was envisioned and designed as a hybrid
+course, with approximately 50% of its content to be delivered in
+in-person settings, and the other 50% to be delivered in several
+different online contexts and using several different organizational
+elements to engage or disseminate information to students.
+
+5. ANALYSIS
+Three actors, their influences and their series of identifiable
+affordances and constraints, some loose and some strict, informed
+the information organization of the course within and across its
+disparate online elements. Each of these independent actors
+functioned in relation to the other two in a dynamic process of
+exerting influence on each other with regard to the organizational
+structure of the course. The poster provides graphical examples
+of the elements themselves and illustrates the relationships and
+influence among the three actors.
+The first actor influencing course information organization was
+the course instructor. The instructor’s influence functioned in
+strict terms, when he directed the TAs to integrate specific
+information, information types (e.g. links) or organizational
+elements (e.g. a schedule) into their own online course elements.
+But there was also influence in the form of loose constraints on
+the part of the instructor, who was the first to create both the main
+course and section-specific blogs and wikis, which TAs could
+then use as a model. Given the instructor’s authority role vis-à-vis
+the TAs, the influence of his organizational structure on the
+creation of the TAs’ own should not be downplayed.
+A second actor was the group of online course organizational
+elements themselves. Both the specific architectural parameters of
+the chosen Internet-based software tools and the conventions for
+their use for use influenced the information organization within
+them, with relative strictness and looseness of those factors
+varying among the elements.
+The final actor exerting influence on course information in LIS
+201 was its TAs, acting individually and collectively. Despite
+being granted relative free rein, the TA-created blogs and wikis
+were structured in remarkably similar ways.
+This like
+organization can be partially ascribed to the constraints of the
+software platforms, but the striking similarities the architecturally
+liberal elements (e.g. wikis) points to social phenomena of peer
+influence, collegial relationships and trust.
+
+6. OUTCOMES
+The poster identifies several directions for further inquiry,
+including qualitative measurement of student engagement,
+satisfaction, perceived success or failure with regard to the course
+online elements and their organization.
+Another approach to move from qualitative to quantitative
+investigation could include the coding of qualitative observations
+already developed. For example, attempts could be made to
+quantify the ways in which the actors interacted with and exerted
+influence on each other.
+One other avenue for potential future research could involve a
+more extensive use of the SI framework to engage with and
+
+understand the role of social relationships in the development of
+hybrid courses and their organizational elements. For this
+examination, the importance of the relationships among the course
+TAs could be explored within the context of SI and related
+notions, somewhat reconfigured, of social capital [Widén-Wulff
+2004], trust [Cheshire 2004], and “social communication norms,
+group communication expectations, perceived cost and value of
+communication and the presence or absence of other
+communication tools” [Sawyer 2005].
+Undertaking these and similar future inquiries could yield tangible
+outcomes for hybrid courses delivery, for “it is unclear whether
+the previously noted literature documents efforts to give students
+options to learn based on their needs or efforts to allow instructors
+the chance to use formats that meet their needs” [Reasons 2005].
+Relative student success or failure may depend on which tools are
+chosen, how information is organized within those tools, and
+students’ ability to understand, interact with, manage and produce
+new information within the online organizational framework
+provided them.
+This poster is meant as the beginning of a dialog relevant to
+educators and researchers in education, LIS, SI and related fields.
+Its preliminary observations and their potential for future inquiry
+could help identify the factors influencing levels of student
+success or failure – a tipping point - based on how online elements
+are organized. Future hybrid courses could therefore be designed
+with that tipping point in mind, allowing students the challenge of
+engaging with organizationally complex and disparate online
+elements without becoming so bogged down in their attempts that
+other learning objectives are not achieved.
+
+7. REFERENCES
+[1] L.M Baker, “Observation: a complex research method,”
+Library Trends , 55(1), 171-189, 2006.
+[2] C. Cheshire and K.S. Cook, “The Emergence of Trust
+Networks under Uncertainty–Implications for Internet
+Interactions,” Analyse & Kritik , 26, 220-240, 2004.
+[3] B.G. Glaser, Theoretical Sensitivity: Advances in the
+Methodology of Grounded Theory , Mill Valley, Calif:
+Sociology Press, 1978.
+[4] S. Pace, “A grounded theory of the flow experiences of
+Web users,” International Journal of Human-Computer
+Studies , 60(3), 327-363, 2004.
+[5] S.G. Reasons, K. Valadares, and M. Slavkin, “Questioning
+the Hybrid Model: Student Outcomes in Different Course
+Formats,” Journal of Asynchronous Learning Networks ,
+9(1), 83-94, 2005.
+[6] S. Sawyer, “Social Informatics: Overview, principles and
+opportunities,” Bulletin of the American Society for
+Information Science and Technology, 31(5), 2005.
+[7] G.G. Smith and H. Kurthen, “Front-Stage and Back-Stage in
+Hybrid E-Learning Face-to-Face Courses,” International
+Journal on E-Learning, 6(3), 455-474, 2007.
+[8] Widén-Wulff, G. and M. Ginman, "Explaining knowledge
+sharing inorganizations through the dimensions of social
+capital," Journal of Information Science, 30(5), 448-458,
+2004.
+
+

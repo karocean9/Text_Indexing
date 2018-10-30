@@ -1,0 +1,395 @@
+Longitudinal Analysis of Tag Structure in Del.icio.us
+Lijiang Guo
+
+Elin Jacob
+
+Nicolas George
+
+Indiana University Bloomington
+
+Indiana University Bloomington
+
+Indiana University Bloomington
+
+1320 E. 10th St., LI 011
+Bloomington, IN 47405
+
+1320 E. 10th St., LI 011
+Bloomington, IN 47405
+
+1320 E. 10th St., LI 011
+Bloomington, IN 47405
+
+lijguo@indiana.edu
+
+ejacob@indiana.edu
+
+ngeorge@indiana.edu
+
+ABSTRACT
+This paper describes a three-level structure of folksonomies that
+accounts for the aggregation of tags in a social bookmarking
+system and describes the results of a preliminary longitudinal
+analysis of user-assigned tags collected from del.idio.us.com for
+the period 2005-2007. Results of this analysis indicate that
+evolving community consensus on the meanings of tags can lead
+to the emergence of domain vocabularies that can be useful for
+retrieving domain resources.
+
+Categories and Subject Descriptors
+H.3.1 [Information Storage and Retrieval]: Content Analysis
+and Indexing -- indexing methods, thesauruses.
+
+General Terms
+Theory, Verification.
+
+Keywords
+Tags, Tagging, Folksonomies, Network folksonomies, System
+folksonomies, Social bookmarking systems, del.icio.us.com.
+
+1. INTRODUCTION
+Adding metadata to digital resources has become a common way
+of representing them for future retrieval. Metadata and metadata
+schemes are generally created by information professionals, but
+such methods encounter limitations in the environment of the
+World Wide Web (Web), where an enormous and dynamic
+repository of digital resources has made representation an
+important issue. Folksonomies are claimed to support an emergent
+classification of Web resources, where semantic relations between
+tags and resources are assumed to be worked out by users in a
+collective and negotiated process. Few studies exist that
+investigate how this process is actually accomplished, what the
+commonalities of tags are, and how seemingly sporadic tagging
+by individuals can become useful metadata for information
+retrieval.
+This research builds upon current discussions of the mechanisms
+behind collective tagging behavior and their theoretical roots to
+propose a three-level structure for the aggregation of tags: the
+individual folksonomy that aggregates tags assigned by a single
+user; the folksonomy network that aggregates user generated tags
+within a topical domain; and the system folksonomy that
+aggregates all tags assigned within a single social bookmarking
+site. It is proposed that a folksonomy network constitutes a
+rudimentary indexing language in that the aggregation of tags
+assigned within a topical domain can serve as a precursor to a
+controlled domain vocabulary. This proposal is supported by the
+
+results of a social network analysis of tags assigned to bookmarks
+in the Delicious social bookmarking system over a period of three
+continuous years (2005 to 2007). A longitudinal comparison of
+the results from exploratory factor analysis reveals that, although
+tagging as a whole is scale-free, consistent patterns of aggregated
+tagging behavior can be found in folksonomy networks.
+
+2. FOLKSONOMY
+A folksonomy consists of user-generated metadata about digital
+resources. The word folksonomy was first used by Thomas
+Vander Wal (Vander Wal, 2007) as a fusion of the terms folk and
+taxonomy to describe the set of tags assigned to resources in an
+online information system by a single user. Recent studies of
+folksonomies have focused on the social bookmarking systems
+(Hammond et al., 2005) that can be found in many different
+environments and exemplify a wide range of purposes, including
+blogging (WordPress), photo sharing (Flickr), video sharing
+(YouTube), and social networking (Facebook). The advantage of
+social bookmarking is that it is a bottom-up categorization
+structure that generates an emerging indexing language for
+resources on the Web (Vander Wal, 2007). Contrary to traditional
+classification methods, where specially trained indexers generate a
+standard indexing language for all users, a folksonomy is the
+result of empowering users with absolute control over their own
+information repository. In other words, a folksonomy is an
+indexing language generated for the user by the user.
+Despite the problems of reference that come with cognitive
+categorization and the use of natural language descriptors, tagging
+behavior in a network folksonomy appears to demonstrate patterns
+of stabilization and convergence. One possible reason is that
+tagging creates a feedback loop of asymmetric communication
+between users through the medium of the tags themselves
+(Mathes, 2004), allowing users to negotiate meaning and reach
+consensus about the referents of tags. On a social bookmarking
+site, there are at least two kinds of vocabulary: the user’s
+vocabulary and the system vocabulary. Each user has his own
+collection of tags and tag-URL assignments, which comprise that
+user’s unique vocabulary (a folksonomy). The vocabulary of the
+system (the system folksonomy) is the aggregation of all user
+vocabularies (folksonomies).
+However, to make a user’s unique vocabulary communicative,
+agreement on vocabulary must be reached across users.
+Wittgenstein’s (1958) notion of a language game describes such a
+dynamic system. On the one hand, each user has a private
+language that is only known to the person speaking (or tagging);
+on the other hand, it must be possible, in principle, to align this
+with public standards and criteria for correctness. Therefore, the
+research question addressed here is whether such a dynamic can
+
+contribute to stabilization and
+a
+a shared domain vocaabulary
+(folksonomy neetwork).
+The basic theeoretical modeel of this reseearch resides in the
+intersection off classical classsification and categorization
+c
+theory,
+a complex network
+n
+human cognitioon, motivation for learning, and
+systems. Adappted from the fformal model of Hotho, Staaab and
+Stumme (2006)), a folksonomyy network is defined as:
+, ,
+
+Definition 1. A folksonomy network is a tuple
+where,
+•
+
+is a folk
+ksonomy that has
+h
+
+•
+•
+
+folksonom
+my networks,
+
+is a folksoonomy network of that folksonnomy,
+and
+
+a subsets of taags and URLs in
+are
+i
+
+,
+
+•
+
+is the characteristic
+c
+fuunction a folksoonomy networkk
+
+•
+
+is a fuunction of
+
+,
+
+,
+
+annd
+
+,
+
+in
+
+.
+
+,soo that for any pair of
+
+Figure 1. Biploot of componen
+nt loadings (Frrom top row 2005,
+2006, and 2007; from left ccolumn D1xD2, D1xD3, D1xD
+D4,
+D
+D1xD5, D2xD3
+3, D2xD4, D2xxD5, D3xD4, D3xD5, and D4xxD5,
+where “D”
+“ representss an extracted dimension)
+
+.
+
+3. METHO
+OD
+To draw a reprresentative sam
+mple of tags, data was collecteed from
+del.icio.us.com
+m , which is currrently the largesst social bookm
+marking
+website. Inform
+mation about thhe dataset is shhown in Tablee 1. To
+reify our moddel, we have uused a compleex network moodel to
+represent a folkksonomy. We collapsed
+c
+all tuuples (tag, URL
+L, user)
+to calculate cosine similaritiees between tagss for all URLs and all
+users and deecomposed the similarity matrix using eigen
+decomposition to extract dimeensionalities. Because
+B
+each exxtracted
+dimension represents a part of the underlyying structure of the
+dataset, only a certain porrtion of tags will have a strong
+s
+plot, the top five
+correlation to a given dimensiion. From the scree
+dimensions were extracted for each yearr, assuming thhat the
+extracted dimeensions are the most representative tag structture for
+that year sincce most variaability is accoounted for byy these
+dimensions.
+
+4. RESUL
+LT
+A longitudinall comparison reveals
+r
+that, allthough tagginng as a
+whole is scalee-free, consisteent patterns off aggregated tagging
+t
+dimensions (i.ee., folksonomy networks) can be found in a system
+folksonomy. We
+W observed thaat the system foolksonomy consists of
+multiple folkssonomy networrks containing
+g possible conntrolled
+vocabularies thhat are usable ffor searching inn specific domaains. In
+Figure 1, all biplots were generated from the same system
+folksonomy buut result in diffeerent dimensionns. Each dot represents
+a tag, whose position
+p
+is givenn by its loadinggs on two dimeensions
+of the five exxtracted. Figurre 1 indicates that there aree clear
+dimensionalitiees among taggs according to user assiggnment
+patterns on UR
+RLs. Some tags are tightly cllustered, suggesting a
+specific topicaal domain. The differences between two topical
+domains are maximized
+m
+becaause there is minimum
+m
+depenndence
+between them,, given that eaach componentt is orthogonall to all
+other componeents. Thus eachh dimension rep
+presents a folkssonomy
+network.
+Table 1. Data beforee and after noisse reduction.
+Year
+2005
+2006
+2007
+
+Tag
+7,372
+10,224
+12,079
+
+All tags (step 1)
+URL
+User
+
+Triple
+
+Tags ( >5 unique users) (step
+(
+2)
+Tag
+URL
+User
+Triple
+
+2,817
+3,925
+6,007
+
+296,998
+551,029
+759,203
+
+1,586
+2,466
+3,195
+
+32,794
+72,141
+104,696
+
+2,802
+3,903
+5,985
+
+32,267
+71,131
+103,181
+
+284,281
+533,841
+737,547
+
+F
+Figure
+2. Biplot of componen
+nt loadings from
+m randomized data
+(F
+From top row 2005, 2006, an
+nd 2007; from left
+l column D11xD2,
+D1xD3, D1xxD4, D1xD5, D2xD3, D2xD4, D2xD5, D3xD
+D4,
+D3xD5, and
+d D4xD5 wheree “D” represen
+nts an extracteed
+dim
+mension)
+Figure 1 suggeests that folkksonomy netwo
+orks are conssistent
+sttructures evolvving across tim
+me. By looking at one columnn at a
+tiime, we can coompare structurral change acro
+oss years. The 2005
+sttructure is moree diverse due too its early stagee in the developpment
+a domain vocabuulary. As the sttructure develop
+ps through 2006 and
+2007, tags clustter more closely around their dimensions. From
+thhis comparison, it is possible to track the evvolving structurres of
+domain vocabulaary developmennt.
+T
+To verify thatt these patternns are non-raandom, we fu
+urther
+raandomized all users, tags, aand URLs andd applied the same
+prrocedure to thee randomized ddata. The five principal
+p
+compo
+onents
+of this random network are shown in Figu
+ure 2. As Figuure 2
+onal, suggestingg that
+demonstrates, thhe dataset is quuite unidimensio
+no sub-dimensioons were detecteed.
+
+55. Conclusiion
+T
+These results inddicate that, whiile a system follksonomy is unlikely
+too result in a coherent
+c
+globall classification system, tagginng of
+siimilar resourcees is highly agggregative and can
+c point to doomain
+dependent vocaabularies that are useful forr retrieving doomain
+reesources. It also supports thhe contention that the three-level
+sttructure of folksonomies
+fo
+pprovides an effective lenss for
+innterpreting thee seemingly cchaotic role of folksonomies for
+innformation retriieval in the Webb environment.
+
+6. REFERENCES
+[1] Hammond, T., Hannay, T., Lund, B., and Scott, J. 2005.
+Social bookmarking tools (I): A general review. D-Lib
+Magazine, 11, 4 (April, 2005). DOI=
+http://www.dlib.org/dlib/april05/hammond/04hammond.html
+[2] Hotho, A., Jäschke, R., Schmitz, C. and Stumme, G. 2006. In
+Information retrieval in folksonomies: Search and ranking. In
+The semantic web: Research and application. Springer,
+Berlin, Germany, 411-426. DOI=
+http://www.springerlink.com/content/r8313654k80v7231/full
+text.pdf
+
+[3] Mathes, A. 2004. Folksonomies: Cooperative classification
+and communication through shared metadata. DOI=
+http://www.adammathes.com/academic/computer-mediatedcommunication/folksonomies.html
+[4] Vander Wal, T. 2007. Folksonomy: Folksonomy coinage and
+definition. DOI= http://vanderwal.net/folksonomy.html
+[5] Wittgenstein, L. (1958). Philosophical investigations.
+Macmillan, New York, NY.
+
+Columns on Last Page Should Be Made As Close As
+Possible to Equal Length
+
+

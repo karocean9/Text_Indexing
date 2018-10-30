@@ -1,0 +1,209 @@
+Considering Craftsmanship
+Daniela K. Rosner
+UC Berkeley School of Information
+102 South Hall
+Berkeley, CA 94720-4600
++1-510-642-1464
+
+daniela@ischool.berkeley.edu
+ABSTRACT
+Craft involves the application of human skill and invested time.
+Some have argued technology has undermined human expertise
+by replacing craftwork with automation, disposing of human
+ingenuity and proficiency. Can new technologies integrate skill,
+materials and labor with the products of craft? How does
+technology affect the use and significance of the crafted artifacts?
+Conversely, how does the craft process engender cultural value
+for creative practitioners? In this poster, I present a research
+agenda for the study of craftsmanship in everyday creative
+practice through new Information and Communication
+Technology (ICT). In the design of new technology, I seek to
+support the personal and social value of craft by extending the
+skilled work of the creative practitioner.
+
+Categories and Subject Descriptors
+H.5.2. [Information Interfaces]: User Interfaces — input devices
+and strategies; interaction styles; user-centered design. D.2.2
+[Software Engineering]: Design Tools and Techniques —User
+interfaces. H5.m. Information interfaces and presentation (e.g.,
+HCI): Miscellaneous.
+
+General Terms
+Design.
+
+Keywords
+Craft, Craftsmanship, Everyday Creativity, Design Research
+
+1. INTRODUCTION
+Craft—the skilled manipulation of materials—is an integral part
+of the human experience. Craft involves the connection between
+materials and the human mind and senses, often mediated by a
+technological tool. Tools for craft are wide-ranging, from
+paintbrushes and potter’s wheels to computers and 3D printers.
+Similarly, the nature of craft can vary: some crafts rely on
+eyesight and physical manipulation using human hands; others
+rely on smell or voice. Yet through emphasis on efficiency,
+technology can undermine an individual’s creative expertise.
+Automatic looms, for example, offer methods for easy
+reproduction and decreased production costs, but at the expense of
+flexibility in design choices, such as limiting 3D patterns.
+Furthermore, automation of the weaving process displaces the
+textile designer’s investment of time and creative skill. How can
+designers of new technology consider the role of craftsmanship
+and the social stakes involved in creative practice?
+Today’s emerging craft practices have united with Do-it-Yourself
+(DIY) activity in creative subcultures across America, such as the
+
+CRAFT and MAKE1 communities. DIY encompasses a range of
+personal design activities that have become increasingly prevalent
+on the pages of blogs and online discussion forums. Using these
+largely public resources (Instructables.com or Raverly.com2),
+crafters discuss the intricacies of their work, tell stories around
+craft, and codify their creative process for others to remake or
+modify. Such ‘Everyday Creativity’ [11] has been an increasingly
+fruitful area of study for HCI and Design. Recent research has
+aimed to unearth motivations for customization and reuse (e.g.,
+[11]), and to understand how DIY and craft cultures have affected,
+and been affected by, the design of new Information and
+Communication Technology (ICT) (e.g., [1]). Yet there has been
+little effort to understand the role of invested time, skill and care
+in relation to this creative work; that is, how ICT affect the
+continued cultivation of creative expertise, and how creativity and
+social relations can continue to be supported through craft. In this
+poster, I propose an integration of craftsmanship in the study of
+everyday creativity through the design of new ICT.
+
+2. CRAFT & TECHNOLOGY
+As a physical, skilled practice, craftwork has often been viewed in
+opposition to advances in new technology [9]. The displacement
+rather than disposal of labor is an often hidden outcome of new
+technology, carrying deep social and cultural implications [7]. In
+her critique of domestic technology, historian Susan Strasser has
+argued [7] that the emergence of industry in America resulted in
+more isolated labor for women, limiting the social relations
+enabled through craft. Sociologist Ruth Schwartz Cowan [1]
+furthers this critique, arguing that industrial advancements
+brought new expectations for craftsmanship and cleanliness,
+resulting in more housework for women. For example, with the
+advent of industrially-produced clothing, middle class Americans
+were able to own more clothing, thus replacing women’s weaving
+and sewing with an increase in mending (a more isolated activity
+reserved for the home rather than sewing circles). However, in
+recognizing and celebrating the social value of human skill,
+technology has the potential to help strengthen social ties during
+productive practice.
+The recent resurgence of craft practice reflects an effort to reclaim
+personal time, skill, and control in a connected global economy.
+First in the Arts and Crafts Movement of the early 20th century
+and later in the 1960s, a romanticized reawakening of Craft was
+provoked in the West. Manual labor has been continually
+embraced for its investment human expertise. John Ruskin echoed
+this sentiment, “For it is not the material, but the absence of
+human labour, which makes the thing worthless” [4]. But perhaps
+1
+
+See http://makezine.com and http://craftzine.com.
+
+2
+
+Ravelry.com is a social networking site for knitters.
+
+contrary to past craft movements, today’s practitioners often
+appropriate new technology, using it as a means to share
+curiosities, inspire new ideas, and communicate around craft.
+
+3. RESEARCH AGENDA
+Through a series of design interventions, I aim to better
+understand how ICT can support crafters’ social interests. For
+example, how can technology enable communication around
+skilled, productive practice? How can such communication
+strengthen ties between the craftsperson and the recipient of
+craftwork? The design interventions will build on the first of my
+design studies, the Spyn project—a tool that enables knitters to
+attach digital messages to locations on yarn while knitting and
+recall each message in relation to where it was recorded [10].
+Spyn uses infrared ink printed on yarn to transparently correlate
+locations on the fabric with events recorded while crafting. I
+observed how knitters used Spyn to rethink their craft practice
+while creating hats, scarves and sweaters for friends and family as
+well as how the craft was reinterpreted by others. By allowing
+knitters to encode social relations into yarn, people extended their
+creative and communicative activity around craftwork (e.g.,
+embedding a recipe into a scarf and documenting travels in a hat).
+Expanding on this work in the domains of furniture customization
+and everyday cooking, I intend to explore extensions of everyday
+craftwork through technological expression. In addition to the
+social, I want to explore the somatic and sensorial dimensions of
+craft: how the craft process conditions affect and how craft
+challenges the mind-body dualism brazen in technology’s
+intellectual heritage. In order to study this interplay, I will observe
+and build a socio-technical system for three craft-subcultures:
+craft-knitters, Do-it-Yourself furniture builders, and everyday
+cooks. In my study of knitting, I will consider its gendered and
+domestic implications, its use in generational cultural
+transmission, and the variance in technology use across
+generations. Through a study of DIY furniture building, I will
+examine notions of customization, reuse, and creativity, as well as
+the seemingly less-gendered nature of the customization practice
+(see Bean & Rosner 2008). Of particular interest is how the craft
+of furniture customization is related to traditional notions of
+artistry, which suggest an economy of means that requires
+“getting the most out of a limited medium” (McCullough
+1996:10). Finally, through a study of everyday cooking, I will
+look at how the inherent ephemeral quality of food affects the
+value of cooking and how the variety of physical sensations (taste,
+smell, and sound) play into the craft process.
+Each design intervention will involve three phases: First, I will
+closely observe each craft practice by participating in craft events
+(crafting circles and community fairs), interviewing individual
+crafters, and visiting sites for craft both in person (homes, stores)
+and online. Secondly, I will develop tools that extend the ways
+
+each craft uses materials to mediate relationships with others, both
+through the transfer of information around the making process as
+well as the transformation of the craft products themselves. Third,
+I will investigate how such tools affect the negotiation of identity
+[5] and creativity through craft. How is craftsmanship influenced
+through technological tools? When is it important for people to
+disrupt the mechanical process? How do breakdowns in the
+creative process shed light on the transfer of creative control?
+Through the design of new tools for craft, I will investigate how
+people transform the traditional medium of craft and expand
+communication around the processes of craft with the hope of
+inviting designers to rethink notions of craftsmanship in the
+design of creative tools.
+
+4. ACKNOWLEDGMENTS
+I would like to thank my advisor, Prof. Kimiko Ryokai.
+
+5. REFERENCES
+[1] Bean, J., Rosner, D. To appear in Proc. ACM Human Factors
+in Computing Systems (CHI), Apr 2009.
+[2] Cowan, R.S., 1983. More Work for Mother: The Ironies of
+Household Technology from the Open Hearth to the
+Microwave. , Basic Books, New York.
+[3] Hebdige, D. (1979), Subculture: The Meaning of Style,
+Methuen, London.
+[4] McCullough, Malcolm, (1996) Abstracting Craft: The
+Practiced Digital Hand, MIT Press, Cambridge, MA
+[5] Mishler, E.G., 1999. Storylines: Craft artists’ narratives of
+identity, Harvard University Press, Cambridge, MA.
+[6] Obrist, Marianna. 2008. DIY HCI. VDM Verlag Dr. Mueller.
+[7] Strasser, S. 1982. Never done. A history of American
+housework. New York : Pantheon.
+[8] Torrey, C., D. W. McDonald, B. N. Schilit and S. Bly.
+(2007) How-To Pages: Informal Systems of Expertise
+Sharing. Proceedings of the Tenth European Conference on
+Computer Supported Cooperative Work (ECSCW 2007).
+Springer. 391-410.
+[9] Robertson, Seonaid Mairi (1961) Craft and Contemporary
+Culture. Published by G.G. Harrap.
+[10] Rosner, D. K., Ryokai, K., (2008) "Spyn: Augmenting
+Knitting to Support Storytelling and Reflection." To appear
+in Proceedings of Ubicomp '08.
+[11] Wakkary, R., Maestri, L., Aspects of Everyday Design:
+Resourcefulness, Adaptation, and Emergence (2008),
+International Journal of Human-Computer Interaction, Vol.
+24, Issue 5, pp 478-491.
+
+

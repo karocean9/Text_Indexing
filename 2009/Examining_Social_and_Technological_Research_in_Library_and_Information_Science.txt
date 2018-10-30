@@ -1,0 +1,432 @@
+Examining Social and Technological Research in Library
+and Information Science
+Ronald E. Day
+School of Library and Information Science
+Indiana University Bloomington
+1320 E. 10th St., LI 011
+Bloomington, IN 47405-3907
+1-812-855-2018
+
+roday@indiana.edu
+ABSTRACT
+In this paper we employ a philosophical-historical approach
+toward understanding (Library and) Information Science as both a
+social and a technological science. We do this, via Martin
+Heidegger’s works, by returning to the etymological roots of
+technique and technology, the Ancient Greek term techne, and
+through this we see how this term has been diametrically
+characterized in the Western philosophical tradition. We propose
+an account of socio-technical and technological causality that
+explains (L)IS technical and technological research in terms of
+cultural-social, as well as material and professional, affordances,
+rather than as determinative causation. Our argument aims not
+only to contribute an understanding of the role of social and
+technological research in the field, but also to begin a critique of
+some quantitative and qualitative research in the field.
+
+Categories and Subject Descriptors
+K.7.0 [The Computing Profession]: General.
+
+General Terms
+Documentation, Standardization, Languages, Theory
+
+Keywords
+Information Research, Critical Information Theory, Social
+Informatics, Technology, Affordances
+
+1. INTRODUCTION
+It is well-known that there is a wide spectrum of what can be
+characterized as ‘information research.’ In the field of (Library
+and) Information Science ((L)IS) there are such research areas as
+user studies, information behavior, information architecture,
+information representation and organization, information
+retrieval, and so on. Information research has also been
+undertaken by scholars in the social studies of science and
+technology, particularly in the area of information infrastructure
+(for example, Bowker and Star 2000; Bowker, 2005) and artificial
+intelligence, such as medical informatics (for example, Forsythe
+2001). More recently, there has been concern about the social
+importance of information research, and as a result, the
+
+Lai Ma
+School of Library and Information Science
+Indiana University Bloomington
+1320 E. 10th St., LI 011
+Bloomington, IN 47405-3907
+1-812-855-2018
+
+lama@indiana.edu
+emergence of the research area of social informatics. But, what is
+the relationship between information research and the ‘social’?
+And, how is the ‘social’ important for information research?
+
+2. INFORMATION AND TECHNOLOGY
+Information research, by its very name, sounds to be engaged in
+research about information. Consequently, it is natural that much
+of the conceptual and critical work in information research during
+the past thirty or so years has focused on definitions of
+information and information science (for example, Bates 1999,
+2005, 2006; Brookes 1980; Buckland 1991; Hjørland 2006;
+Saracevic 1991, 1999). The discussion of the concept of
+information is very important—for an articulation of the
+epistemological and ontological assumptions of the concept of
+information would explicate how the concept has informed
+information research, and an analysis of the uses of the word
+“information” would show how it has shaped a certain kind of
+thinking and ideology in our day-to-day activities and in our
+professional activities as information professionals and
+information researchers (see, for example, Day 2001; Frohmann
+2004).
+Most of the research in (L)IS, however, is not purely conceptual
+and it is usually not critical. Rather, it involves the study of the
+use and/or efficiency of various types of information and of
+information technology. For example, information architecture is
+concerned with the design of information infrastructure, with this
+latter term meaning entities such as web pages and databases;
+information representation and organization are concerned with
+how data are represented and organized in a systematic way for
+computerized systems; information retrieval is concerned with
+devising algorithms for the successful retrieval of information. In
+other words, most of information research is not an analysis of
+information as a term, but rather, it is an analysis of different
+things called “information” in their design, configuration and use,
+often involving technologies that are then referred to as
+‘information technologies.’ As such, information research is often
+seen in terms of ‘user’ research into information problem solving,
+particularly, problem solving in different social spaces:
+organizations, public spaces, virtual spaces, schools, etc. In turn,
+however, information research also involves problem solving in
+designing and troubleshooting technological systems that aid the
+problem solving of users. Thus, technological problem solving in
+
+information science doesn’t just involve engineering skills in
+system building and troubleshooting, but it tends to begin and end
+with the problems that users and producers encounter.
+Can we conceive of a manner of conceptually analyzing these two
+aspects of information science ‘empirical’ research? If we could
+we would be opening up a conceptual ‘meta-theoretical’ avenue
+other than that of a critique of the obfuscation and reification of
+the term ‘information’ in the midst of a plethora of its social and
+professional deployments.
+We would like to open up such an analysis by explicating the
+‘social’ in terms other than that of determinative causality
+between ‘users’ and ‘technology,’ and, ‘technology’ and ‘users.’
+We seek an analysis that can provide a unitary framework for
+analyzing both ‘social’ and ‘technological’ research in
+information science. Given that social analysis is often viewed in
+causal terms borrowed from physics—that is, causation
+understood as the determinate force exerted by one body upon
+another, and as such, ‘users’ making use of technologies to
+‘effect’ resulting products, technology’s ‘effects’ upon society,
+and so forth—is there a way of rethinking social causation in
+other terms than causes and effects? Such an analysis would, as
+well, give us a different interpretation of social informatics than
+has been the traditional understanding and it would open social
+informatics to new (and to previous, akin) research projects. It
+would inject more a form of cultural analysis into analyzing
+‘social situations.’ Together, cultural forms and social situations
+form two durational axes—a long duration (tradition) and a short
+duration (site specificity)—that are necessary for considering
+meaningful action. (We here include Harré’s (2004) third axis of
+indexicality as a combination of the two previous in moments of
+radical temporality governed by, on the one hand, necessity, and
+on the other hand, choice.) Social Informatics is doomed if it
+treats actors as mere determinate causes or effects of ‘technology’
+or ‘information’ without accounting for the intentionality of the
+actors and the affordances for their expressive production.
+In the following we offer a starting point for rethinking the social
+in relation to techniques and to technologies. We do so from the
+viewpoint of rethinking social causation according to what
+Aristotle termed “formal” causation, rather than according to the
+“efficient” causation that we discussed above, as the norm for
+social analysis. In this manner, we will also be asking that social
+research take into greater account those practices of cultural
+research approaches, namely, those that stress forms or
+“affordances” for expression and emergence. We wish to
+emphasize rethinking the techne of (Library and) Information
+Science according to their affordances.
+In this paper, we will begin such an analysis through a reading of
+the beginning of the German philosopher, Martin Heidegger’s,
+1953 article, “The Question Concerning Technology” [1977b].
+Heidegger’s analysis offers an understanding of technique and
+technology as emergences and expressions indebted to four types
+of affordances. Whatever the limitations of Heidegger’s account
+may be, it does provide a substantial, historically grounded
+account of the cultural meaning of technology over a long
+duration, and, thus, provides a useful and rare account of the role
+of cultural meaning in our understanding of human and
+technological interaction and co-development.
+
+3. TECHNE
+The relation between ‘technique’ and ‘technology’ warrants our
+consideration, not the least because in many modern Western
+European languages the difference between these two terms is not
+as strong as in English, deviating less from the original Ancient
+Greek term, techne, which etymologically unites the two former
+terms. “Techne” in the Ancient Greek means an art or craft
+whereby something emerges into appearance (poiesis). Thus,
+from the perspective of Ancient Greek philosophy up through the
+use of many modern Western European languages, in speaking
+about any production we must start with the relation of techne to
+creation.
+In his lecture and then essay, “The Question Concerning
+Technology” [1977b], Heidegger discusses techne’s role in
+expression and production, and he does so by examining the
+philosophically and culturally important Aristotelian discussion of
+the four types of causality (the first or formal, the material, the
+efficient, and the final causes) in Aristotle’s Physics. In
+Heidegger’s essay [1977b], Aristotle’s four causes are
+reinterpreted from their understanding in Latin and modern
+philosophy as causa back to what Heidegger claims is their
+proper understanding in Ancient Greek philosophy, understood in
+terms of the Greek, aition. Heidegger reads aition in terms of
+indebtedness. This reading goes against the grain of the
+philosophical tradition since, at least, the period of Latin
+philosophy. It is a reading that reinterprets Aristotle’s four causes
+and the meaning of techne and poiesis according to the four
+causes’ interdependences on one another. It also stresses the
+causes as mutually important, co-responsible affordances to
+which the emergent thing is indebted. This reading stands in
+contrast to the traditional deterministic and teleological reading of
+the four causes (where an ideal “first cause” is understood as an
+origin that is fulfilled in the final product (the “final cause”), visà-vis efficient and material causes, with each cause being read as
+a determinate force; hence, with the efficient cause—understood
+as determinate force—being understood as the dominant
+characteristic cause throughout the teleological chain of
+causation.)
+In the Latin tradition, Aristotle’s four causes are read as
+teleological and determinative of each upon the other as a
+sequence of events. Such a reading would yield, for example, the
+following analysis of creation or production (to use an easy-tounderstand example): the blueprint for a house (first or formal
+cause: an originary form or idea to be completed in an
+actualization), the material causes (bricks, plumbing, etc.), the
+efficient cause (labor), and the final ‘cause’ or result (the actual
+house itself as an actual fulfillment of the original idea). In
+contrast, according to Heidegger’s [1977b] rereading of causa by
+aition, the four causes are read as follows: Aristotle’s “first” or
+“formal” cause is understood as the cultural ‘context’ or forms,
+social situation and needs, and the resulting plan for what is to be
+created; the efficient cause is understood as the craftsperson or
+other human agency for bringing about the object; the material
+cause is understood as the matter that makes up the object; and
+the final cause is understood as the reception and purpose for
+which the thing is brought forward. Together, these are
+understood as a total assemblage of socio-cultural, material, and
+labor affordances that allow an object to emerge. Such an object
+
+is the product of a craft or art (techne), which is the human
+manner of bringing things forth (poiesis). The object is indebted
+to these affordances for its emergence. It is an expression through
+these affordances.
+The pivotal point in this argument is that Aristotle’s first cause is
+reread by Heidegger as meaning forms for emergence and
+expression—affordances—rather than being an ideal blueprint for
+an actual product, as in the Platonic tradition or, equally, in the
+Latin tradition. This rereading of the first cause also permeates
+Heidegger’s rereading of all the other causes, that is, his reading
+of them as different types of affordances. Determinate causes are
+replaced by a notion of cause as affordance. Affordances are
+forms that the object is indebted to for emerging as a certain type
+of thing—with material properties, social intentions, cultural
+expressions, and a site-specificity and time-value to its production
+and use. Heidegger’s analysis reinserts situated action into
+production. He returns historicity—and, consequently, historical
+analysis—to the produced object. But a reread notion of “formal
+causes”—that is, as affordances—allows situated action to be
+understood in a non-mentalistic manner.
+It should be mentioned that one of the consequences of
+Heidegger’s interpretation is that content-container metaphors
+that function in the idealist Latin understanding of the four
+causes—that is, the four causes as the teleological realization of a
+‘first,’ ideal essence contained in a representation—are left
+behind. Textual or other representations, instead of “containing” a
+‘theoretical’ idea that is then realized in ‘practice,’ are viewed as
+cultural forms for expression, themselves being forms of practice.
+In Heidegger’s analysis, there is no “epistemic content”
+[Frohmann 2004] in formal plans, which is then realized in an
+object.
+It would be taking us a bit afield and would require too in-depth
+an analysis for this paper to retrace the important relationships
+between our modern understandings of art and other types of
+works and techne in Heidegger’s oeuvre [for this, see Day 2008].
+What is necessary, here, however, is to recognize what is most at
+stake for our present topic in Heidegger’s reinterpretation of the
+four causes: 1) production is re-understood culturally-socially,
+and 2) social events are understood in terms of mutual
+affordances, rather than as determinate forces or causes of agents
+acting upon one another and upon objects or vice versa. This
+affects modern technological and technical studies in that techne
+is understood to underlie both. Both technique and technology in
+(L)IS are cultural-social in nature, being made up of actions and
+parts arranged and used for producing meaningful acts and
+products. For Heidegger, technological modernity is characterized
+as the metaphysical understanding of creation as determinative
+and teleological, leading from ideal frames for knowledge and
+object production to the realization of those ‘theories’ in actual
+‘practices’ and ‘products.’ It is a production that privileges an
+ideal and reproducible production over a site-specific and timevalued, self-reflective, historical praxis.
+The result of this critique is strongly felt in a very late essay, “The
+End of Philosophy and the Task of Thinking” [Heidegger 1977a],
+where Heidegger contrasts this analysis of techne against what he
+terms, “the thesis of the precedence of method,” a phrase that he
+uses to characterize the nature of modern research, as well as
+modern life dominated by scientific-technological production.
+The “thesis of the precedence of method,” for Heidegger, is the
+
+modern assumption that method assures an ‘objective’ and
+reproducible ‘truth’ in research, just as technological production
+assures the reproducible certainty of the object’s production.
+Social research and technological production proceed by
+establishing frames for research and production and attaining
+products based on strict methods. Those methods may involve
+material or semiotic tools of any sort. What is not as of much
+importance in modern research and technological production is
+the critical evaluation of the relation of production to its
+affordances or a cultural understanding of the affordances
+themselves.
+For Heidegger, the mistaken importance of modern research is
+that of the precedence of method as an assurance for rigor and
+reproducibility in its research production. In turn, such methods
+themselves must be rigorous and reproducible. Standardization is
+thus assured, even if this means turning the cultural affordances of
+things and events into causa for attaining results in research or
+technological production. Often, social science research involves
+treating meaning as quantifiable and attributing determinate
+causes (physiological or social) to intentions (see not only
+Heidegger’s work, but with a much clearer epistemological focus,
+Rom Harré’s work as well (for example, Harré, 2004)). For
+Heidegger, in fact, all of modernity, including modern research, is
+involved in modern technological production, in the sense that it
+is involved in the production of products that rigorously and
+consistently follow from the guiding frames of theoretical
+‘blueprints.’ What is lacking, Heidegger is arguing, is an
+awareness of the cultural affordances that underlie this, including
+the cultural metaphysics that reach from the Latin period through
+modernity. The Latin rereading of aition by causa must, for
+Heidegger, be seen as cultural affordances that allow the
+metaphysical tradition to emerge and embed itself in our
+understandings of technique and technology. Philosophical
+metaphysics is, thus, only one—though a condensed and thus
+exemplary substantiation—of what we might call a “cultural
+metaphysics.”
+Studies of the concept of information in (L)IS often begin with
+different ontologies of information—following from the different
+senses given to the word “information” in ordinary and/or (L)IS
+discourses—and then they proceed to show how these different
+ontologies or senses of “information” cannot be unified, but are
+supported by different research “approaches.” Such research has
+difficulty linking ontological critique to epistemological critique.
+In the sciences, “approaches” are called “methods,” and they tend
+toward internal consistency and rigor, as well as—sometimes and
+ideally (depending on the discipline—a priori or a posteriori)—
+toward external consistency and rigor in application. From the
+perspective of Heidegger’s analysis, at the least, it may be more
+beneficial to view ontologies of information as arising from
+methods and epistemologies within the sciences, as well as from a
+broader range of discourses in popular culture. Ontological
+critique follows from an epistemological critique of the
+‘approaches’ adopted.
+We would be amiss, however, not to point to a recent
+expressionist and emergence tradition in information research
+wherein affordances are accounted for, even if the full
+consequences for the social science tradition, and, possibly, the
+technological traditions, in (L)IS are not fully acknowledged. This
+
+is a view of the social sciences that sees social research as
+qualitative and ethnographic (we recognize some of this occurring
+very lately in ‘information behavior’ research, particularly in its
+constructionist occurrences, and in the theorization of ‘positioning
+theory’ [Given, 2005]). Here, agents, materials, and objects are
+seen as forms for expression and emergence. In LIS, however, we
+have also seen some poor and misleading examples of
+ethnographic research, with the old specters of universalist claims
+and determinative causality haunting qualitative research, as
+much as it did previous quantitative research.
+Further, what has been lacking in (L)IS research as a whole has
+been the awareness that critical conceptual research in (L)IS has
+been, essentially, the forcing of a cultural-historical mode of
+analysis back onto the term “information” itself as well as other
+foundational terms and concepts in the field.. Such a
+misunderstanding has, perhaps, occurred because some of the
+conceptual studies in (L)IS are not nothing other than attempts to
+provide (L)IS with some sort of ‘philosophical’ or academic
+‘foundations.’ These latter attempts are done for political or
+sociological reasons, not for philosophical ones, for the functions
+of philosophy in regard to (L)IS are to clear up conceptual
+confusions and/or to create concepts that aid in our understanding
+of what such a field may and may not be or what the term
+“information” can or cannot mean, socially, culturally, and
+professionally.
+
+4. CONCLUSION
+In this paper we employ a philosophical-historical approach
+toward understanding (Library and) Information Science as both a
+social and a technological science. We have done this, via Martin
+Heidegger’s works, by returning to the etymological roots of
+technique and technology, the Ancient Greek techne, and we have
+seen how this term has been diametrically characterized in the
+Western philosophical tradition. We have proposed an account of
+socio-technical and technological causality that explains (L)IS
+technical and technological research in terms of cultural-social, as
+well as material and professional, affordances, rather than as
+determinative causation.
+REFERENCES
+[1] Bates, M. J. 1999. The invisible substrate of information
+science. Journal of the American Society for Information
+Science 50(12), 1043-1050.
+[2] Bates, M. J. 2005. Information and knowledge: An
+evolutionary framework for information science. Information
+Research, 10(4) paper 239 [Available at
+http://InformationR.net/ir/10-4/paper239.html]
+[3] Bates, M. J. 2006. Fundamental forms of information.
+Journal of the American Society for Information Science and
+Technology 57(8), 1033-1045.
+[4] Bowker, G. C. 2005. Memory Practices in the Sciences.
+Cambridge, MA: The MIT Press.
+
+[5] Bowker, G. C., & Star, S. L. 2000. Sorting Things Out:
+Classification and its Consequences. Cambridge, MA: The
+MIT Press.
+[6] Brookes, B. C. 1980. The foundations of information
+science: Part I philosophical aspects. Journal of Information
+Science 2, 125-133.
+[7] Buckland, M. K. 1991. Information as thing. Journal of the
+American Society for Information Science 42(5), 351-360.
+[8] Day, R. E. 2001. The Modern Invention of Information:
+Discourse, History, and Power. Carbondale, IL: Southern
+Illinois University Press.
+[9] Day, R. E. 2008. Works and representation. Journal of the
+American Society for Information Science and Technology
+59(10), 1644-1652.
+[10] Forsythe, D. E. 2001. Studying Those Who Study Us: An
+Anthropologist in the World of Artificial Intelligence.
+Stanford, CA: Stanford University Press.
+[11] Frohmann, B. 2004. Deflating Information: From Science
+Studies to Documentation. Toronto: University of Toronto
+Press.
+[12] Given, L. M. 2005. Positioning theory: A framework for
+information behaviour research. In Theories of Information
+Behavior: A Researcher’s Guide, K. E. Fisher, S. Erdelez,
+and L. McKechnie, Eds. ASIST (Information Today, Inc.),
+Medford, NJ, 334-338.
+[13] Harré, R. 2004. Staking our claim for qualitative
+psychology as science. Qualitative Research in Psychology
+1, 3-14.
+[14] Heidegger, M. 1977a. The end of philosophy and the task of
+thinking. In Basic Writings: from Being and Time (1927) to
+The Task of Thinking (1964). New York, Harper & Row,
+370-392.
+[15] Heidegger, M. 1977b. The question concerning technology.
+In The Question Concerning Technology and Other Essays.
+New York, Harper and Row, 3-35.
+[16] Hjørland, B. 2006. Information: Objective or
+subjective/situational? Journal of the American Society for
+Information Science and Technology 58(10), 1448-1456.
+[17] Saracevic, T. 1991. Information science: Origin, evolution
+and relations. In Conceptions of library and information
+science: Historical, empirical and theoretical perspectives,
+P. Vakkari and B. Cronin, Eds., London, Taylor Graham, 527.
+[18] Saracevic, T. 1999. Information science. Journal of the
+American Society for Information Science 50(12), 10511063.
+
+

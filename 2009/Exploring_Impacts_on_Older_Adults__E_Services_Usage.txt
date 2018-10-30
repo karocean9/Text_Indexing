@@ -1,0 +1,248 @@
+Exploring Impacts on Older Adults’ E-Services Usage
+Johanna L.H. Birkland
+Syracuse University
+245 Hinds Hall
+Syracuse, NY 13244-4100
+001 + 1 + 315 443 2911
+
+jlbirkla@syr.edu
+ABSTRACT
+By 2050, over one fifth of the U.S. population will be age 65 or
+older [17], suggesting increased pressure on our societies to
+ensure that the needs of older adults are met. Not only are our
+societies aging, but technology has become pervasive in many of
+the processes upon which older individuals depend.
+An example of the impact that technology has had on older adults
+is the rise of governmental e-services. E-services have been
+defined as “interactive software-based information systems” that
+are accessed via the internet or through other forms of technology
+[7]. Examples of e-services that impact older individuals include
+the Help America Vote Act, which requires all states in the US to
+implement electronic voting by 2012 [8] and the digitalization of
+Medicare benefits [18]. However, research has demonstrated that
+older adults use Information and Communication Technologies
+(ICTs) less than younger adults suggesting that many older adults
+are not benefiting from these digitalized e-services [5, 11]. In the
+case of e-voting, are actually discouraged from voting when
+technology is used [14].
+Several studies have examined e-services usage by the general
+population [6, 7], while other studies have examined the factors
+that influence older adult usage of ICTs [5, 11, 12]. Each of these
+studies implicates several different factors thought to affect usage,
+and it is unclear if these factors are related, or if some factors are
+antecedents of others. Additionally, in the e-services literature,
+there has been a concentration on exploring individual’s intent to
+use e-services [6, 7], rather than their actual use. It is possible that
+for older adults, there are impacts that prevent those who intend to
+use a technology from doing so. This abstract proposes a study to
+understand the full array of factors affecting older adults usage of
+e-services, including how these factors are related.
+
+1.1 Previous Research on Older Adults, ICTs,
+and E-Services
+Research relevant to the study of factors influencing e-service
+usage by older adults includes previous research on older adults
+and ICT usage and more general research focusing on adults of all
+ages that examines e-services usage.
+
+1.1.1 Previous Research: Impacts on Older Adults’
+ICT Usage
+Studies on the impacts of older adults ICT usage have mainly
+focused on computer and the internet use. Confirmed impacts on
+older adults computer and internet usage have included computer
+anxiety, types of intelligence (crystallized and fluid) [3], attitudes
+towards technology [5, 11], and self efficacy regarding technology
+[12]. Other factors impacting older adult ICT usage have included
+external reasons (because they received the technology as a gift),
+
+affective reasons (because the computer fulfilled needs for
+communication or social interaction), and activity reasons (to
+fulfill their desired for hobbies or activities) [9]. The relevance of
+the specific ICT to the older adult has also been demonstrated to
+impact usage [15, 16].
+1.2 Previous Research: Impacts on E-Service’s Usage
+Previous research in the information systems literature has
+suggested several factors that impact a user’s intention to use eservices. Based upon the theory of TAM, the Technology
+Acceptance Model, these studies have demonstrated the
+pervasiveness of the perceived ease of use and perceived
+usefulness on user’s intentions to use e-services. Intention to use a
+technology is thought to directly relate to an individual’s actual
+use [1, 4]. Specific studies have sought to better understand the
+antecedents of perceived ease of use and usefulness for e-services.
+One potential antecedent to ease of use for e-services that has
+been examined is perceived risk. Perceived risk includes feelings
+of “uncertainty about possible negative consequences of using a
+product or service” [7]. The incorporation of perceived risk into
+the TAM model indicated that higher levels of perceived risk
+decreased individual’s perceived ease of use of the e-service, and
+therefore decreased their intention to use e-services [6, 7]. Others
+have examined perceptions of trust in the e-service and
+sponsoring organization [2]. Other research has suggested that
+internet self-efficacy (an individual’s beliefs about how capable a
+person is of completing a task using the internet) and e-service
+self-efficacy (an individual’s belief about their competency of
+completing an e-commerce transaction) impact individuals intent
+to use e-services [10].
+Most closely related to the study of older adults and e-services
+was the study of the antecedents of perceived usefulness and ease
+of use of an online e-government application (Central Provident
+Fund), allowing older individuals to withdraw their social security
+saving plan. Perceived usefulness was affected by older adults’
+self-actualization (motivation to stay up to date on technological
+skills) and resource saving (saving of time and money). Computer
+anxiety and computer support available from others anteceded the
+perceived ease of use of the e-service [13].
+The studies previously discussed propose many factors thought to
+impact older adult ICT usage and e-service usage by the general
+public. These studies demonstrate a diversity of possible impacts
+on older adult’s usage of e-services including: the ease of use and
+relevance of the technology, user self-efficacy and technological
+anxiety, perceived risk of the services, and user perceptions of
+resource saving. However, it is not clear from the literature how
+these factors are interrelated, or specific factors affecting older
+
+adult usage. This abstract describes a mixed methods
+methodology to further explore the factors that affect older adults’
+e-services usage, and the relationships between these factors.
+Because of the aging of our societies and the increased
+development of e-services by government agencies, it will be
+important to understand why some older adults choose to use
+these services and others do not. Understanding these factors will
+be important to ensure equal access for all members of our
+societies.
+
+6.
+
+Featherman, M.S. and Fuller, M. 2003. Applying TAM
+to e-services adoption: The moderating role of
+perceived risk 36th Hawaii International Conference on
+System Sciences, 2003.
+
+7.
+
+Featherman, M.S. and Pavlou, P.A. 2003. Predicting eservices adoption: A perceived risk facets perspective.
+International Journal of Human-Computer Studies, 59
+(2003). 451-474.
+
+8.
+
+Federal Election Commission. Help America Vote Act
+of 2002: Public Law 107-252, 2002.
+
+This poster proposes a multi-phase developmental mixed methods
+design in order to understand why older adults use e-services less
+than younger adults. Using previous literature and a set of
+qualitative methods (semi-structured interviews and focus groups)
+the researcher will seek to understand the various factors that
+impact older adult e-service usage. Once these factors have been
+discovered, the researcher plans to use a survey methodology to
+understand which of these factors have the greatest impact on eservice usage and the relationship of these factors to one another
+for the general population of older adults.
+
+9.
+
+Gietzelt, D. 2001. Computer and internet use among a
+group of Sydney seniors: A pilot study. Australian
+Academic & Research Libraries, 32 (2). 137-152.
+
+10.
+
+Hsu, M.-H. and Chiu, C.-M. 2004. Internet self-efficacy
+and electronic service acceptance. Decision Support
+Systems, 38 (2004). 369-381.
+
+11.
+
+Iyer, R. and Eastman, J.K. 2006. The elderly and their
+attitudes toward the internet: The impact on internet
+use, purchase, and comparison shopping. Journal of
+Marketing Theory and Practice, 14 (1). 57-67.
+
+12.
+
+Lam, J.C.Y. and Lee, M.K.O. 2006. Digital
+inclusiveness - Longitudinal study of internet adoption
+by older adults. Journal of Management Information
+Systems, 22 (4). 177-206.
+
+13.
+
+Phang, C.W., Sutanto, J., Kankanhalli, A., Li, Y., Tan,
+b.C.Y. and Teo, H. 2006. Senior citizens' acceptance of
+information systems: A study in the context of egovernment services. IEEE Transactions on
+Engineering Management, 53 (4). 555-569.
+
+14.
+
+Roseman, G.H. and Stephenson, E.F. 2005. The effect
+of voting technology on voter turnout: Do computers
+scare the elderly? Public Choice, 123. 39-47.
+
+15.
+
+Selwyn, N. 2004. The information aged: A qualitative
+study of older adults' use of information and
+communications technology. Journal of Aging Studies,
+18 (4). 369-384.
+
+16.
+
+Czaja, S.J., Charness, N., Fisk, A.D., Hertzog, C., Nair,
+S.N., Rogers, W.A. and Sharit, J. 2001. Factors
+predicting the use of technology: Findings from the
+Center for Research and Education on Aging and
+Technology Enhancement (CREATE). Psychology and
+Aging, 21 (2). 333-352.
+
+Tatnall, A. and Lepa, J. 2003. The internet, ecommerce, and older people: An actor network
+approach to researching reasons for adoption and use.
+Logistics and Information Management, 16 (1). 56-63.
+
+17.
+
+Davis, F.D. 1989. Perceived usefulness, perceived ease
+of use, and user acceptance of information technology.
+MIS Quarterly, 13 (3). 319-340.
+
+U.S. Census Bureau. Facts for Features: Older
+Americans Month Celebrated in May, 2005.DOI:
+http://www.census.gov/PressRelease/www/releases/archives/facts_for_features_speci
+al_editions/004210.html
+
+18.
+
+U.S. Department of Health and Human Services.
+Medicare Modernization Update, 2003.DOI:
+http://www.cms.hhs.gov/MMAUpdate/
+
+Categories and Subject Descriptors
+K.4.2 [Computers and Society]: Social Issues – employment
+
+General Terms
+Human Factors
+
+Keywords
+Older adults, elderly, seniors, ICTs, e-services, governmental eservices.
+
+1. REFERENCES
+1.
+
+2.
+
+3.
+
+4.
+
+5.
+
+Bagozzi, R.P. and Davis, F.D. 1992. Development and
+test of a theory of technological learning and usage.
+Human Relations, 45 (6). 659-686.
+Carter, L. and Belanger, F. 2005. The utilization of egovernment services: Citizen trust, innovation and
+acceptance factors. Information Systems Journal, 15. 525.
+
+Eastman, J.K. and Iyer, R. 2004. The elderly’s uses and
+attitudes towards the Internet. Journal of Consumer
+Marketing, 21 (3). 208-220.
+
+

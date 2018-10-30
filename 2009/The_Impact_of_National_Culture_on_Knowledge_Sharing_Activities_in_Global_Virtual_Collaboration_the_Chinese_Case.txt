@@ -1,0 +1,733 @@
+The Impact of National Culture on Knowledge Sharing Activities in Global Virtual
+Collaboration: the Chinese Case
+Kangning Wei
+l
+School of Information Studies
+Syracuse University
+
+kwei@syr.edu
+ABSTRACT
+This paper explores the impact of national culture on knowledge
+sharing activities in global virtual collaboration. In specific, the
+Chinese culture is examined.
+
+Categories and Subject Descriptors
+J.4 [Computer Applications]: Social and Behavioral Sciences Sociology
+
+General Terms
+
+country like Japan. Despite the fact that industries has been
+relocating from developed countries to low cost developing
+countries, little research has been done in a context of developing
+countries. China presents an extremely interesting example given
+its growing importance in global economics and its strong ability
+to receive foreign direct investment. More specifically, the U.S.
+culture was selected as the control culture given the important
+relationship between China and the U.S. in economic field. In
+other words, this research only focuses on the Chinese perceptions
+of the impact of Chinese culture on their knowledge sharing
+activities when they virtually work with the U.S. colleagues.
+
+Management, Performance, Human Factors
+
+Keywords
+Knowledge sharing, global virtual collaboration, national culture,
+concern for face, language
+
+1. INTRODUCTION
+The knowledge-based view of the firm [1] emphasizes the
+importance of knowledge management in modern organizations.
+Knowledge sharing is a key process in knowledge management
+practices. Recent research on knowledge sharing has identified a
+variety of factors that lead to effective knowledge sharing, such as
+motivation [2] and culture [3], but few studies have focused on
+addressing knowledge sharing activities in different settings [4].
+One interesting example is in virtual collaboration, especially in
+global virtual collaboration.
+Knowledge sharing in virtual collaboration is different than in
+traditional face-to-face settings. By using ICT, virtual
+collaboration can facilitate knowledge sharing in terms of easily
+organizing diverse backgrounds of the knowledge workers and
+increasing accessibility to information and knowledge [5]. On the
+other hand, the geographic, temporal, organizational and/or
+cultural discontinuities [6] that may exist in virtual collaboration
+may create problems that can hinder knowledge sharing among
+team members.
+One of the major barriers to knowledge sharing is cultural
+differences [7]. This problem is even more prominent in global
+virtual collaboration settings since the team members may come
+from different departments, organizations and/or different
+countries. Thus, different levels of culture may shape members’
+knowledge sharing behavior, but little research has explored the
+effect of cultural differences on knowledge sharing activities in
+virtual collaboration [8].
+
+2. LITERATURE REVIEW AND
+HYPOTHESES DEVELOPMENT
+Knowledge sharing is defined as the exchange of task-related
+information, know how, and feedback regarding a product or
+procedure [9]. Literature review in the fields of knowledge
+sharing, global virtual collaboration and cross-cultural studies
+revealed that the existing research on cross-cultural issues in
+knowledge sharing activities in global virtual collaboration setting
+is limited.
+Most research on cross-cultural studies uses value-based cultural
+dimensions such as Hofstede’s [10] five dimensions, and has been
+mainly conducted at a single cultural level. Recently, researchers
+have argued that individual’s behavior is influenced by different
+levels of culture ranging from supranational level through the
+national, professional, and organizational levels to the group level,
+and all these different cultures can influence individual’s behavior
+simultaneously [11, 12]. As a result, culture must be measured at
+an individual level; after the individual level data is aggregated, it
+will be possible to assert whether a certain cultural characteristic
+is common to a certain culture or not [12].
+After a careful examination of national cultural dimensions in
+literature, Terpstra and Sarathy’s [13] eight dimensions 1 of
+national culture was chosen as a start to refine the relevant
+cultural factors in this research because it includes not only the
+value-based cultural factors but the non-value based cultural
+dimensions such as language and material culture, which have
+been also identified as important factors that impact individual
+behaviors in cross-cultural research [e.g. 3].
+A field study conducted in 2006 was served as a basis for the
+development of the hypotheses used in this study 2 . Given the
+1
+
+So to fill these gaps, I propose to study the impact of national
+culture on knowledge sharing in global virtual collaboration. In
+this research, I focused on one specific nation: the Peoples’
+Republic of China. Knowledge management research is usually
+done in the context of western countries or a specific developed
+
+The eight dimensions are: technology and material culture,
+language, aesthetics, education, religion, attitudes and values,
+social organization and political life.
+
+ 2 Actually, the research described in this paper is the second
+phase of the researcher’s dissertation. The first phase is to use
+an exploratory case study approach to explore how national
+
+space limit, here will only briefly report the constructs that were
+identified for the survey. A description of the field study is
+provided in Appendix 1.
+
+H2c: The perceived degree of concern for face negatively affects
+the participation effectiveness in social-related communication in
+global virtual collaboration.
+
+Three cultural factors (language difference, technology
+infrastructure and concern for face), three knowledge sharing
+activities (the preference for using different types of tools in terms
+of written-based and voice-based communication tools,
+participation in task-related and social-related communication)
+and two factors that impact individual’s perceptions of concern
+for face (extraversion and adaptation to organizational culture)
+were identified from the case study. The relationships between
+these factors were further examined in the survey. The research
+model is presented in Figure 1. The hypotheses are illustrated
+below. Given the space limit, the rationale behind the hypotheses
+development is not explained here. Instead, it is provided in
+Appendix 2.
+
+H3a: The quality of technology infrastructure positively affects
+the effectiveness of participation in task-related communication in
+global virtual collaboration.
+
+Perceived quality of
+technology
+infrastructure
+
+H3a
+
+Knowledge Sharing
+Activities
+
+H3b
+
+preference of the use
+of Knowledge sharing
+tools
+
+H1a
+
+Perceived English
+Competence
+
+H1b
+H1c
+
+Effectiveness of
+Participation in taskrelated Communication
+
+H4
+H2a
+Perceived Concern
+for Face
+H5a
+Extraversion
+
+H2b
+
+H5b
+
+H2c
+
+Effectiveness of
+Participation in socialrelated Communication
+
+Adaptation to
+Organizational
+culture
+
+Figure 1. Research Model
+H1a: The perceived English competence affects the preference for
+the use of different types of knowledge sharing tools in global
+virtual collaboration. The more competent one’s English skills are,
+the less written based communication tools s/he would like use.
+H1b: The perceived English competence positively affects the
+effectiveness of participation in task-related communication in
+global virtual collaboration.
+H1c: The perceived English competence positively affects the
+effectiveness of participation in social-related communication in
+global virtual collaboration.
+H2a: The perceived degree of concern for face affects the
+preference for the use of different types of knowledge sharing
+tools in global virtual collaboration. The more one concerns for
+face, the less voice based tools s/he would like use.
+
+H3b: The quality of technology infrastructure positively affects
+the effectiveness of participation in social-related communication
+in global virtual collaboration.
+H4: perceived English competence is negatively related to the
+perceived degree of concern for face.
+H5a: Extraversion is negatively associated the perceived degree of
+concern for face in global virtual collaboration.
+H5b: The degree of adaptation to organizational culture is
+negatively associated with the perceived degree of concern for
+face in global virtual collaboration.
+
+3. METHOD
+For this research, an online survey approach was applied. The
+instrument used in the survey includes items gathering
+demographic information of the respondents and items measuring
+the research constructs implied in the research model. The
+measures for the constructs in the research model were adapted
+from those validated in prior studies with minor wording changes
+made to incorporate the context of global virtual collaboration.
+The survey instrument was translated into Chinese and pre-tested
+before the final administration. The subjects were recruited from
+Chinese individuals who work in an American company in China
+and have had virtual collaboration experiences with the
+Americans. A small number of incentive prizes were provided to
+encourage participation. Partial Least Squares (PLS) were used to
+analyze the survey data.
+
+4. RESULTS
+In total, the final sample consists of 63 valid responses.
+SmartPLS 3 was used to analyze the final data. Measurement
+model and structural model were assessed. The measurement
+model was assessed in terms of reliability and validity. In
+summary, the measurement model was found to be effective.
+Given the space limit, here I will only report the results for the
+hypotheses testing, which are depicted in Figure 2 and
+summarized in Table 1.
+
+H2b: The perceived degree of concern for face negatively affects
+the effectiveness of participation in task-related communication in
+global virtual collaboration.
+
+culture impact knowledge sharing activities in global virtual
+collaboration and what kind of other factors that may mediate
+the impacts. The purpose of the case study is to understand the
+research questions qualitatively and generate a set of hypotheses,
+which can be tested in phase two.
+
+3 Ringle, C.M./Wende, S./Will, S.: SmartPLS 2.0 (M3) Beta,
+Hamburg 2005, http://www.smartpls.de.
+
+R2=.203
+
+Perceived quality of
+technology
+infrastructure
+
+.104***
+
+preference of
+Knowledge sharing
+tools
+
+.309****
+
+-.391
+
+R2=.205
+
+Perceived English
+Competence
+
+.434****
+.283****
+
+.020
+
+R2=.058
+
+-.226
+R2=.225
+
+Perceived Concern
+for Face
+
+.0.048
+.179***
+
+-.182****
+
+Extraversion
+
+Effectiveness of
+Participation in taskrelated Communication
+
+Effectiveness of
+Participation in socialrelated Communication
+
+.169*
+Adaptation to
+Organizational
+culture
+
+**** significant at .001
+*** significant at .01
+** significant at .05
+* Significant at .10
+
+Figure 2. Results of PLS Analysis
+
+Table 1. Results of Hypothesis Testing
+H
+
+Path
+coefficient
+
+T value
+
+H1a
+
+-0.391
+
+1.375
+
+Not Supported
+
+H1b
+
+0.434
+
+10.344
+
+Supported
+
+H1c
+
+0.283
+
+6.330
+
+Supported
+
+H2a
+
+-0.226
+
+1.142
+
+Not supported
+
+H2b
+
+0.048
+
+0.645
+
+Not Supported
+
+H2c
+
+0.179
+
+3.066
+
+Not supported
+(Significant but in
+opposite direction)
+
+H3a
+
+0.104
+
+2.632
+
+Supported
+
+H3b
+
+0.309
+
+8.189
+
+Supported
+
+H4
+
+0.020
+
+0.373
+
+Not supported
+
+H5a
+
+-0.182
+
+4.999
+
+Supported
+
+H5b
+
+0.169
+
+1.896
+
+Not supported
+(Significant but in
+opposite direction)
+
+Result
+
+5. DISCUSSIONS
+In this survey, I examined the relationships between Chinese
+cultural factors and knowledge sharing activities in global virtual
+collaboration with the Americans. Generally, hypotheses
+regarding the impact of language and technology infrastructure
+were supported. Language was found to be the strongest factor
+that influences knowledge sharing activities. However, hypotheses
+regarding concern for face were not supported, and the results
+showed mixed results for participation effectiveness in taskrelated vs. social-related communication. In the following section,
+I provided discussions for these interesting findings.
+As expected, there was a significant negative impact of
+extraversion on concern for face. However, none of the
+hypotheses regarding the impact of concern for face on knowledge
+sharing activities was supported. Further, concern for face was
+found to have a reverse hypothesized relationship with
+
+participation effectiveness in social-related communication (H2c).
+While it might be difficult to understand at a first glance, a
+plausible explanation does exist for such observations, which rely
+on a deeper examination of the concept of the “concern for face”
+itself.
+Face is “the respect, pride, and dignity of an individual as a
+consequence of his or her social achievement” [14 p.1575] .
+People try to enhance his or her face or try to avoid losing his or
+her face to gain respect and recognition from others [15]. So
+usually there are two behaviors related to concern for face: face
+gaining behavior and face saving behavior. Saving face does not
+necessarily mean gaining face, because face could only be gained
+through others’ recognition and admiration [16]. Hwang et al. [17]
+propose that people would behave differently towards face saving
+and face gaining. For example, by surveying 159 MBA students in
+a major university in eastern China, Huang and her colleagues [16]
+found that face saving behavior has a negative relationship with
+the intention to share knowledge, while face gaining behavior has
+a positive relationship with the intention to share knowledge. Chu
+[18] argues that if people intends to save face, they will restrict
+their behavior as much as possible, or even avoid to contact with
+other; but for gaining face purpose, people will engage in self
+expression and showing one’s merits actively.
+Now return back to the results of this research. A possible
+explanation for the results regarding the impact of concern for
+face is that people, at least in the surveyed sample, care more
+about face gaining than face saving. In other words, people’s
+concern for “face” leads more face gaining behaviors than face
+saving behaviors, which might be true in a competitive
+environment such as a multinational company in China. In such
+companies, people need to be recognized in order to gain various
+opportunities such as salary raise and promotion. So in this way,
+the more people care about their face, the more they would like to
+gain face, so they would participate more effectively in social
+related communication, because that is the way how they can
+express themselves to others.
+Similarly, the face gaining inclination can also explain why
+people who are more adapted to organizational culture tend to
+concern more about their faces. In this research, the organizations
+where the respondents work are supposed to have an open, direct
+and a competitive culture. Under the influence of this type of the
+organizational culture, people are more likely to concern about
+face gaining, so the more they are adapted to the organizational
+culture, the more they will concern for face.
+In this research, three factors were investigated to study their
+impact on participation effectiveness in task related and social
+related communication: the quality of the technology
+infrastructure, language and concern for face. The results found
+that both language and the quality of the technology infrastructure
+show significant positive impacts on participation effectiveness in
+both task related and social related communication with higher
+coefficients on the latter. Concern for face only showed
+significant impact on participation effectiveness in social related
+communication. These results can be explained from the different
+communication requirement between social-related knowledge
+and task-relate knowledge. In the interviews, the interviewees
+mentioned the difference between sharing social-related and taskrelated knowledge. They pointed out that social-related
+knowledge is more context-based, and it often comes with more
+
+idioms, faster talking speeds, and use of different tones. So
+sharing social knowledge has a higher requirement for language
+and the quality of technology infrastructure. With them, people
+are willing to participate in the social-related communication
+because it helps them to understand what others say more clearly
+and keep the conversation smoothly.
+
+6. IMPLICATIONS
+This research has both theoretical and practical implications.
+Theoretically, this work bridges the gap between knowledge
+sharing, virtual teams and national culture research. Another
+theoretical implication is to introduce a distinction between
+national culture and national culture-in-practice. Most research on
+national culture treats culture as a static construct or a stable
+disposition of actors. It assumes that everybody in a specific
+culture should behave in a same way. But in practice, national
+culture is not functioning alone. Data analysis of this research
+finds that the impact of national culture on individual’s behavior
+is much more dynamic. It impacts actors’ behaviors together with
+a variety of other factors such as organizational culture and
+individual characteristics. In this way, individual’s understandings
+of national culture, especially cultural values, are shaped by these
+factors and are reinforced or modified by actions as actors engage
+in practice.
+The results also have practical implications for managers and team
+members. Research has found that though managers have realized
+the importance of culture, they find it is difficult or even
+impossible to “articulate the culture-knowledge relationship in
+ways that lead to action” [7]. One purpose of this research is to
+explore the relationships between national culture and knowledge
+sharing activities. The results of this study can therefore provide
+guidelines for managers and virtual team members to manage
+culture and technology to foster knowledge sharing activities in
+virtual settings, which in turn will improve team effectiveness.
+
+International conference on System Sciences. Big Island,
+Hawaii. January 07 - 10.
+[7] Long, D. W. D. and Fahey, L. 2000. Diagnosing Cultural
+Barriers to Knowledge Management. The Academy of
+Management Executive 14(4), 113-127.
+[8] Evaristo, R. 2003. The Mangement of Distributed Projects
+across Cultures. Journal of Global Information Management
+11(4), 58-70.
+[9] Cummings, J. N. 2004. Work Groups, Structural Diversity,
+and Knowledge Sharing in a Global Organization.
+Management Science 50(3), 352-364.
+[10] Hofstede, G. 1993. Cultural Constraints in Management
+Theories. Academy of Management Executive 7(1), 81-94.
+[11] Karahanna, E., Evaristo, J. R. and Srite, M. 2005. Levels of
+Culture and Individual Behavior: An Integrative Perspective.
+Journal of Global Information Management 13(2), 1-20.
+[12] Straub, D., Loch, K., Evaristo, R., Karahanna, E. and Srite,
+M. 2002. Toward a Theory-based Measure of Culture.
+Journal of Global Information Management 10(1), 13-23.
+[13] Terpstra, V. and Sarathy, R. 2000. International Marketing.
+Hinsdale, Illinois, The Dryden Press.
+[14] Leung, T. K. P. and Chan, R. Y.-k. 2003. Face, Favour and
+Positioning: A Chinese Power Game. European Journal of
+Marketing 37(11/12), 1575-1598.
+[15] Cheung, F. M., Leung, K., Zhang, J.-X., Sun, H.-F., Gan, Y.Q., Song, W.-Z. and Xie, D. 2001. Indigenous Chinese
+Personality Constructs: Is the Five-Factor Model Complete?
+Journal of Cross-Cultural Psychology 32(4), 407-433.
+[16] Huang, Q., Davison, R. M. and Gu, J. 2008. Impact of
+Personal and Cultural factors on Knowledge Sharing in
+China. Asia Pacific J Manage 25(3), 451-471.
+
+[1] Grant, R. M. 1996. Prospering in Dynamically-competitive
+Environments: Organizational Capability as Knowledge
+Integration. Organization Science 7(4), 375-387.
+
+[17] Hwang, A., Francesco, A. M. and Kessler, E. 2003. The
+relationship between individualism-collectivism, face, and
+feedback and learning processes in Hong Kong, Singapore,
+and the United States. Journal of Cross-Cultural Psychology
+34(1), 72-91.
+
+[2] Constant, D., Kiesler, S. and Sproull, L. 1994. What's Mine
+is Ours, or Is It? A Study of Attitudes about Information
+Sharing. Information Systems Research 5(4), 400-421.
+
+[18] Chu, R. L. 2006. Social interactions among the Chinese: On
+the issue of face. Chinese Social Psychological Review. X.
+Zhai. Beijing, China, Social Science Academic.
+
+[3] Ford, D. P. and Chan, Y. E. 2003. Knowledge Sharing in a
+Multi-cultural Setting: a case study. Knowledge Management
+Research & Practice 1(1), 11-27.
+
+[19] McDonough, E. F., Kahn, K. B. and Griffin, A. 1999.
+Managing Communication in Global Product Development
+Teams. IEEE Transactions on Engineering Management
+46(4), 375-386.
+
+7. REFERENCES
+
+[4] Alavi, M. and Tiwana, A. 2002. Knowledge Integration in
+Virtual Teams: the potential roles of KMS. Journal of the
+American Society for Information Science and Technology
+53(12), 1029-1037.
+[5] Majchrzak, A., Malhotra, A. and John, R. 2005. Perceived
+Individual Collaboration Know-How Development Through
+Information Technology-Enabled Contextualization:
+Evidence from Distributed Teams. Information Systems
+Research 16(1), 9-27.
+[6] Watson-Manheim, M. B., Crowston, K. and Chudoba, K. M.
+2002. a New Perspective on "Virtual": Analyzing
+Discontinuities in the Work Environment. 35th Hawaii
+
+[20] Barner-Rasmussen, W. and Bor, S. 2005. Language in
+multilingual organizations - a review of the management and
+organization literature. 18th Scandinavian Academy of
+Management. Aarhus, Denmark.
+[21] Harzing, A.-W. and Feely, a. 2008. The language barrier and
+its implications for HQ-subsidiary relationships. Cross
+Cultural Management: An International Journal 15(1), 49-61.
+[22] Voelpel, S. C. and Han, Z. 2005. Managing knowledge
+sharing in China: the case of Siemens ShareNet. Journal of
+Knowlegde Management 9(3), 51-63.
+
+[23] Riopelle, K., Gluesing, J. C., Alcordo, T. C., Baba, M. L.,
+Britt, D., McKether, W., Monplaisir, L., Ratner, H. H. and
+Wagner, K. H. 2003. Context, Task, and the Evolution of
+Technology Use in Global Virtual Teams. Virtual Teams that
+
+Work: Creating Conditions for Virtual Team Effectiveness.
+C. B. Gibson and S. G. Cohen. Hoboken, NJ, Jossey-Bass,
+239-264.
+
+Appendix 1. Brief Description of the Case Study
+The case study was conducted in a Chinese site of a knowledge-intensive global corporation. English is the working language. A technical
+support engineering team located in the site was selected for the study, which is from an IT department. The team has 21 employees (and
+other than the two American senior managers, all are Chinese). Most of the Chinese engage in a lot of collaborative work with U.S.
+colleagues. These Chinese are the main research subjects of this study. The researcher spent three months in the site as an intern from June
+2006 to September 2006, which gave the researcher opportunities to attend the team meetings, observe team members’ daily work style,
+and interview with them formally and informally. Content analysis was used to analyze the data from direct observation, documentation
+review and interviews. A set of hypotheses were developed from the case study.
+By synthesizing literature, previous research in the corporation and the results of informal interviews with team members, four cultural
+dimensions were identified for the interview protocol: language, education, technology and material culture, and attitudes and values. In
+this study, the perception of language impact was captured by asking team members how they feel by using English to communicate with
+their American colleagues. Chinese workers mainly communicate with their U.S. colleagues through ICT, so technology infrastructure and
+its use were chosen as the indicator of “technology and material culture” in the interview protocol. Since this research focuses on
+knowledge sharing happened in workplace, technical knowledge one has had as a result of education was selected as the indicator of
+“education”. Concern for face was chosen as the indicator of “attitudes and values”, which is because this research studies the impact of
+national culture on knowledge sharing from Chinese perspective and concern for face is very deep rooted and influential in China. The
+interviews focused on explore the Chinese individual’s perceptions of the impact of these cultural factors on knowledge sharing activities
+in global virtual collaboration.
+
+Appendix 2. Hypotheses Development
+In the following section, I describe each empirically generated insight from the case study, seek evidence from previous literature to
+explain and validate the analysis, and then propose specific hypotheses concerning the relationships between cultural factors and
+knowledge sharing activities.
+Language
+It is evident that there are big differences between the two languages (Chinese and English) themselves. What interests the researcher is the
+fact that, since English is used as the working language in the organization, how the Chinese individual’s perceptions of their English
+competence affect knowledge sharing activities? Indeed, when asked about how using English as the official language influenced their
+knowledge sharing activities with American colleagues, all interviewees talked about the problems created due to their English reading,
+writing, listening and speaking skills. This observation regarding language difference is consistent with that of Ford and Chan [3] research.
+By studying the impact of national culture on knowledge sharing in a multicultural setting, Ford and Chan found that language differences
+in terms of individual’s proficiency in different languages and willingness to learn a different language can create knowledge blocks that
+prevent knowledge from flowing effectively within an organization. So in this study, English competence is examined.
+First, from the case study, we can see that individual’s English competence affected his or her selection of knowledge sharing tools. As
+several members mentioned, they preferred reading and writing English because in that way, they had more time to think about and
+organize their thinking in English before communicate with American colleagues. But in occasions that need to speak English such as in
+meetings, they usually felt more difficulties in catching up others’ speaking and expressing themselves clearly.
+Previous research on language differences also reflects this observation. For example, in an exploratory investigation of communication in
+global product development teams, McDonough et al. [19] found that Language differences create the need for written-asynchronous
+communication because it allows interacting parties to take more time to interpret and process the information exchanged.
+Second, perceived English competence was also found to affect participation in knowledge sharing communications, especially when using
+verbal-synchronous communication tools. As the interviewees mentioned, their English listening skills sometimes prevented them from
+understanding others well. They could not go back to the context easily once they got lost during telephone meetings. They sometimes
+could not use English to express the full ideas they would otherwise in Chinese. Another important factor the interviewees mentioned was
+that the limitations of using English to exchange social knowledge had made their meetings dry and boring, which in turn had impacted the
+communication. All these had a big negative impact on their communication with the American colleagues.
+This observation is supported by research demonstrating how language differences shape communication [20]. Harzing and Feely [21] use
+socio-linguistic theory to demonstrate how language barrier creates communication misunderstandings in HP-subsidiary relationships.
+As a result, the following hypotheses are proposed:
+
+H1a: The perceived English competence affects the preference for the use of different types of knowledge sharing tools in
+global virtual collaboration. The more competent one’s English skills are, the less written based communication tools s/he
+would like use.
+H1b: The perceived English competence positively affects the effectiveness of participation in task-related communication in
+global virtual collaboration.
+H1c: The perceived English competence positively affects the effectiveness of participation in social-related communication in
+global virtual collaboration.
+Perceived Concern for Face
+In the Chinese team members’ opinions, the American colleagues were less concerned for faces. They were much opener and more direct.
+Among Chinese members, the perceived degree of concern for face was quite diverse. Some members perceived themselves concerned very
+much for their or the others’ faces, so they did not initiate questions in order to protect their faces; While some others perceived themselves
+less concerned for face, so they were actively involved in the discussions and were not afraid of losing faces. So here the perceived degree
+of concern for face affects the participation in knowledge sharing communications. Another consequence from concern for face is that for
+those members who are more concerned for their faces, they prefer using asynchronous tools to communicate. The reason for that is, as I
+stated earlier, by doing so, they had more time to think about and organize their thinking in English before communicate with American
+colleagues. In that way, they kind of protected their faces to some extent. Some other members mentioned a correlation between their
+English competence and their degree of concern for face. They mentioned that they did not participate actively in a meeting because they
+did not want to lose their faces by speaking English badly.
+Some cross-culture research, especially those that include Chinese culture, has somehow touched the relationship between concern for face
+and knowledge sharing activities qualitatively in different organizational settings. These findings support the above observation. From an
+in-depth case study of Siemens ShareNet in China, Voelpel and Han [22] conclude that ‘‘concern for face’’ is one of the two cultural
+aspects that negatively influence Chinese employees’ knowledge-sharing behavior. They further point out that, employees who are highly
+sensitive to “face saving” and feel bad about their English abilities are reluctant to share knowledge actively.
+Hence, I propose:
+
+H2a: The perceived degree of concern for face affects the preference for the use of different types of knowledge sharing tools
+in global virtual collaboration. The more one concerns for face, the less voice based tools s/he would like use.
+H2b: The perceived degree of concern for face negatively affects the effectiveness of participation in task-related
+communication in global virtual collaboration.
+H2c: The perceived degree of concern for face negatively affects the effectiveness of participation in social-related
+communication in global virtual collaboration.
+H4: perceived English competence is negatively related to the perceived degree of concern for face.
+Quality of Technology infrastructure
+Technology infrastructure refers to the basic utilities like power, telephone and cable that make possible the communication technologies
+upon which global virtual teams rely [23]. In this case, technology infrastructure was found no effect on their knowledge sharing activities.
+Most interviewees thought there was no difference on technology infrastructure between their work site and the U.S. site. Two reasons
+might be used to explain this observation, as I stated earlier: the first is that the Chinese site is located in the eastern China, where is rich
+and has built reliable technology infrastructure. The other reason is that in this organization, major international sites mirror the size of the
+U.S. sites with their large campuses of multiple buildings, and the architecture is standard from building to building. Without these two
+specifications, the results might not be the same.
+Although little research has empirically studied the impact of technology infrastructure on knowledge sharing activities, a few studies have
+touched the relationship between the quality of technology infrastructure and communication qualitatively to some extent. For example,
+Riopelle and colleagues [23] demonstrate how the reliability of electrical power and telephone circuit reliability in different countries
+impact communication quality in a case study of six global virtual teams.
+
+Hence, I propose the following hypothesis regarding the impact of the quality of technology infrastructure on knowledge sharing activities:
+H3a: The quality of technology infrastructure positively affects the effectiveness of participation in task-related
+communication in global virtual collaboration.
+H3b: The quality of technology infrastructure positively affects the effectiveness of participation in social-related
+communication in global virtual collaboration.
+The very different perceptions of the degree of concern for face from different individuals indicate that it was most likely influenced by
+other factors. Two antecedents were found from the case study, which are associated with the perceived degree of concern for face. They
+are extraversion and the degree of adaptation to the organizational culture.
+Extraversion
+First, the very different perceptions of concern for face from different individuals indicate that this factor might be affected by individual
+characteristics. Indeed, the word “shy” often came together with “concern for face” during interviews. Some interviewees mentioned they
+were those persons that straight and open and did not care much about what others said, so they cared less about faces. Extraversion is
+found to be extremely relevant in this study, which is described as assertive, active, talkative, upbeat, energetic, and optimistic.
+Adaptation to organizational culture
+Second, the results of the case study also revealed the important role of organizational culture in shaping individual’s perception of the
+degree of concern for face. So we can expect that, team members who are more adapted to the corporate culture, are more likely to behave
+in an open and direct way, which is what the corporate culture advocates. Thus, they are more likely to perceive less degree on concern for
+face.
+Little research has explored the impact of organizational culture on national culture in individual’s activities, but some researchers have
+realized that existing culture research has been mainly conducted at a single cultural level, and begun to study the joint effect of different
+levels of culture theoretically [11, 12].
+Hence, I propose:
+H5a: Extraversion is negatively associated the perceived degree of concern for face in global virtual collaboration.
+H5b: The degree of adaptation to organizational culture is negatively associated with the perceived degree of concern for face in
+global virtual collaboration.
+
+

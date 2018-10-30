@@ -1,0 +1,343 @@
+Whoʼs Watching Your Children?
+Value Propositions in Preteen Virtual Worlds
+Lisa P. Nathan1, Eric M. Meyers1, Kristene Unsworth1
+1
+
+The Information School
+University of Washington
+Seattle, Washington, USA
+
+lpn [meyerse, kruns]@u.washington.edu
+ABSTRACT
+This poster presents a critical, values-oriented investigation of a
+specific space within the online universe: shared virtual
+playgrounds designed for preteens. Specifically we investigate
+three preteen worlds with a focus on the sites’ technical features
+designed to support value concerns (e.g. privacy, security,
+obedience) and critically examine the potential influence of these
+features from different stakeholder perspectives. We provide a
+conceptual framework for analyzing these online environments,
+drawing upon methods developed for investigating values and
+information systems. Finally, the poster will outline: 1) a field
+based investigation gathering designer, parent, and children’s
+perceptions of preteen virtual worlds, 2) a research agenda for the
+critical study of children’s virtual environments as value-laden
+artifacts, and 3) implications such work may hold for software
+developers, interaction designers, youth service providers, and
+researchers in library and information science and humancomputer interaction.
+
+Categories and Subject Descriptors
+K.4.1 [Computing and Society]: Public Policy Issues – ethics,
+privacy, use and abuse of power, K.4.2 [Computing and Society]
+Social Issues, K.8.0 [Personal computing] Games
+
+General Terms
+Design, Security, Human Factors
+
+Keywords
+Virtual worlds, Preteens, Surveillance, Values
+
+1. INTRODUCTION
+Cyber-stalker. Cyber-bully. Cyber-narc. These recently minted
+terms have become part of the conversation around children’s
+online interactions. As digital technologies and Web access
+become ubiquitous in homes, schools, and libraries, children are
+online with greater frequency and at a younger age [1]. Parents,
+educators, and researchers have raised concerns about how
+Permission to make digital or hard copies of all or part of this work for
+personal or classroom use is granted without fee provided that copies are
+not made or distributed for profit or commercial advantage and that
+copies bear this notice and the full citation on the first page. To copy
+otherwise, or republish, to post on servers or to redistribute to lists,
+requires prior specific permission and/or a fee.
+Conference’09, February 8–11, 2008, Chapel Hill, NC, USA
+Copyright 2009 ACM 1-58113-000-0/00/0009…$5.00.
+
+children interact in online space, the safety and privacy of
+websites for children, and the difficulties of providing ageappropriate play and learning opportunities for connected youth
+[2,3,4]. This poster presents a critical, values-oriented
+investigation of a specific space within the online universe:
+shared virtual playgrounds designed for preteens. Specifically we
+investigate three preteen worlds with a focus on the sites’
+technical features designed to support value concerns (e.g.
+privacy, security, obedience) and critically examine the potential
+influence of these features from different stakeholder
+perspectives. We provide a conceptual framework for analyzing
+these online environments, drawing upon methods from Value
+Sensitive Design [5] and inspired by work to envision the longterm influence of information systems [6]. Finally, the poster
+outlines: 1) a field based investigation gathering designer, parent,
+and children’s perceptions of preteen virtual worlds; 2) a research
+agenda for the critical study of children’s virtual environments as
+value-laden artifacts; and 3) implications such work may hold for
+software developers, interaction designers, youth service
+providers, and researchers in library and information science and
+human-computer interaction
+
+2. TENSION ON THE VIRTUAL
+PLAYGROUND
+The preteen years are a key developmental period during which
+children build their personal and social identity [7]. Targeted to
+attract children ages 6-12, avatar-based playgrounds such as Club
+Penguin (clubpenguin.com), Webkinz (webkinz.com), and
+WoogiWorld (woogiworld.com) offer multi-player games,
+interactive adventures, and monitored chat environments. These
+sites claim to offer age-appropriate social activities with design
+features that ensure safety and privacy. Descriptive information
+aimed at parents suggests that the virtual world activities offer
+skill-building opportunities for players (e.g., spelling, reading,
+budgeting money, caring for pets, and getting along with others).
+Parents and child advocates have nonetheless challenged the
+suitability of these online spaces, and further suggest that these
+sites may negatively alter real-life pro-social development [8,9].
+Designers of the preteen environments have attempted to be
+responsive to parental concerns. Sites use specific design features
+and strong prohibitory language as strategies to dissuade and
+prevent children from sharing of potentially inappropriate
+information. Yet, what is inappropriate information or deviant
+behavior? Is there a cost to this type of labeling? For example,
+Webkinz informs parents that within their KinzChat area, “We
+control everything the users are able to say…” [10]. Sites also
+strongly encourage peer surveillance and immediate reporting in
+order to prevent deviant behavior. The sites claim to “kick out”
+
+members whose peers have reported them for inappropriate
+behavior. In reaction to the tightly controlled environment, some
+users rebel against the system. For example, there are young
+users who glorify cheating Club Penguin’s reward system,
+publishing their rebellious exploits on blogs and YouTube [11].
+Are online environments with an ethos of monitor and control
+beneficial to preteen children? Critical examinations of
+surveillance practices question the policing effects of a panopticon
+society. Yet when we consider the role of the family, educational
+institutions, and churches in the social and moral development of
+children, we must acknowledge the positive, if not necessary,
+effects of such prescriptive agencies. Moral behavior is modeled
+to children through their interactions with these types of
+institutions. The watchful eye of the instructor, parent, teacher or
+clergy is a powerful tool. Children learn through these means to
+monitor themselves. Foucault explored the importance of
+“knowing oneself” and “care of the self” as a foundational task in
+the development of ethical conduct in society [12]. At some point
+the lessons learned from social institutions (including the family)
+must be put to the test through self-reflection as well as trial and
+error. A society that is centered on surveillance misses the point of
+teaching self-governance and discipline. The point is not for
+surveillance to become ubiquitous but rather, through social
+institutions and interactions to employ an internal overseer in each
+and every one of us [13]. Foucault’s position is that surveillance
+works best when it is directed inward. Whether or not one
+follows Foucault’s logic, this line of critical thinking stirs more
+questions to the surface. How does awareness of constant
+surveillance affect children’s play? Are such efforts to create a
+safe and secure online environment depriving children from
+developing their own sense of autonomy, responsibility, and
+privacy through play? How can parents, policy makers, designers,
+and service providers critically assess the influence of interactions
+within preteen virtual worlds on children’s social and moral
+development? How are the technical features of these spaces
+supporting or constraining the values of different stakeholders?
+
+3. CONCEPTUAL INVESTIGATION:
+PENGUINS, WEBKINZ, & WOOGIS
+In order to shed light on the above questions, this project initiates
+a conceptual investigation into the value propositions found
+within three preteen virtual spaces. We are using the term
+conceptual investigation in the mode of Value Sensitive Design
+[5]. This type of investigation systematically identifies the
+stakeholders affected, values implicated, and tensions that develop
+through use of an information technology. The project builds on
+nascent empirical work in this area [14], and follows in the
+tradition of earlier conceptual explorations of values in teen game
+design [15,16]. However, the project is particularly interested in
+thinking critically about the long-term influence of information
+systems on children’s social and moral development [6].
+Brief descriptions of the three sites are provided below. Due to
+space constraints, after each description we provide a short,
+representative narrative of how one common design feature (chat),
+is presented to one stakeholder group (parents), to address one
+value concern (safety). Thus, each overview describes how that
+particular site conceptualizes and attempts to manifest the value of
+safety for arguably the most powerful stakeholder group, the
+parents.
+
+3.1 Club Penguin
+Club Penguin is a virtual playground employing the metaphor of
+the Antarctic where children are encouraged to “waddle around
+and make new friends.” Children register with the site to engage
+in activities as anthropomorphic penguins in an animated snowcovered community of shops, games, and activity spaces.
+Children can perform tasks in the community (making pizzas at
+the pizzeria, unloading coffee beans at the café, and of course,
+rounding up puffles) in order to earn virtual currency (“coins”).
+They use this currency to purchase clothing, pets, and accessories
+for their penguin avatars and to decorate their “igloo” or private
+online space. Children can create friend lists and chat with other
+penguins via a simple dashboard interface. Adult moderators
+monitor chat, and will penalize or eject children who violate the
+chat guidelines.
+Although an explicit definition of safety is not provided, Club
+Penguin explicitly and prominently addresses safety concerns
+with a description on the parent page of chat limitations.
+“Ultimate Safe Chat limits what users can say to a predefined
+menu of greetings, questions and statements, as well as emotes,
+actions and greeting cards. When it comes to chatting, these users
+can only see other Ultimate Safe Chat messages” [17]. Thus,
+within Club Penguin’s Ultimate Safe Chat, the value of safety is
+threatened by conversations in which either children or adults
+reveal inappropriate information. Since Club Penguin is unable to
+control who is in the space, they let everyone in, but totally
+control what is said. Safety is “realized” through total control by
+the features themselves.
+
+3.2 Woogi World
+According to the storyline behind WoogiWorld, the Woogis are
+an advanced alien race corrupted by excessive online time without
+careful monitoring. The children of Earth can help the Woogis by
+adopting them, and teaching them appropriate activities and
+limits. In WoogiWorld, children control a Woogi character,
+perform tasks, play games, and earn virtual currency (“Woogi
+Watts”), which they can use to decorate their “wigwams” or
+accessorize their adopted Woogi avatars. Virtual activity spaces
+are learning oriented, and include a science lab, savings bank, and
+a library. Children are also provided incentives for off-line
+activities, including chores and playing board games with family
+members. A simple, adult monitored chat interface is provided,
+and several games are designed as social, multiplayer experiences.
+WoogiWorld describes its goals on the site’s front page: “teaching
+kids Internet safety, life values, and fun.” By far the most radical
+in terms of moral stance, WoogiWorld includes a definition of
+safety in its parents section: “A combination of appropriate
+mindset and behavior validated by a community of like-minded
+people” [18]. WoogiWorld, however, does not describe specific
+technical features that promote safety. Instead it describes to
+parents how the sites rules, standards, and regulations are
+embodied by the children who are now serving as their own
+moderators, in addition to the site’s adult moderators. In order to
+enable chat features, Woogis (preteen participants) have to go
+through a short, intense training program on appropriate and
+inappropriate behavior. In WoogiWorld, once again the value of
+safety is threatened by conversations in which inappropriate
+information is shared. Similar to Club Penguin, WoogiWorld is
+unable to control who is in the space. However, WoogiWorld
+explicitly creates habits of mind by instantiating certain behavior
+in certain games and activities. Thus, in addition to technical
+
+features, WoogiWorld addresses parents concerns for safety
+through developing a strong ethos of appropriate interactions
+within this online space.
+
+3.3 Webkinz
+Webkinz is an online space where children care for virtual pets,
+play games, answer trivia challenges, and interact with other pet
+caretakers. Each plush Webkinz toy comes with a registration
+code to permit a child to adopt the pet online, essentially
+unlocking its “virtual” life. Once registered, children are
+encouraged to login daily to care for their pet avatars by bathing
+them, feeding them, and buying accessories, clothes, and furniture
+with “KinzCash,” the currency awarded for successfully
+completing online games and other activities. You can befriend
+other pet caretakers, chat, and leave gifts for your friends and their
+adopted pets.
+Similar to Club Penguin, Webkinz does not provide an explicit
+definition of safety, but equates safety with control of children’s
+discursive practices, both what they say via chat and what they are
+allowed to see of others’ chat. Parents are informed that, “In our
+KinzChat area, the chat is entirely constructed. There is no way
+for users to type what they want, exchange any personal
+information, ask or say anything inappropriate. We control
+everything the users are able to say” [10].
+
+4. FUTURE WORK
+Future work will include; 1) a field based investigation gathering
+designer, parent, and children’s value perceptions of preteen
+virtual worlds based on this conceptual work; 2) longitudinal data
+collection with preteen children interacting with virtual worlds,
+collecting their developing perspectives of how the worlds operate
+and how they perceive appropriate and inappropriate behaviors in
+each world; and 3) developing design criteria and
+recommendations for software developers, interaction designers,
+youth service providers, and parents concerned with the long-term
+influence of virtual worlds on preteen social and moral
+development.
+
+5. ACKNOWLEDGMENTS
+
+Foundation Series on Digital Media and Learning (pp. 2140). Cambridge, MA: The MIT Press.
+[5] Friedman, B., Kahn, P. H., Jr., & Borning, A. (2006). Value
+Sensitive Design and information systems. In P. Zhang & D.
+Galetta (Eds.), Human-computer interaction and
+management information systems: Foundations (Vol. 1, pp.
+348-372): M.E. Sharpe.
+[6] Nathan, L.P., Friedman, B., Klasnja, P.V., Kane, S.K., &
+Miller, J.K. (2008). Envisioning systemic effects of
+interactive technical systems. Proceedings of the Conference
+on Designing Interactive Systems (DIS ‘08), 1-10, Cape
+Town, South Africa.
+[7] Wigfield, A., Byrnes, J. P., & Eccles, J. S. (2006).
+Development during early and middle adolescence. In P. A.
+Alexander, & P. H. Winne (Eds.), Handbook of educational
+psychology (2nd ed.) (pp. 87-113). Mahwah, NJ: Lawrence
+Erlbaum Associates.
+[8] Flanagan, C. (2007, July). Babes in the woods. Atlantic
+Monthly, 300(1), 116-133. Retrieved 27 July, 2007, from
+Academic Search Complete database.
+[9] Slatalla, M. (2007, May 3). My daughter, the burger-flipping
+penguin. The New York Times. Retrieved 4 May, 2007,
+from
+http://www.nytimes.com/2007/05/03/fashion/03Online.html
+[10] Webkinz (2008). Parent Frequently Asked Questions (FAQ).
+Accessed November 30, 2008 from:
+http://www.webkinz.com/us_en/faq_parents.html
+[11] Benderoff, E., 2007, Cheating a real problem in Club
+Penguin's virtual world. The Chicago Tribune. Retrieved 10
+April, 2008 from
+http://www.chicagotribune.com/business/chi0703080167mar08,0,4256114.story
+[12] Foucault, M. (1985). The history of sexuality (R. Hurley,
+Trans. Vol. 2, The use of pleasure). New York: Pantheon.
+[13] Foucault, M. (1977). Discipline and Punish: The birth of the
+prison (A. Sheridan, Trans.). New York: Vintage.
+
+[1] Harwood, P. G., & Asal, V. (2007). Educating the first
+digital generation. Westport, CT: Praeger.
+
+[14] Meyers, E. M. (2009). Tip of the iceberg: Meaning, identity
+and literacy in preteen virtual worlds. Association for
+Library and Information Science Education (ALISE)
+Conference. January 20-23, 2009, Denver, CO.
+
+[2] Bogost, I. (2008). The rhetoric of video games. In K. Salen
+(Ed), The ecology of games: Connecting youth, games, and
+learning. The John D. and Catherine T. MacArthur
+Foundation Series on Digital Media and Learning (pp. 117140). Cambridge, MA: The MIT Press.
+
+[15] Flanagan, M., Howe, D. C., and Nissenbaum, H. (2005).
+Values at play: Design tradeoffs in socially-oriented game
+design. Proceedings of the CHI 2005 conference on Human
+factors in computing systems. CHI 2005, April 2-7, 2005,
+Portland, Oregon. New York: ACM Press.
+
+[3] British Library & Joint Information Systems Committee
+(JISC) (2008, 11 January). The information behavior of the
+researcher of the future: A Ciber briefing paper. Retrieved
+17 January 2008 from
+http://www.jisc.ac.uk/media/documents/programmes/reppres
+/gg_final_keynote_11012008.pdf
+
+[16] Flanagan, M., Nissenbaum, H., Diamond, J., and Belman, J.
+(2007). A method for discovering values in digital games.”
+DiGRA ’07 September 24-28, 2007, Tokyo, Japan.
+
+[4] Gee, J. P. (2008). Learning and games. In K. Salen (Ed),
+The ecology of games: Connecting youth, games, and
+learning. The John D. and Catherine T. MacArthur
+
+[18] Clare, E. M. (2008). WoogiWorld Summary for Parents.
+Accessed December 5, 2008 from:
+http://www.woogiworld.com/parents/index.php?articleid=1
+
+6. REFERENCES
+
+[17] Club Penguin (2008) Parent Page. Accessed December 2,
+2008 from:
+http://www.clubpenguin.com/parents/player_safety.htm
+
+

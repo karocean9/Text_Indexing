@@ -1,0 +1,44 @@
+Otlet, Theology, and Faceted Classification: A French Correction
+By 
+T. Patrick Milas, University Librarian and Director of Information Services, Thomas University
+Introduction
+ Paul Otlet and Henri LaFontaine were French-speaking Belgian pioneers of Universal Decimal Classification (UDC), an early exemplar of faceted classification schemas. They redesigned Dewey Decimal Classification to correct for its English language and American cultural biases. Their successors – UDC Consortium – recently revised the UDC to facilitate access to theological information. At the 2009 iConference, Patrick Milas: (1) outlines how faceted classification connects to theological information retrieval; (2) suggests why UDC is a promising classification schema for the increasingly diverse knowledge accessible through Web 2.0; (3) juxtaposes previous research in theological libraries (Milas, 2007) to information organization and retrieval practices in the international context of the UDC; and, (4) presents how recent revisions to the initially French UDC relate to theological information access in English. 
+Faceted Classification
+The Library of Congress and the International Federation of Library Associations (IFLA) have debated the effectiveness of Library of Congress Subject Headings (LCSH) and Dewey Decimal Classification (DDC); several efforts have been made to redesign classification to better provide for the special library communities of theology. One pioneering effort to incorporate broader classification components into DDC was the development of the Universal Decimal Classification (UDC) from 1904 to 19-07 by two Belgians, Paul Otlet and Henri LaFontaine (who late won the Nobel prize). In 2000, the UDC Consortium rearranged aspects of UDC in order to better facilitate equitable access to the subjects of world religions. 
+Semantic Web
+UDC is a promising classification schema for the increasingly diverse knowledge accessible through the “semantic Web” often popularly called Web 2.0. UDC uses several facet indicators, such as mathematical notations, to connect the common metadata components of place and time with more advanced facet representations such as religious groupings and cultural activities. For example, in the early classification schemas of the DDC and LCSH, Hebrew Bible could be classified exclusively as “Old Testament.” In the UDC the facet of time (here, simply old versus new) can be enriched by the facet of ethnic/religious grouping – Christian and Jewish alike. 
+By expanding and grouping the metadata for the information objects of Biblical literature, the libraries using UDC can better facilitate information access for multiple user populations and epistemological perspectives. By associating facets of religious groups and time, UDC (1) avails the pre-Christian Biblical literature to users accustomed to the largely Christian search term “Old Testament,” and (2) allows Jews and others who do not divide time or literature according to the life of Christ (i.e “in the year of our Lord” or “New Testament”) to access the same Biblical literature by using a search term such as “Hebrew Bible.” Furthermore, UDC provides different notation for Jewish and Christian Bible, so even the same book within the Bible (e.g. Joshua, Judges) will have different numbers, whereas DDC’s schema places Bible before Judaism and Christianity alike.
+The versatility of UDC can serve as a prototype for the versatility of language prevalent on the Web, and more recently on “Web 2.0.” With the emerging social computing technologies of the semantic Web (e.g. “wikis” and “blogs”), users can not only publish their ideas and compositions, but they may also contribute to the developing narratives of others. By using hypertext to link ideas, the metatext of the semantic Web recalls the cultural inclusivity and linguistic versatility of faceted classification pioneers, chiefly UDC.
+Conversely, the UDC abides the emergence of and demand for multiplicities of meaning and format in the semantic Web. Since the faceted structure of UDC could already incorporate the complex ethno-religious and linguistic facets of Ashkenazic versus Sephardic Hebrew Bibles, so too can the UDC accommodate the complex semantic relationships between the controlled vocabulary of a moderated and exclusive virtual community’s wiki and the information authority of a open source blog’s burgeoning user identity. Dualities attested in UDC, such as Ashkenazic/Sephardic and exegesis/hermeneutics, show great promise for the contemporary dualities and categories of face-to-face/virtual and solo-authored monograph/ collaborative blogosphere – categories that can either stratify or subvert information authority. Or both. 
+Discussion
+The poster presentation will focus on information organization/retrieval efficiency in libraries and cultural inclusivity with Web 2.0. Milas will encourage discussion about how to apply emerging technologies and information science theory to theological library services and advocacy. A previous paper presentation by Milas on an analogous topic was followed by a highly participative dialogue between Milas and members of the ATLA audience. That discussion of international and comparative librarianship was particularly enhanced by the participation of ATLA’s European affiliates – Dr. Odile Dupont, President of Bibliothèques Européenes de Théologie (European Theological Libraries) and Dr. Penelope R. Hall of the Association of British Theological and Philosophical Libraries. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ This research and conference presentation may be sponsored by the Harold Lancour Fellowship for Foreign Travel awarded by Beta Phi Mu – the International Library and Information Science Honor Society.
+ La Fontaine, Henri and Paul Otlet. 1990. Creation of a Universal Bibliography: a Preliminary Note, in Rayward, W. Boyd (trans. and ed.) The International Organization and Dissemination of Knowledge: Selected Essays of Paul Otlet. Amsterdam: Elsevier.
+ See Otlet, Paul. 1989. Traité de Documentation, in Le Livre sur le Livre: Théorie et Pratique (reprint of the 1934 ed.) Liège: Centre de Lecture Publique de la Communauté Française.
+ McIlwaine. 2000. The Universal Decimal Classification: Guide to Its Use. (3rd ed.) The Hague: UDC Consortium.
+ Rayward, B. W. 1994. The International Federation for Information and Documentation (FID), Encyclopedia of Library History. Edited by W. A. Wiegand and D. G. Davis. New York: Garland Press, 1994, pp. 290-294.
+ A. B. Buxton. “Computer Searching Using UDC Numbers.” Journal of Documentation 46(3): 193-217.
+See also Carlson, P.A. (1989). Hypertext and Intelligent Interfaces for Text Retrieval. In Barrett, E. (ed.). The Social Construction of Information. Cambridge, Mass.: MIT Press.
+ Otlet, 1896. On the Structure of Classification Numbers, in Rayward, W. Boyd (trans. and ed.), 1990. The International Organization and Dissemination of Knowledge: Selected Essays of Paul Otlet. Amsterdam: Elsevier. See also John Metcalfe, 1959. Subject Classifying and Indexing of Libraries and Literature. Sydney: Angus and Robertson.
+ Extensions and Corrections to the UDC. The Hague: UDC Consortium. (Issues): 15 1993, 16 1994, 17 1995, 18 1996, 19 1997, 20 1998, 21 1999, 22 2000, 23 2001, 24 2002, 25 2003.
+ Cf. Milas, T. Patrick. “Review: Scholarship in the Digital Age: Information, Infrastructure, and the Internet by Christine Borgman.” InterActions: UCLA Journal of Education and Information Studies 4 (2008): Article 6. HYPERLINK "http://repositories.cdlib.org/gseis/interactions/vol4/iss2/art6"http://repositories.cdlib.org/gseis/interactions/vol4/iss2/art6 (accessed June 15, 2008).
+
+

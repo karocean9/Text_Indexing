@@ -1,0 +1,162 @@
+Mobile Technologies and Disadvantaged Women:
+A Mixed Methods Study of Information Behavior
+in a Developing Nation Context
+Devendra D. Potnis
+Doctoral Candidate
+College of Computing and Information
+State University of New York –
+University at Albany
+7A Harriman Campus, Suite 220
+1400 Washington Ave, Albany,
+NY - 12222
+Tel: 518-956-8248
+
+dp772351@albany.edu
+ABSTRACT
+This dissertation research studies the role of mobile technologies
+in shaping information behavior of financially disadvantaged
+women, who own and use mobile cell phones, and earn less than
+US $1 per day, by working at a domestic business set up in rural
+India. Wilson’s global model of human information behavior will
+be used to study the information behavior of a sample population.
+The research findings will be of great use to public sector
+organizations, academia as well as private sector organizations in
+a variety of different ways.
+
+Categories and Subject Descriptors
+H.1.2 [Information Systems]: User/Machine Systems – Human
+Factors, Human Information Processing.
+
+General Terms
+Measurement, Economics, Human Factors
+
+Keywords
+Mobile Technologies, Information Behavior, Disadvantaged
+Women, Developing Nation
+
+research study plans to explore the linkage between ICTs and the
+information behavior of disadvantaged populations from
+developing nations; and the role of ICTs in shaping that
+information behavior.
+
+2. SAMPLING
+Income, health and education are some of the most widely used
+criteria to measure the extent to which a population is
+disadvantaged [1]. By applying income as a criterion, a sample of
+disadvantaged population is identified. India has the world’s
+largest number of individuals under the poverty line in a single
+country. Hence, India is the context for this research study.
+After applying a stratified purposive sampling with 6 filters,
+backward class (the term backward class is coined and defined by
+Government of India as a set of socio-economically and
+educationally disadvantaged population) women (see Figure 1),
+who own and use mobile cell phones and earn less than US $1 per
+day, by working at a domestic business set up in rural India are
+discovered as one of the most disadvantaged populations from
+developing nations.
+
+1. INTRODUCTION
+As a catalyst for achieving Millennium Development Goals
+(MDG), Information and Communication Technologies (ICTs)
+have been championed by the United Nations as one of the key
+media to bring socio-economic opportunities into the lives of
+disadvantaged populations from developing nations. Various
+studies revealing the role of ICTs as information infrastructure
+providers lead us to believe that the introduction of ICTs alone is
+not good enough to bring socio-economic changes in their lives.
+In fact, after being introduced to ICTs, users’ overall information
+behavior changes, which enables them to take advantage of socioeconomic opportunities introduced and facilitated by ICTs. This
+
+Figure 1: An old, blue collar woman using her mobile cell phone
+(Source: Maharashtratimes, A local newspaper in India, 11/27/07)
+
+3. THEORETICAL FRAMEWORK
+
+5. APPLICATIONS OF RESEARCH
+
+Human Information Behavior is defined as “…the totality of
+human behavior in relation to sources and channels of
+information, including both active and passive information
+seeking, and information use. Thus, it includes face-to-face
+communication with others, as well as the passive reception of
+information as in, for example, watching TV advertisements,
+without any intention to act on the information given.” [5]
+
+The research is expected to enrich the field of human information
+behavior in the context of ICTs and disadvantaged populations
+from developing nations. Research, will serve as a scholarly
+reference while crafting policy frameworks and designing dollaraide strategies for building sustainable development using
+effective deployment of ICTs in developing nations. Research
+findings could benefit government policy makers, when designing
+mobile-Government policies and developing execution plans. The
+private sector could apply a set of research findings for better
+human-centered product designs and interfaces for mobile
+technologies, especially mobile cell phones; and developing
+marketing strategies for profitable sales of mobile technologies in
+colossal markets of developing nations.
+
+To study the information behavior of this filtered sample, the
+global model of human information behavior, one of the most
+comprehensive and widely accepted human information behavior
+models, will be used. The model has been evolved as a result of
+the extensive research carried-out for more than a couple of
+decades [2]. Based upon the formal body of scholarly research,
+this model explores different aspects associated with the human
+information behavior informed by allied research areas, including
+but not limited to decision-making, innovation, consumer
+behavior research, marketing, psychology, health communication
+research and information systems design that take into account
+users as the focus of interest [2][3]. This model is based upon two
+key prepositions. The first is that information needs are a
+secondary type of needs arose out of a set of primary needs in
+everyday life; and the second preposition focuses on various
+barriers encountered by users on their ways to information search
+and acquisition [4].
+
+4. RESEARCH DESIGN
+Using a sequential explanatory mixed methods research design,
+quantitative data collected in the first phase are expected to be
+explained by qualitative data from the second phase carried out in
+a sequence. In the first phase, quantitative data will be collected
+from a stratified purposive sample of approximately 121
+disadvantaged women, working in a small village called Bhor
+located in one of the western states in India. To select participants
+for in-depth interviews in the second phase, trends or patterns in
+information behavior of respondents from the first phase will be
+categorized based upon demographic factors such as age or
+education or marital status. 10 participants from each category
+will be interviewed telephonically in Marathi, a native language,
+to understand respondents’ information behavior due to the use of
+mobile cell phones. Results would reveal a journey of information
+behavior of the backward class, financially disadvantaged women
+from rural India, when using mobile cell phones.
+
+6. ACKNOWLEDGMENT
+I would like to thank Dr. Theresa Pardo, Dr. Deborah Andersen,
+Dr. Senem Guney and Dr. Hemalata Iyer, members of my
+dissertation committee, and Dr. David Andersen and Dr. Lakshmi
+Mohan, for their valuable guidance, encouragement and consistent
+support.
+
+7. REFERENCES
+[1] Bourguignon, F., and Chakravarty, S. R. 2003 The
+measurement of multidimensional poverty. Journal of
+Economic Inequality 1, 25-49.
+[2] Wilson, T. D. 1997 Information Behaviour: an
+interdisciplinary perspective. Information Processing and
+Management 33, 551–572.
+[3] Wilson, T. D. 1994 Information needs and uses: fifty years of
+progress? Paper presented at the Fifty years of information
+progress: Journal of Documentation review, London.
+[4] Beverley, C. A., Bath, P. A., and Barber, R. 2007 Can two
+established information models explain the information
+behaviour of visually impaired people seeking health and
+social care information? Journal of Documentation 63, 9-32.
+[5] Wilson, T. D. 2000 Human Information Behavior, Special
+Issue
+on
+Information
+Science
+Research. Informing Science.
+
+

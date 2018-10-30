@@ -1,0 +1,186 @@
+Media Downloading, Uploading, and Sharing Among College Students
+Jeffrey Stanton
+Syracuse University School of Information Studies Hinds Hall 315-443-2879
+jmstanto@syr.edu
+Isabelle Fagnot
+Syracuse University School of Information Studies Hinds Hall 315-443-7267
+ifagnot@syr.edu
+ABSTRACT
+On many occasions over recent years the Recording Industry Association of America (RIAA) has made national headlines with its large-scale effort to launch civil suits against individuals alleged to be involved in illegal downloading of copyrighted material over the Internet including many college students. By reputation, college students are among the most active users of digital media obtained through peer-to-peer downloading and similar techniques. We conducted a three-phase study to understand student beliefs and behavior in the areas of media downloading, copyright, intellectual property ownership, and computing security. The research included a small cohort of personal interviews, an anonymous paper and pencil survey of 164 students, and a Web-based survey with 402 respondents. 
+Categories and Subject Descriptors
+H.1.2 User/Machine Systems: Software Psychology
+K.5.1 Hardware/Software Protection: Copyrights, Licensing, Proprietary Rights
+General Terms
+Human Factors, Legal Aspects
+Keywords
+Piracy, File sharing, Peer-to-peer, College students
+INTRODUCTION
+The advent of digital representations of entertainment media, such as mp3 files, and low cost methods of distribution, such as the Internet, have interacted to disrupt the traditional manufacturing and distribution models of media production companies, most notably in the music business (Gallaway & Kinnear, 2001). Within U.S. record companies and their sibling media production companies (e.g., the U.S. movie industry) the reliance of business models on the manufacture, distribution, and sales of physical media has inhibited a timely and successful response to the new digital reality. 
+Thus, in response to the activities of media consumers who obtain their content through peer-to-peer file sharing and other means not involving a traditional licensing or purchasing transaction, the Recording Industry Association of America (RIAA) has undertaken a legal approach to protecting copyrighted content. Specifically, the RIAA has used the threat of court action to motivate individuals who are alleged to have illegally downloaded materials to pay settlement fees of several thousand dollars. For example, the Duke University Chronicle (11/14/08) noted that the RIAA has sent, in one year, “more than 1,000 infringement notices to Duke students, including more than 40 pre-litigation notices, 21 settlement offers and eight subpoenas.” Multiply these figures by the more than 4000 colleges and universities in the U.S. and the result is a major legal war against media consumers.
+One aspect of this war that is interesting is that few if any individuals within the RIAA, and for that matter few researchers anywhere, have conducted any systematic analyses of college students’ attitudes, beliefs, and behaviors with respect to the kinds of media acquisition of concern to the industry (Rob & Waldfogel, 2006). Such an analysis could be useful both for understanding how an institution might curtail undesirable behavior and for understanding how to replace undesirable behavior with something considered more suitable. In this paper, we report the results of three linked studies – nine interviews with undergraduates, an anonymous behavior survey of n=164, and a web-based attitude survey of n=402 college students.
+BACKGROUND
+Although illegal file sharing behavior has not been the subject of many published studies, other behaviors of college students of concern to institutions (e.g., binge drinking) have received substantial attention. Researchers have frequently used social cognitive models of motivation in these studies because they “incorporate cognitive and evaluative constructs, perceived control, and perceived norms, each of which have been shown to predict college student behavior” (e.g., Aas, Klepp, & Laberg, 1995; Baldwin, Oei, & Young, 1993; Kuther & Timoshin, 2003). 
+Studies of college student behavior show that social norms of peers (and, to a lesser extent, parents) interact to play a substantial role in influencing students’ behaviors. Interestingly, students (and others) often incorrectly estimate both the social approval for a behavior and the scope and severity of the consequences. We used these ideas in the present study to examine the relations among behaviors, outcome expectancies, and perceived peer norms about behaviors related to computer usage and student file sharing practices as well as students’ motivations and concerns about file sharing and related computer behaviors. 
+In particular, two theories guided our research: social learning theory (e.g., Bandura, 1977) and the theory of planned behavior (e.g., Ajzen, 1991). These two theories complement each other by addressing factors that may explain why students persist in behaviors that are considered problematic at an individual or institutional level and that have possibly serious consequences, such as legal action (though often with low probability).
+Social learning theory, later renamed social cognitive theory, suggests that a person’s behavior is influenced by a combination environmental and personal factors. At the center of this theory is the concept of self-efficacy: a person’s beliefs in his/her ability to perform a behavior. Bandura asserted that in order to perform a complex behavior, a person must expect a positive outcome, must have an observational model for the behavior, and must have the necessary skills and knowledge to produce the behavior. This illustrates our argument that students apparently know the benefits of downloading media files for free and that those benefits may have outweighed the possible negative consequences of the actions (e.g., being sued for downloading or sharing copyrighted material). Bandura also allows that certain stable traits may influence the extent to which an individual forms beliefs of self-efficacy. 
+Social cognitive theory and the theory of planned behavior are complementary. The theory of planned behavior (Ajzen, 1991) suggests that intentional behavior is mainly shaped by attitudes about the behavior and subjective norms (Ajzen, 1991). Attitudes toward a behavior arise from a person’s evaluations about the outcomes of the behavior. Subjective norms are the influences of the person’s social environment; an individual is ostensibly influenced by his or her beliefs about other people’s standards for right behavior.
+Together the two theories suggest that students may persist in file sharing activities despite the possibility of negative consequences through the combination of several influences: the attractiveness of obtaining media files at no cost, beliefs about the ease of conducting the behavior, beliefs about the tacit or explicit acceptance of the behavior by peers, and the expectation that negative consequences are highly improbable.
+METHOD
+Interviews
+
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee.
+iConference’09, February 18–22, 2009, Chapel Hill, NC, USA.
+Copyright 2004 ACM 1-58113-000-0/00/0004…$5.00.
+
+We conducted interviews with nine undergraduate students: four freshmen, two sophomores, two juniors, and one senior. Five were women, four men. Majors included undecided, management, marketing, music education, radio/film, communications, rhetorical studies, psychology, international relations, and social work. Each interview took approximately thirty minutes. Warm-up questions concerning the student’s prior background with computers preceded questions about downloading and sharing media. Most interviews probed the legal and ethical aspects of downloading and sharing as well as the implications of peer-to-peer applications on anonymity, privacy, and computer security. Interviews were audio recorded and the recordings were transcribed into text files. The complete corpus of transcriptions comprised approximately 18,000 words. The corpus was reviewed by three researchers for thematic material but was not systematically coded.
+Anonymous Behavioral Frequency Study
+The goal of this phase of the research was to gain an accurate understanding of the extent to which students were performing a range of behaviors of interest. One hundred and sixty four students were recruited from a variety of classes on campus to participate in an anonymous paper and pencil survey. We took extensive precautions in the survey procedures both to convey a sense of anonymity and to assure actual anonymity. For example, the data collections occurred in large groups and the surveys were submitted through a slot into a large cardboard box. The goal with these precautions was to encourage honesty in estimating the rate of the studied behaviors. The average age of students was 19 and a half, while the minimum age was 18 and the maximum age was 35. Approximately 63% of the sample was female. Students reported a wide range of majors. The survey was a single two-sided sheet on which students were asked to record the frequency of various behaviors on a seven point scale ranging from “never or almost never” to “several times per day.” Behaviors on the list included innocuous items such as “How frequently do you use your email account,” as well as focal items such as, “How frequently do you share mp3 files with unknown people over the Internet.”
+Web Survey of Precursors and Behaviors
+The goal of the web-based study was to measure several variables of interest from our theoretical synthesis of social learning theory and the theory of planned behavior to support the examination of regression models based on theory. A recruitment email soliciting participation in the web based study was sent to the complete list of student email accounts of individuals who resided in dormitories. Approximately six thousand messages were sent using this method and N=402 students provided usable responses (about 7% response rate). The average age of students who responded was approximately 9.5 years. A total of 217 female students responded, while 178 male students responded. Seven students did not report their gender. The following measures appeared on the survey:
+Perceived Peer Norms Scale. This scale (Kuther & Timoshin, 2003) assesses a set of beliefs concerning the extent to which one’s friends and acquaintances endorse a focal behavior (modified from the original: in this case the use of file sharing and downloading).
+Fear of Consequences Scale. An affective reaction related to the hypothetical prospect of being caught and/or punished for downloading files from the Internet illegally (modified from Pestello, 1983).  Four items were measured on a 5-point scale with responses ranging from 1 (strongly disagree) to 5 (strongly agree).  
+Knowledge Scales. A self-report of knowledge in several different. Ten items were used to assess the respondent’s knowledge about computers. Four items were used to assess knowledge of copyright and intellectual property law (4 items).
+Information Security Self-efficacy Scale: A set of beliefs concerning the extent to which the individual believed he or she is capable of protecting a personal computer or laptop against hackers and viruses (seven items).
+Conscientiousness: A stable personal trait reflecting a cross-situational tendency to be organized, efficient, practical, and systematic (8 items). 
+Producer Attitudes: Perceived degree to which producers fail to provide value for money with products (e.g., CDs) (5 items).
+Students who agreed to participate followed a link to the web-based survey, which was hosted on campus. Students received a notice concerning the university’s inability to guarantee anonymity. Completion of the survey took most students less than ten minutes. 
+RESULTS
+Interviews
+In general, interviewees reported reluctance to use file sharing because of legal concerns. Note, however, that most interviewees displayed a clear understanding of the distinction between downloading and file sharing and the hesitation and fear were associated primarily with sharing and not so much with downloading copyrighted materials. These students’ comments were representative of many interviewees:
+Q: So you download, but you don’t leave your files open for other people to share from you? 
+A: Um, yeah, well I’m not file sharing. I clicked the boxes that say not to share the files because I know people have been getting in trouble for it. So if I download something, I download from someone else I guess but no one can get it from me. So… (laugh)
+A: Um, not really. Basically, the only reason why we all don’t file share is because we don’t want to get sued so I guess that’s the only thing we’ve talked about. So it’s because like we think that none of us really share them.
+A: I was fine before, but because of the whole [peer-to-peer] issue, I had it before, but now I just deleted from my computer. I feel it is not safe. I normally wouldn’t mind, but there are so many warnings against that and lawsuits that I don’t want to deal with that anymore.
+A: Yeah. One thing they tell you at the university, they tell you don’t do that (leave your files open for people to share from you) because it slows down the Internet service. So, they forbid that. I could do it if I wanted to, but I don’t. 
+Other students also mentioned concerns about security issues related to downloading peer-to-peer software that might contain various types of malware (including viruses, worms, Trojan horses, and backdoors). Note that these fears are well founded as recent analyses have shown that about 50% of executable files available on peer-to-peer file sharing networks contain malware of some type.
+A: Well, I wasn’t sure what it could personally do to my computer. I wouldn’t want to get a virus from having that software.  
+A: …many people that get viruses, at least on my floor, it’s because they have [peer-to-peer], and they have to call the University to fix it up and blablabla…
+A: I mean, I think I speak for a lot of people when I say that everybody probably thinks that file sharing is a good thing, unless someone has some kind of worm virus they are sending to attack people.
+A: I haven’t done much because I worry about viruses. I was told that the sharing comes with viruses and I’m like, ok forget it. . .I don’t know.
+A: When it comes to technical stuff like downloading, I’m not good about that. So, when I was told, my God, it has viruses. I was just like what do you mean by that? I’m cautious now. Now that I have a computer, I want to know more about it.
+Students also espoused a sense of some of the ethical and legal dimensions related to copyright issues, although this understanding was not always perfectly reflected in their reported behavior. These comments were representative:
+Q: What is your opinion about whether it is legal to share software, movies, music or other material over the Internet?
+A: I’m not familiar black and white with the laws, it’s very sketchy in my mind. But since I’m pretty doubtful of what it is, I would just stay away from it.
+A: I’m a very moral person; I feel bad [about file sharing].
+A: I was told it was illegal. I know that if you get caught in school, they will take away your Internet. I really need my Internet. I use it for research and stuff like that. Then I feel bad. I see commercials on TV about stuff like that—about how it’s stealing.
+A: People burning CDs. I know I do it. But we shouldn’t because it takes money away from everybody else. …as burning software, again you’re taking money from the company and I don’t think that’s right.
+A: Basically, they know that they’re doing bad, but again it’s the whole money issue, which really it backfires because the more you burn and steal money, the more they’re gonna raise prices and the more they’re still gonna burn because they don’t want to pay the price.
+A: You are actually stealing, people are not making money—you know singers, movie artists. . .people who work in movies get affected by it. They are not getting money back. We’re stealing. Basically, taking the movie and watching it for free. I think I would be upset if that was my career and people are doing stuff like that.
+A: Um. . I don’t know. I guess it is; it kind of does mess up some profit for the actor, artists or whatever. But, I do feel people are going to share. You are taught when you are young that sharing is good, so I think it is inevitable that people are going to share.
+A: Oh no, it’s definitely illegal, depending if you get permission, if you sign up for a program, then it’s ok. But you can get around it. There are a lot of programs you don’t have to sign up for anything, like you don’t have to pay a monthly fee. If you have one of those programs where you don’t have to pay a monthly fee, I feel like it’s illegal. But, if you do, then it’s legal.
+When asked for ideas concerning how to reduce the incidence of copyright and intellectual property infringement related to file sharing, students mainly focused on possible technical solutions for detecting and preventing file sharing activities, although some also foresaw value in raising the level of awareness that students have.
+Q: If it were your job to reduce the amount of file sharing on campus, what would you do? 
+A: Um, well, it’s illegal, so I guess if I were to find someone who was file sharing. I guess like make it so that they weren’t allowed to be connected to the Internet for the time being when they like, so that they could like fix the problem and then they would be allowed to….
+A: Um, I talked to one kid on my floor and he said he heard they were cracking down on that more, they were watching that closer. On campus in particular, that they had some ways of tracking that or something like that.
+A: I’d let people know that I was aware, make them more aware of what it is and that it is, that part of it is illegal, and (unclear) I don’t want to say like a volunteer because people wouldn’t go, because I know people are lazy, I’m one of them (laugh). But I’d make them more aware and hold a meeting or something like a freshman forum like all the individual colleges and just make sure they know about it.
+Finally, at the close of the interview, students were asked whether they believed that a fee-for-service program on campus would be successful and what the appropriate configuration of such a service would be. In general, students seemed quite open to the idea as long as the program was administered fairly and the fee was not excessive. The following comments were representative:
+Q: If the University did have some sort of system where students could legally download from the Internet, in exchange for a fee, how well do you think that would that work?
+A: Yeah, if it’s like when you pay for your tuition, yeah, I think it would be like a nice program to have so. …I think they’d have like less work to do if they do that because people instead of using [peer-to-peer] would use their program and they won’t have all those problems. 
+A: If it was a reasonable amount like my boyfriend did that and it cost him a dollar. For a dollar I would. 
+A: [A dollar a song] would work or even if it was like, well, that also depends on how long the song is, if the song is like 15 min. then of course you’re gonna pay a little bit more plus you have to wait the time for it to download so some people think it’s worth it some people don’t.
+A: Um, possibly, it depends what the music is, because you have varied music tastes from students to students so if it were known what was going to be available, then it would be a good idea. But if you just obligated every student to pay that music fee; that would be a bad thing because not everyone uses it.  
+A: …I mean, if there was a charge per month and it doesn’t exceed I would say about $5, I think that is a good amount. Just because [our university] is already a very expensive university. There are just so many charges here and there with the telecom fee. I think there should be a limit, if it is a big concern for the University and if we’re doing something that is borderline illegal, but the fee shouldn’t be too much. 
+A: That’s ok with me. As long as like it’s being how do I put it, legal, I wouldn’t mind it. But, it should be an option. If it was mandatory, then that’s a problem. That’s good, because you are paying for the services. No one would have to worry about getting caught and the Internet being taken away or something like that.  
+A: Depending on how many files you download. So, if you download this amount, it would be one price, if you download a thousand, it would be another.
+In summary, this sample of students, while not necessarily representative of the student population overall, evinced substantial awareness of some of the legal, ethical, and information security aspects of file sharing and downloading. Perhaps as a result of this awareness, the incidence of sharing (i.e., permitting uploads of copyrighted materials to unknown persons on the Internet) was expected to be considerably lower than the incidence of downloading of copyrighted materials (either directly from web sites or through peer-to-peer programs). One implication that might be drawn from this distinction between sharing and downloading is that some or many students are willing to take a risk for their own personal benefit (i.e., downloading copyrighted material at no charge for their own use), but are unwilling to take the risk of facilitating further distribution of the materials for the benefit of other peer-to-peer users.
+Anonymous Survey: Behavioral Frequencies
+The purpose of the anonymous survey was to establish the baseline frequency of behaviors of concern in the present study. The advantage of a highly anonymous paper and pencil survey was the likelihood of obtaining more accurate estimates of average behavioral frequencies as well as the variability in behavior. Behaviors that are highly variable tend to have greater susceptibility to change than those that have little variance. In contrast, extremely high frequency behaviors have little variability across individuals. Likewise, extremely low frequency behaviors have little variability across individuals because almost nobody enacts them. These “low base rate” behaviors present another set of problems with respect to interventions. Low base rate behaviors tend to be hard to detect, thus making the process of addressing an intervention to the relevant set of individuals difficult. Low base rate behaviors also tend to result from unique and unusual motivations: Interventions addressing these motivations generally have little applicability to the population at large.
+The data we collected illustrated these points and provide additional insights into the computer-related activities of students. The four behaviors with the lowest variability were: Release viruses or other malware onto the Internet (0.6%), Use hacker tools other than for assigned coursework (2.4%), Get unauthorized access to someone else’s files (3.0%), and Give someone else your user ID and password (8.5%). Note that the margin of error for these estimates ranges from +/-1.5% to +/-4.4% (for a 95% confidence interval).
+Of related interest in the low base rate category, students generally reported very low utilization of available information resources pertaining to safe, reliable, and ethical uses of their computers. Statistics for the percentage of students who rarely or never do the behavior included: Reading about university policies regarding the Internet (83.8%), Seeking information about university computing policies (81.3%), Reading informational material about the dormitory network (75.6%).
+Note that the margin of error for these estimates ranges from +/-5.6% to +/-7.7% (for a 95% confidence interval).
+Further analysis of the data from the anonymous paper and pencil survey revealed a set of behaviors of interest that exhibited substantial levels of variability within the sample. These high variability behaviors included those activities of focal interest in the present study such the use of peer-to-peer file sharing programs, sharing of music and movie files among friends and strangers, and the downloading of various types of software from the Internet. For both statistical and practical reasons, these behaviors were most likely to provide the basis of motivation models that could offer insights into how to structure a workable set of interventions. Thus, we retained the items assessing the frequency of these behaviors in the subsequent web-based survey study. A comparison of the base rates of behaviors as obtained from the two survey studies appears in Table 1 below.
+Table  SEQ Table \* ARABIC 1. Comparison of Base Rates on Key Behaviors Between Anonymous and Web-Based Survey Studies
+Behavior
+Anonymous Survey
+ 
+Web Survey
+
+T-test
+MeanSD% Do  thisMeanSD% Do thisPeer-to-peer downloads3.311.5973.8%2.841.4563.9% 3.38**Software downloads2.570.9664.6%2.360.9852.7% 2.22*Sharing with friends2.281.4143.4%2.051.1436.3% 1.86Peer-to-peer uploads1.661.2317.1%1.360.889.5% 2.87**Note: T-tests were conducted with equal variances not assumed on df ranging from 234 to 559, based on a significant Levene’s test for equality of variances. *p<.05, **p<.01.
+Note that the rightmost column of Table 1 contains a statistical test showing that a significant mean difference exists between the two samples in all but one case (sharing media files with friends). These results accorded with our expectation that a social desirability bias would manifest in responses to the web survey. We assumed that respondents would perceive the web survey as less anonymous than the paper survey and would thus tailor their responses in an effort to portray themselves in a more favorable light. Note how peer-to-peer downloads, peer-to-peer uploads, and software downloads are all reported as less frequent in the web survey. Despite the fact that the reports in the anonymous paper and pencil survey were likely to have been more honest, the data from the web survey still is useful because our subsequent analyses rely on correlation among measures rather than comparisons of means or frequencies. Evidence in favor of this assertion appeared from exploratory factor analyses of the focal behaviors that appeared on both surveys: The factor analyses showed effectively identical results, showing that the correlation matrices were highly similar.
+Web-based Survey
+To analyze the web-based survey, we conducted four multiple regression analyses – one for each of the behavioral outcome variables. The behavioral outcomes were the frequency of using peer-to-peer media downloads, the frequency of allowing others on the Internet to upload media from one’s computer, the frequency of downloading unlicensed software, and the frequency of sharing acquired media files with friends (e.g., by transferring data on a CD or USB device). Table 2 shows the results of the multiple regression analyses:
+Table  SEQ Table \* ARABIC 1. Multiple Regression Analysis of Web Survey
+
+Predictor
+P2P download
+Media Upload
+Software Download
+Local sharing
+Computer knowledge
+-
+0.11
+0.37
+0.12
+Legal knowledge
+0.20
+-
+-
+-
+Conscientiousness
+-
+-0.10
+-0.11
+-0.13
+Perceived peer norms
+-
+0.14
+0.14
+0.17
+InfoSec self efficacy
+0.28
+-
+-
+-
+Producer Attitudes 
+-
+-
+0.16
+-
+Fear of consequences
+-
+-
+-0.09
+-
+R-squared 
+0.16
+0.08
+0.24
+0.10
+Note: Coefficients shown in all but the last row are standardized (beta) regression weights. All values significant at p<.05.
+The values in Table 2 suggest that computer knowledge, conscientiousness, and perceived peer norms have consistent associations with three of the four outcome behaviors. Generally speaking, the more conscientious a respondent was, the less likely they were to engage in these behaviors. In contrast, the more an individual’s friends approved of the behaviors (perceived peer norms), the more likely the individual was to engage in them. Likewise, the greater the individual’s computer knowledge, the more likely the individual was to engage in the behaviors. Importantly, as other studies of college student behavior have shown, perceived peer norms appear to have a moderate but consistent facilitating effect on behaviors that have some risk associated with them. The best model predicted downloading various types of software from the Internet. Conscientiousness and fear of negative consequences tended to suppress this behavior, while computer knowledge, peer approval, and negative attitudes toward producers tended to enable it. This latter finding is interesting in that it suggests the possibility that those who download software frequently may have a general set of negative attitudes about the value for money provided by software vendors. 
+The use of peer-to-peer downloading related positively to legal knowledge and information security self-efficacy. Note the possibility that a reverse causation effect may be at work with one or both of these predictors. Users of peer-to-peer file sharing may have perforce become more knowledgeable about both the legal issues involved and the information security implications because of the perceived risk of disciplinary action, lawsuits, or both. Awareness may have increased in part because of media exposure of these issues has motivated people to become more knowledgeable in order to understand the risks associated with these behaviors. Note, however, that the positive coefficient on legal knowledge and the absence of a significant prediction by fear of consequences suggest that fear-based appeals would be ineffective in further diminishing the incidence of downloading files. This result accords with what students reported in the interview study: Relatively few students do file sharing (i.e., allowing uploads) because the added risk of this activity provides little or no personal benefit. In contrast, many still download music and other types of files despite ethical and security concerns to the contrary.
+DISCUSSION AND CONCLUSIONS
+Results of these three studies provide a surprising degree of concordance about student behaviors, the causes of these behaviors, and the likely success of various types of interventions. Peer norms provide a supportive motivational base that enables common occurrence of downloading and local sharing of media files. As long as a general sense of agreement continues to exist among undergraduates about the acceptability of downloading and local sharing it is unlikely that interventions to influence these behaviors will meet with substantial success.
+Relatedly, although the motivation to file share (i.e., uploading) may have diminished due to increased awareness of legal and information security concerns, substantial downloading and local file sharing activity (i.e., sharing with friends) continues despite the fact that many students have awareness of the ethical dimensions of copyright infringements. Interventions designed to reduce the incidence of these behaviors by increasing computer knowledge or information security self-efficacy may have the unintended consequence of enabling students to conduct the inappropriate behaviors with less fear of loss of privacy or computer security problems due to malware. While enhancing student’s skills and knowledge of information systems is generally a positive goal and outcome for an educational institution, doing so is also likely to increase confidence and competence at overcoming technical challenges that currently serve as barriers to some computer-related behaviors.
+Based on the data obtained from these three studies, an institution might choose one or both of the following strategies to reduce the incidence of the behaviors we studied. First, a peer awareness program could be developed to encourage frank discussion and attitude changes that allow behavior to become aligned with students existing understanding of ethical concerns. It would probably be important to have these interactions spurred by students themselves rather than institutionally mandated. A likely solution might involve dorm-based intervention teams led by resident assistants. Second, generally speaking, behavior change interventions have the greatest success when a positive behavioral option is available to replace the negative behavioral pattern. Institutions interested in reducing the incidence of peer-to-peer downloading, sharing, and uploading should carefully investigate, obtain, and deploy methods that allow students to obtain music and other media files supported by subscriptions and/or advertising. A range of solutions with various cost and maintenance implications is likely to be acceptable as long as two conditions are satisfied: 1) substantial variety of available works; and 2) a fair and reasonable fee structure. Ruckus and iTunesU have apparently had modest success in this regard at universities such as the University of Maryland (see http://www.oit.umd.edu/musicservice/), although students who use these services frequently complain about the lack of comprehensive coverage of their preferred artists. 
+ACKNOWLEDGMENTS
+Ms. Judy Holmes assisted with the interviewing, interview transcription, and data analysis phases of this project.
+REFERENCES
+Aas, H., Klepp, K. I., Laberg, J. C., & Aaro, L. E. (1995). Predicting adolescents' intentions to drink alcohol: outcome expectancies and self-efficacy. J Stud Alcohol, 56(3), 293-299.
+Ajzen, I. (1991). The theory of planned behavior. Organizational Behavior and Human Decision Processes, 50 (2), 179-211.
+Baldwin, A. R., Oei, T. P. S., & Young, R. (1993). To drink or not to drink: The differential role of alcohol expectancies and drinking refusal self-efficacy in quantity and frequency of alcohol consumption. Cognitive Therapy and Research, 17(6), 511-530.
+Bandura, A. J. (1977). Social learning theory. Englewood Cliffs, NJ: Prentice Hall.
+Kuther, T. L. (2002). Rational decision perspectives on alcohol consumption by youth. Revising the theory of planned behavior. Addictive Behaviors, 27, 35-47. 
+Kuther, T. L., & Timoshin, A. (2003). A comparison of Social Cognitive and Psychosocial Predictors of Alcohol Use by College Students. Journal of College Student Development, 44(2), 143-154.
+Gallaway, T., & Kinnear, D. (2001). Unchained Melody: A Price-Discrimination-Based Policy Proposal for Addressing the MP3 Revolution. JOURNAL OF ECONOMIC ISSUES, 35(2), 279-288.
+Pestello, H. F. G. (1983). Fear and Misbehavior in a High School. The Sociological Quarterly, 24(4), 561-573.
+Rob, R., & Waldfogel, J. (2006). Piracy on the High C's: Music Downloading, Sales Displacement, and Social Welfare in a Sample of College Students. The Journal of Law and Economics, 49(1), 29-62.
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+
+
+
+

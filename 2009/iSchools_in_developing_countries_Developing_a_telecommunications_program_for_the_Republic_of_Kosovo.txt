@@ -1,0 +1,413 @@
+iSchools in developing countires: Developing a
+telecommunications program for the Republic of Kosovo
+Martin Weiss
+
+David Tipper
+
+Robert Hayden
+
+School of Information Sciences
+University of Pittsburgh
+Pittsburgh PA 15260
++1 412 624 9430
+
+School of Information Sciences
+University of Pittsburgh
+Pittsburgh PA 15260
++1 412 624 9421
+
+Russian & East European Studies Ctr
+University of Pittsburgh
+Pittsburgh PA 15260
++1 412 648 7404
+
+mbw@pitt.edu
+
+dtipper@sis.pitt.edu
+
+rhayden@pitt.edu
+
+ABSTRACT
+This paper describes a collaborative project between the
+University of Pittsburgh and the University of Pristina in building
+a program of study in telecommunications in Kosovo. This has
+not only been been a notable service project for the University of
+Pittsburgh, it is also a way to begin extending the iSchool concept
+into developing economies like Kosovo.
+
+Categories and Subject Descriptors
+A.m (Miscellaneous)
+
+General Terms
+Management, Economics, Legal Aspects.
+
+Keywords
+Kosovo, USAID,
+
+1. INTRODUCTION
+In the wake of the destructive war of the late 1990s, the newly
+independent state of Kosovo still has many needs. Among them is
+a modern telecommunications infrastructure and career
+opportunities for the many young people who are unemployed.
+Telecommunications is a key infrastructure for any country
+wishing to be competitive in the global economy, and education is
+an important factor in building a competitive workforce that will
+stimulate investment in Kosovo.
+In addition to capital investment, building a telecommunications
+infrastructure requires operational expertise and an educated
+workforce. In their November, 2007 assessment [1], the US
+Agency for International Development (USAID) identified the
+telecommunications sector as one having potential for improving
+the high unemployment rate among young people in Kosovo. In
+this study, they found that the telecommunications sector firms
+imported skilled personnel because adequately trained personnel
+were difficult to find internally.
+This stimulated a request for proposals from USAID’s Higher
+Education Development (HED) branch to address this need.
+Given the University of Pittsburgh’s long experience in the region
+(through its Russian and Eastern European Studies (REES)
+program, telecommunications education (through its iSchool) and
+international education (through the School of Education’s
+Institute for International Studies in Education (IISE)), this RFP
+was a good fit, and was awarded this project in April 2008.
+Thus, this project is designed to address two of Kosovo’s pressing
+needs by assisting with the challenges of human resource
+
+development and building a close industry-academia partnership
+in Kosovo’s telecom sector. The ultimate goal of this partnership
+is to improve Kosovo’s economy through private sector
+engagement and workforce development. As recent reports on the
+situation in Kosovo indicate (see [2]), much work remains to be
+done, and we can expect it to take many years to achieve selfsustaining growth.
+Given USAID’s emphasis on private sector investment, this
+program will build an education program that educates young
+people whose skills are be consistent with the local industry’s
+needs. This will be accomplished by building a modern
+laboratory and integrating laboratory experiences into the
+curriculum and through extensive engagement with the local
+industry through an Industry Advisory Council (IAC), which is a
+novel approach for the University of Pristina (UP).
+Even in this relatively early stage of reconstruction, it is
+appropriate to introduce topics in the domain of iSchools into the
+educational system. While the UP faculty in this partnership are
+technology focussed, they are quite aware of their broader needs
+in the information professions.
+
+2. Project description
+There are three key elements to achieve our overarching objective.
+The first element is to develop and reinforce a relationship
+between local industry and UP’s Faculty of Electrical and
+Computer Engineering. The next element is to demonstrate
+practice-oriented instruction by inviting UP faculty members to
+the University of Pittsburgh for extended stays. Finally we will
+work directly with the UP faculty in developing and delivering a
+program of study in telecommunications. Our specific goals for
+this three-year project are to:
+Work with the UP faculty on building an ongoing
+relationship with industry for the purpose of developing an
+intellectually rigorous telecommunications curriculum that
+meets the needs of industry in Kosovo.
+Help the UP faculty build the capability to respond to
+environmental changes (that is, changing industry needs and
+changing technologies) with appropriate curricular changes.
+Provide faculty members at UP with curriculum materials,
+instructional expertise, telecommunications laboratory
+equipment, and examples of hands-on laboratory experiences
+to supplement classroom education.
+Develop a student internship program at UP and negotiate
+internship experiences and opportunities with industry in
+Kosovo (and possibly elsewhere).
+
+Collaborate on providing classroom education for the first
+two cohorts of students to enroll under the new
+telecommunications curriculum.
+Develop a plan for continuing collaboration between the
+faculties and students of Pitt and UP after the project period
+ends.
+The new program of study in telecommunications will be
+delivered through UP’s Faculty of Electrical and Computer
+Engineering. In keeping with UP’s strategy, this educational
+program must be aligned with the European Union’s Bologna
+Process. As a result, UP currently offers three-year undergraduate
+degrees and two-year graduate degrees. The initial plans for the
+telecommunications program are focused on the two-year
+graduate degree. Graduate programs also require a thesis under
+Bologna, and, to offer a PhD in the future, the faculty must be
+actively engaged in research. Since UP’s semesters run from late
+September to late January and from late February to June, there is
+a two-month period available for students to pursue full-time
+summer internship experiences.
+The offices, classrooms, and some of the laboratory facilities for
+UP’s telecommunications program are located in a building with
+the rest of the engineering faculty at some distance from the main
+campus. Another building that houses additional labs is located
+nearby, but is currently partially occupied by the Kosovo Defense
+Force. The conditions of the laboratory facilities for engineering
+students are variable. While laboratories to support computer
+programming instruction are typical of those found in most
+universities worldwide, the facilities in support of instruction in
+data networking and electronics are either limited or dated.
+Although computer programming and basic electronics instruction
+would not be addressed at the graduate level, the UP engineering
+laboratory facilities in their current state point to the limitations in
+hands-on experience that one would expect from students in the
+program. With no data routing equipment, the networking lab
+offers little capability for teaching students the fundamentals of
+data networking in an applied way. These problems regarding
+available educational facilities will need to be addressed by the
+project.
+
+2.1 Faculty Development.
+Professional education places different demands on a faculty and
+its facilities than traditional, theory-based education. Professors
+must engage students in a way that highlights the current practice
+of theoretical concepts, which requires active learning techniques
+supplemented with hands-on laboratory experiences. It is often
+beneficial to complement this classroom-based experience with
+internships or cooperative education. Professors engaged in
+professional education must also be mindful of the difference
+between “education” and “training”. At Pitt, our goal is to provide
+sufficient practical skills so that our graduates will contribute to
+their employers quickly, while also having enough theoretical
+knowledge and background that they remain productive over the
+course of a career. This balance can sometimes be challenging to
+strike.
+In our experience, faculty members whose background is not
+rooted in professional education often require retraining to help
+them adapt to a more practice-oriented approach. We propose to
+provide such training for the UP faculty by:
+Creating an Industry Advisory Council (IAC) consisting of
+representatives of current and emerging telecommunications
+
+employers in Kosovo, who will be given an active role in
+providing feedback to the UP faculty on the curriculum. We
+are working with the IAC and the faculty to coach both
+groups in building this relationship by holding joint meetings
+three to four times per year, at a minimum, during the project
+period. The first such meeting was already held and was very
+promising. Engaging the IAC in such a detailed manner will
+create a sense of shared purpose that can assist UP students
+with job placement after their studies end.
+Working with UP faculty to educate them about learning
+outcomes-oriented curriculum design. Many faculty
+members outside of the field of education have learned the
+craft of teaching by observing their professors and mentors
+when they were students, and therefore are unfamiliar with
+the process of basing curriculum design on expected learning
+outcomes. To address this issue, we will engage curriculum
+design experts from the faculty of Pitt’s School of Education
+to consult with the UP faculty as they review their
+curriculum. The goal is not to redesign the curriculum for
+them, but to help them through the process of accomplishing
+this themselves by providing constructive feedback,
+curriculum design examples, sample curriculum materials,
+and support in overcoming barriers along the way.
+Rotating three junior faculty members from UP’s
+telecommunications program through Pitt’s Master’s of
+Science in Telecommunications and Networking (MST)
+program. These faculty members, to be selected in
+consultation with the UP leadership, will have the
+opportunity to earn credit toward a Pitt advanced degree; to
+participate in a summer internship experience with a U.S.
+company following the academic year spent at Pitt; and to
+experience the use of practice-oriented learning techniques.
+We will provide instruction in these techniques while the UP
+faculty members are resident in Pittsburgh, demonstrating
+how to incorporate labs into their courses and how to engage
+local industry more effectively.
+Educating the UP faculty regarding the process of continuous
+curriculum evaluation. The Graduate Telecommunications
+and Networking program at Pitt has undergone significant
+curriculum redesigns approximately every five years since its
+inception in 1986. The first redesign incorporated the
+growing importance of the Internet; the second added a PhD
+program; the third incorporated a new track of study in
+wireless, reflecting the increasing importance of those
+technologies in the late 1990s; and the fourth introduced a
+track in network security, in response to the changes in the
+post 9/11 world. Currently, the Pitt faculty are engaged in
+another redesign effort to move the focus of study in
+telecommunications away from the physical layer and more
+toward network management and applications, again
+reflecting changes in the industry. We will work with UP’s
+faculty to pass on this culture of continuous curriculum
+evaluation and attention to industrial needs, as well as
+techniques for incorporating the discoveries from this
+process into their curriculum.
+
+2.2 Curriculum Development.
+To meet USAID’s goals for this program, we plan to directly
+engage UP faculty and local industry as partners in curriculum
+development. As stated above, representatives of local industry in
+Kosovo will be organized into an Industrial Advisory Council
+(IAC), which will meet with the UP faculty three to four times per
+
+year during the project period, and will be strongly encouraged by
+the project team to continue meeting beyond this three-year period
+as well. UP faculty will be engaged in the curriculum design
+process using a top-down approach, starting with the
+establishment of learning outcomes for the curriculum, and
+ultimately leading to the establishment of course syllabi and
+student evaluation instruments that are geared to learning
+outcomes. Junior faculty members from UP will be in residence at
+Pitt on a rotating basis to observe and participate in active and
+hands-on learning approaches, as mentioned above.
+
+2.3 Private Sector Involvement.
+Recruiting private sector representatives to the IAC was
+somewhat challenging in an environment with a limited or nonexistent tradition of cooperation between academia and industry.
+Most IAC representatives came from Kosovo, since the goal is to
+educate students for the emerging Kosovar economy. The IAC
+members should be broadly representative of local industry, and
+should include participation by the incumbent telephone company
+(PTK), the competitive mobile service provider (iPKO), the larger
+and smaller Internet Service Providers (ISPs), and Community
+Access Television (CATV) providers, as well as broadcasters,
+satellite service providers, and the Telecommunications
+Regulatory Authority (ART, http://www.art-ks.org/). Other
+potential stakeholders consist of equipment and service vendors
+serving the local market; also, Cisco and Microsoft run training
+operations in Kosovo. Appendix 2 of the November 2007 USAID
+report Assessment of the Kosovo Information and
+Communication Technologies (ICT) Sector contains a list of
+contacts that were interviewed for the report, which was be a good
+starting point for recruitment of the IAC.
+
+2.4 Practice-Oriented Education
+The Graduate Telecommunications and Networking Program in
+SIS has an expressed purpose of preparing students for the
+workplace, with equal emphasis on theory and practice. Job
+placement rates have been very high since the program’s
+inception in 1986. The program was founded with a grant from
+AT&T, and has since gathered formal and informal feedback from
+industrial partners through committees and one-on-one
+conversations, as well as through its own industrial advisory
+council. The program’s current industrial advisory council
+includes representatives from service providers (e.g., Verizon),
+equipment manufacturers (e.g., Ericsson), application developers
+(e.g., Google), and end user organizations (e.g., FedEx). Our plan
+is to bring these experiences of practice-oriented education to UP
+as they establish a program of study in telecommunications.
+Another significant feature of Pitt’s telecommunications program
+has been its laboratory environments. Throughout the many
+curriculum and course content changes that have taken place, a
+persistent question has been: “What are the labs associated with
+this course?” We have built a substantial portfolio of lab
+experiences. These labs provide a structured tour for students
+through a sometimes complex environment, enabling them to
+discover for themselves what has been taught in the classroom. In
+the process, they begin to learn how to use and manage network
+equipment. While our portfolio of labs may not be the exact set
+that UP’s faculty need, they will provide a foundation of
+workable, useful experiences for students that can be adapted to
+the Kosovo environment.
+
+3. Project activities to date
+In the months since the project has been awarded, we have made
+significant progress. At the project launch in Pristina, initial
+contact with industry representatives was made. These contacts
+have formed the basis for the IAC. In addition, an project
+coordinator in Kosovo was interviewed (and hired), and the first
+UP faculty member to visit Pittsburgh was identified. This faculty
+member is now in residence at Pitt.
+The key UP faculty for this program visited Pittsburgh for a series
+of intensive meetings. During this week, the faculty were
+familiarized with Pitt’s telecom program and the motivations that
+drive its structure and approach, as well as a deep familiarization
+with Pitt’s laboratory environment. In addition, the UP faculty
+were introduced to objectives-oriented curriculum design by the
+IISE faculty. With this background, the UP faculty undertook a
+radical redesign of their curriculum, which resulted in a focussed
+set of eductional experiences for their prospective students. In
+addition, this design enabled the UP faculty to develop a detailed
+set of laboratory requirements.
+The redesigned curriculum, which is currently being fleshed out,
+is an adaption of Pitt’s MST curriculum, not a wholesale adoption.
+The UP faculty face different requirements, in part because they
+are part of an engineering faculty. In addition, their curriculum
+must be carefully crafted to take advantage of the knowledge and
+skills of the incoming students. This results in a somewhat more
+technically oriented curriculum, because Pitt’s MST program is
+designed for students with a greater variety of undergraduate
+degrees, not just electrical engineering or computer engineering.
+Soon after their return to Pristina, the first meeting of the IAC was
+convened. After a formal opening, the IAC members and the
+faculty engaged in a frank and open dialog about the proposed
+curriculum. The faculty are considering the advice and will
+present a more detailed version of the curriculum to the IAC in the
+coming months before seeking the necessary approvals at UP.
+The advice offered by the IAC included some specific topics
+recommended for inclusion into the curriculum, a re-ordering of
+some courses, and a recommendation that the language of
+instruction be English. A significant fraction of the IAC members
+are graduates of UP’s electrical engineering program and are
+currently with telecommunications carriers as well as large users
+of networks. Their familiarity with the curriculum as well as the
+industrial environment gave their recommendations additional
+weight.
+Finally, an IISE faculty member travelled to Kosovo to conduct a
+baseline assessment. This assessment consisted of extensive
+questionnaires and interviews and will be useful for assessing the
+progress that the project made at the end of the three year period.
+In the coming months, we will be finalizing UP’s curriculum and
+constructing their labs.
+The graduate program in
+telecommunications at UP will begin with the Fall 2009 semester.
+
+4. Conclusions
+Supporting the UP faculty in building a practice oriented
+educational program in telecommunications has been personally
+and professionally rewarding. USAID has been a valuable partner
+for both their insight and the financial resources. The project
+team is hopeful that the successes in the telecommunications
+domain can be extended and repeated in other ares of interest to
+iSchools.
+
+There are many factors that affect the success of a project like
+this. In this project, strong leadership from the Dean of the
+Faculty of Electical and Computer Engineering has proven to be
+crucial, as has explicit support from UP’s Vice Rektors. The
+Dean’s personal reputation in the local industry has made creating
+the IAC easier, as many of the IAC members are alumni. In
+addition, the Dean’s leadership has diminished the challenge the
+faculty faced when they were given 600 additional new students
+to teach this fall semester. External factors such as this can have
+an enormous impact but can also be managed with leadership.
+This program offers mutual benefits beyond this particular
+project. The University of Pittsburgh’s Center for Russian and
+East European Studies (REES) benefits from the richer contacts
+and experience in this region that this project offers. Students and
+faculty in Pitt’s Telecommunications program have the
+opportunity to expand their experience base; further, it adds to the
+ongoing effort to explicitly introduce experience with
+international partners into students’ experiences. This is an asset
+in the increasingly globalized economy.
+While USAID’s support was and continues to be critical in this
+project, we cannot count on this support in the long term. We
+expect the Master’s program to be self-sustained by the end of the
+project period, as the faculty at UP will be at full strength. To
+expand the program into PhD eduction has further implications
+
+and requires a different kind of partnership. First of all, some of
+the current faculty members will have to obtain PhDs themselves;
+secondly, our partnership will have to be expanded to include
+research relationships. Continuting the partnership in this way
+will require a different economic model; it is unclear whether
+USAID is the appropriate partner for such a project.
+
+5. ACKNOWLEDGMENTS
+Our thanks to USAID and HED for their support and our
+colleagues on the Faculty of Electrical and Computer Engineering
+at the University of Pristina for their commitment to working with
+us on this project.
+
+6. REFERENCES
+[1] Payne, J., Ducker, M. and Peja, D. 2007. Assessment of the
+Kosovo Information and Communications Technology (ICT)
+Sector. USAID, November 15, 2007.
+http://pdf.usaid.gov/pdf_docs/PNADK675.pdf.
+[2] Garcia, R.M. 2008. Kosovo Economic Performance
+Assessment. USAID, May 2008.
+http://pdf.usaid.gov/pdf_docs/PNADL767.pdf
+
+

@@ -1,0 +1,36 @@
+How Does Web Advertising Affect Users’ Information Seeking, Website Evaluation, and Source Evaluation?
+Youngseek Kim
+Syracuse University School of Information Studies Syracuse, NY 13244 USA
+ykim58@syr.edu
+
+
+
+
+Web advertising (ads) is currently a big issue for information seeking behavior on the Internet. Since websites are an important source of information in our daily lives, the websites have become popular media for advertising. The advertisers think that Web ads are the best way to get people to know quickly many things about a product or service [7]. However, from the viewers’ perspective, Web ads can be considered an obstacle to users’ information seeking on a website. Actually, Web ads received complains as being annoying or intruding, and it is considered to have negative effects such as affecting people’s task performance by many researchers [2, 5, 6].
+The objective of this research is to know how Web advertising affects users’ information seeking, website evaluation, and source evaluation. Most previous studies have focused on the effectiveness of Web ads toward viewers. Not many studies researched on how Web ads affect users’ information seeking performance, website evaluation, and content evaluation of a website. According to visual attention theory, since people’s visual attention is limited, the more attention Web ads received from a viewer, the less amount of attention was available for the visual search task and the more damaging it was to the search task [5]. Therefore, Web ads will affect people’s information seeking performance, and consequently it will influence website evaluation and source evaluation of the website.
+My research question is: how do different types of Web advertising which attract people’s attention at differing levels affect users’ information seeking performance, website evaluation, and source evaluation? I will employ an empirical research design with various levels of attention grabbing Web ads and users’ information seeking performance, website evaluation, and source evaluation. I will use a total of 200 college students as the sample population in this research, and I will randomly assign the participants into four different groups (50 participants in each group): three experimental groups for low, medium, and high attention grabbing Web ads and one control group (a group with no Web ads). There would be no significant difference between groups in terms of years of computer experience, years of Internet experience, and gender.
+Several different types of Web ads will be designed by differing attention grabbing levels. Then, a pretest will be conducted to determine three different levels of attention grabbing Web ads. After that, four different groups including three differing Web ads groups and one control group with no Web ads will go through a couple of informative news articles on an online News website. During this experiment, participants’ task performance will be recorded in terms of reading speed and memory of content. Also, their evaluation of both website and source content will be asked in terms of several criteria such as informativeness, usefulness, and credibility suggested by other scholars [1, 4].  
+I believe that this research would provide a comprehensive picture of information seeking behavior under Web ads situation. Also, it would give a useful guideline for both Web ads providers and website holders to design Web ads and display them on websites by considering both Web ads effectiveness and viewers’ information seeking behaviors.
+REFERENCES
+Chen, Q., and Wells, W.D. "Attitude Toward the Site," Journal of Advertising Research (39:5) 1999, pp 27-37.
+Edwards, S.M., Li, H., and Lee, J.-H. "Forced Exposure and Psychological Reactance: Antecedents and Consequences of the Perceived Intrusiveness of Pop-up Ads," Journal of Advertising (31:3) 2002, pp 83-95.
+Hong, W., Thong, J.Y.L., and Tam, K.Y. "How Do Web Users Respond to Non-Banner-Ads Animation? The Effects of Task Type and User Experience," Journal of the American Society for Information Science and Technology (58:10) 2007, pp 1467-1482.
+Yang, H., and Oliver, M.B. "Exploring the Effects of Online Advertising on Readers’ Perceptions of Online News," J&MC Quarterly (81:4) 2004, pp 733-749.
+Zhang, P. "The Effects of Animation on Information Seeking Performance on the World Wide Web: Securing Attention or Interfering with Primary Tasks?," Journal of the Association for Information Systems (1:1) 2000, pp 1-28.
+Zhang, P. "Pop-up Animations: Impact and Implications for Website Design and Online Advertising," in: Human-Computer Interaction and Management Information Systems: Applications, D.F. Galletta and P. Zhang (eds.), M.E. Sharpe, Armonk, NY, 2006, pp. 70-97.
+Zhang, P., and Kim, Y. "Web Advertising: What Do We Know About its Acceptance and Impacts? A Meta-Analysis of the Literature," Pacific Asia Conference on Information Systems (PACIS), SuZhou, China, 2008. 
+
+
+
+
+
+
+
+
+PAGE  
+
+
+
+
+
+

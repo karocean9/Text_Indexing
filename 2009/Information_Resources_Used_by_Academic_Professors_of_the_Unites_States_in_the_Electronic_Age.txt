@@ -1,0 +1,629 @@
+Information Resources Used by Academic Professors of
+the Unites States in the Electronic Age
+Xi Niu
+
+Brad Hemminger
+
+University of North Carolina at Chapel Hill
+100 Manning Hall, 216 Lenoir Drive
+Chapel Hill, NC 27599
+919-381-7759
+
+University of North Carolina at Chapel Hill
+206A Manning Hall, 216 Lenoir Drive
+Chapel Hill, NC 27599
+919-966-2998
+
+xiniu@email.unc.edu
+
+bmh@ils.unc.edu
+
+ABSTRACT
+To identify what information resources the professors use to
+support their research activities and how they use them in the
+electronic age, this paper surveyed 637 faculty members from five
+research universities across the nation. Three questions were
+asked including the five most important specific resources, how
+many articles they retrieved from 13 channels of sources, and
+which search engine (Google vs. Library’s homepage) they
+preferred to use. Descriptive statistics, exploratory factor analysis,
+regression analysis and binomial test were used to analyze the
+data. Factors including age, gender, and disciple are related to
+choice of particular information sources. We find that most of the
+faculty members still rely on electronic journals. Preferences were
+evenly divided regarding using library’s search page versus a
+Google search page.
+
+Categories and Subject Descriptors
+H.1.2 [Information Systems]: USER/ MACHINE SYSTEMS—
+Human information processing
+
+General Terms
+Human Factors, Measurement
+
+Keywords
+scholarly communication, information seeking , information
+resources, electronic journals, electronic format, Google, library
+
+1. INTRODUCTION
+With the rapid development of online resources and databases and
+the emergence of Web 2.0 technology, there has been a dramatic
+change in the scholarly communication. In an effort to understand
+how the faculty members of universities respond to the electronic
+transformation and highlight how they use information resources,
+637 professors in the field of science and engineering from five
+research universities—University of North Carolina at Chapel Hill
+(UNC), University of Florida (FL), University of Oklahoma (OU),
+Colorado State University (CSU) and University of South Florida
+(USF) were surveyed about their information seeking behavior in
+this study.
+
+2. METHODOLOGY
+2.1 Survey Questionnaire
+The survey (http://ils.unc.edu/bmh/isb/National-ISB-Survey.pdf)
+used in this study is part of the National Survey of Information
+Seeking Behavior of Scientists
+(http://bioivlab.ils.unc.edu/sandbox/ISB_national_survey/index.ph
+p/Information_Seeking_Behavior_National_Survey) conducted by
+the NeoRef research group led by Dr. Hemminger at University of
+North Carolina at Chapel Hill. The original survey attempted to
+quantify academic scientists’ transition to electronic
+communications, and how this affected different aspects of
+information seeking. The data of this paper was cleaned and
+imported into SAS 9 for analysis. Descriptive statistics,
+exploratory factor analysis, and logistic regression analysis were
+done on these data, resulting in both descriptive and exploratory
+results.
+
+2.2 Study Populations and Demographics
+The 637 subjects of this study are faculty members of UNC, UFL,
+OU, CSU, and USF, five research universities across America.
+This is a subset of the complete national study which included
+graduate students and other researchers. Included in the faculty
+are professors with tenure (full professor and associate professor)
+and without tenure (assistant professor) from 46 disciplines
+including science, engineering, and medical science. Social
+science and humanities are not included in this study because our
+focus is academic scientists. The average age of the participants is
+48 with standard deviation of 11. Gender is not balanced since the
+majority(69%) are males. The distribution of the academic
+position by professor, associate professor, assistant professor is
+42.33%, 25.43%, and 32.34% respectively.
+
+3. RESULTS
+The first question asked the professors to list five most important
+individual sources (journals, websites, listservs, etc) for them to
+stay current in their field. Table 1 lists the top 10 sources
+mentioned by faculty. Seven of the 10 sources are journal titles.
+Of the 7 journals in the top-10 list, Nature, Science, and
+Proceedings of the National Academy of Sciences are the
+generally-focused and highly impact journals. The other four are
+from areas of biology and chemistry.
+
+There is som
+me agreement on a few common
+c
+sourcces of
+information as the most comm
+monly utilized sources (for innstance
+Science and Nature
+N
+are the toop two journalss). Most reseaarchers,
+though, use many
+m
+different and varied souurces. As shoown in
+Figure 1, overr 1100 resourcees are listed byy the participannts and
+over 900 resouurces are listed oonly once. Therrefore, there is a “long
+tail” of the curvve and the distrribution of the data appears too be the
+Power Law disstribution. Thiss means the vaast majority of faculty
+members havee their own inndividual selecttion of resourcces for
+keeping currennt depending on their fields andd interest.
+
+Inn evaluating thee factors, it appears that two off the factors (Faactor
+2, and Factor 4) neatly identify the information
+n from lab and
+coolleague respecctively. Factor 5 may be explaiined as identifyying
+thhe most popularr sources, but also interestingly
+y involves
+exxternally requested resources ((interlibrary loaan, and documeent
+delivery servicess).Even more diifficult to explaain is factor 1, which
+w
+iss confounded byy both library subscribed and personally
+p
+suubscribed journnals. As all the ffive factors are considered, wee
+coould infer that the
+t factors are m
+more directly tied to the
+innformation channnels (e.g., lab subscriptions and
+a colleague coopy
+shharing than the information forrmat (electronicc, print) in
+cllustering differeent informationn sources.
+
+i
+indiividual sourcess
+Table 1.. Top 10 most important
+Most Importaant Individual Sources
+S
+
+Count
+
+Science
+
+117
+
+Nature
+
+96
+
+PubMed
+
+93
+
+I Web of Scieence
+ISI
+
+42
+
+Proceedings off the National A
+Academy of Scieences (PNAS)
+
+34
+
+Journal of Biollogical Chemisttry (JBC)
+
+26
+
+Journal of the American
+A
+Chem
+mical Society (JJACS)
+
+23
+
+Cell
+
+21
+
+Google
+Ecology
+
+Std Dev
+D
+71
+7
+
+9
+
+18
+
+19
+
+5
+
+17
+
+21
+
+4
+
+10
+
+17
+
+[Prrint]Library subbscribed journall
+
+4
+
+18
+
+[Ellectronic](Authhor’s) Web site
+
+3
+
+6
+
+[Prrint]Copy of collleague’s
+
+3
+
+48
+4
+
+[Ellectronic]Colleaague’s e-copy
+
+2
+
+4
+
+Interlibrary loan
+
+2
+
+6
+
+[Ellectronic]Lab suubscribed journnal
+
+1
+
+5
+
+[Prrint]Lab subscriibed journal
+
+1
+
+5
+
+Doocument deliverry service
+
+1
+
+2
+
+100
+50
+0
+1000
+
+meean
+2
+26
+
+6
+
+150
+
+500
+
+[Ellectronic]Librarry subscribed
+jouurnal
+[Ellectronic]Open Access journall or
+Insstitutional Repoository or Digitaal
+Libbrary
+[Prrint]Personally subscribed jourrnal
+[Ellectronic]Personnally subscribedd
+jouurnal
+[Ellectronic]Personnal digital libraary
+
+Sources in italiics are general source types an
+nd not specific
+sources.
+
+0
+
+Table 2. Num
+mber of articlees retrieved fro
+om the following
+sources in a typical month
+h
+
+1500
+
+D
+off numbers of in
+ndividual sourrce
+Figure 1. Distribution
+mentioned by
+b faculty mem
+mbers
+Table 2 shows the average num
+mber of articless retrieved each
+h
+month by facullty members. Thhe results show
+w that faculty
+members retrieeve much more articles from libbrary subscribeed
+electronic journnals than from any
+a other sourcce. The large staandard
+deviation from the mean for all the items indicates the large
+variance of inddividual behavioor.
+
+n the 13 inform
+mation
+Exploratory facctor analysis waas conducted on
+sources to clustter the 13 sourcces into groups according to
+researcher prefference. The ressults are describbed in Table 3. Five
+factors yielded by the factor annalysis.
+
+T
+To identify whicch type of interfface is preferred
+d in academic field,
+f
+thhe survey askedd participants too indicate their preference
+p
+betw
+ween
+thhe Google searcch interface andd their library caatalog search
+innterfaces. Respoonses from partticipants in the five universitiees
+spplit nearly half and half with a small differencce (Figure 2).
+B
+Binomial test shhows the differeence is not signiificant (p-value:
+0.8340).
+
+50.39%
+
+49.61%
+
+Goo
+ogle
+Librrary's 
+Hom
+mepage
+
+F
+Figure 2. Googlle vs. Library’s Homepage
+
+Table 3. Factor analysis for information sources
+ 
+
+Factor 1 
+
+Factor 2 
+
+Factor 3 
+
+Factor 4 
+
+Factor 5 
+
+[Electronic]Personally subscribed journal 
+
+0.94342
+
+-0.07216
+
+0.02257
+
+0.04660
+
+0.01670
+
+[Electronic]Lab subscribed journal 
+
+0.07413
+
+0.92707
+
+0.13763
+
+0.10741
+
+0.01274
+
+[Electronic]Library subscribed journal 
+
+0.21312
+
+0.01488
+
+0.08637
+
+-0.01295
+
+0.46233
+
+[Electronic]Open Access journal or 
+Institutional Repository or Digital Library 
+
+0.00389
+
+0.07231
+
+0.07041
+
+-0.02131
+
+0.30304
+
+[Electronic](Author’s) Web site 
+
+-0.00369
+
+0.08224
+
+0.27881
+
+0.12964
+
+0.03976
+
+[Electronic]Personal digital library 
+
+0.01204
+
+0.00869
+
+0.65260
+
+0.04619
+
+0.05018
+
+[Electronic]Colleague’s e‐copy 
+
+0.04688
+
+0.12204
+
+0.18667
+
+0.59860
+
+0.02770
+
+[Print]Personally subscribed journal 
+
+0.88676
+
+0.14725
+
+-0.04744
+
+0.02619
+
+0.05884
+
+[Print]Lab subscribed journal 
+
+0.08165
+
+0.93389
+
+-0.03701
+
+0.10488
+
+0.06050
+
+[Print]Library subscribed journal 
+
+0.94609
+
+0.10764
+
+0.01745
+
+-0.02052
+
+0.06776
+
+[Print]Copy of colleague’s 
+
+-0.00740
+
+0.02769
+
+0.03360
+
+0.55882
+
+0.00246
+
+Interlibrary loan 
+
+-0.02750
+
+-0.02794
+
+0.02631
+
+0.03518
+
+0.24245
+
+Document delivery service 
+
+-0.01050
+
+-0.04621
+
+0.42758
+
+0.02653
+
+0.24521
+
+Table 4. Regression analysis for faculty’s preference
+between Google and Library’s Homepage
+parameter
+
+estimate
+
+age
+
+-0.0177*
+
+gender
+
+male
+
+0.5726**
+
+female (reference)
+
+0
+
+professor
+
+0.0407
+
+associate professor
+
+-0.3093
+
+assistant professor (reference)
+
+0
+
+department_
+
+medical science
+
+-0.1074
+
+type
+
+engineering
+
+-0.5761
+
+science (reference)
+
+0
+
+position
+
+*denotes significant at 0.1 level
+**denotes significant at 0.05 level
+To further examine the potential factors that impact the faculty’s
+choices, logistic regression model is constructed for the binary
+preference for Google and Library’s homepage search. Table 4
+summarizes the regression results. According to Table 4, the
+only factors have a significant effect were age and gender, with
+younger professors and male professors preferring Google more
+
+to start their search process. Although significant, the impact of
+age on professors’ preference is rather weak.
+
+4. CONCLUSIONS
+Five conclusions are found:
+1) More articles are retrieved from electronic journals
+subscribed by library than from any other source
+2) The overlap of journals used by the professors is rather
+small due to their different background (disciplines, academic
+positions, and demographics);
+3) Faculty members prefer electronic format materials than
+the print counterparts;
+4) Preferences were evenly divided regarding using
+library’s search page versus a Google search page to start;
+5) A few people are starting to use innovative information
+resources, e.g. blogs, wiki pages. However, most of the
+professors have yet to adopt these newer collaborative tools, and
+continue their traditional ways of finding information.
+
+5. REFERENCES
+[1] Brown, C. M. (1999). Information seeking behavior of
+scientists in the electronic information age: Astronomers,
+
+chemists, mathematicians, and physicists. Journal of the
+American Society For Information Science, 50(10), 929943.
+[2] Francis, H. (2005). The information-seeking behavior of
+social science faculty at the University of the West Indies,
+St. Augustine Campus. The Journal of Academic
+Librarianship, 31(1), 67-72.
+[3] Hemminger, B. M., Lu, D., Vaughan, K., & Adams, S. J.
+(2007). Information seeking behavior of academic
+scientists. Journal of the American Society for Information
+Science and Technology, 58(14), 2205-2225.
+[4] Hugland, L., Olssen, P. (2008). The Impact on University
+Libraries of Changes in Information Behavior among
+Academic Researchers: A Multiple Case Study. Journal of
+Academic Librarianship, 34(1): 52–59
+[5] Odlyzko, A. (2002). The rapid evolution of scholarly
+communication. Learned Publishing, 15(1), 7-19.
+[6] Tenopir, C. (2005). Google in the Academic Library.
+Library Journal , Feburary 1:32.
+[7] Wayne Buente, A. R. (2008). Trends in Internet
+Information Behavior, 2000-2004. Journal of the American
+Society for Information Science and Technology ,
+59(11):1743-1760.
+
+

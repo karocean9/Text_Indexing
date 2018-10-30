@@ -1,0 +1,334 @@
+Shifting Boundaries of Book Authorship, Publishing, Discovery, and Audience in an I-Society: Authors as their Own Publishers: an Empirical Study
+
+Jana Bradley
+University of Arizona 1515 E First St.  Tucson, AZ 01.520.621.3565
+janabrad@email.arizona.edu
+Bruce Fulton
+University of Arizona 1515 E First St.  Tucson, AZ 01.520.621.3565
+bfulton@email.arizona.edu
+Marly Helm
+University of Arizona 1515 E First St.  Tucson, AZ 01.520.621.3565
+mhelm@email.arizona.edu
+
+
+ABSTRACT
+This paper reports an empirical exploration of authors who act as publishers for their own books. It is part of a larger effort by a research team at the School of Information Resources and Library Science at the University of Arizona, whose agenda is to study the shifting boundaries book of authorship, publishing, discovery, audience, and roles of libraries in an i-society. In addition to the three team members cited as authors, there are other members who participated in data gathering, acknowledged at the end of the paper, and still others not directly involved in this study but who are or will be working on related projects. We consider the issue of shifting boundaries of book authorship, publishing, discovery, audience, and relevance to libraries as one of the major emerging themes in the iSociety, and one which is sometimes ignored in the face of newer, and also interesting, genres of publishing, such as blogs, ezines and websites for sharing authored materials. It is possible that the team will extend its interest to these genres, at some point, but for now we are focused on understanding these shifting boundaries in relation to the genre we know of as a book, and the changing patterns for its creation, production and movement in society.
+Keywords
+Self-publish, print on demand, authorship, publisher, fee-based publishing services, author services, subsidy publisher
+INTRODUCTION
+Advances in digital printing technology play a key role in enabling new models of authoring and publishing. Digital printing presses incorporating xerographic or inkjet technologies facilitate high-quality cost-effective printing of short print runs or even one-at-a-time printing.  Traditional printing technologies (e.g. offset and lithographic presses) are more expensive to set up initially and usually require larger print runs of at least 2,000 to 3,000 copies to make a profit. A main advantage of small runs and copy-at-a-time printing is reducing dependency on large inventories and warehousing. Thus digital printing technologies have enabled new models of distribution and delivery of orders (called in the publishing industry, fulfillment) which have become known as print-on-demand (POD). POD is usually, although not always, characterized by a business structure that requires authors and other users of the service to pay for them, hence the term, fee-based publishing. Fee-based publishing models using POD have put publishing services within the reach of individual authors and small publishers. Even larger publishers can now reprint a title in small runs, potentially affecting the concept of “out-of-print.” 
+The specific focus of the present study is to describe empirically the landscape of books published by authors using fee-based publishing services, (at a moment in time, since figures change constantly), including how many there were, under what conditions they were published, the characteristics of their bibliographic data, their availability for purchase and their availability in libraries.
+LITERATURE ON FEE-BASED PUBLISHING
+There is a flood of articles about authors publishing their own books and the chaotic and shifting businesses and their interactions that make self-publishing a viable alternative. These articles, in general, consist of reports of current news (e.g. Milliot, 2007), descriptions of this emerging phenomenon (e.g. Penny, 2008, Ross, 2004, Scott 2004), many how-to articles (e.g. Kelly, 2008, Gulotta, 2007, Glazer, 2005) along with a handful of how-to self published books (e.g. Poynter, 2008, Saal, 2003), and some analysis by knowledgeable journalists or professionals in the book industry e.g. (Berenstein, Part 1, Part 2, 2007). In addition, there are a few descriptions and analysis of fee-based publishing in the library literature, starting, as near as we can tell, with an article on subsidy publishing Library Trends, 1958 (Sullivan). Only a small handful can be considered scholarly, and they are not data-driven (e.g. Haugland, 2006). A sampling of each of these types is included in the references. Additional references to the literature of self-publishing can be found in Delivko and Dali (2006), described below.
+The major data-driven scholarly study of the self-publishing phenomenon to date is Delivko and Dali (2006) who have explored the presence and characteristics of self-published books in libraries. They selected a representative sample of seven companies offering publishing services to authors for a fee, and then searched WorldCat by publisher to come up with a raw title count of 14,061 as their population of self-published books. They then developed a sample of 175 titles by taking the top 25 from each publisher, determined by numbers held in libraries, and explored these in terms of many characteristics, including numbers held by libraries, content, type of library and other factors. They conclude that academic and public libraries are aware of and own titles published by authors using fee-based publishing services. They end with the recommendation that libraries should pay more attention to this phenomenon.
+DEFINITIONS
+Little consensus has emerged in the literature on the definitions of established and emerging phenomena relating to book publishing. In addition, different writers use terms differently.  For terms like “publisher,” the definition may seem obvious, but for this study of changing practices in publishing, a formal definition that does not reify recent practice is needed. Here are definitions that are important for this study:
+Book Publisher (Core definition):  An agent (individual or collective) that decides and makes arrangements to make multiple copies of a book publicly available, secures the financial resources, and assumes the risks. This definition is very similar to the one many book historians use to study publishing activity from the 15th century forward, where the actual term “publisher” does not appear until late in the book’s history.
+Mainstream Book Publisher, late 19th century forward: The core definition – an agent (individual or collective) that decides and makes arrangements to make multiple copies of a book publicly available, secures the financial resources, and assumes the risks – plus value-added services, such as manuscript acquisition and development, preproduction services such as editing, distribution and marketing services.
+Author as Publisher: The author is the agent who decides and makes arrangements to make multiple copies of a book publicly available, secures the financial resources, and assumes the risks. The author selects the text to be published, without a mainstream publisher as intermediary.  The author chooses, and pays for, production, reproduction and other services that he/she wants, such as fulfillment, distribution and any or none of all the value-added services in the mainstream publishing model. In this study, we use the term, “self-publishing” for the concept of author as publisher.
+Fee-Based Publishing Services: The most common way for authors to act as their own publishers, or self-publish, is to use a fee-based publishing service. This is defined as a  company that, for a fee, provides for the production of a book, plus a range of value-added services that the author can choose, either provided directly by the company or outsourced.  Fee-based publishing services differ in the value-added services they offer for additional money. Our use of the term, fee-based publishing, is as an umbrella term for two terms that are distinguished by some writers. 
+Subsidy Publishers. This model has existed for more than 50 years, and was stigmatized with the name of vanity press under the assumption that anyone who was good enough to get a publisher, would. Delivko and Dali distinguish between this older model and a newer model they call “author services.” In our work, publishers called subsidy publishers of the past and present are one type of fee-based publisher.
+Author-services: This is a term that has arisen recently, used by Delivko and Dali and others, to describe the new models for fee-for-service publishing. We depart from this usage by grouping all fee-based services together under the term, fee-based publishing, and then differentiating by publishing model, or the range of services, pricing, and so forth. Another argument for not using the term “author services” for the new POD model of publishing services is that authors are not the only ones who use these services; small publishers, and more recently larger publishers interested in bringing back out-of-print titles use these services too.
+THE PRESENT STUDY
+The Dilevko and Dali study was very important to us in suggesting the next questions that might be asked in investigating self-publishing and approaches for answering them.  Their study was based on the output of seven representative fee-based publishing services and only on titles constrained by a publication time window that were held by member libraries. We wondered about publishers other than the seven and how their titles were represented in libraries, about titles that did not get into libraries, about the bibliographic data of self-published titles, and about their available for purchase. Thus, by extending a quantitative study to a universe of fee-base publishing services and a random sample of their titles not restricted to those in WorldCat, we view our work as adding to the body of scholarly knowledge about this phenomenon.
+
+RESEARCH QUESTIONS
+Our initial study is positioned as a pilot to frame a basic understanding of the fee-based publishing business model that will serve as a foundation for ongoing research into this phenomenon. We believe our research findings present clear evidence of the shifting contextual boundaries within the larger world of book publishing.  Our methodology is based on a random-sample study that addresses some basic questions about fee-based publishing, including identifying available publishing service models and areas needing further exploration. The explosive growth of self-published books and the adoption of print-on-demand business models by even the largest of the publishing houses tell us that further exploration is needed to understand the impact of author-publishers and their contribution to the I-Society.
+Fee-Based Publishing Services
+How many fee-based publishing services are there and who are they?
+How many titles are available from these publishers at a specific point in time (April, 2008)?
+How is the production of these titles distributed across publishers?
+Can we identify differences in these publishers in terms of their business model and market differentiation?
+
+Characteristics Of Titles From These Fee-Based Publishing Services
+What are the descriptive characteristics of self-published books: author, title, publisher, ISBN, date?
+By what distribution mechanisms are these titles made available for purchase?
+How available are these books in libraries?
+Are there other editions of the fee-based books that were not self-published?
+Do our fee-based books have multiple imprints?
+What can we say about the choices our authors made in choosing fee-based publishers
+
+METHODOLOGY 
+The methodology used to address these questions was to estimate as closely as possible the universe of self-published books during a short window of time (April 2008), and examine a stratified random sample of these books to answer the questions above.
+From prior research (Bradley, Vokac, 2007), from additional web searching, and from examining lists of fee-based publishing services complied by others, we identified over 100 fee-based publishing services.  Because we planned to use the web-based “stores” of these services, or Amazon, to create our total title count, we excluded those fee-based services that did make their publications directly available to the public. We used 93 fee-based publishing services in the study. 
+In order to determine the total universe of titles from these 93 publishers, we used multiple methods of counting the available title inventory of each publisher. We collected data by counting publications offered from the publisher’s website store, by comparing that count with Amazon, and sometimes by calling the publisher and asking. 
+For each publisher, we choose what seemed to be the most reliable count. We totaled the number of publications from all our publishers and then determined the percentage of the total offered by each publisher. We called this the market share of the publisher. We determined that a sample size of near 350 would be adequate for statistical analysis at a reasonable level of confidence. 
+Next we determined how many titles we would examine from each publisher. We chose the number of titles, based on market share and a stratified random sample methodology for choosing the required number of titles within each publisher.  Looking at the counts from our publishers, we realized that given our calculated sample size of 349 and our decision to sample by market share, we could not include 1 title from every publisher. 
+For reasons explained more fully in the results section, we designated 9 publishers from whom we would take a least one title, the number based on market share. We looked closely at each of these 9, both as publishers and at their titles selected for our sample. The remaining publishers produced considerably fewer titles, so we treated them as one population pool and randomly selected 44 titles from this pool to examine closely, again both by publisher and sample. For the titles in our sample, we identified descriptive data, including author, title, ISBN (if the title had one), and date. 
+We also examined the bibliographic data and availability for all sample titles from multiple sources, including the publisher’s website, Bowker’s Global Books in Print, Alibris, WorldCat, and an aggregator, BookButler.com. Bookbutler.com is intended to compare prices at online retailers, but in doing so, it provides an incomplete list of online retailers where these titles can be purchased, including international retailers. In addition, we purchased about 1/3 of our sample titles, to get hands-on experience with these publications.
+RESULTS 
+Publishers and Titles in the Sample
+A criterion for inclusion in our universe of fee-based publishers was making the title available through the publisher’s online store or through a channels-to-market outlet such as Amazon.com. Ninety-three publishers met this criterion. The total title availability of all these publishers combined, in April 2008, was approximately 385,000. The figure is approximate because we collected data over a 3-4 week period in April and we know that in some cases the numbers grew slightly over that period.  Also, some sources, like the publishers themselves, gave us approximate counts.
+Looking at the number of titles published by each publisher shows a dramatic break between Lulu, with 158,831 titles and 41% of the market share, and the rest of the field. The nearest competitor was AuthorHouse, with 47,899 titles and 12% of the market share. We elected to study individually the publishers who had at least 8000 titles, and 2% of the market share. We called these the “Big Nine,” publishing more than 9000 titles. The Big Nine accounted for 335,924 titles and 88% of the market share. 
+The remaining 84 we dubbed “Small Publishers,” ranging from Xulon Press, publishing 5,379 titles at 1.4% of the market share, to our smallest publisher, Gaslight Press, with 4 titles, which statistically counted as zero market share. Table I shows the publishers listed in order of number of titles, their market share, and the number of titles from each in our sample.
+Table I: Sampling Date for our Nine Major Publishers and Aggregate Data from our Small Publishers
+385,000 estimated available output from 93 Fee-Based Publishing Services in April, 2008
+Publisher
+Total Title Count
+% Market Share
+# of titles for sample
+Lulu
+158,813
+41.2%
+144
+AuthorHouse*
+ 47,899
+12.4%
+ 44
+iUniverse*
+ 29,968
+ 7.8%
+ 27
+PublishAmerica
+ 22,680
+ 5.9%
+ 21
+Indy Publishing
+ 19,168
+ 5.0%
+ 17
+XLibris
+ 18,078
+ 4.7%
+ 16
+Blurb
+ 17,857
+ 4.6%
+ 16
+Trafford
+12,510
+ 3.2%
+ 11
+Booksurge**
+  8,933
+ 2.3%
+   8
+Big Nine Total
+335,924
+ 88%
+305
+Small Publishers: 84
+  49,249
+ 12%
+  44
+Total All Publishers
+385173
+100%
+349
+
+*     Both owned by parent company, Author Solutions **   Acquired by Amazon One company in the small publisher category was purchased by AuthorHouse One company in the small publisher category is owned by Author Solutions Two companies in the small publisher category are now owned by Ingram Book Group
+Our next analysis came from looking at the characteristics of the titles themselves. This allowed us to see patterns across publishers as well as aggregate statistics about the titles.
+ISBN NUMBER  
+Two hundred and sixty six (266) books out of 349 books in our sample had ISBN’s, about two thirds of the total sample. The distribution of ISBN numbers shows a distinct pattern and allows interesting speculation on the use of self publishing. In our sample, 100% of titles from seven of the Big Nine publishers had ISBNs, indicating that for those publishers, mainstream distribution is a primary marketing focus. Of the sample from small publishers, 82% had ISBN’s. 
+The titles without ISBN’s suggest a possible set of motivations for self publishing other than the desire to mimic mainstream publishing and its availability to consumers.
+Although Blurb offers the opportunity to obtain ISBN numbers, only 56 of Blurb’s over 17,000 publications chose to do so, as indicated by a search on “ISBN” on the Blurb site, and random checking to see that the titles did indeed have an ISBN, No titles in our Blurb sample of 16 contained an ISBN. Most of the Blurb titles are available only on the Blurb on-line store, and the categories for browsing, such as weddings, children, cookbooks, indicate that these are publications the author wants to share with a defined personal or professional audience, not necessarily with the world. 
+Lulu is another publisher with a high percentage of titles without ISBN’s. Only 31% of Lulu titles whose presence we could detect had ISBN’s. Lulu’s pricing structure provides one reason why authors might not choose to have ISBN’s. Lulu offers a printing and binding service, which might be called “print and deliver,” similar to local instant copy and binding printing businesses, where the author is charged printing with no set-up or other charges. A no-fee listing on the Lulu bookstore and the option of having an online storefront web presence in a name or imprint the author chooses adds sales to the “print and deliver” package of print shops. 
+Three examples suggest that authors are using their Lulu books for their personal or professional purposes, and therefore don’t need, or perhaps want, availability outside the Lulu store. For example, two piano teachers have written a book about their method and have it available for their students and interested others to purchase from the Lulu online store. A communications consultant has written a book on writing well, presumably to use with his clients; this is available on a Lulu storefront with his own publishing imprint and includes about 5 books on topics other than writing. A Christian site which provides free downloads of articles, books, and others, uses Lulu to supply print copies of their book offerings. The cheapest package on Lulu that includes an ISBN number is a little less than $100.  With more than 2/3 of authors who publish with Lulu choosing not to buy an ISBN for relatively little money, the motivations authors have for self-publication needs further investigation.
+We can also speculate that there are authors who print with Lulu under the “print and deliver” model and do not choose to sell through the Lulu store. These authors can be called the “hidden” self publishers, people who want copies for their needs alone, such as reports and journals. There is some indication that the “hidden Lulu” is substantial because of claims of Lulu’s publishing output that are more than double the number we were able to discover (Wolf, 2008). This hidden self-publishing market is also an area for more investigation, but promises to be elusive.
+Lulu has another interesting feature that obscures both the publisher and the effects of having an ISBN. Lulu offers a Publish-By-You option, where you select your own imprint. Examples of self-selected imprints include the author’s name, the name of a website the author runs, and some combination of two author’s names.  In one case, we suspect that the imprint name might be the housing tract where the author lives. Further, we note that many of these non-Lulu imprints are given an ISBN by Lulu with the 0615 prefix. We surmise that this is a block of numbers that Lulu has purchased and reserves for Publish-By-You titles. 
+We conclude our discussion of titles without ISBN’s by noting that 18% of the titles from our small publishers do not have them. We speculate that like many in the Lulu group without ISBNs, these authors have their own personal or professional uses for books, and do not need, or perhaps do not want, external availability. Some author-publishers may use self-published books to complement or draw customers to existing content-specific web sites. Others may have methods other than traditional market availability for reaching potential customers. Table II shows the percentage in our sample by publishing service that had ISBN’s.
+Table II: Titles with ISBN’s.
+POD Publisher Name
+count
+ISBN Count
+% with ISBN
+Authorhouse 
+44
+44
+100.0%
+Blurb 
+16
+0
+0.0%
+Book surge 
+8
+8
+100.0%
+Indy publishing 
+17
+17
+100.0%
+iUniverse 
+27
+27
+100.0%
+Lulu 
+144
+45
+31.3%
+PublishAmerica 
+21
+21
+100.0%
+small pubs 
+45
+37
+82.2%
+Trafford 
+11
+11
+100.0%
+Alibris 
+16
+16
+100.0%
+
+349
+226
+64.8%
+Availability for Purchase
+This variable, availability for purchase, represents the supply side of the distribution of the self-published titles. We are now beginning a study that looks at the demand side of the issue of books reaching consumers. In future studies we will be looking at the discoverability by consumers of self-published books. Except in the case of known titles, how do consumers find out about self-published books? An even more difficult problem but one which we are preparing to address is sales of self-published titles (and, of course, sales are no guarantee of readership).
+All books in our sample were available for purchase during April 2008 on the fee-based publisher’s website or through Amazon.com via links on smaller publisher's websites lacking their own on-line storefront software.  Reviewing selected data now, we find a few are no longer available on the site; however, some of these titles remain listed on Amazon.com. We have mentioned that many Lulu authors are content with having a book produced and available only through Lulu.
+The ISBN seems to be the passport to external availability. Only 59% of our total sample (including books without ISBN numbers) could be found in bibliographic databases such as Bowker’s Global Books in Print and online vendors, such as Alibris or Amazon. By contrast, when we restricted our search to selections with ISBN numbers, 90% of self-published titles could be found in these sources. Additionally, 77% of the books in our sample with ISBNs could be found using aggregating search engines such as BookButler.com, which locates and compares multiple channels for purchase.
+Availability in Libraries
+Compared with the almost universal availability for online purchase of titles in our sample with ISBNs, and almost 60% availability over the whole sample, the number of titles available in at least one OCLC member library is dramatically smaller.  Twenty percent (20%) of the titles in our sample are listed in at least one OCLC member library. 
+An intriguing finding that needs to be further explored is that it appears that a number of our titles appear as alternate versions (e.g. different ISBN or publisher) in OCLC member libraries.  We are currently exploring methods of quantifying this phenomenon and suggest that this result needs to be further explored to understand the differences between our POD books and other versions held by member libraries. Table III below shows the data for holdings of our sample titles in OCLC member libraries.
+Table III  Books in our sample found in OCLC member libraries
+POD Publisher Name
+Count
+POD Version Libraries Count
+POD Version % of Total
+Authorhouse
+44
+17
+38.6%
+Blurb
+16
+0
+0.0%
+Booksurge
+8
+2
+25.0%
+Indypublishing
+17
+4
+23.5%
+iUniverse
+27
+12
+44.4%
+Lulu
+144
+7
+4.9%
+PublishAmerica
+21
+7
+33.3%
+Small pubs
+45
+3
+6.7%
+Trafford
+11
+10
+90.9%
+Xlibris
+16
+9
+56.3%
+
+349
+71
+20.3%
+
+WorldCat also contains bibliographic data from Baker and Taylor and also Alibris. Table IV below shows the frequency of our samples in WorldCat, including vendors.  . Interestingly, the records for 30% of our titles can be found in WorldCat in vendor records, suggesting that 10% of the vendor records are not in member libraries.
+Table IV: Total Number of our Sample in Worldcat, Including Vendors.
+POD Publisher Name
+Count
+Worldcat Count
+% of books w/ POD-listed ISBN numbers in Worldcat 
+Authorhouse 
+44
+15
+34.1%
+Blurb 
+16
+0
+0.0%
+Booksurge 
+8
+3
+37.5%
+Indypublishing 
+17
+3
+17.6%
+iUniverse 
+27
+16
+59.3%
+Lulu 
+144
+15
+10.4%
+PublishAmerica 
+21
+9
+42.9%
+Smallpubs 
+45
+20
+44.4%
+Trafford 
+11
+11
+100.0%
+Xlibris 
+16
+11
+68.8%
+
+349
+103
+29.5%
+
+Because one component of our study looked at availability in libraries, comparison of our results with Dilevko/Dali’s study should be attempted. Unfortunately, because of the different methods of both studies, and the difference in time period in a field that changes almost daily, comparison is hard to do. Trying just to compare the numbers of titles in member libraries found by both studies does not yield satisfying results. Their study started with seven fee-based publishers and found 14,061 from these publishers in member libraries. They also found that 8,935 member libraries held the top 25 tiles of the seven publishers. Our study started with 93 publishers and developed a stratified random sample of 349 titles based on market share of the publishers. We searched by title, having already established through our methodology that they were randomly representative of the 93 fee-based publishers. Our data show 71 of our sample titles (20% of our sample) in OCLC member libraries. 
+Summary of Results
+The quantitative data gathered here show that:
+The number of self-published titles available in April was quite high (>385,000)
+Thirty-five percent (35%) of self-published books do not have an ISBN, the traditional passport to widespread public availability;
+Ninety percent (90%) of our entire sample of books with ISBN numbers was publicly available in Bowkers, Alibris, or from multiple sites listed on book Butler;
+By comparison, only 20% of our entire sample was available from OCLC member libraries.
+Conclusions and Further Directions
+Self-published titles have a clear and substantial presence in the online retail market, especially those with ISBN’s. Many fee-based publishers, both large and small, have included the provision of an ISBN as a feature of their baseline package, thus opening the door to listing in sources such as Global Books in Print, Amazon, Alibris and others. Bookbutler.com results show that these titles have global penetration through the international subsidiaries of US firms and foreign national outlets.  Vendors like Baker and Taylor provide bibliographic records in WorldCat, not for all, but for a surprising 30% of these titles. Libraries show some holdings (20%) of our POD titles, but also show presence of other editions, so further work needs to be done to clarify the picture of library holdings. 
+The percentage of titles without ISBN’s, albeit coming from Lulu, Blurb and a handful of small publishers, show that a substantial number of authors may not be interested in or fully understand global availability. Random exploration of these non-ISBN titles indicates a range of motives for self-publication that should be explored further.
+The issue of books produced by fee-based publishing services but under author-selected imprints needs further study, including the possible implications for the ISBN. This issue is related to the issue of ease of consumer, or even library, recognition of titles from fee-based services, not only because of the possibility of author choice of imprints, but because of the proliferating number of these services. It is very difficult, even for us who have been working in this area for more than a year, to know which small publishers follow traditional publishing models, including value-based selection of manuscripts, and which are fee-based publishers, accepting manuscripts without editorial evaluation. And the question must be asked whether or not this distinction remains important, and to what audiences.
+Within the year of this study, the business alliances of major and minor players in self-publishing have shifted. There is some evidence that major players in the book distribution business are also establishing a major presence in digital and self publishing distribution. For example, the Ingram Book Group, a major distributor of print titles to bookstores and libraries, has purchased Lightning source, a major printer of self-published titles, including many Lulu titles, and Gardners, a major book distribution and fulfillment company in the United Kingdom. 
+Finally, our study raises a number of issues relating to readership. We spot-checked the Amazon sales rank numbers for several titles in our survey and others found through Amazon searches. We observed that some author-published titles rank favorably compared with traditionally published titles, so clearly author-published books can be commercially successful. How readers find author-published books, whether they discern their origins, and how they make decisions to acquire them are questions that should be of high interest not only to the authors themselves but to libraries and booksellers as well.
+The picture coming from this pilot study is one of a shifting and blurring of distinctions that were previously not only fairly fixed but easy to detect. The implications of these shifts for authors, publishers, consumers and libraries need further exploration. 
+This study focused on the existence and availability of self-published titles; it did not address in any way the quality of these titles. We are, of course, aware that quality will be an important factor for all considering the viability of self-published titles. Quality is an elusive variable, particularly because almost certainly varies with different audiences, but it is a dimension that cannot be ignored, and one that we are planning to address in future studies by multiple approaches. 
+References
+Berinstein, P. (2007). Self-Publishing and the Book Trade, Part 1: ISBNs, Bar Codes, and Other Identifiers. Searcher, 15, 2, 36-44.
+Berinstein, P. (2007). Self-Publishing and the Book Trade, Part 2: Distribution. Searcher, 15, 4, 14-17.
+Dilevko, J, Dali, K. (2006), The Self Publishing Phenomenon and Libraries, Library & Information Science Research (Libr Inf Sci Res) v. 28 no2.
+Glazer, S. (2005). How to Be Your Own Publisher. New York Times Book Review, 154, 53194, 10-11.
+Gulotta, C. (2007). What one self-publisher learned on the BUMPY PATH to 100,000 BOOK SALES. Writer, 120, 6, 30-31.
+Kelly, J. M. (2008). GET YOUR self-published book NOTICED. Writer, 121, 2, 27.
+Haugland, A. (2006). Opening the Gates: Print On-Demand Publishing as Cultural Production. Publishing Research Quarterly, 22, 3, 3-16.
+Milliot, J. (2007). Amazon Tries Self-Publishing. Publishers Weekly, 254, 36, 8.
+Penny, D. (2008). Publishing technologies: what does the future hold? Learned Publishing, 21, 1, 39-47.
+Poynter, D. (2007). The self-publishing manual: how to write, print, and sell your own book.  16th edition. United States: Para Publishing Co. 
+Ross, M. (2004). Untangling self-publisher options. Writer, 117, 6, 28-29.
+Saal, C. (2003) The Clearly Confusing World of Self-Publishing and COD. VirtualBookworm.com Publishing.
+Scott, D. M. (2004). The New Publishers. Econtent, 27, 3, 48.
+Sullivan, H. A. (1958). Vanity press publishing. Library Trends, 7(1), 105-115
+Wolf, A, Lulu Founder Open to Discovery, The News& Observer, 2008
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+
+
+
+

@@ -1,0 +1,520 @@
+Opening To The World:
+The Effect Of Internet Access On Corruption
+
+Martha Garcia-Murillo
+Syracuse University
+School of Information Studies
+4-206 CST Syracuse NY 13244
+Phone: 315-443-1829 Fax: 315-443-5806
+E-mail:  HYPERLINK "mailto:mgarciam@syr.edu" mgarciam@syr.edu
+
+
+
+
+ABSTRACT
+It has been well documented that corruption negatively affects economic development. The purpose of this paper is to quantify the effect that Internet access in a country has on the level of corruption by studying a cross section of a larger sample of approximately 150 countries. The paper extends the model in Vinod (1999; 2003) and includes political, economic, and technological factors that can affect the level of corruption. We also present short country case studies to illustrate how some are using the Internet in their efforts to curtail corruption.
+Categories and Subject Descriptors
+ HYPERLINK "http://www.acm.org/class/1998/" C.2.0, C.2.5, G.3, J.1, J.4
+General Terms
+Economics, Legal Aspects.
+Keywords
+Corruption, Internet
+INTRODUCTION
+It has been well documented that corruption negatively affects economic development  ADDIN EN.CITE  ADDIN EN.CITE.DATA [3-8]. There is empirical evidence that corruption increases market volatility, bank failures, and discourages foreign direct investment (FDI) in less developed countries. Vinod (1999) estimated that a dollar reduction in corruption would benefit developing countries by at least $1.67. He also suggested that the Internet could be an additional tool for governments to curb corruption. Vinod’s model nonetheless did not include Internet hosts or subscribers among the variables. Since 1999 the Internet has grown immensely and is even approaching some remote areas of poor countries. Hence it is necessary to update the older empirical research and broaden the focus to include these technological advances. The purpose of this paper is to quantify the effect that Internet access in a country has on the level of corruption by studying a cross section of a larger sample of approximately 150 countries. The paper extends the model in Vinod  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Vinod</Author><Year>1999</Year><RecNum>54</RecNum><record><rec-number>54</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">54</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Vinod, H.D.</author></authors></contributors><titles><title>Statistical Analysis of Corruption Data and Using the Internet to Reduce Corruption</title><secondary-title>Journal of Asian Economics</secondary-title></titles><periodical><full-title>Journal of Asian Economics</full-title></periodical><pages>591-603</pages><volume>10</volume><dates><year>1999</year></dates><urls></urls></record></Cite><Cite ExcludeAuth="1"><Author>Vinod</Author><Year>2003</Year><RecNum>46</RecNum><record><rec-number>46</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">46</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Vinod, H.D.</author></authors></contributors><titles><title>Open Economy And Financial Burden Of Corruption: Theory And Application To Asia</title><secondary-title>Journal of Asian Economics</secondary-title></titles><periodical><full-title>Journal of Asian Economics</full-title></periodical><pages>873-890</pages><volume>13</volume><dates><year>2003</year></dates><urls></urls></record></Cite></EndNote>[1, 2] and includes political, economic, and technological factors that can affect the level of corruption. 
+Information as a tool to fight corruption has not been empirically analyzed. This is surprising, considering that corruption thrives in an environment of secrecy. We believe that Internet access is valuable in any country because it provides citizens with relevant information about specific government regulations, services, deadlines, fees and requirements. A well-known dictum states: “knowledge is power.” The Internet can spread this power of information equitably to the benefit of all, thereby preventing monopolistic middlemen from abusing it. It can expose instances of (i) threats, (ii) arbitrary changes in rules or deadlines, and (iii) demands for bribes by bureaucrats.
+ We know that some countries have taken advantage of these technologies in their efforts to fight corruption. In Kenya, for example, the government set up a pilot project in Electronic Graft Management. The aim is to “increase public awareness and encourage public participation in fighting corrupt practices”  ADDIN EN.CITE <EndNote><Cite><Author>Onunga</Author><Year>2003</Year><RecNum>99</RecNum><record><rec-number>99</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">99</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors><authors><author>Onunga, John</author></authors></contributors><titles><title>Kenya: Busting Corruption Using the Internet</title></titles><volume>2005</volume><number>August 20</number><dates><year>2003</year></dates><publisher>KnowNet.org Initiative</publisher><urls><related-urls><url>http://www.cddc.vt.edu/knownet/articles/kenya-case.html</url></related-urls></urls></record></Cite></EndNote>[9]. In developed countries the trend is toward greater transparency, which is accomplished by publishing information on the Internet about the relationships between government agencies and individuals or companies.
+An additional objective here is to provide recommendations to governments about the potential uses of the Internet as a tool to deter corruption. The remainder of the paper is organized into four sections. Section two provides background information related to the factors that scholars have identified as being related to corruption reduction. The third section has statistical analysis. Following that we present short country case studies to illustrate how some are using the Internet in their efforts to curtail corruption. The last part of the paper presents the conclusions.
+BACKGROUND RESEARCH
+
+In his book Institutions, Institutional Change, and Economic Performance Douglas North  ADDIN EN.CITE <EndNote><Cite><Author>North</Author><Year>1990</Year><RecNum>100</RecNum><record><rec-number>100</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">100</key></foreign-keys><ref-type name="Book">6</ref-type><contributors><authors><author>North, Douglass C.</author></authors></contributors><titles><title>Institutions, Institutional Change, and Economic Performance</title></titles><dates><year>1990</year></dates><pub-location>New York</pub-location><publisher>Cambridge University Press</publisher><urls></urls></record></Cite></EndNote>[10] argues that institutions determine economic activity. Individuals will generally engage in activities that generate the greatest economic returns. Sadly, in many countries the most lucrative activities are bribes, kickbacks, and illegal favors that, while benefiting the individuals involved, create serious negative distortions in the economy and undermine citizens’ trust in the (democratic) institutions of the country.
+When a country experiences high levels of corruption these illegal activities are already institutionalized and have become a part of the fabric of society. Fadahunsi & Rosa  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Fadahunsi</Author><Year>2002</Year><RecNum>77</RecNum><record><rec-number>77</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">77</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Fadahunsi, A.</author><author>Rosa, P.</author></authors></contributors><titles><title>Entrepreneurship and illegality: Insights from the Nigerian cross-border Trade</title><secondary-title>Journal of Business Venturing</secondary-title></titles><periodical><full-title>Journal of Business Venturing</full-title></periodical><pages>397-429</pages><volume>17</volume><number>5</number><keywords><keyword>entrepreneurship</keyword><keyword>illegality</keyword><keyword>cross-border trading</keyword><keyword>corruption</keyword><keyword>Nigeria</keyword><keyword>corporate-behavior</keyword><keyword>corruption</keyword></keywords><dates><year>2002</year><pub-dates><date>Sep</date></pub-dates></dates><accession-num>ISI:000177384700002</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000177384700002</url></related-urls></urls></record></Cite></EndNote>[11] describe the example of Nigeria, where both legal and illegal goods are commonly traded through a complex and corrupt network of social relationships that through favoritism and bribes allows individuals to avoid the payment of duties. On the surface it may appear that these illegal activities have created additional jobs and some merchants have benefited from the corrupt system. Yet, corruption creates considerable additional costs, arising from uncertainty and stress in trading relations. Hence it is not surprising that Fadahunsi & Rosa find that most traders in Nigeria would rather have an impartial legal system, instead of the status quo.
+Corruption is a complex problem. One factor cannot be isolated over others as the culprit to the problem. In most cases it is the result of a combination of elements that create circumstances favorable to corrupt activities. Socio-economic and political factors often determine the level of corruption in a country. In this paper we argue that information disseminated by the Internet can be an important tool for curtailing corruption.
+Jain  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Jain</Author><Year>2001</Year><RecNum>37</RecNum><record><rec-number>37</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">37</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Jain, A. K.</author></authors></contributors><titles><title>Corruption: A review</title><secondary-title>Journal of Economic Surveys</secondary-title></titles><periodical><full-title>Journal of Economic Surveys</full-title></periodical><pages>71-121</pages><volume>15</volume><number>1</number><keywords><keyword>corruption</keyword><keyword>growth and development</keyword><keyword>rent-seeking</keyword><keyword>governance</keyword><keyword>rent-seeking</keyword><keyword>political corruption</keyword><keyword>latin-america</keyword><keyword>growth</keyword><keyword>competition</keyword><keyword>allocation</keyword><keyword>market</keyword><keyword>economy</keyword><keyword>talent</keyword><keyword>issues</keyword></keywords><dates><year>2001</year><pub-dates><date>Feb</date></pub-dates></dates><accession-num>ISI:000166879800003</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000166879800003</url></related-urls></urls></record></Cite></EndNote>[12] identifies three types of corruption: (1) grand corruption taking place at the top levels of government (2) bureaucratic corruption by appointed officials in their relationships either with other members of government or the general public seeking services, and (c) legislative corruption where legislators are engaged in corruption as a result of their relations with interest groups, seeking favors, or because of politicians’ election ambitions.
+In this study we want to explore the effect of the Internet as an information tool on the levels of corruption. Because of the statistical nature of this study we need to consider other factors that could also affect corruption. The scholarly research about corruption has identified political and socio-economic factors that contribute to the problem. Political studies have focused on the effect of corruption on the strength of the democratic process. Economic factors link these illegal activities to levels of poverty. Because corruption thrives in an environment of secrecy, our hypothesis here is that the Internet as a medium to provide information will reduce it. 
+Below we summarize the main findings from research in each of these areas and describe the model we developed, as shown in Figure 1, to analyze the data collected.
+
+
+
+Figure 1
+Economic, political and technological factors that affect corruption 
+ EMBED Visio.Drawing.6  
+2.1 Political factors and information
+Much research has been focused on the political factors that contribute to corruption. Corruption is possible as a result of the monopoly power that some members of government have over the resources or services provided by these entities. This is further exacerbated when there is a lack of clarity about rules, procedures, requirements, and fees. The facts regarding correct procedures are either hidden or do not exist, giving these officials discretionary power  ADDIN EN.CITE  ADDIN EN.CITE.DATA [12, 13]. By contrast, government Internet sites can provide correct information about the government regulations and services, helping to reduce the discretionary power of bureaucrats.
+Corrupt activities can happen within governments, in private and non-profit organizations, as well as in everyday economic activities. One of the conditions for corruption to occur is the ability of one of the parties in the relationship to give to another a privilege that would otherwise be difficult to get. Governments are thus one of the main sources of corruption because there are many activities within the purview of the state in the form of licenses, permissions, contracts, and so forth directly controlled by some powerful individuals in government. Since it is often impossible to imagine all situations, one cannot write detailed rules for all instances. Hence discretionary powers become unavoidable for smooth functioning of any government. 
+Scholarly research has shown that democratization can be effective in reducing instances of corruption. Governments that suffer from weak electoral processes due to fraud are also likely to suffer from corruption. In this regard, Alt & Lassen  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Alt</Author><Year>2003</Year><RecNum>23</RecNum><record><rec-number>23</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">23</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Alt, J. E.</author><author>Lassen, D. D.</author></authors></contributors><titles><title>The political economy of institutions and corruption in American states</title><secondary-title>Journal of Theoretical Politics</secondary-title></titles><periodical><full-title>Journal of Theoretical Politics</full-title></periodical><pages>341-365</pages><volume>15</volume><number>3</number><keywords><keyword>corruption</keyword><keyword>Mancur Olson</keyword><keyword>political agency</keyword><keyword>political institutions</keyword><keyword>rent-seeking</keyword><keyword>policy choices</keyword><keyword>rent-seeking</keyword><keyword>government</keyword><keyword>decentralization</keyword><keyword>accountability</keyword><keyword>competition</keyword><keyword>countries</keyword><keyword>quality</keyword><keyword>systems</keyword></keywords><dates><year>2003</year><pub-dates><date>Jul</date></pub-dates></dates><accession-num>ISI:000183925000006</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000183925000006</url></related-urls></urls></record></Cite></EndNote>[14] as well as Adsera et al.  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Adsera</Author><Year>2003</Year><RecNum>17</RecNum><record><rec-number>17</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">17</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Adsera, A.</author><author>Boix, C.</author><author>Payne, M.</author></authors></contributors><titles><title>Are you being served? Political accountability and quality of government</title><secondary-title>Journal of Law Economics &amp; Organization</secondary-title></titles><periodical><full-title>Journal of Law Economics &amp; Organization</full-title></periodical><pages>445-490</pages><volume>19</volume><number>2</number><keywords><keyword>ethnic divisions</keyword><keyword>corruption</keyword><keyword>performance</keyword><keyword>growth</keyword></keywords><dates><year>2003</year><pub-dates><date>Oct 1</date></pub-dates></dates><accession-num>ISI:000186311500007</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000186311500007</url></related-urls></urls></record></Cite></EndNote>[15], have argued that regular and fair elections allow citizens to discipline politicians. The threat of losing their position in government compels them to respond to citizen interests. Unfortunately, elections can be costly for political parties and rather than eliminating corruption, they can create a need for funds. Scholars who argue that an electoral system can reduce instances of corruption assume a politically educated and informed electorate. Moreover, some upper level and legislative corruption is hidden from the population at large by co-opting the media, who depend on government favors in the form of newsprint, government ads, and access to politicians. Sometimes many politicians conspire to not expose instances of corruption.
+Sadly, corruption itself erodes the faith of the general population in democratic values. When, as a result of corruption, the electorate loses its trust in the people who represent them, they also becomes cynical, passive, and disengaged from participating in the competitive democratic process  ADDIN EN.CITE <EndNote><Cite><Author>McManus-Czubinska</Author><Year>2004</Year><RecNum>69</RecNum><record><rec-number>69</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">69</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>McManus-Czubinska, C.</author><author>Miller, W. L.</author><author>Markowski, R.</author><author>Wasilewski, J.</author></authors></contributors><titles><title>Why is corruption in Poland &quot;a serious cause for concern&quot;?</title><secondary-title>Crime Law and Social Change</secondary-title></titles><periodical><full-title>Crime Law and Social Change</full-title></periodical><pages>107-132</pages><volume>41</volume><number>2</number><dates><year>2004</year><pub-dates><date>Mar</date></pub-dates></dates><accession-num>ISI:000188942300001</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000188942300001</url></related-urls></urls></record></Cite></EndNote>[16]. Thus one of the tools that could have helped reduce and potentially eliminate corruption is weakened by public distrust and cynicism with the system. Hill  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Hill</Author><Year>2003</Year><RecNum>20</RecNum><record><rec-number>20</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">20</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Hill, K. Q.</author></authors></contributors><titles><title>Democratization and corruption - Systematic evidence from the American states</title><secondary-title>American Politics Research</secondary-title></titles><periodical><full-title>American Politics Research</full-title></periodical><pages>613-631</pages><volume>31</volume><number>6</number><keywords><keyword>democratization</keyword><keyword>political corruption</keyword><keyword>American state politics</keyword><keyword>American politics</keyword><keyword>political corruption</keyword><keyword>interparty competition</keyword><keyword>democracy</keyword><keyword>perspective</keyword><keyword>verkuilen</keyword><keyword>culture</keyword><keyword>munck</keyword></keywords><dates><year>2003</year><pub-dates><date>Nov</date></pub-dates></dates><accession-num>ISI:000185814000003</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000185814000003</url></related-urls></urls></record></Cite></EndNote>[17] focuses on specific components of democratization. He argues that transparency reduces instances of corruption, while helping support a healthier democratic process.
+It is clear that a system of incentives that favors an environment of corruption and lack of transparency is indeed present in many countries. The failure of governments to successfully deter corrupt activities is generally due to a failure to police corrupt behavior, enforce laws, and effectively punish the miscreants. Thus among political factors to be considered in our study of corruption, is the presence of enforcement mechanisms. The state should be able to impose sanctions on those public officials that have violated their public duties. A system of sanctions requires the government to have the resources to police these illegal activities and the judicial system should be able to investigate and bring violators to justice  ADDIN EN.CITE <EndNote><Cite><Author>Collier</Author><Year>2002</Year><RecNum>26</RecNum><record><rec-number>26</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">26</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Collier, M. W.</author></authors></contributors><titles><title>Explaining corruption: An institutional choice approach</title><secondary-title>Crime Law and Social Change</secondary-title></titles><periodical><full-title>Crime Law and Social Change</full-title></periodical><pages>1-32</pages><volume>38</volume><number>1</number><dates><year>2002</year><pub-dates><date>Jul</date></pub-dates></dates><accession-num>ISI:000177582900001</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000177582900001</url></related-urls></urls></record></Cite></EndNote>[18].
+Detection of corruption is the first step in a country’s enforcement efforts but a fair and reliable judicial system is important for rebuilding trust and to potentially empower more individuals to take action against these acts. A study by Della Porta  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Della Porta</Author><Year>2001</Year><RecNum>36</RecNum><record><rec-number>36</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">36</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Della Porta, D.</author></authors></contributors><titles><title>A judges&apos; revolution? Political corruption and the judiciary in Italy</title><secondary-title>European Journal of Political Research</secondary-title></titles><periodical><full-title>European Journal of Political Research</full-title></periodical><pages>1-21</pages><volume>39</volume><number>1</number><keywords><keyword>reflections</keyword></keywords><dates><year>2001</year><pub-dates><date>Jan</date></pub-dates></dates><accession-num>ISI:000167735800001</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000167735800001</url></related-urls></urls></record></Cite></EndNote>[19] about corruption in Italy found that the strong independence of judges from the political apparatus of the country serves to protect the public from the abusive power of some of government officials. In these enforcement efforts, information about abuses and court decisions as well as protection to whistle-blowers can be additional empowering tools that individuals can use to expose these activities.
+ In this respect Alam  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Alam</Author><Year>1995</Year><RecNum>96</RecNum><record><rec-number>96</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">96</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Alam, M. S.</author></authors></contributors><titles><title>A Theory of Limits on Corruption and Some Applications</title><secondary-title>Kyklos</secondary-title></titles><periodical><full-title>Kyklos</full-title></periodical><pages>419-435</pages><volume>48</volume><number>3</number><dates><year>1995</year></dates><accession-num>ISI:A1995RT57700005</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://A1995RT57700005</url></related-urls></urls></record></Cite></EndNote>[20] finds that perhaps several court cases may be more effective than one big case representing many individuals. A similar type of effect can be achieved through an Internet site that reports and maintains an archive of incidents of corruption.
+2.1 Economic factors
+Economic factors that affect corruption are also linked to levels of poverty, which in turn affect factors such as education. Scholars who have studied the problem of corruption in many countries have found a correlation between economic inequality, impoverishment, and unemployment  ADDIN EN.CITE <EndNote><Cite><Author>Chen</Author><Year>2005</Year><RecNum>2</RecNum><record><rec-number>2</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">2</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Chen, A.</author></authors></contributors><titles><title>Secret societies and organized crime in contemporary China</title><secondary-title>Modern Asian Studies</secondary-title></titles><periodical><full-title>Modern Asian Studies</full-title></periodical><pages>77-107</pages><volume>39</volume><dates><year>2005</year><pub-dates><date>Feb</date></pub-dates></dates><accession-num>ISI:000226945500003</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000226945500003</url></related-urls></urls></record></Cite></EndNote>[21]. Economic hardship often contributes to corruption  ADDIN EN.CITE <EndNote><Cite><Author>Sung</Author><Year>2002</Year><RecNum>25</RecNum><record><rec-number>25</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">25</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Sung, H. E.</author></authors></contributors><titles><title>A convergence approach to the analysis of political corruption: A cross-national study</title><secondary-title>Crime Law and Social Change</secondary-title></titles><periodical><full-title>Crime Law and Social Change</full-title></periodical><pages>137-160</pages><volume>38</volume><number>2</number><dates><year>2002</year><pub-dates><date>Sep</date></pub-dates></dates><accession-num>ISI:000178062100002</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000178062100002</url></related-urls></urls></record></Cite></EndNote>[22]. This relationship nonetheless runs both ways: corruption decreases as income increases, and similarly income increases with reduction in corruption  ADDIN EN.CITE <EndNote><Cite><Author>Mauro</Author><Year>1995</Year><RecNum>50</RecNum><record><rec-number>50</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">50</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Mauro, P.</author></authors></contributors><titles><title>Corruption and growth</title><secondary-title>Quarterly Journal of Economics</secondary-title></titles><periodical><full-title>Quarterly Journal of Economics</full-title></periodical><pages>681–712</pages><volume>110</volume><dates><year>1995</year></dates><urls></urls></record></Cite></EndNote>[8].
+The poverty argument reasons that poorly paid government employees will attempt to obtain additional sources of income by trying to extract bribes in exchange of favors. One suggested solution to this problem is to increase the salaries of government officials  ADDIN EN.CITE <EndNote><Cite><Author>Waller</Author><Year>2002</Year><RecNum>97</RecNum><record><rec-number>97</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">97</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Waller, C. J.</author><author>Verdier, T.</author><author>Grdner, R.</author></authors></contributors><titles><title>Corruption: Top Down or Bottom Up?</title><secondary-title>Economic Inquiry</secondary-title></titles><periodical><full-title>Economic Inquiry</full-title></periodical><pages>688-703</pages><volume>40</volume><number>4</number><dates><year>2002</year></dates><urls></urls></record></Cite></EndNote>[23]. The problem is that many countries with a high level of poverty cannot afford to do this. Under these circumstances one could argue that a transparent government that takes advantage of the Internet to diffuse information widely and inexpensively could be an alternative.
+Another suggestion to the problem of poorly paid bureaucrats has been the decentralization of government offices. This, as Alam  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Alam</Author><Year>1995</Year><RecNum>96</RecNum><record><rec-number>96</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">96</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Alam, M. S.</author></authors></contributors><titles><title>A Theory of Limits on Corruption and Some Applications</title><secondary-title>Kyklos</secondary-title></titles><periodical><full-title>Kyklos</full-title></periodical><pages>419-435</pages><volume>48</volume><number>3</number><dates><year>1995</year></dates><accession-num>ISI:A1995RT57700005</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://A1995RT57700005</url></related-urls></urls></record></Cite></EndNote>[20] describes, creates smaller units that could allow the public to demand efficient and corruption free services as a result of having information from other units. In addition these smaller units have more limited powers and thus a lower opportunity to extract bribes from users. When payments, procedures, and requirements for government services are widely dispersed, under a system of quasi competition among agencies providing similar services, this may bring down the “bribery” price of a government service. 
+Another problem associated with poverty is that the population feels powerless to address the problem of corruption. As Zipparo  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Zipparo</Author><Year>1998</Year><RecNum>83</RecNum><record><rec-number>83</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">83</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Zipparo, L.</author></authors></contributors><titles><title>Factors which deter public officials from reporting corruption</title><secondary-title>Crime Law and Social Change</secondary-title></titles><periodical><full-title>Crime Law and Social Change</full-title></periodical><pages>273-287</pages><volume>30</volume><number>3</number><keywords><keyword>whistle-blowers</keyword><keyword>perspective</keyword><keyword>predictors</keyword></keywords><dates><year>1998</year></dates><accession-num>ISI:000081035400004</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000081035400004</url></related-urls></urls></record></Cite></EndNote>[24] found, low income individuals are less likely to report instances of corruption if there are no incentives or protective mechanisms that could encourage them to do so. The Internet can provide the public with anonymous reporting of corrupt activities. This would reduce the risks associated with reporting or denouncing instances of corruption.
+In general, a population with few economic opportunities is motivated by basic survival and must find some way of obtaining resources, even if some of these are illegal and further contribute to the problem of underdevelopment. This argument is consistent with Schelling’s  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Schelling</Author><Year>1978</Year><RecNum>101</RecNum><record><rec-number>101</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">101</key></foreign-keys><ref-type name="Book">6</ref-type><contributors><authors><author>Schelling, Thomas C.</author></authors></contributors><titles><title>Micromotives and Macrobehavior</title><secondary-title>Fels Lectures on Public Policy Analysis</secondary-title></titles><volume>62</volume><dates><year>1978</year></dates><pub-location>New York, NY</pub-location><publisher>W. W. Norton and Company</publisher><urls></urls></record></Cite></EndNote>[25] Micromotives and Macrobehavior where self-interested individuals are motivated to engage in activities that benefit them but harm the community as a whole. Corruption works in a similar manner; individuals derive immediate personal benefits that positively affect their welfare but severely affect a country’s economic, political, and social system.
+Gerring & Thacker  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Gerring</Author><Year>2005</Year><RecNum>1</RecNum><record><rec-number>1</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">1</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Gerring, J.</author><author>Thacker, S. C.</author></authors></contributors><titles><title>Do neoliberal policies deter political corruption?</title><secondary-title>International Organization</secondary-title></titles><periodical><full-title>International Organization</full-title></periodical><pages>233-254</pages><volume>59</volume><number>1</number><keywords><keyword>rent-seeking</keyword><keyword>government</keyword><keyword>economy</keyword><keyword>state</keyword><keyword>reform</keyword><keyword>china</keyword></keywords><dates><year>2005</year><pub-dates><date>Win</date></pub-dates></dates><accession-num>ISI:000227138900008</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000227138900008</url></related-urls></urls></record></Cite></EndNote>[26] find that neo-liberal economic policies, which are generally associated with the opening of markets for trade and competition, have reduced corruption. They explain that commercial contact with companies and organizations from other countries forces higher standards of conduct by domestic companies. This paper hypothesizes that providing information on the Internet can help the developing countries reduce corruption and attract more FDI.
+Income has also been associated with levels of education, which can reduce corruption. This may occur because people with higher levels of education would be expected to have a broader understanding of the negative social effects of corruption, looking beyond their narrow individual benefits  ADDIN EN.CITE <EndNote><Cite><Author>Sweeney</Author><Year>1999</Year><RecNum>98</RecNum><record><rec-number>98</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">98</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Sweeney, P.</author></authors></contributors><titles><title>The World Bank Battles the Cancer of Corruption</title><secondary-title>Global Finance</secondary-title></titles><periodical><full-title>Global Finance</full-title></periodical><pages>110-113</pages><volume>13</volume><number>10</number><dates><year>1999</year></dates><urls></urls></record></Cite></EndNote>[27]. 
+Education can help fight corruption through the enforcement of anti-corruption laws. Individuals with higher levels of education are likely to be alert regarding their own rights to government services, without having to pay bribes. Thus the educated are likely to protest when their rights are denied by corrupt bureaucrats. The relationship between income and education is a close one. As Alam  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Alam</Author><Year>1995</Year><RecNum>96</RecNum><record><rec-number>96</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">96</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Alam, M. S.</author></authors></contributors><titles><title>A Theory of Limits on Corruption and Some Applications</title><secondary-title>Kyklos</secondary-title></titles><periodical><full-title>Kyklos</full-title></periodical><pages>419-435</pages><volume>48</volume><number>3</number><dates><year>1995</year></dates><accession-num>ISI:A1995RT57700005</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://A1995RT57700005</url></related-urls></urls></record></Cite></EndNote>[20] explains, an illiterate farmer may be less able to understand his rights due to a lack of education; and, at the same time, poverty may deny him the resources to engage in any type of denunciations. College students, in addition to being able to understand the ill effects of corruption, also have the resources to get organized to fight corruption.
+ An additional mechanism linking education and corruption is as follows. It is argued by Carvajal  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Carvajal</Author><Year>1999</Year><RecNum>81</RecNum><record><rec-number>81</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">81</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Carvajal, R.</author></authors></contributors><titles><title>Large-scale corruption: Definition, causes, and cures</title><secondary-title>Systemic Practice and Action Research</secondary-title></titles><periodical><full-title>Systemic Practice and Action Research</full-title></periodical><pages>335-353</pages><volume>12</volume><number>4</number><keywords><keyword>corruption</keyword><keyword>development</keyword><keyword>power networks</keyword><keyword>emergent social process</keyword><keyword>government agency</keyword></keywords><dates><year>1999</year><pub-dates><date>Aug</date></pub-dates></dates><accession-num>ISI:000082097100003</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000082097100003</url></related-urls></urls></record></Cite></EndNote>[28] that poorly educated people are more likely to be duped or pressured into engaging in a corrupt activity than those who are more educated. Thus a society with higher participation in education is likely to have a lower level of corruption. Again, the Internet can play a role in educating people about corruption per se and help in achieving greater awareness its ill effects.
+2.3 The Internet as a factor enhancing information
+As stated by Vinod  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Vinod</Author><Year>1999</Year><RecNum>54</RecNum><record><rec-number>54</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">54</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Vinod, H.D.</author></authors></contributors><titles><title>Statistical Analysis of Corruption Data and Using the Internet to Reduce Corruption</title><secondary-title>Journal of Asian Economics</secondary-title></titles><periodical><full-title>Journal of Asian Economics</full-title></periodical><pages>591-603</pages><volume>10</volume><dates><year>1999</year></dates><urls></urls></record></Cite></EndNote>[1] “a fight against corruption involves fighting human nature. A bribe occurs when both parties benefit and it is generally difficult to balance a large potential benefit enjoyed by both parties with appropriate punishments and disincentives. Three fundamental problems with corruption are: (a) it is hidden, (b) incentives for fighting it are improperly aligned, and (c) international jurisdiction is missing … [A]ll three problems can be simultaneously attacked by using Internet-based innovative techniques”.
+In this paper we argue that access to information can support other factors that have been found effective in reducing corruption. It can support democratization efforts, law enforcement, FDI, and education.
+In the past the main source for information about incidents of corruption was the media. Media outlets not only inform the public regarding corrupt individuals, but also are valuable tools for law enforcement. In this regard Maor (2004) found that prosecutors are more likely to be successful in their efforts to punish the corrupt when the media in a country is sufficiently independent of government influence. In this paper we argue that the Internet is, perhaps, a potentially more useful tool for both dissemination of information and law enforcement than traditional media outlets. The traditional media of television and newspapers generally lack sufficient depth in their treatment of complex corruption stories. They also have short shelf life, are difficult to update, and are motivated by newsworthiness. By contrast, the Internet can provide a more readily accessible, up to date, detailed, and almost permanent record for anyone to check. The power of the Internet as a tool to fight corruption lies in its abilities to diffuse information widely and in an efficient and quasi-permanent basis. 
+The Internet also has the ability to allow the public to easily and relatively inexpensively publish information through anonymous forms or simply by keeping a record of instances of corruption reported by the press. Anonymous denunciations, although potentially empowering, can be abused. This is the downside of the Internet. Whether it helps or hurts on balance depends on how the Internet itself is policed to purge false or vicious information.
+The Internet can support democratic election processes by providing the public with information about past corruption incidents of political candidates. The fear of being exposed on the Internet might well discourage corrupt officials from seeking powerful political offices. In the presence of public information about corrupt incidents in politicians’ past life on the Internet, such office seekers will not be able to survive in a functioning competitive democratic society  ADDIN EN.CITE <EndNote><Cite><Author>Herrick</Author><Year>2000</Year><RecNum>79</RecNum><record><rec-number>79</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">79</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Herrick, R.</author></authors></contributors><titles><title>Who will survive? An exploration of factors contributing to the removal of unethical house members</title><secondary-title>American Politics Quarterly</secondary-title></titles><periodical><full-title>American Politics Quarterly</full-title></periodical><pages>96-109</pages><volume>28</volume><number>1</number><keywords><keyword>elections</keyword><keyword>corruption</keyword><keyword>incumbents</keyword><keyword>competence</keyword><keyword>integrity</keyword></keywords><dates><year>2000</year><pub-dates><date>Jan</date></pub-dates></dates><accession-num>ISI:000084603800006</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000084603800006</url></related-urls></urls></record></Cite></EndNote>[29]. 
+In the age of traditional media it was quite possible for corrupt officials to rely on the poor collective memory of the population. Politicians or government officials that were engaged in instances of corruption could remain in the system for many years even when they were suspected of corruption. The Internet should change this.
+The Internet can also directly reduce corruption by helping law enforcement efforts through easier access to information for prosecutors. As witnessed by one of the authors, in and experiment in India the prosecutors sought anonymous answers to the question: “who is the most corrupt in a particular office and why?” This helped them build a case. Diffusion of knowledge about corruption cases can thus serve as a deterrent. 
+As was stated above greater economic openness reduces corruption. Higher commercial standards and transparency are generally required in dealing with foreigners. It is also true that foreign institutions including non-governmental organizations (NGOs), international organizations, and foreign private investors put pressure on governments to curtail corruption. If civil society can expose instances of corruption on the Internet that remain visible and unsolved for years, it obviously puts additional pressure on the country to change.
+The Internet can also support educational efforts related to reducing corruption. This can happen through government Internet sites that clearly state various steps, documents, time limits, and fees that individuals or corporations need to have to obtain a particular government service or permit. The public availability of such information on the Internet can potentially reduce the amount of “speed money” necessary to obtain a service. It is beneficial to empower the citizen with knowledge about specific rules and reduce, if not eliminate, much of the discretionary power and uncertainty related to the process of obtaining a government service or permit. The Internet can thus curb some of the secrecy that helps corruption thrive. 
+Studies of corruption have revealed that a system of accountability includes answerability or the obligation of public officials to keep citizens informed of their activities  ADDIN EN.CITE <EndNote><Cite><Author>Schedler</Author><Year>1999</Year><RecNum>52</RecNum><record><rec-number>52</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">52</key></foreign-keys><ref-type name="Book Section">5</ref-type><contributors><authors><author>Schedler, Andreas</author></authors><secondary-authors><author>Schedler, A.</author><author>Diamond L. </author><author>Plattner M.</author></secondary-authors></contributors><titles><title>Conceptualizing Accountability</title><secondary-title>The Self-Restraining State, Power and Accountability in New Democracies</secondary-title></titles><pages>p. 14</pages><dates><year>1999</year></dates><pub-location>Boulder, CO</pub-location><publisher>Lynne Rienner Publishers</publisher><urls></urls></record></Cite></EndNote>[30]. This will require governments to provide information, facts, and data about public activities. Answerability, as described by Schedler, also requires a free press: “(t)he media is not only the primary purveyor of information to the public, but also is the public monitor (watchdog) who reports public activities and initiates discourses on the topics most important to society”  ADDIN EN.CITE <EndNote><Cite><Author>Schedler</Author><Year>1999</Year><RecNum>52</RecNum><record><rec-number>52</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">52</key></foreign-keys><ref-type name="Book Section">5</ref-type><contributors><authors><author>Schedler, Andreas</author></authors><secondary-authors><author>Schedler, A.</author><author>Diamond L. </author><author>Plattner M.</author></secondary-authors></contributors><titles><title>Conceptualizing Accountability</title><secondary-title>The Self-Restraining State, Power and Accountability in New Democracies</secondary-title></titles><pages>p. 14</pages><dates><year>1999</year></dates><pub-location>Boulder, CO</pub-location><publisher>Lynne Rienner Publishers</publisher><urls></urls></record></Cite></EndNote>[30]. In this regard Maor  ADDIN EN.CITE <EndNote><Cite><Author>Maor</Author><Year>2004</Year><RecNum>14</RecNum><record><rec-number>14</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">14</key></foreign-keys><ref-type name="Journal Article">17</ref-type><contributors><authors><author>Maor, M.</author></authors></contributors><titles><title>Feeling the heat? Anticorruption mechanisms in comparative perspective</title><secondary-title>Governance-an International Journal of Policy and Administration</secondary-title></titles><periodical><full-title>Governance-an International Journal of Policy and Administration</full-title></periodical><pages>1-28</pages><volume>17</volume><number>1</number><keywords><keyword>independent counsel statute</keyword><keyword>political corruption</keyword><keyword>institutions</keyword><keyword>countries</keyword><keyword>judiciary</keyword><keyword>judges</keyword></keywords><dates><year>2004</year><pub-dates><date>Jan</date></pub-dates></dates><accession-num>ISI:000187255500001</accession-num><urls><related-urls><url>&lt;Go to ISI&gt;://000187255500001</url></related-urls></urls></record></Cite></EndNote>[31] found that prosecutors are more likely to be successful in their efforts when there is media accessibility. 
+This paper hypothesizes that the Internet could be more successful than traditional media outlets because it provides a more readily accessible, complete, and up to date record. Greater transparency as well as the diffusion of knowledge about corruption cases can serve as a deterrent.
+METHODS AND DATA
+The dataset includes approximately 180 countries. The dependent variable for this project is Transparency International’s corruption perception index (CPI). The data originates from several datasets. Table 1 presents each of the independent variables, the source, as well as the transformation that was done on some of those that suffer greatest skewness. 
+International data generally suffers from a high level of missing fields. To alleviate this problem we used a multiple imputation technique where missing data is generated simultaneously using all the available variables for every observation. Specifically, we used the Amelia program developed by Honaker, et al.  ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Author>Honaker</Author><Year>2003</Year><RecNum>113</RecNum><record><rec-number>113</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">113</key></foreign-keys><ref-type name="Book">6</ref-type><contributors><authors><author>Honaker, James</author><author>Joseph, Anne</author><author>King, Gary</author><author>Scheve, Kenneth</author><author>Singh, Naunihal</author></authors></contributors><titles><title>Amelia: A Program for Missing Data</title></titles><edition>Windows Version 2.1.</edition><dates><year>2003</year></dates><pub-location>Cambridge, MA.</pub-location><publisher>Harvard University,</publisher><urls></urls></record></Cite></EndNote>[32] because “methodologists and statisticians agree that ‘multiple imputation’ is a superior approach to the problem of missing data scattered through one's explanatory and dependent variables than the methods currently used in applied data analysis.” 
+Because the imputation procedure requires normally distributed variables we thus transform some of them to reduce the impact of skewness in the data. These transformed variables were also used in the regression analysis.
+The data analysis consisted of a cross section weighted least square regression. This regression technique uses weights for each data point into the fitting estimation. The weight in this case was the per capita income in each of the countries. The advantage of using the weighted regression method in our context is to reduce the impact of heteroskedasticity arising from massive income differences across countries. Absolute value of the residual was used for the weighted least squares. The prefix “l” is attached to the variable name when the log transformation is used. The listing of variables is in the order of economic, political, and technology.
+
+
+
+
+Table 1 Description of Dependent Variables
+Variable name
+Description of variable
+Source of Data
+Transformation
+Done
+Region
+Region 1= europe 2= middle east 3= africa 4 = Latin America 5 =east asia 6 = south asia
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>105</RecNum><record><rec-number>105</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">105</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>World Telecommunication Indicators</title></titles><volume>2005</volume><number>June 20</number><dates><year>2004</year></dates><publisher>International Telecommunication Union</publisher><urls><related-urls><url>http://www.itu.int/ITU-D/ict/publications/world/world.html</url></related-urls></urls></record></Cite></EndNote>[33]
+Raw
+Income
+Income 1= low 2= lower middle 3 upper middle 4 = high
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>105</RecNum><record><rec-number>105</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">105</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>World Telecommunication Indicators</title></titles><volume>2005</volume><number>June 20</number><dates><year>2004</year></dates><publisher>International Telecommunication Union</publisher><urls><related-urls><url>http://www.itu.int/ITU-D/ict/publications/world/world.html</url></related-urls></urls></record></Cite></EndNote>[33]
+Raw
+Cpi
+Corruption perception Index (0 highly corrupt 10 highly clean)
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>109</RecNum><record><rec-number>109</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">109</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>Corruption Perception Index</title></titles><volume>2005</volume><number>June 30</number><dates><year>2004</year></dates><publisher>Transparency International</publisher><urls><related-urls><url>http://www.transparency.org/surveys/index.html#cpi</url></related-urls></urls></record></Cite></EndNote>[34]
+Log
+Pop
+Total population
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>104</RecNum><record><rec-number>104</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">104</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>World Development Indicators</title></titles><volume>2005</volume><number>July 20</number><dates><year>2004</year></dates><publisher>World Bank</publisher><urls><related-urls><url>http://www.worldbank.org/data/wdi2005/</url></related-urls></urls></record></Cite></EndNote>[35]
+Log
+Grwth
+Average annual growth rate
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>104</RecNum><record><rec-number>104</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">104</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>World Development Indicators</title></titles><volume>2005</volume><number>July 20</number><dates><year>2004</year></dates><publisher>World Bank</publisher><urls><related-urls><url>http://www.worldbank.org/data/wdi2005/</url></related-urls></urls></record></Cite></EndNote>[35]
+Raw
+PPP
+Purchasing Power Parity conversion factor or units of a country’s currency required to buy the same amounts of goods and services in US $ in US domestic market.
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>104</RecNum><record><rec-number>104</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">104</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>World Development Indicators</title></titles><volume>2005</volume><number>July 20</number><dates><year>2004</year></dates><publisher>World Bank</publisher><urls><related-urls><url>http://www.worldbank.org/data/wdi2005/</url></related-urls></urls></record></Cite></EndNote>[35]
+Log
+Govt
+General Government Consumption as a % of GDP
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>104</RecNum><record><rec-number>104</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">104</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>World Development Indicators</title></titles><volume>2005</volume><number>July 20</number><dates><year>2004</year></dates><publisher>World Bank</publisher><urls><related-urls><url>http://www.worldbank.org/data/wdi2005/</url></related-urls></urls></record></Cite></EndNote>[35]
+Sqrt
+Trade
+Trade as a percentage of GDP
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>104</RecNum><record><rec-number>104</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">104</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>World Development Indicators</title></titles><volume>2005</volume><number>July 20</number><dates><year>2004</year></dates><publisher>World Bank</publisher><urls><related-urls><url>http://www.worldbank.org/data/wdi2005/</url></related-urls></urls></record></Cite></EndNote>[35]
+Log
+Educ
+Education Index
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>110</RecNum><record><rec-number>110</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">110</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>Human Development Report</title></titles><volume>2005</volume><number>June 30</number><dates><year>2004</year></dates><publisher>United Nations Development Program</publisher><urls><related-urls><url>http://hdr.undp.org/statistics/</url></related-urls></urls></record></Cite></EndNote>[36]
+Raw
+Ineq
+% of income (or consumption) enjoyed by the richest 20% earners
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>110</RecNum><record><rec-number>110</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">110</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>Human Development Report</title></titles><volume>2005</volume><number>June 30</number><dates><year>2004</year></dates><publisher>United Nations Development Program</publisher><urls><related-urls><url>http://hdr.undp.org/statistics/</url></related-urls></urls></record></Cite></EndNote>[36]
+Sqrt
+Ecfree
+Index of economic freedom 1=“free,” “most-ly free,” “mostly unfree,” and 5 =“repressed.”
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>107</RecNum><record><rec-number>107</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">107</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>Index of Economic Freedom</title></titles><volume>2005</volume><number>June 30</number><dates><year>2004</year></dates><publisher>The Heritage Foundation/Wall Street Journal</publisher><urls><related-urls><url>http://www.heritage.org/research/features/index/downloads.cfm</url></related-urls></urls></record></Cite></EndNote>[37]
+Raw
+Fpress
+fredom of the press Rating: Free (F): 0-30; Partly Free (PF): 31-60; Not Free (NF): 61-100
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>111</RecNum><record><rec-number>111</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">111</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>Press Freedom Survey</title></titles><volume>2005</volume><number>June 30</number><dates><year>2004</year></dates><publisher>Freedom House</publisher><urls><related-urls><url>http://freedomhouse.org/research/pressurvey.htm</url></related-urls></urls></record></Cite></EndNote>[38]
+Sqrt
+informal
+Informal Market 1 = very low, 1.5 2 =low, 2.5-3 = moderate, 3.5-4 high, 4.5-5 very high
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>107</RecNum><record><rec-number>107</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">107</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>Index of Economic Freedom</title></titles><volume>2005</volume><number>June 30</number><dates><year>2004</year></dates><publisher>The Heritage Foundation/Wall Street Journal</publisher><urls><related-urls><url>http://www.heritage.org/research/features/index/downloads.cfm</url></related-urls></urls></record></Cite></EndNote>[37]
+Raw
+Judic
+Confidence level in the judiciary system (%)Percentage of firms that agree with the statement "I am confident that the judicial system will enforce my contractual and property rights in business disputes."
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>108</RecNum><record><rec-number>108</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">108</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>World Bank Investment Climate Surveys</title></titles><volume>2005</volume><number>June 30</number><dates><year>2004</year></dates><publisher>World Bank</publisher><urls><related-urls><url>http://rru.worldbank.org/InvestmentClimate/CustomQuery/Default.aspx</url></related-urls></urls></record></Cite></EndNote>[39]
+Raw
+Legal
+Legal system/conflict resolution Percentage of firms that say the legal system presents major or severe obstacles to the operation and growth of their business 
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>108</RecNum><record><rec-number>108</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">108</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>World Bank Investment Climate Surveys</title></titles><volume>2005</volume><number>June 30</number><dates><year>2004</year></dates><publisher>World Bank</publisher><urls><related-urls><url>http://rru.worldbank.org/InvestmentClimate/CustomQuery/Default.aspx</url></related-urls></urls></record></Cite></EndNote>[39] Climate Survey
+Log
+Redtp
+Senior management time spent in dealing with requirements of government regulation (%)
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>108</RecNum><record><rec-number>108</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">108</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>World Bank Investment Climate Surveys</title></titles><volume>2005</volume><number>June 30</number><dates><year>2004</year></dates><publisher>World Bank</publisher><urls><related-urls><url>http://rru.worldbank.org/InvestmentClimate/CustomQuery/Default.aspx</url></related-urls></urls></record></Cite></EndNote>[39] Climate Survey
+Log
+Polstb
+Political stability and the degree to which the process becomes violent or tends to disintegrate
+ ADDIN EN.CITE <EndNote><Cite><Author>Kaufmann</Author><Year>2003</Year><RecNum>112</RecNum><record><rec-number>112</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">112</key></foreign-keys><ref-type name="Manuscript">36</ref-type><contributors><authors><author>Kaufmann, D., A. Kraay</author><author>Mastruzzi M.</author></authors></contributors><titles><title>Governance Matters III: Governance Indicators for 1996–2002</title><secondary-title>World Bank Policy Research Working</secondary-title></titles><number>3106</number><dates><year>2003</year></dates><pub-location>Washington, DC</pub-location><urls><related-urls><url>http://www.worldbank.org/wbi/governance/pubs/govmatters2001.htm.</url></related-urls></urls></record></Cite></EndNote>[40]
+Raw
+Ggi
+GGI is good governance index designed tobe between 0 and 1
+ ADDIN EN.CITE <EndNote><Cite><Author>Vinod</Author><Year>2003</Year><RecNum>106</RecNum><record><rec-number>106</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">106</key></foreign-keys><ref-type name="Manuscript">36</ref-type><contributors><authors><author>Vinod, H. D</author></authors></contributors><titles><title>Updating United Nations to Maintain Upward Trajectory of American Power and Influence</title><secondary-title>Fordham University, Economics Department IEEP Working Paper</secondary-title></titles><number>041803</number><dates><year>2003</year></dates><pub-location>New York, NY</pub-location><urls></urls></record></Cite></EndNote>[41]
+Raw
+interhost
+Internet hosts in a country (if zero, the data are considered missing)
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>105</RecNum><record><rec-number>105</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">105</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>World Telecommunication Indicators</title></titles><volume>2005</volume><number>June 20</number><dates><year>2004</year></dates><publisher>International Telecommunication Union</publisher><urls><related-urls><url>http://www.itu.int/ITU-D/ict/publications/world/world.html</url></related-urls></urls></record></Cite></EndNote>[33]
+Log
+interus
+Internet users in a country (these range between 1250 and 159 million)
+ ADDIN EN.CITE <EndNote><Cite ExcludeAuth="1"><Year>2004</Year><RecNum>105</RecNum><record><rec-number>105</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">105</key></foreign-keys><ref-type name="Web Page">12</ref-type><contributors></contributors><titles><title>World Telecommunication Indicators</title></titles><volume>2005</volume><number>June 20</number><dates><year>2004</year></dates><publisher>International Telecommunication Union</publisher><urls><related-urls><url>http://www.itu.int/ITU-D/ict/publications/world/world.html</url></related-urls></urls></record></Cite></EndNote>[33]
+Log
+
+
+Table 2 reports the correlation coefficients between Linterhost and Linterus and the dependent and independent variables are listed in Table 1. The correlations are computed in such a way that we have attempted to include as many observations (Nobs) as possible. For the variables Linterhost and Linterus the largest Nobs are 172 and 174 respectively (see right bottom of Table 2). We have verified that the signs of all correlation coefficients are intuitively correct. For example, higher lcpi means lower (not higher) corruption.
+
+Table 2 Correlation Coefficients of Internet variables with all others 
+
+
+Correlation
+P-value
+Nobs
+vvari
+Linterhost
+Linteruss
+Linterhost
+Linteruss
+Linterhost
+Linteruss
+lcpi
+0.687
+0.508
+0
+0
+98
+98
+lppp
+0.722
+0.615
+0
+0
+152
+153
+lpop
+0.413
+0.678
+0
+0
+174
+172
+surban
+0.521
+0.502
+0
+0
+174
+172
+sineq
+-0.274
+-0.259
+0.002
+0.004
+126
+123
+ecfree
+-0.631
+-0.46
+0
+0
+151
+150
+grwth
+-0.155
+-0.123
+0.046
+0.116
+166
+165
+informal
+-0.619
+-0.519
+0
+0
+151
+150
+ltrade
+-0.102
+-0.189
+0.217
+0.021
+147
+149
+litrcy
+0.618
+0.5
+0
+0
+78
+79
+educ
+0.625
+0.565
+0
+0
+168
+168
+polstb
+0.479
+0.307
+0
+0
+168
+167
+ggi
+0.655
+0.489
+0
+0
+169
+168
+judic
+0.239
+0.24
+0.106
+0.104
+47
+47
+llegal
+-0.097
+-0.061
+0.568
+0.722
+37
+37
+sgovt
+0.151
+0.004
+0.072
+0.958
+142
+142
+sfpress
+-0.356
+-0.235
+0
+0.003
+153
+154
+lredtp
+0.055
+0.112
+0.721
+0.463
+45
+45
+Linterhost
+1
+0.829
+NA
+0
+174
+168
+Linteruss
+0.829
+1
+0
+NA
+168
+172
+
+The correlation coefficients of greatest interest here are those between the two Internet variables (linterhost and linterus) and the corruption variables such as lcpi and the governance variable ggi. We note that these are statistically significant with P values of 0.0000. The P-values are reported along the second set of two columns for Linterhost and Linterus. This suggests that it is plausible to hypothesize that the Internet reduces corruptions and helps improve governance. Since the Linterhost and Linterus variables are highly correlated and have a P value of 0.0000, we are justified in using one of the two variables in our model.
+3.1 Descriptive statistics
+The purpose of this section is to present two-way plots of the relationships of interests. The significance of some of the relationships shown in the tables included in this section can only be elucidated through the statistical analysis. The idea nonetheless is to provide a general idea of the patterns that then will guide the statistical tests of the following sections. In this paper we argue that economic political and technological factors have a role in the level of corruption. Figure 2 shows a two by two table of purchasing power parity and the corruption perception index. It confirms the strong correlation that has been represented in the corruption literature.
+Figure 2: Correlation between purchasing power parity and corruption Index
+
+Political factors have an even more prominent role in studies about corruption. The Good Governance Index captures many of the political factors in corruption that scholars have identified. Figure 3 demonstrates the strong correlation between good governance and corruption. 
+Figure 3 Correlation between good governance index and corruption index
+The relationship that we wish to explore in this paper is nonetheless of the technological factors that can help reduce incidence of corruption. Specifically we want to determine if information provided through websites could become an effective deterrence mechanism. Figure 4 presents the graphical correlation between these two variables. In this case the relationship is not as clear as the two political and economic variables shown in the previous graphs. 
+
+Figure 4 Correlation between internet users and corruption index
+
+
+
+3.1 Regression analysis
+Clearly, there are many ways of specifying a regression relationship between our dependent variable (cpi) and the regressors. In this paper we use an eclectic model based on various forms used in the literature including those in Vinod (1999). An important improvement implemented here is the use of weighted instead of ordinary regression. This is motivated by the heteroskedasticity detected by White’s test. With international data across a wide range of incomes and population sizes it is not surprising that these differences lead to heteroskedasticity. Another innovation was in using the Hausman test to make sure that we do not have endogeneity of the regressors. The results are reported in Table 3. Where the (natural) log transformation is used we indicate this with (ln).
+Although our main interest is the effect of Internet usage on cpi we include population as a control variable. Larger countries will naturally have higher Internet use and perhaps greater corruption (lower cpi). Many other variables such as the highly significant good governance index (GGI) or size of government in the economic life of a country and PPI are included in the regression as control variables because we want to assess the effect of the Internet beyond these variables. We have also included dummies for regions of the world and growth rates as controls. The aim is to obtain a conservative estimate of the impact of the Internet usage on corruption, over and above these factors.
+Of the economic variables, income and the size of the population are significant. As income increases the level of cleanliness increases while larger countries have higher levels of corruption. By contrast, education, trade, and income inequality are not significant. 
+Of the political variables, freedom of the press and the Good Governance Index are both significant. Not surprisingly they show that as the press becomes more independent from government influence, degree of corruption declines. Similarly the higher the good governance index the greater the cleanliness. Those variables that address the efficiency and size of the government as well as the time that executives spend in dealing with requirements of government regulation are also significant. The signs of the variables present some puzzling results. First they show that larger governments tend to be cleaner. This could potentially be explained by the existence of greater resources to spend on enforcement activities. It also shows that the more time executives spend in complying with government regulation the cleaner the country. This is an unexpected result that will require further exploration. Regional differences that we expected to find as a result of similar cultural and institutional conditions are that African countries experience greater corruption than those of East Asia. 
+Table 3 shows that the Internet, the variable of interest, is significant only at the 10% level. Note that freedom of the press and the red tape variable measured by percent of senior management time spent in dealing with requirements of government regulation are the only two competing variables more important than the Internet in reducing corruption. The relatively low significance level suggests that further research is necessary to determine the impact that this type of technology has on corruption. In the following section we present three short case studies that can help explain why this variable does not show a stronger relationship.
+Table 3 Weighted Regression Results 
+(Standard Errors in parentheses)
+Variable Name
+Corruption perception Index (cpi=10 highly clean) is dependent variable (ln)
+Purchasing Power Parity (ln)
+0.071*
+(0.039)
+Total population (ln)
+-0.065**
+(0.028)
+% of income (or consumption) enjoyed by the richest 20% earners (sqrt)
+-0.038
+(0.024)
+Trade as a percentage of GDP (ln)
+-0.042
+(0.043)
+Political stability and the degree to which the process becomes violent or tends to disintegrate
+-0.058
+(0.037)
+Education Index
+0
+(0.002)
+Confidence level in the judiciary system (%)
+0.001
+(0.001)
+Legal system/conflict resolution (ln)
+0.011
+(0.025)
+Freedom of the press (sqrt)
+0.031**
+(0.014)
+Good Governance Index 
+
+2.394***
+(0.29)
+General Government Consumption as a % of GDP (sqrt)
+0.090***
+(0.024)
+Senior management time spent in dealing with requirements of government regulation (%) (ln)
+0.048**
+(0.024)
+Internet users (ln)
+0.043*
+(0.024)
+Middle east 
+0.01
+(0.062)
+Africa 
+0.123**
+(0.059)
+Latin America 
+
+0.064
+(0.056)
+East Asia 
+
+0.195***
+(0.057)
+South Asia
+-0.012
+(0.092)
+Constant
+-0.489
+(0.541)
+Observations
+172
+R-squared
+0.88
+* significant at 10%; ** significant at 5%; *** significant at 1%
+
+CASE STUDIES
+There are three types of initiatives aimed at capitalizing on Internet technologies and these include e-government, awareness, and exposure of corrupt activities.
+4.1 E-government transparency efforts (Paraguay)
+E-government activities are designed to make governments more transparent. Government agencies can help reduce instances of corruption in many ways. They can provide information regarding government services, provide access to records regarding the many functions of government, and, at the highest level of sophistication, allow citizens to conduct operations through automated web sites.
+The efforts of governments to develop websites is a trend that started in the last few years. While not originally the objective of these sites, it is clear that greater transparency in the government should help reduce corruption.
+An example of this type of effort is a Paraguayan project managed by an organization called Alter Vida  ADDIN EN.CITE <EndNote><Cite><Author>USAID</Author><Year>2005</Year><RecNum>103</RecNum><record><rec-number>103</rec-number><foreign-keys><key app="EN" db-id="z9ww50dphr2spbe0xprxxxa10a2wre599d0t">103</key></foreign-keys><ref-type name="Manuscript">36</ref-type><contributors><authors><author>USAID</author></authors></contributors><titles><title>Good Governance And Anti-Corruption</title></titles><pages>27</pages><dates><year>2005</year></dates><pub-location>Asunción, Paraguay</pub-location><urls></urls></record></Cite></EndNote>[42]. With the support of the United States Agency for International Development (USAID) and a series of local alliances, the program wants to promote transparent administration of funds and efficient provision of government services. It seeks to decentralize authority to support local governments, as they believe that funds are lost in the transfer process from the federal to the local administrations. It is expected that the population will be an active participant. This is done through municipal councils, citizens committees, and public hearings, but also by providing access to government information such as publication of municipal personnel and salaries, publication of timely and complete budget information, asset disclosure of public employees above a certain pay level, procedures for hiring employees, publication of government expenditures on publicity, and performance indicators. Many of these are provided through the Internet. It is clear from the project description that the Internet plays only a small role in the overall plan to fight corruption and the program relies much more on technical and financial assistance to governments. Other similar e-government initiatives show that the amount of information on the site is overwhelming and the users do not have the ability to evaluate or analyze this information. In many instances it is not clear whether all of the information is made available. The availability of such a vast amount of content makes it difficult to detect incidences of corruption. Better organized and analyzed government data may be necessary to increase transparency.
+4.2 Corruption Awareness Efforts (Latin America)
+Other types of projects that take advantage of the Internet’s ability to diffuse information widely are awareness sites. These web pages allow the collection of corruption related material that can help government, private companies, and other types of organizations such as nonprofits or schools to learn about corruption. These sites are repositories and destination points for individuals concerned about corruption or belong to organizations that focus on the abatement of the problem.
+An example of this type of site is Respondanet ( HYPERLINK "http://www.respondanet.com/" http://www.respondanet.com/), a project also sponsored by USAID as part of the agency’s Americas' Accountability/Anti-Corruption Project (AAA). Respondanet first started as a project that involved direct support to countries in Latin America. It was designed to improve, among other things, financial management and auditing. Support consisted of technical assistance and training. The project has been in existence since 1989. After launching the Respondanet website in 1998, USAID selected a consulting company, Casals, to continue its management. Respondanet is a bilingual site with pages in English and Spanish. 
+The site is not aimed at individual citizens but to organizations that work to fight corruption. It is valuable because, in addition to providing information, it makes individuals aware of other organizations working on similar problems. 
+The site contains freely available access to online documents, speeches, conference presentations, reports, surveys and links to other corruptions related sites. Since 2003 the site has received 4,937,917 hits. This corresponds to an average of 5,095 hits per day. These are not unique hits but if we assume that a visitor reaches 10 pages every time that he/she goes to the site then this means that there are approximately 500 people a day visiting the site.
+When USAID was sponsoring the website it conducted an evaluation that praised the organization for the having current, accurate, well organized, and freely available content among other positive features. While the site was positively rated, Casals recognizes that there are other things that could potentially make the site more effective. If they were able to obtain information about visitors through their site they would have a clearer idea of who is visiting them and for what reasons. They could also have country web pages so that an individual from a country does not have to waste time trying to find information relevant to him. In addition Casals also recognizes that there is so much information on the site that a visitor could suffer from information overload. 
+Similarly Casals believes that the Internet is just one of many tools that can fight corruption. They do not believe that a site alone is sufficient to deter this type of activity. 
+Another site that also aims to raise awareness of the corruption problem is Mexico’s “Hágalo usted mismo” (do it yourself, available at http://www.hagaloustedmismo.gob.mx). The site is sponsored by the Public Functions Secretariat. It is interactive, allowing individuals, companies, government organizations, and universities to obtain information that would reduce instances of corruption. Figure 5 provides two screen shots of the site. This consists primarily of codes of ethics and best practices. It also has an interactive quiz called “corrupto yo?” (Am I corrupt?). Unlike Respondanet, the do it yourself site has tools that empower individuals by making them aware of their rights and obligations. They do so through comic strips that illustrate simple guidelines, as shown in the screen shot on the right.
+
+Figure 5
+Screen Shot of the Anti-corruption Site “Do it Yourself” in Mexico
+
+
+
+
+
+
+
+
+
+a
+b
+
+
+4.3 Exposure Sites (El Salvador)
+The purpose of these sites is to expose instances of corruption. This type of site can have two roles that can help reduce corruption. The first is to deter people from engaging in illegal activities when they realize that their crimes can be widely known. The second role is to make the population aware of the crimes that government representatives are committing. This could potentially help them elect officials that do not have records of corruption. 
+In Latin America there are few if any sites that focus exclusively on exposing corruption. For the most part these are sections of broader websites concerned about corruption. One of the outlets that keeps a record of corruption crimes is the magazine Probidad (Probity, available at http://probidad.org/index.php?sm=2&id=espacio/index.html), published in El Salvador by an independent organization with the objective of educating and empowering citizens to fight incidents of corruption. The organization relies on funding from governments, foundations, other non-profit organizations and individual members of the public. The magazine publishes information to educate, expose, and report findings from short visits to other countries in the Latin American region. Their staff also wants to have a preemptive role that consists of identifying potential outlets of corruption and to try to correct them. There are two sections on the site that report corruption incidents. One is a database of reports that are posted biweekly about news related to corruption activities, conferences, publications, and anticorruption efforts. Another section of the site allows individual citizens to post information about corruption incidents or other issues of concern. This is done through a blog. One of the main weaknesses of this type of site is the perceived bias of the people sponsoring the site, which can lead to reduced credibility and effectiveness of their efforts.
+
+CONCLUSIONS 
+Both the statistical results and the case studies reveal that the Internet has a role in reducing corruption but it is not yet an important factor. Our regression analysis attempts to focus on the effect of the Internet in reducing corruption after removing the effect of catchall variables such as good governance and many other control variables. We find that improving “freedom of the press,” which directly enhances transparency, is more important than the Internet. On the other hand, many variables traditionally known for reducing corruption (education, inequality reduction, increasing trade with other countries) are found to be somewhat less important.
+Corruption is a complex activity that results from other economic, social, and political factors. The good governance index (GGI), regarded as a control variable to better focus on the others, is statistically most significant. Hence, we can conclude that improvements in governance should reduce corruption. The Internet is a tool that can help alleviate many factors that lead to bad government. The publicly available information on the Internet can potentially expose criminal, corrupt, or anti-social deeds by those in power. Of course this requires specific actions by people and organizations. The actions helping good governance and improved Internet usage as a tool for good governance include training, technical assistance, direct awareness efforts, and greater diffusion of information via the press or the Internet.
+As Internet access improves, these websites are likely to become more useful. Governments, companies, and organizations are thus encouraged to use this tool in their anti-corruption efforts. The two activities found to be more effective than the Internet, press freedom and red tape reduction, are themselves greatly helped by the Internet.
+
+REFERENCES
+
+ ADDIN EN.REFLIST [1] Vinod, H. D. Statistical Analysis of Corruption Data and Using the Internet to Reduce Corruption. Journal of Asian Economics, 101999), 591-603.
+[2] Vinod, H. D. Open Economy And Financial Burden Of Corruption: Theory And Application To Asia. Journal of Asian Economics, 132003), 873-890.
+[3] Santhanam Committee. Report by the Committee on Prevention of Corruption. Government of India, Ministry if Home Affairs, New Delhi, India, 1964. 
+[4] Boeninger, E. Governance and Development: Issues and Constraints. The World Bank: Proceedings of the World Bank Annual Conference in Development Economics 1991, Washington, DC, 1992. 
+[5] Bardhan, P. Corruption and Development: A Review of Issues. Journal of Economic Literature, 351997), 1320-1346.
+[6] Rose-Ackerman, S. and Stone, A. The Costs of Corruption for Private Business: Evidence from World Bank Surveys. World Bank, Washington, DC, 1996. 
+[7] Rose-Ackerman, S. Political corruption in Australia: A very wicked place? Governance-an International Journal of Policy and Administration, 16, 3 (Jul 2003), 462-463.
+[8] Mauro, P. Corruption and growth. Quarterly Journal of Economics, 1101995), 681–712.
+[9] Onunga, J. Kenya: Busting Corruption Using the Internet. KnowNet.org Initiative, City, 2003.
+[10] North, D. C. Institutions, Institutional Change, and Economic Performance. Cambridge University Press, New York, 1990.
+[11] Fadahunsi, A. and Rosa, P. Entrepreneurship and illegality: Insights from the Nigerian cross-border Trade. Journal of Business Venturing, 17, 5 (Sep 2002), 397-429.
+[12] Jain, A. K. Corruption: A review. Journal of Economic Surveys, 15, 1 (Feb 2001), 71-121.
+[13] Goudie, A. W. and Stasavage, D. A framework for the analysis of corruption. Crime Law and Social Change, 29, 2-3 1998), 113-159.
+[14] Alt, J. E. and Lassen, D. D. The political economy of institutions and corruption in American states. Journal of Theoretical Politics, 15, 3 (Jul 2003), 341-365.
+[15] Adsera, A., Boix, C. and Payne, M. Are you being served? Political accountability and quality of government. Journal of Law Economics & Organization, 19, 2 (Oct 1 2003), 445-490.
+[16] McManus-Czubinska, C., Miller, W. L., Markowski, R. and Wasilewski, J. Why is corruption in Poland "a serious cause for concern"? Crime Law and Social Change, 41, 2 (Mar 2004), 107-132.
+[17] Hill, K. Q. Democratization and corruption - Systematic evidence from the American states. American Politics Research, 31, 6 (Nov 2003), 613-631.
+[18] Collier, M. W. Explaining corruption: An institutional choice approach. Crime Law and Social Change, 38, 1 (Jul 2002), 1-32.
+[19] Della Porta, D. A judges' revolution? Political corruption and the judiciary in Italy. European Journal of Political Research, 39, 1 (Jan 2001), 1-21.
+[20] Alam, M. S. A Theory of Limits on Corruption and Some Applications. Kyklos, 48, 3 1995), 419-435.
+[21] Chen, A. Secret societies and organized crime in contemporary China. Modern Asian Studies, 39(Feb 2005), 77-107.
+[22] Sung, H. E. A convergence approach to the analysis of political corruption: A cross-national study. Crime Law and Social Change, 38, 2 (Sep 2002), 137-160.
+[23] Waller, C. J., Verdier, T. and Grdner, R. Corruption: Top Down or Bottom Up? Economic Inquiry, 40, 4 2002), 688-703.
+[24] Zipparo, L. Factors which deter public officials from reporting corruption. Crime Law and Social Change, 30, 3 1998), 273-287.
+[25] Schelling, T. C. Micromotives and Macrobehavior. W. W. Norton and Company, New York, NY, 1978.
+[26] Gerring, J. and Thacker, S. C. Do neoliberal policies deter political corruption? International Organization, 59, 1 (Win 2005), 233-254.
+[27] Sweeney, P. The World Bank Battles the Cancer of Corruption. Global Finance, 13, 10 1999), 110-113.
+[28] Carvajal, R. Large-scale corruption: Definition, causes, and cures. Systemic Practice and Action Research, 12, 4 (Aug 1999), 335-353.
+[29] Herrick, R. Who will survive? An exploration of factors contributing to the removal of unethical house members. American Politics Quarterly, 28, 1 (Jan 2000), 96-109.
+[30] Schedler, A. Conceptualizing Accountability. Lynne Rienner Publishers, City, 1999.
+[31] Maor, M. Feeling the heat? Anticorruption mechanisms in comparative perspective. Governance-an International Journal of Policy and Administration, 17, 1 (Jan 2004), 1-28.
+[32] Honaker, J., Joseph, A., King, G., Scheve, K. and Singh, N. Amelia: A Program for Missing Data. Harvard University,, Cambridge, MA., 2003.
+[33] World Telecommunication Indicators. International Telecommunication Union, City, 2004.
+[34] Corruption Perception Index. Transparency International, City, 2004.
+[35] World Development Indicators. World Bank, City, 2004.
+[36] Human Development Report. United Nations Development Program, City, 2004.
+[37] Index of Economic Freedom. The Heritage Foundation/Wall Street Journal, City, 2004.
+[38] Press Freedom Survey. Freedom House, City, 2004.
+[39] World Bank Investment Climate Surveys. World Bank, City, 2004.
+[40] Kaufmann, D., A. Kraay and M., M. Governance Matters III: Governance Indicators for 1996–2002. City, 2003.
+[41] Vinod, H. D. Updating United Nations to Maintain Upward Trajectory of American Power and Influence. City, 2003.
+[42] USAID Good Governance And Anti-Corruption. City, 2005.
+
+	
+
+
+ Institutions are rules that help people for expectations in their dealing with others. There are formal and informal rules or institutions. The first one are laws and regulations enforced by the state while informal rules are enforced through social peer pressure.
+ USAID stopped funding for the site since 2004. Casals is thus now fully responsible for managing and keeping the site uptodate.
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+PAGE  1
+
+
+
+
+
+

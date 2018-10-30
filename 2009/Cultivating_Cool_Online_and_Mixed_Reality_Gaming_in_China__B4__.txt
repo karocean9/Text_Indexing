@@ -1,0 +1,54 @@
+Cultivating Cool: Online and Mixed Reality Gaming in China
+Silvia Lindtner
+Department of Informatics University of California, Irvine Irvine, CA 92697, USA lindtner@ics.uci.edu
+
+
+
+
+ABSTRACT
+I propose to present findings from two in-depth ethnographic studies on online and mixed reality gaming in China. During the immersive participatory field research I collected data and image recordings from conversations and interactions with over 80 game players, Internet café owners, employees at public entertainment centers and at local design companies, which I intend to use for the poster illustrations. In what follows, I provide a synopsis of the work and main findings.
+Keywords
+Online games, mixed reality, China, politics.
+MOTIVATION
+Recently, computer gaming in China and its connections to socio-cultural values and political-economic circumstances have received increased attention from mass media outlets. Here, digital entertainment culture in China is often portrayed as controlled and restricted in Information access, in cultural representation and individual choice. In November 2008, a news release from the Chinese government about the decision to classify Internet addiction (defined as spending more than 6 hours per day online) a clinical disorder, for example, sparked an outcry of both indignation and amusement across Western mass media outlets. Amongst others, trendspotting speculates that the roots of the phenomena of Internet addiction in China steam from the “Chinese dream… as more and more Chinese are exposed to the Internet” and suggests that “in contrast to ‘WorldWarII’ immigrants to the United States aspiring the American dream, Chinese people need not physically immigrate to an unknown country.” Overlooked in these stories about governmental restrictions are actual places of Internet access and the role they play in the lives of Chinese youth. 
+Let’s imagine for a moment a common scene of urban China, Thursday evening in Shanghai: the city’s streets, tea houses and entertainment centers are buzzing with crowds of people selling and buying food and other goods, some of them working, some entertaining, yet others being entertained; people temporarily interrupting their journeys from home to work, or from work to home for a quick chat at a tea house, a round of game play at an Internet café, a drink with a customer or coworker, or a combination of all of these. 
+
+The notion of crowds in China’s urban centers often invokes images of over-populated and dense city hot spots similar to the scenario just described, where people are leaving their tight homes for entertainment or business elsewhere. The Chinese Ministry of Housing and Urban-Rural Construction, for example, reports that 45 percent of Chinese, about 600 million people, lived in cities in 2008 and that 60 percent of Chinese would be urban residents by 2030. Crowds of people, services and goods, however, are not only prevalent across the actual physical space in the city, but pervade yet another spatial infrastructure: the Internet. CNNIC (China Internet Network Information Center) reported in a 2006 survey that the number of Chinese Internet users has risen significantly over the last 10 years surpassing 123.6 million users as of July 2006, of which 62% cite gaming and entertainment as the main reason to use the Internet. 
+If we look, however, beyond these numbers and the buzz on the street, in the tea house, in the Internet café or online, we begin to see individuals engaging in a competitive struggle for a face in the crowd while simultaneously reworking their collective identity as a nation that is in process of finding a middle ground between – as Aihwa Ong insightfully phrased it – adoption of neoliberal reasoning, privatizing processes and Confucian-inflected nationalism (Ong, 1999). Here, a strong support network can be vital to the success for new businesses, for young professionals or to distinguish oneself from the crowds and within a competitive market. 
+PRELIMINARY FINDINGS
+During summer 2007 and 2008, I traveled to urban China to conduct ethnographic research on online and mixed reality gaming across two field sites, Internet cafes and exclusive game clubs. What I found across the two sites were serious aspects of gaming, however, quite different from those commonly reported; aspects of gaming that render game play in and of itself a means for practical achievement, even when the game is understood as exactly that: a game. I encountered gaming practices across digital and physical infrastructures that were driven by pragmatic and socio-economic concerns such as maintaining and extending one’s social network, navigating around governmental restrictions, and how to gain and/or maintain status within as well as beyond China’s national borders. 
+Many Chinese youths play online games such as World of Warcraft in Internet cafes, neighborhood-level institutions, sharing in-game experiences while socializing face-to-face (Thomas and Lang, 2007). For Chinese youth, this public entertainment scene often constituted sites of negotiation and contest of what it meant to be Chinese within and beyond an “open and new” China. Many of the players I met in Internet cafes, for example, commented on the game’s graphics, well-drawn animations, western-style landscapes and architecture, and rendered them as Western ways of story telling. Some Chinese players also logged onto foreign World of Warcraft game servers, most common were American and Taiwanese servers, and then portrayed these foreign online spaces as displaying higher moral and ethical values in game play. For example, one of my study participants commented: “On the net there are a lot of these instances (cheating). Especially in China right now with the quality of life, definitely more than in Europe or America. Because in those areas there are more net etiquettes. There are a lot of rip off things, where you perceive it a certain way, but it’s not how it is. This is going on in China, because Chinese people find money something very important, because it’s just becoming industrialized, it’s a little bit more chaotic.”
+Similarly, many of the youths I talked to emphasized these connections of the game to Western culture, valued as “a way of leaving China” (Ong, 1999). Positioning the online game in relation to its imagined cultural origins, the West, entangled the gaming practices with broader socio-cultural concerns around the nation’s position in relation and or opposition to the West. 
+In contrast to the online gaming scene, I found mixed reality gaming clubs to be exclusive entertainment spaces for China’s up and coming young professionals. The gaming clubs were valued exactly because they provided a different kind of environment and a different symbolic meaning compared to the Internet café and online gaming: “a cultivating club for people who care about cool and who are concerned with their self representation,” as one of the clubs in Shanghai advertised. The clubs provided access to a wider social networking space beyond one’s local, neighborhood-level connections possible to establish in the Internet café. Here, technological infrastructure was more than a ready-at-hand backbone (Star, 1999) that shapes in-game experiences and game play. Rather it stood for a socio-economic status that club members and owners intended to invoke. For example, one of the club owners I met in Shanghai emphasized how the provision of Internet access on official, governmental-controlled computers would establish an ideological connection between the club and a socio-technical space neither the owners nor the club members wanted to be associated with: the Internet café. 
+Club members were able to flexibly navigate a myriad of networks, both physical and digital, clubs and club websites, Internet cafes and online games, karaoke bars and tea houses, engaging in a more diverse set of leisurely practices in contrast to the online gamers, thus also “training” a broader set of socio-economic skills highly valued in China’s current economic climate of opening up and privatization. Who was granted access to certain digital-physical spaces thus manifested itself through socio-technical boundary making and distinction work of who belonged to the group of “cultivated cool.”
+What this leaves us with, then, is to provide a more nuanced way of describing economic discrepancies, situated sociality and imaginings of national identity for technology design and engagement. While Chinese online players accessed foreign game servers, they rarely interacted with non-Chinese, however they shared a pervasive image of what it meant to be a game player from the U.S. and how U.S. game servers were different from their Chinese counterparts. Often, to play a game like World of Warcraft was motivated by curiosity about “foreign” game graphics and “Western way of storytelling.” How can future technology design leverage such curiosity to encourage exchange across national servers and different cultural contexts?
+POSTER OUTLINE
+In presenting this work, then, I will relate these findings to the following key aspects 1) How China as a nation often characterized as an emerging market, might instead of lagging behind the “West” in digital-physical infrastructures also in certain cases illustrate a precursor of US technology culture in the future, 2) how digital entertainment culture fulfilled both entertaining and productive means for subject positionings within and beyond China’s national borders, and 3) problems of inclusions and exclusion facilitated by socio-technical distinction work and boundary making.
+  
+REFERENCES
+Ong, A. 1999. Flexible Citizenship. The Cultural Logics of Transnationality. Duke University Press.
+Star, S. L. 1999. The Ethnography of Infrastructure. American Behavioral Scientist 43(3): 377-391.
+Thomas, S. and Lang, X. 2007. From Field to Office: The Politics of Corporate Ethnography, Epic.
+
+
+
+
+ The Chinese Dream versus the American Dream: Chinese and US online surveys. In trendspotting online magazine, November 29th, 2007, http://www.trendsspotting.com/blog/?p=258
+ CNNIC. The 22nd China Internet Report. http://www.cnnic.cn/download/2008/ CNNIC22threport-en.pdf, last accessed Sept. 2008.
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+
+
+
+

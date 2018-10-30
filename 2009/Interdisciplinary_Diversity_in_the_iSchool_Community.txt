@@ -1,0 +1,269 @@
+Interdisciplinary Diversity in the iSchool Community
+Andrea Wiggins
+Syracuse University
+337 Hinds Hall
+Syracuse, NY 13244 USA
+
+awiggins@syr.edu
+
+ABSTRACT
+Interdisciplinary research is both challenging and increasingly imperative to addressing many intellectual, social and
+practical problems. This poster presents a proposed empirical study of interdisciplinary diversity in the iSchool community. Developing a better understanding of the factors
+that allow interdisciplinary academic endeavors to survive
+and thrive is useful to both the iSchools, for which the research would provide strategic feedback, and to the broader
+scientific community as a means of insight into cultivating interdisciplinary research. The proposed study is expected to
+contribute a methodological approach for evaluating diversity in an interdisciplinary community that will provide an
+objective basis for self-evaluation and community-level comparisons, and empirical results that explore the relationship
+between interdisciplinary intellectual inputs and interdisciplinary scholarly outputs in the iSchools.
+
+Keywords
+Interdisciplinary research, diversity, iSchools
+
+1.
+
+INTRODUCTION
+
+Many have noted that interdisciplinary research is both challenging and increasingly imperative to addressing many intellectual, social and practical problems [17]. The proposed
+research will examine the iSchool community to answer the
+question of whether interdisciplinary intellectual inputs yield
+interdisciplinary intellectual outputs. Developing a better
+understanding of the factors that allow interdisciplinary academic endeavors to survive and thrive is in the interest of
+both the iSchools, for which the research would provide
+strategic feedback, and to the broader scientific community
+as a means of insight into cultivating interdisciplinary research.
+Prior empirical research on the relationship between faculty
+hiring and prestige ratings in the emergent academic community of the iSchools showed that institutional and dis-
+
+ciplinary diversity vary widely both among iSchools and
+within them [21]. These findings motivate more detailed
+study of the nature of interdisciplinary research, diversity,
+and community in the iSchools. Examining how disciplinary
+diversity within the faculty of an institution relates to the
+diversity of research venues in which their work is presented
+is a promising direction for future investigation.
+The basic expectation that an intellectually diverse faculty—
+one formed by scholars trained in a variety of disciplines, but
+located together in an iSchool—publish in a similarly diverse
+set of venues suggests a somewhat individualistic mode of
+research. Integrative interdisciplinary research within an institution, however, could yield convergence to a smaller set
+of publication venues, while the work itself may be no less
+interdisciplinary in functional terms. The proposed research
+will examine the degree to which intellectual interdisciplinarity relates to interdisciplinarity of the scholarly work, both
+within each school and across the iSchool community.
+
+2.
+
+PRIOR WORK
+
+Academic hiring patterns have been a recurring topic for
+research in the sociology of science. These studies are typically focused on prestige out of concern for the potentially
+detrimental effects of particularistic, rather than universalistic, hiring in the academy [3, 4, 5, 7, 12, 14, 15]. Collectively, these studies have shown that in longstanding academic disciplines, changes to the social structure are slow
+and eventually lead to prestige stratification of the fields.
+While these studies lay the groundwork for the proposed
+research, they represent the concerns of mature academic
+disciplines in which change is slow to permeate the institutional structure.
+By contrast, the iSchools form an emergent, loosely-coupled
+academic community that claims to have created an interdisciplinary environment. As a whole, the members of the
+iSchool community are remarkably interdisciplinary, both
+as a community and within institutional boundaries. While
+this academic association has been building for some time,
+the iSchools Caucus was only recently chartered in 20051 ,
+and the community is currently in a period of initial development and identity alignment in which change is occurring
+at a relatively fast rate.
+As yet, there is little scholarly research on the iSchool community (see [8]), although there is an annual iConference,
+1
+
+http://www.ischools.org/oc/charter.html
+
+currently in its fourth year. This venue for communitybuilding among members of the iSchools Caucus has generated a few self-reflective studies from the community, but
+most of these are either largely theoretical or anecdotal [2,
+6, 9, 10, 11, 13, 18, 19]. Very little of the discourse focused
+on the iSchools as a phenomenon is based on empirical data,
+and the most recent work demonstrates how errors in sampling for such a small academic community can lead to misrepresentations of the member institutions, particularly for
+uncertified data [8].
+A study of hiring patterns in the iSchools sought to address some of these issues through empirical research on
+the relationship of prestige to hiring and identity in this
+emergent academic community [21]. This research compared the structural characteristics of faculty hiring iSchools
+and Computer Science departments. A key finding is noted
+here: the disciplinary diversity of the iSchool community
+was self-evident from 674 faculty PhD degrees in 172 areas
+of study. While most of the faculty received degrees in the
+categories of computer and information sciences or library
+science, nearly half of the faculty members completed their
+doctoral study in other disciplines. This striking observation from the data relating to the diversity of the iSchool
+community motivates the currently proposed study to further investigate the interdisciplinary characteristics of the
+iSchool community.
+
+3.
+
+RESEARCH APPROACH
+
+The proposed study would be completed in three phases
+of research effort, each corresponding to approximately one
+month. The first phase consists of updating the iSchools
+faculty hiring data set [20], and contacting each of the 21
+iSchools for verification of their faculty rosters. While verification will require some time and coordination effort, participation is clearly in each institution’s own best interest as
+well as the community’s interest. This step will produce a
+more reliable data set for analysis.
+The second phase of the research plan calls for data collection on iSchool faculty publication venues. These will be
+drawn, where possible, from faculty CVs and web pages,
+and supplemented with database queries as required. As
+with the iSchool faculty hiring data set, the heterogeneity
+of available information sources for these data means that
+there are no simple and straightforward methods by which
+to generate such a data set. To ensure data quality, a more
+effortful but more reliable combination of manual and automatic tools will be employed to create an appropriate data
+set for analysis.
+The third phase of the study will entail data analysis and
+dissemination of results. Data analysis will apply a measure
+of inequality, information entropy, to evaluate diversity in
+each iSchool. This simple measure indicates the evenness of
+the distributions of the disciplinary areas of faculty for each
+school when applied to the fields of study and publication
+venues for each iSchool’s faculty, and provides continuous
+scales by which to evaluate the variation between schools
+within the community. The analysis will utilize a scientific
+workflow analysis tool, the Taverna workbench2 , to gener2
+
+http://taverna.sourceforge.net/
+
+ate easily shared, self-documenting, and replicable analysis
+workflows. Employing these tools and maintaining the data
+set over time will permit replication of the analyses in the
+future using additional data as the community evolves.
+
+4.
+
+EXPECTED CONTRIBUTIONS
+
+The proposed research will develop and apply an analytic
+approach by which to assess multiple aspects of intellectual
+interdisciplinarity of groups within a larger community, such
+as a school, college, or department. Building on prior research which has evaluated institutional interdisciplinarity
+based on faculty areas of study [21], this project will compare pedigree-based interdisciplinarity to publication-based
+interdisciplinarity, reflecting the diversity of faculty publication venues. While most research on faculty publications has
+focused on the faculty productivity levels [1], with notable
+problems in data collection due to the wide range of disciplines represented by faculty publication venues [16], the
+proposed work will focus instead on evaluating the breadth
+of disciplinary expertise represented by the iSchool intellectual community.
+The intellectual contribution of the work will be the empirical study of interdisciplinarity in an emergent academic
+community. The analysis and discussion will take into account both the intellectual resources of faculty disciplinary
+expertise and the intellectual products of faculty research
+publications. The findings will contribute to forming a solid
+foundation, based on empirical research, for advancing discourse on interdisciplinarity within the iSchool community.
+By providing an objective basis for self-evaluation and comparison within the community, as well as a new source of
+insights for characterizing the community, this study will
+also generate a pragmatic outcome for the iSchools. In addition, the study will bring a novel perspective and introduce
+a new population of study into the literature on academic
+hiring, which has not previously examined interdisciplinary
+academic communities.
+The methodological contribution of the work lies in the analytic approach, which will provide a means to evaluate
+the impact of interdisciplinary institutions on scholarly discourse in traditional disciplinary fields. It also offers a method
+for evaluating the breadth and scope of interdisciplinary research in the iSchools on multiple criteria. These methods
+provide an objective basis for making community-level comparisons of the intellectual diversity of member groups, and
+are readily applicable to other interdisciplinary academic
+communities and research groups.
+The research outputs from the study will include validated
+data, analysis workflows, and publications, which will be
+shared with the research community. Together, these research artifacts allow the reproduction of the analysis, and
+form the basic infrastructure for developing and maintaining
+a longitudinal data set to track the dynamics of the iSchool
+community’s intellectual diversity.
+
+5.
+
+CONCLUSIONS
+
+The goal of the proposed research is to conduct an empirical study to evaluate the interdisciplinarity of the iSchool
+academic community with respect to both the intellectual
+inputs and scholarly outputs of each school. This work will
+
+extend prior research on the iSchools as an emergent intellectual community of interest, focusing on its intellectual
+diversity. The study is expected to contribute a methodological approach for evaluating diversity in an interdisciplinary community, which provides an objective basis for
+self-evaluation and community-level comparisons. The empirical results of the study will provide insight into the relationship between interdisciplinarity of intellectual inputs
+and scholarly outputs in the iSchools.
+
+6.
+
+REFERENCES
+
+[1] D. Adkins and J. Budd. Scholarly productivity of u.s.
+lis faculty. Library and Information Science Research,
+in press, 2006.
+[2] H. Annabi, K. E. Fisher, and J.-E. Mai. Our academic
+life: Challenges facing i-schools. In iConference 2005,
+September 28-30 2005.
+[3] J. H. Bair. Hiring practices in finance education.
+linkages among top-ranked graduate programs.
+American Journal of Economics and Sociology,
+62(2):429–433, 2003.
+[4] S. Baldi. Prestige determinants of first academic job
+for new sociology ph.d.s 1985-1992. The Sociological
+Quarterly, 36(4):777–789, 1995.
+[5] A. G. Bedeian and H. S. Feild. Academic stratification
+in graduate management programs: Departmental
+prestige and faculty hiring patterns. Journal of
+Management, 6(2):99–115, 1980.
+[6] H. Bruce, D. J. Richardson, and M. Eisenberg. The
+i-conference: Gathering of the clans of information.
+Bulletin of the ASIST, (April/May 2006), 2006.
+[7] V. Burris. The academic caste system: Prestige
+hierarchies in phd exchange networks. American
+Sociological Review, 69(2):239, 2004.
+[8] C. Chen. Thematic maps of 19 ischools. In Annual
+meeting of the American Society for Information
+Science and Technology, 2008.
+[9] A. Dillon and M. L. Rice-Lively. Passing the
+taxi-driver test. Bulletin of the ASIST, (April/May
+2006), 2006.
+[10] G. Harmon. The first i-conference of the i-school
+communities. Bulletin of the ASIST, (April/May
+2006), 2006.
+[11] G. Harmon and A. Debons. The i-conference in
+retrospect. Bulletin of the ASIST, (April/May 2006),
+2006.
+[12] J. G. Hunt and J. D. Blair. Content, process and the
+matthew effect among management academics.
+Journal of Management, 13(2):191–210, 1987.
+[13] J. L. King. Identity in the i-school movement. Bulletin
+of the ASIST, (April/May 2006), 2006.
+[14] J. S. Long. Productivity and academic position in the
+scientific career. American Sociological Review,
+43(6):889–908, 1978.
+[15] J. S. Long, P. D. Allison, and R. McGinnis. Entrance
+into the academic career. American Sociological
+Review, 44(5):816–830, 1979.
+[16] L. I. Meho and K. M. Spurgin. Ranking the research
+productivity of library and information science faculty
+and schools: An evaluation of data sources and
+research methods. Journal of the American Society for
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+Information Science and Technology, 56:1314–1331,
+2005.
+M. Nissani. Ten cheers for interdisciplinarity: The case
+for interdisciplinary knowledge and research. The
+Social Science Journal, 34(2):201–216, 1997.
+J. Thomas, R. von Dran, and S. Sawyer. The
+i-conference and the transformation ahead. Bulletin of
+the ASIST, (April/May 2006), 2006.
+M. Tyworth and S. Sawyer. I-conference identity and
+issues survey summary. In iConference 2005, pages
+1–6, October 12 2005.
+A. Wiggins. Exploring Peer Prestige in Academic
+Hiring Networks. Master’s thesis, University of
+Michigan School of Information, 2007.
+A. Wiggins, M. J. McQuaid, and L. A. Adamic.
+Community identity: Academic hiring and peer
+prestige in the ischools. In iConference 2008, 2008.
+
+

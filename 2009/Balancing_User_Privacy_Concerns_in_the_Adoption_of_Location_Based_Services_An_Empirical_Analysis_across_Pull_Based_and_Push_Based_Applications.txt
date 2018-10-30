@@ -1,0 +1,1172 @@
+Balancing User Privacy Concerns in the Adoption of Location-Based Services:
+An Empirical Analysis across Pull-Based and Push-Based Applications
+Heng Xu
+
+Sumeet Gupta
+
+Pan Shi
+
+College of Information Sciences and Technology
+Pennsylvania State University
+hxu@ist.psu.edu
+
+Shri Shankaracharya College of
+Engineering and Technology, India
+sumeetguptadr@gmail.com
+
+College of Information Sciences and Technology
+Pennsylvania State University
+pzs125@ist.psu.edu
+
+ABSTRACT
+Location-Based Services (LBS) bring unprecedented mobility and
+personalization value to nomadic individuals and hence carry
+great commercial potential. However, the commercial potential of
+LBS is obscured by the user’s concerns for privacy whereby the
+LBS provider can misuse the confidential personal information of
+users and in extreme circumstances place an individual in danger
+or seriously jeopardize his or her social life or finances.
+Therefore, we study the adoption of LBS through a privacy
+calculus lens. Privacy calculus argues that individuals, when
+requested to provide personal information to corporations,
+perform a cost-benefit analysis to assess the outcomes they would
+face in return for the information, and respond accordingly. We
+study both pull-based and push-based LBS to have a
+comprehensive view of LBS adoption. The results of the study
+reveal that individual’s privacy concerns influence their intention
+to adopt directly in case of push-based LBS and indirectly in case
+of pull-based services. The implications for theory and practice
+are discussed.
+
+Categories and Subject Descriptors
+J.4 [Social and Behavioral Sciences]: Psychology; K.4.4
+[Electronic Commerce]: Security; H.1.2 [User/Machine Systems]:
+Human factors.
+
+General Terms
+Management, Security, Human Factors.
+
+Keywords
+Location-Based Services (LBS), Location Commerce (LCommerce), Privacy Calculus, Technology Adoption
+
+1. INTRODUCTION
+Location-Based Services (LBS) use positioning technologies to
+provide individual users with reachability and accessibility that
+would otherwise not be available in the conventional commercial
+realm. In the literature, LBS are defined as network-based
+services that integrate a derived estimate of a mobile device’s
+location or position with other information so as to provide added
+value to the user [25, 41]. These services include emergency and
+safety-related services, location-sensitive billing, entertainment,
+navigation, asset tracking, directory and city
+guides, traffic
+updates, and location-based advertising [4, 25]. Among various
+LBS applications, those commercial location-sensitive services
+that utilize geographical positioning information to provide valueadded services are generally marketed under the term ‘LocationCommerce’ or ‘L-Commerce’ [20]. The importance of LBS has
+
+increased more today than anytime earlier because they bring
+unprecedented mobility and personalization value to mobile user.
+The growth trajectory of LBS is striking. According to a recent
+report from Allied Business Intelligence Inc., LBS revenues are
+expected to reach an annual global total of $13.3 billion by 2013,
+up from an estimated $515 million during 2007 [1].
+Acknowledging the market potential, some operators, such as
+KDDI and NTT DoCoMo in Japan and E-Plus in Germany,
+have made LBS a core part of their strategy and are focusing on
+deploying accurate location technology and services as a
+differentiation mechanism. Unsurprisingly, the commercial
+potential and rapid growth of L-Commerce have been
+accompanied by concerns regarding the collection and
+dissemination of individual information by service providers and
+merchants. These concerns pertain to the confidentiality of
+accumulated individual data [58] and the potential risks that
+individuals experience over the possible breach of confidentiality
+[5]. In extreme circumstances, improper handling of location
+information can place an individual in danger or seriously
+jeopardize her social life or finances. The convenience of LBS
+notwithstanding, individuals worry about such privacy intrusions
+– the Big Brother imagery [43] looms in the popular press where
+LBS is discussed [36]. To the degree that privacy concerns
+represent a major inhibiting factor in individuals’ adoption of LCommerce [11], it is important to respond to the call of “No LCommerce without L-Privacy” [26] by addressing the role of
+privacy in the adoption of L-Commerce.
+The notion that there may be both positive and negative
+consequences accruing from LBS usage is implicit in the idea of
+‘privacy calculus’ [13] in the information privacy literature. The
+concept of privacy calculus argues that individuals, when
+requested to provide personal information to corporations, would
+perform a cost-benefit analysis to assess the outcomes they would
+face in return for the information, and respond accordingly [13,
+14]. This proposition of privacy calculus provides impetus for us
+to develop and test a research model with contrary factors
+capturing elements of privacy calculus. Relatively, the model
+developed here attempts to understand the delicate balance
+between individual privacy concerns and instrumental values that
+influence behavioral intentions to adopt LBS. In addition,
+acknowledging that LBS in different forms yield distinct benefits
+and privacy costs for individuals [26, 58], we test our model
+using two types of LBS. Particularly, we study pull-based LBS,
+in which individuals request information and services based on
+their locations, and push-based LBS, in which location-sensitive
+content is automatically sent to individuals based on tracking
+their locations.
+The study reported here is novel to the extent that existing
+empirical research has not examined this complex set of inter-
+
+factors capturing a set of elements in a calculus in which users
+make a delicate balance between privacy concerns, learning costs,
+and instrumental values that influence behavioral intentions to
+adopt LBS.
+
+related issues in the LBS context. The synthesis of privacy
+literature and technology adoption theories may provide a rich
+understanding of the adoption of technologies that create personal
+vulnerabilities, and therefore, inform adoption research in the
+Information Systems (IS) discipline. The findings are also
+potentially useful to privacy advocates, merchants, and service
+providers to help shape or justify their decisions concerning LCommerce. An understanding of individuals’ adoption decisions
+in L-Commerce and their privacy concerns is vital for at least two
+reasons. First, positioning systems are likely to endure as an
+important technology because of the significant investments made
+in their development and associated telecommunication
+infrastructure [45].
+Second, as information technologies
+increasingly expand the ability for firms to store, process, and
+exploit personal data, insights obtained from this study are likely
+to be of value for understanding the adoption of related
+technologies such as Radio Frequency Identification (RFID)
+technology.
+
+2.2. User
+Technology
+
+Acceptance
+
+of
+
+Information
+
+Multiple models have been proposed in previous research to
+explain the adoption and usage of technology by individuals or
+organizations. Venkatesh et al. [55] proposed the Unified Theory
+of Acceptance and Use of Technology (UTAUT) by integrating
+elements across eight major user acceptance models (i.e., theory
+of reasoned action, technology acceptance model, motivational
+model, theory of planned behavior, a combined theory of planned
+behavior/technology acceptance model, model of PC utilization,
+innovation diffusion theory, and social cognitive theory).
+According to UTAUT, four key constructs determine technology
+usage intention and behavior: performance expectancy, effort
+expectancy, social influence and facilitating conditions. Also,
+individual level factors (e.g., gender, age, experience and
+voluntariness of use) are posited to moderate the impact of the
+key constructs on usage intention and behavior. Based on
+empirical tests, Venkatesh et al. [55] demonstrated that their
+model accounted for 70% of the variance in usage intention,
+substantially greater than any of the extant user acceptance
+models when tested on the same data.
+
+The rest of this paper proceeds as follows. We first present the
+theoretical background, describe the conceptual foundations of
+the proposed model, and develop research hypotheses. This is
+followed by a discussion of the research method, including scale
+development and validation, and the experiment. Next, we
+present results in support of the psychometric properties of the
+measures and the hypothesis tests. The paper concludes with a
+discussion of the findings, research limitations, and implications
+for future research.
+
+Consistently, our investigation follows the direction of
+technology acceptance literature by specifying a model that
+directly capture several constructs of the UTAUT: behavioral
+intention (intention to use LBS), performance expectancy
+(instrumental value of using LBS), effort expectancy (learning
+cost of using LBS), and individual level factor (personal
+innovativeness). Our model also indirectly captures the
+component of facilitating conditions. Venkatesh et al. [55]
+defined facilitating conditions as the degree to which an
+individual believes that an organizational and technical
+infrastructure exists to support use of the system. This construct
+captures the aspects of technological and/or organizational
+environment that is designed to remove barriers to use. In case of
+LBS, the technology that may facilitate its use is being promoted
+by many service providers. However, privacy concerns are
+broadly regarded as the major inhibiting factors in the adoption of
+LBS [11]. While easing an individual with many location-based
+services, they also raise issues of privacy particularly of releasing
+one’s personal information to others. Therefore, in this study we
+use the construct of privacy concerns as a specific aspect of
+facilitating conditions as proposed in UTAUT. Accordingly, we
+define privacy concerns as the degree to which a user’s subjective
+views of service providers’ information practices to prevent
+misuse of personal information.
+
+2. THEORETICAL BACKGROUND
+2.1. Balancing User Privacy Concerns: A
+Calculus Perspective
+Information privacy has been defined as the ability of the
+individual to control the terms under which personal information
+is acquired and used [59]. Prior research has repeatedly shown
+that information privacy continues to be eroded as a result of
+technology innovations [49]. Not surprisingly then, there is a
+robust body of research related to privacy concerns that attempts
+to understand how individuals make decisions regarding the
+revelation of personal information. In this literature, a key
+finding is that the concept of privacy is not absolute but, rather,
+can be interpreted in “economic (cost/benefit) terms” [32]. That
+is, individuals can be expected to behave as if they are performing
+a privacy calculus (cost-benefit analysis) in assessing the
+outcomes they will receive as a result of providing personal
+information to corporations [28, 40].
+A theoretical perspective, consistent with the core idea of privacy
+calculus that may help predict individuals’ propensities to
+disclose personal information is the rational choice theory [57].
+These theories suggest that human action is fundamentally
+“rational” in character and that individuals will calculate the
+likely costs and benefits of any action and choose the course of
+action that maximizes overall rewards. Applying the rational
+choice perspective to the LBS context, we may interpret the
+information disclosure in LBS as a non-monetary exchange where
+consumers disclose their location information in return for value
+such as locatability and personalization provided by LBS
+providers. Specifically, consumers behave as if they are
+performing a risk-benefit analysis (i.e., privacy calculus) in
+assessing the outcomes they would receive as the result of
+providing personal information to LBS providers. Our study
+attempts to develop and test a research model with contrary
+
+Although much theoretical development along the line of
+UTAUT has occurred in regard to individual behavior with new
+information technologies, this body of work has paid limited
+attention to privacy issues. Indeed, a plurality of the theoretical
+models have chosen to focus on a central belief associated with
+the use of the target technology from a positive-utility oriented
+perspective, while paying limited attention to potential negative
+consequences arising from the adoption and use of new
+technologies (i.e., the risks that individuals may experience with
+respect to privacy violations in the L-Commerce context). As a
+consequence, we attempt to develop an adoption model to
+simultaneously consider both positive and negative outcomes of
+
+2
+
+adopting and using a new technology that raises a new set of
+concerns related to individual privacy.
+
+LBS will amplify the desire to engage in the target behavior.
+Such a causal mechanism is consistent with UTAUT that includes
+performance expectations as the important antecedent to use
+intentions [55]. Therefore, we hypothesize:
+H1: Performance expectancy is positively related to
+intention to use LBS.
+
+3. RESEARCH HYPOTHESES
+Based on the notion of privacy calculus and UTAUT, we present
+the research model used in this study as shown in Figure 1. The
+core of the model is captured by a set of elements in a calculus in
+which users make a delicate balance between 1) negative utility
+factors such as privacy concerns, and 2) positive utility factors
+such as performance expectancy and effort expectancy. We
+further propose that personal innovativeness positively relates to
+behavioral intention.
+
+Effort expectancy has been defined as the degree or ease
+associated with the use of the system [55]. The construct captures
+the essence of perceived ease of use in technology acceptance
+model, complexity in the model of PC utilization, and ease of use
+in the innovation diffusion theory. Adapting from Venkatesh et
+al. [55], we define effort expectancy in this research as the degree
+or ease associated with the use of LBS. In the context of LBS,
+effort expectancy is about an individual’s expectation of using
+LBS without much effort. If the process of LBS subscription
+involves tedious documentation, registration, learning about
+privacy policy, and service terms and conditions, then the mere
+effort may inhibit an individual to subscribe for such services.
+Apart from subscription, an individual may need to put effort to
+learn how to use LBS in the usage process. The more the learning
+effort required, the more inhibition would be there on the part of
+the individual to use LBS. In other words, the easier it is to use
+LBS to obtain desired services, the more an individual would
+intend to use LBS. This relationship is generally supported by
+UTAUT, according to which effort expectations influence
+individual behavioral intention about usage of technology. Hence,
+we hypothesize that:
+H2: Effort expectancy is positively related to intention to use
+LBS.
+
+Figure 1. Research Model
+
+3.1.
+Performance
+Expectancy,
+Expectancy, and Behavioral Intention
+
+Effort
+
+Venkatesh et al. [55] defined performance expectancy as the
+degree to which an individual believes that using the system will
+help him or her in attaining gains in job performance. This
+construct is similar to perceived usefulness, extrinsic motivation,
+relative advantage, and outcome expectations that have been
+discussed in technology acceptance model, job-fit motivational
+model, model of PC utilization, innovation diffusion theory, and
+social cognitive theory, respectively. We defined performance
+expectancy in our research context as the degree to which an
+individual believes that using LBS would reduce his or her time
+and effort required to search or access the needed information or
+service.
+
+Technology acceptance model [15] proposes the relationship
+between perceived ease of use and perceived usefulness. Given
+that the construct of effort expectancy is similar to ease of use and
+that performance expectancy is similar to perceived usefulness
+[55], effort expectancy should be positively related to
+performance expectancy. However, such relationship has not
+been modeled in UTAUT. Effort expectancy has been found to be
+significant only during the first time period and becomes nonsignificant over periods of sustained and extended usage [2, 3, 15,
+52, 53]. Since LBS are still considered as new technologies at the
+initial diffusion stage, we attempt to predict LBS adoption among
+potential users who do not yet have credible information about or
+affective bonds with the LBS. Thus we include the relationship
+between effort expectancy and performance expectancy in this
+study to test if there is any indirect influence on behavioral
+intention through performance expectancy. Hence, we
+hypothesize:
+H3: Effort expectancy is positively related to performance
+expectancy.
+
+Performance expectancy captures the notion of the ability of LBS
+to provide the intended services accurately. Junglas and Watson
+[30] identify five key characteristics of mobile commerce over
+and above electronic commerce. These five categories are:
+portability (physical aspects of mobile devices that enable them to
+be readily carried for long periods of time), reachability (a person
+can be in touch with and reached by other people 24 hours per
+day, 7 days per week, assuming that the mobile network coverage
+is sufficient and the mobile device is switched on), accessibility
+(describes the case where a person can access the mobile network
+at any time from any location, again assuming adequate mobile
+network coverage), localization (describes the ability to locate the
+position of a mobile person or entity) and identification (ability of
+the mobile device to uniquely identify the user). Out of these five
+features, we believe that reachability, localization and
+identification are unique aspects fulfilled by LBS. These are the
+benefits based on which users develop expectations about
+performance of LBS. To the extent that the anticipation of
+benefits provides direction for actual behavior through energizing
+and motivating individuals and enhancing the perceived value of
+various outcomes, a higher expectation about performance of
+
+3.2. The Role of Personal Innovativeness
+Although not specifically included in UTAUT, we attempt to
+explore the role of personal innovativeness in the research model.
+This is because LBS are in early adoption stage whereby many
+early innovative adopters simply adopt or try out technologies
+without a detailed value-based analysis. Personal innovativeness
+has been examined in innovation diffusion research [46], and in
+the domain of marketing [e.g., 22, 39]. In the field of information
+systems, Agrawal and Prasad [3] define personal innovativeness
+as willingness of an individual to try out new technology.
+
+3
+
+Personal innovativeness has been conceptualized in terms of its
+operational definition, i.e., individuals are characterized as
+‘innovative’ if they are early to adopt an innovation [3]. This
+conceptualization was criticized later as using time of adoption as
+a surrogate for measuring personal innovativeness obscures its
+definition [22, 39], as this conceptualization implies that the
+adoption has already been made. Later, marketing researchers felt
+it important to conceptually and operationally draw a distinction
+between global innovativeness and domain specific
+innovativeness [3, 22]. However, empirical studies [27, 33] found
+that global innovativeness exhibits low predictive power when
+applied to any specific innovation adoption decision. Domainspecific innovativeness, on the other hand, was found to exhibit
+significant influence on behaviors within a narrow domain of
+activity [27]. Agarwal and Prasad [3] used the domain-specific
+innovativeness in the domain of IT for characterizing adoption.
+Consistent with their research, we use domain-specific
+conceptualization of innovativeness in the context of LBS.
+Adapting Agrawal and Prasad’s [3] definition, we define personal
+innovativeness as an individual’s willingness to try out LBS. As
+personal innovativeness in an individual-specific trait, those who
+are more innovative are likely to adopt LBS more readily than
+others and vice-versa. Rogers [46] noted that innovators exhibit
+certain characteristics behaviors such as active information
+seeking, greater exposure to mass-media, and less reliance on
+subjective evaluation of other members in their social circle about
+the innovation. This implies that innovators’ decision to adopt is
+independent of other antecedents of intention to use LBS. Hence,
+we hypothesize:
+H4: Personal innovativeness is positively related to intention
+to use LBS.
+
+of privacy concerns as an antecedent to various behavior-related
+variables, e.g., willingness to disclose personal information [9],
+intention to transact [17], and information disclosure behavior [7].
+Privacy concerns are generally considered as a cost of adopting
+new technology [17]. The negative impact of privacy concerns on
+behavioral intention has been empirically supported in the ecommerce context [9, 16, 38]. Similarly, we expect a negative
+relationship between privacy concerns and behavioral intention in
+the context of LBS. Hence, we hypothesize:
+H5: Privacy concerns are negatively related to intention to
+use LBS.
+As discussed earlier, individuals are concerned about loss of
+privacy in using LBS whereby their whereabouts and other
+personal identifiable information may be tracked by service
+providers. Moreover, this information can be used for nefarious
+purposes thus encroaching into a person’s personal life.
+Especially, in this day and time of widespread terrorism using
+mobile devices, individuals are more fearful about disclosing
+personal information. The fear of losing control over personal
+information reduces their expectancy about the performance of
+the technology. In other words, in the wake of privacy invasion,
+the technology becomes unattractive. Therefore, LBS that are
+perceived as being privacy intrusive may also be perceived as
+being plagued with performance problems and usage
+uncertainties. Conversely, individuals who perceive service
+providers responsible and reliable in terms of using personal
+information may increasingly believe they will perform well,
+evaluate them highly and potentially adopt them. Hence, we
+hypothesize:
+H6: Privacy concerns are negatively related to performance
+expectancy.
+
+3.3. The Role of Privacy Concerns
+Prior privacy research has focused on understanding what
+motivates or inhibits the disclosure of personal information.
+Among these investigations, the construct of privacy concerns is
+one of the most widely used in MIS research and it is often used
+as a proxy for the concept of privacy. Several studies have
+conceptualized and operationalized privacy concerns in more
+detail: the Concern for Information Privacy (CFIP) instrument
+was developed by Smith et al. [48] which identified four
+dimensions of information privacy concerns: 1) collection
+reflected the concern that extensive amounts of personally
+identifiable data are being collected and stored in databases; 2)
+unauthorized secondary use reflected the concern that
+information is collected from individuals for one purpose but is
+used for another secondary purposes without consent; 3) errors
+reflected the concern that protections against deliberate and
+accidental errors in personal data are inadequate; and 4) improper
+access reflected the concern that data about individuals are
+readily available to people not properly authorized view or work
+with data. These dimensions have since served as some of the
+most reliable scales for measuring individuals’ concerns toward
+organizational privacy practices. Recently, Malhotra et al. [38]
+operationalized a multidimensional notion of Internet Users
+Information Privacy Concerns (IUIPC) which adapted the CFIP
+into the Internet context.
+
+4. METHOD
+4.1. Pull-Based vs. Push-Based LBS
+
+According to UTAUT, facilitating conditions influence the usage
+of technology. Privacy concerns, as a specific aspect of
+facilitating conditions, reflect a user’s subjective views of service
+providers’ information practices to prevent misuse of personal
+information. Numerous extant studies have treated the construct
+
+1
+
+We conducted a scenario-based survey to test the proposed
+model. At present, most of the available LBS are delivered to
+mobile users over different underlying technology platforms such
+as Wireless Application Protocol-based (WAP-based) mobile
+Internet and Short Messaging Service (SMS) [58]. Since most
+mobile phones support the SMS1 functionality, LBS in our study
+was introduced as the service offered to mobile phone users via
+SMS based on the Cell-Identification (Cell-ID)2 technique
+employed by the network of telecom operators. Acknowledging
+that LBS differentiated by different information delivery
+mechanisms could yield distinct benefits and privacy costs for
+individuals (Gidari 2000; Levijoki 2001; Wallace et al. 2002), we
+test our model using two types of LBS that represent different
+information delivery mechanisms. The information delivery and
+acquisition in the LBS context could be either pull or push [6, 29,
+35, 54]. In pull-based LBS, users request some information or use
+some service based on their location on a one-time basis [6, 54].
+This type of LBS may be seen in some ‘on demand’ services
+where the individual dials or signals a service provider for
+specific information/service such as the nearest auto-teller
+machine (ATM) or Starbucks store. In these services, location
+SMS allows the sending of text messages of up to 160 characters via a mobile
+phone.
+2
+Cell-ID, or Cell of Origin (COO), works by identifying the cell of the network in
+which the handset is operating (Barnes 2003). Such technique is the main
+technology that is widely deployed in mobile communication networks today. It
+requires no modification to handsets or networks since it uses the mobile network
+base station as the location of the caller (Barnes 2003).
+
+4
+
+information is ephemeral and useful only for users to receive realtime navigational requests (e.g., informing the user of the nearest
+ATM or Starbucks store). The other type of information delivery
+mechanism is push-based LBS where the service provider sends
+the user relevant information/service based on her known
+proximity to a store or service center via a wireless device [6, 54].
+In the push-based approach, location information is used to target
+the user and she is sent the related advertisements when she gets
+within the vicinity of the merchants.
+
+complete the pull-based scenario followed by the push-based
+scenario and vice versa. A dummy variable created for order
+effects had no significant influence on any of the endogenous
+variables in a MANOVA analysis (F (4,171) = 0.912, p = ns).
+A total of 176 undergraduate students at a large university were
+recruited via an online registration system participated in the
+survey (83 females, 93 males). As an incentive for their
+participation, each subject received $5 upon completion of the
+task. All the subjects owned mobile phones and were familiar
+with text messages. While the use of undergraduate students as
+potential LBS users might limit the generalizability of the results,
+we believe that this should not be a major concern because
+research indicates that younger individuals are among the most
+avid users of mobile technologies [44], and arguably, represent
+the next generation of mobile individuals.
+
+One specific pull-based LBS application and one push-based LBS
+application, i.e., the pull-based *SEND-A-TAXI service and
+push-based Mobile Coupon (M-Coupon) service, were utilized as
+the scenarios in the survey. In the scenario of *SEND-A-TAXI
+service, when the individuals wanted to book a taxi, they could
+dial a certain number and their location would be detected
+automatically via their mobile phones. A list of taxi stands or
+landmarks near to their location will be transmitted to them via a
+text message. Individuals can select the pick-up point from the
+list and confirm their booking by replying to the text message.
+The M-Coupon service would involve recruiting individuals by
+service registration and interest subscription: Individuals could
+register their mobile phone numbers and subscribe to a list of
+merchants that provided M-Coupon services, based on their
+interests and preferred period of time for receiving coupons.
+Profiling information would then be used to target the
+subscribers, and their mobile phones would be sent related
+promotional information when they came within the vicinity of
+merchants.
+
+5. DATA ANALYSIS AND RESULTS
+A second-generation causal modeling statistical technique –
+Partial least squares (PLS), was used for data analysis in this
+research for three reasons. First, PLS is widely accepted as a
+method for testing theory in early stages, while LISREL is
+usually used for theory confirmation [23]. Similar to the cases in
+prior research [e.g., 37], we chose PLS as the statistical technique
+because this study is an early attempt at advancing a theoretical
+model in a new context of LBS. Second, PLS is well suited for
+highly complex predictive models [10]. Prior research that
+applied PLS [e.g., 31] has claimed that PLS is best suited for
+testing complex relationships by avoiding inadmissible solutions
+and factor indeterminacy. This makes PLS suitable for
+accommodating the relatively complex relationships among
+various constructs in current research. Third, PLS has the ability
+to assess the measurement model within the context of the
+structural model, which allows a more complete analysis of interrelationships in the model.
+
+4.2. Scale Development
+To the extent possible, we adapted constructs from measurement
+scales used in prior studies to fit the LBS context. Drawing on
+technology adoption literature [55], intention to use LBS was
+measured with questions on whether the respondents were likely
+to use the particular type of LBS, whether they intended to use it,
+and whether they would consider using it. Performance
+expectancy was measured with four questions to capture the
+instrumental value of using the LBS [55]; effort expectancy was
+measured with questions on whether using LBS would be clear,
+understandable, and easy to use [55]. Personal innovativeness
+was assessed with three questions taken from Agarwal and Prasad
+[3]. Privacy concerns were measured by seven-point Likert scale
+items that integrated more tightly the CFIP's [48] four dimensions
+collection of personal information, unauthorized secondary use of
+personal information, errors in personal information, and
+improper access to personal information. Language was adapted
+to capture perceptions of specific service provider’s privacy
+practices. All items in the questionnaire were anchored to
+appropriately labeled seven-point Likert scales (see Appendix A).
+
+Since it has been noted that pull-based LBS and push-based LBS
+provide different instrumental values and induce different privacy
+concerns for individuals [34, 58], we split the dataset into two
+subsets according to the type of LBS to assess the different
+effects of pull- and push-based LBS on the theoretical constructs.
+Thus, the measurement and the structural models were tested
+separately for the pull- and push-based LBS subsets.
+
+5.1. Evaluating Measurement Model
+We evaluated the measurement model by examining the
+convergent validity and discriminant validity of the research
+instrument. Convergent validity is the degree to which different
+attempts to measure the same construct agree [12]. In PLS, three
+tests are used to determine the convergent validity of measured
+reflective constructs in a single instrument: reliability of items,
+composite reliability of constructs, and average variance extracted
+by constructs. Table 1 presents the assessment of the
+measurement model. We assessed item reliability by examining
+the loading of each item on the construct, and found the reliability
+score for all the items exceeded the criterion of 0.707. Thus, the
+questions measuring each construct in our experiment had
+adequate item reliability. Composite reliabilities of constructs
+with multiple indicators exceeded Nunnally’s [42] criterion of
+0.7. The average variances extracted for the constructs were all
+above 50 percent, and the Cronbach’s alphas were also all higher
+than 0.7. These results support the convergent validity of the
+measurement model.
+
+4.3. Data Collection
+Data for the study were collected through a scenario-based
+survey. The subjects were asked to assume the role of a potential
+LBS user and to evaluate some services that would be soon
+introduced in the local market. They were presented with two
+scenarios: a pull-based LBS scenario and a push-based LBS one.
+Next, they were asked to complete a questionnaire regarding their
+intention to use LBS, performance expectancy, effort expectancy,
+personal innovativeness, and privacy concerns in each specific
+scenario. Scenarios of two different types of LBS applications –
+*SEND-A-TAXI service (pull-based) and M-coupon service
+(push-based) were described to subjects. To control for order
+effects, half of the subjects in each scenario were asked to
+
+5
+
+Discriminant validity is the degree to which measures of different
+constructs are distinct [8]. To test discriminant validity, the
+square root of the variance shared between a construct and its
+measures should be greater than the correlations between the
+construct and any other construct in the model. Tables 2 report
+the results of discriminant validity which may be seen by
+comparing the diagonal to the non-diagonal elements. All items in
+our experiment fulfilled the requirement of discriminant validity.
+
+Our findings indicate that performance expectancy, effort
+expectancy, and personal innovativeness were positively related
+to behavioral intention, i.e., H1, H2, and H4 were supported.
+Effort expectancy was found positively related to performance
+expectancy and thus H3 was supported. However, privacy
+concerns was negatively related to behavioral intention only for
+push-based LBS (H5 was partially supported). Also, privacy
+concerns was negatively related to performance expectancy only
+for pull-based LBS (H6 was partially supported). Table 3
+summarizes the hypothesis testing.
+
+Table 1. Psychometric Properties of Constructs
+
+Figure 2a. Graphical Display of Results (Pull)
+
+Table 2. Correlation between Latent Variables
+
+Figure 2b. Graphical Display of Results (Push)
+Note: The diagonal line shows the square root of variance extracted
+of each construct
+
+Table 3. Results of Hypotheses Testing
+
+5.2. Testing Structural Model
+After establishing the validity of the measures, we tested the
+structural paths in the research model using PLS. We conducted
+hypothesis tests by examining the sign and significance of the
+path coefficients. Additionally, we inspected the weights of the
+dimensions of the constructs and the explanatory power of the
+structural model. A bootstrapping technique was applied to
+estimate the significance of the path coefficients. Since PLS does
+not generate any overall goodness of fit indices, predictive
+validity is assessed primarily through an examination of the
+explanatory power and significance of the hypothesized paths.
+The explanatory power of the structural model is assessed based
+on the amount of variance explained in the endogenous construct
+(i.e., behavioral intention). The structural models for the pull and
+push mechanisms explained 41.9% and 47.6%, respectively, of
+the variance in behavioral intention. These greatly exceeded 10%,
+which was suggested by Falk and Miller [21] as an indication of
+substantive explanatory power. Figures 2a and 2b show a
+graphical display of the results of hypothesis testing.
+
+*Significant at 5% level of significance; **Significant at 1% level of
+significance
+
+6. DISCUSSIONS AND CONCLUSIONS
+The goal of this study was to integrate theories and research from
+privacy, and technology acceptance in order to construct a
+conceptual model of LBS adoption that includes contrary factors
+capturing the delicate balance between privacy concerns, learning
+costs, and instrumental values that influence behavioral intentions
+
+6
+
+to adopt LBS. The results reveal that performance expectancy,
+effort expectancy and personal innovativeness have significant
+influences on intention to use LBS for both pull-based and pushbased services. However, the influence of privacy concerns on
+behavioral intention and performance expectancy varies under
+different types of LBS. On one hand, privacy concern influences
+intention to use LBS only in case of push-based LBS (and not in
+case of pull-based LBS). On the other hand, privacy concern has
+an impact on influencing performance expectancy only in case of
+pull-based LBS (and not in case of push-based LBS).
+
+follow from our findings. For researchers, our study underscores
+the importance of explicitly incorporating both positive and
+negative consequences inherent in technological developments
+such as LBS. Our posited predictors explain between 40 percent
+and 50 percent of the variance in the intention to use LBS in the
+pull- and push-based models, suggesting that our model is a
+useful conceptualization of the phenomenon.
+Given that
+information privacy continues to be eroded as a result of
+technology innovations [49], and that there is sufficient evidence
+regarding the role of negative utility in the evaluation and
+adoption of LBS, researchers need to pay attention to the
+placement of negative utility constructs in their theoretical
+models. Other important examples of negative utility constructs
+that could enrich models of LBS adoption are those of data
+quality, service dependability, service cost and risks.
+
+A plausible explanation for this finding is that individuals’
+privacy concerns are affected by the level of control inherent in
+the delivery mechanisms of location content (i.e., pull or push).
+In pull-based LBS, the individual exercises greater control over
+the interaction – the decision to initiate contact with the merchant
+is volitional, and location information is provided only to
+complete the requested transaction (e.g., inform the individual of
+the location of the nearest taxi). In contrast, in push-based LBS,
+the location information is tacked to target individuals who will
+likely be sent unsolicited information/services when they appear
+within the vicinity of the merchants. Accordingly, it appears that
+push mechanism is more controversial in terms of individuals’
+perceptions of privacy and authentication. The current research
+has shown that privacy concern has a direct negative impact on
+intention to use LBS in push-based LBS; but it influences
+behavioral intention indirectly through performance expectancy
+in pull-based LBS.
+
+We viewed the adoption of LBS through a rational lens (a
+calculus of contrary factors) because the objective of this study
+was to predict its adoption among potential users who do not yet
+have credible, meaningful information about, or have affective
+bonds with the service providers at the initial adoption / usage
+stage. Future research could move beyond the domain of initial
+adoption / usage stage to the domain of continuance /
+discontinuance of usage whereby individuals already have a long
+ongoing relationship with service providers. In this context,
+social theoretical perspectives such as integrative social contract
+theory [19] and trust theories [24] may be particularly relevant.
+Indeed, these theories tend to view the sustenance of an ongoing
+relationship (i.e., the continuance and discontinuance of LBS
+usage) as dependent on individual parties’ assessment and
+forecast of the benefits / costs tradeoff of past, present, and future
+interactions.
+Hence, whether individuals will continue to
+participate in this relational contract depends largely on their
+estimation of the probability of the service provider’s departure
+from the expected pattern of behavior [18]. Further longitudinal
+research could be especially useful in investigating how
+individuals could be motivated to adopt and continue with LBS
+usage.
+
+6.1. Limitations and Future Research
+Although the data generally supported the proposed model, we
+need to mention some characteristics of our study that may limit
+the ability to generalize from these results. First, the scenarios
+used in the study represent a simplification of all pull-based and
+push-based LBS, which may limit the generalizability of our
+findings. Future work could also be directed to look into the
+applicability of our findings to different LBS applications.
+Second, actual adoption behavior was not measured, rather, we
+assumed, based on a significant body of prior work in information
+systems [51], organizational behavior [56] and psychology [47],
+that intention is a good predictor of actual behavior. However,
+some researchers [e.g., 50] have expressed concerns about the
+predictive ability of intention for actual behavior. Therefore,
+future research could examine the findings of this study in a
+context where adoption can be measured for added validation of
+the model. However, to the extent that LBS is still in an early
+stage of diffusion, examining adoption intention is appropriate
+and could potentially yield more meaningful and fruitful lessons
+for privacy advocates, individuals and providers of LBS alike.
+Finally, although the subjects in this study may fall in the target
+market for LBS, the generalizability of this research to the
+general population is likely to be affected. Future research should
+be conducted with a more diverse sample.
+
+Consistent with Agarwal and Prasad (1998), we also included the
+role of individual trait (personal innovativeness) in predicting
+their intention to use LBS. While Agarwal and Prasad (1998)
+addressed the moderating role of personal innovativeness in
+predicting intention to adopt, we tested its direct role in predicting
+intention to adopt. Our findings confirm its importance by
+revealing that personal innovativeness has a significant influence
+behavioral intention for both pull-based and push-based LBS.
+Table 2 also reveals that personal innovativeness do not correlate
+highly with any of the other latent variables thus ruling out any
+possibility of multicollinearity. In other words, our study
+highlights the importance of personal innovativeness for studying
+adoption intention particularly for studying technologies that are
+in the stage of early adoption.
+From a practical perspective, this study has implications for LBS
+service providers and privacy advocates. Our findings further
+suggest that service providers and privacy advocates need not tar
+all types of LBS with the same brush. Although privacy
+protection is a fundamental concern which must be addressed,
+“one size fits all” regulations on privacy are ill equipped to
+accommodate the interests of broader groups of users and the full
+gamut of players in the LBS industry.
+
+6.2. Implications
+The investigation of individual adoption issues in LBS reported
+here represents one of the first attempts at developing and testing
+a model in LBS, with considerations of balancing privacy
+concerns and capturing individual difference in terms of personal
+innovativeness. Through the causal modeling of antecedents
+affecting adoption intentions of LBS, our findings provide
+preliminary theoretical and empirical insight into the dynamic
+structural relationships of these factors under two different
+mechanisms of content delivery. Several theoretical implications
+
+In conclusion, this study attempted to integrate theories and
+research from privacy, and technology acceptance and
+
+7
+
+constructed a conceptual model of LBS adoption that included
+contrary factors capturing the delicate balance between privacy
+concerns, learning costs, and instrumental values that influence
+behavioral intentions to adopt LBS. We also included the role of
+personal innovativeness as the study was on a technology, which
+is relatively in the early stages of adoption. Our initial findings
+that the influences of privacy concerns depend on the type of LBS
+suggest the need for future studies to understand these effects
+more fully. Using the groundwork laid in this study, future
+research along various possible directions could contribute to
+extending our theoretical understanding and practical ability to
+foster the acceptance of LBS.
+
+[12]
+M. Cook and D.T. Campbell, Quasi-Experimentation:
+Design and Analysis Issues for Field Settings, Boston: Houghton
+Mifflin, 1979.
+[13] M.J. Culnan, "Consumer Awareness of Name Removal
+Procedures: Implication for Direct Marketing," Journal of
+Interactive Marketing, vol. 9, 1995, pp. 10-19.
+[14] M.J. Culnan and J.R. Bies, "Consumer Privacy: Balancing
+Economic and Justice Considerations," Journal of Social Issues,
+vol. 59, no. 2, 2003, pp. 323-342.
+[15]
+F.D. Davis, R.P. Bagozzi, and P.R. Warshaw, "User
+acceptance of computer technology: A comparison of two
+theoretical models," Management Science, vol. 35, 1989, pp. 9821003.
+
+7. REFERENCES
+[1]
+ABI, Mobile Location-Based Services: Market
+Development, Revenue Opportunities, LBS Applications, and
+Key Industry Players in ABI Research. 2008, Allied Business
+Intelligence Inc.
+
+[16] T. Dinev and P. Hart, "An Extended Privacy Calculus
+Model for E-Commerce Transactions," Information Systems
+Research, vol. 17, no. 1, 2006, pp. 61-80.
+
+[2]
+R. Agarwal and J. Prasad, "The Role of Innovation
+Characteristics and Perceived Voluntariness in the Acceptance of
+Information Technologies," Decision Sciences, vol. 28, no. 3,
+1997, pp. 557-582.
+
+[17] T. Dinev and P. Hart, "Internet privacy concerns and social
+awareness as determinants of intention to transact," International
+Journal of Electronic Commerce, vol. 10, no. 2, 2006, pp. 7-29.
+
+[3] R. Agarwal and J. Prasad, "A Conceptual and Operational
+Definition of Personal Innovativeness in the Domain of
+Information Technology," Information Systems Research, vol. 9,
+no. 2, 1998, pp. 204-215.
+
+[18] T. Donaldson and W.T. Dunfee, Ties that Bind: A Social
+Contracts Approach to Business Ethics, Cambridge, MA:
+Harvard Business School Press, 1999.
+[19]
+W.T. Dunfee, N.C. Smith, and T.W.J. Ross, "Social
+Contracts and Marketing Ethics," Journal of Marketing, vol. 63,
+1999, pp. 14-32.
+
+[4] J.S. Barnes, "Known by the Network: The Emergence of
+Location-Based Mobile Commerce," in E-P. Lim and K. Siau,
+ed., Advances in Mobile Commerce Technologies, Hershey, PA:
+Idea Group Publishing, 2003, pp. 171-189.
+
+[20] J. Easton, "Going Wireless: Transform Your Business with
+Mobile Technology," New York: HarperBusiness, 2002, pp. 2433.
+
+[5] E. Beinat, "Privacy and Location-based Services: Stating the
+Policies Clearly," GeoInformatics, vol. 4, 2001, pp. 14-17.
+
+[21] R.F. Falk and N.B. Miller, A Primer for Soft Modeling,
+Akron, Ohio: University of Akron Press, 1992.
+
+[6] C.G. Bruner II and A. Kumar, Attitude toward LocationBased Advertising. 2007, Journal of Interactive Advertising (7:2):
+
+[22]
+L.R. Flynn and R.E. Goldsmith, "A Short, Reliable
+Measure of Subjective Knowledge," Journal of Business
+Research, vol. 46, no. 1, 1999, pp. 57-66.
+
+[7] T.P. Buchanan, A.; Reips, J.U., "Development of measures
+of online privacy concern and protection for use on the Internet,"
+Journal of the American Society for Information Science and
+Technology, vol. 58, no. 2, 2007, pp. 157-165.
+
+[23] C. Fornell and F.L. Bookstein, "Two Structrual Equation
+Models: LISREL and PLS Applied to Customer Exit-Voice
+Theory," Journal of Marketing Research, vol. 19, no. 11, 1982,
+pp. 440-452.
+
+[8]
+D.T. Campbell and D.W. Fiske, "Convergent and
+Discriminant Validation by the Multitrait-Multimethod Matrix,"
+Psychological Bulletin, vol. 56, no. 1, 1959, pp. 81-105.
+
+[24] D. Gefen, E. Karahanna, and D.W. Straub, "Trust and TAM
+in online shopping: an integrated model," MIS Quarterly, vol. 27,
+no. 1, 2003, pp. 51-90.
+
+[9] R.K. Chellappa and R. Sin, "Personalization versus Privacy:
+An Empirical Examination of the Online Consumer's Dilemma,"
+Information Technology and Management, vol. 6, no. 2, 2005, pp.
+181-202.
+
+[25]
+M.G. Giaglis, P. Kourouthanassis, and A. Tsamakos,
+"Towards a Classification Framework for Mobile Location
+Services," in B.E. Mennecke and T.J. Strader, ed., Mobile
+Commerce: Technology, Theory, and Applications, Hershey, PA:
+Idea Group Publishing, 2002, pp. 64-81.
+
+[10]
+W.W. Chin, "The Partial Least Squares Approach to
+Structural Equation Modeling," in G.A. Marcoulides, ed., Modern
+Methods for Business Research, London: 1998b, pp. 295-336.
+[11]
+R. Clarke, "Person location and person tracking:
+Technologies, risks and policy implications," Information
+Technology & People, vol. 14, no. 2, 2001, pp. 206.
+
+[26]
+A. Gidari, No 'L-Commerce' Without 'L-Privacy': Fair
+Location Information Practices for Mobile Commerce, in paper
+presented at L-Commerce 2000-The Location Services & GPS
+Technology Summit. 2000, Washington, D.C.
+
+8
+
+[42] J.C. Nunnally, Psychometric Theory, 2nd ed., New York:
+McGraw-Hill, 1978.
+
+[27] R.E. Goldsmith and C.F. Hofacker, "Measuring consumer
+innovativeness," Journal of the Academy of Marketing Science,
+vol. 19, no. 3, 1991, pp. 209-221.
+
+[43] G. Orwell, 1984, San Diego: Harcourt Brace Jovanovich
+Publishers, 1984. Originally published as Nineteen Eighty-Four,
+London: Martin Secker & Warburg, 1949.
+
+[28] C. Goodwin, "Privacy: Recognition of a Consumer Right,"
+JOURNAL OF PUBLIC POLICY AND MARKETING, vol. 10, no.
+1, 1991, pp. 149-166.
+
+[44] E.P. Pedersen, "Adoption of Mobile Internet Services: An
+Exploratory Study of Mobile Commerce Early Adopters,"
+Journal of Organizational Computing and Electronic Commerce,
+vol. 15, no. 2, 2005, pp. 203 - 222.
+
+[29]
+H.-A. Jacobsen, "Middleware for Location-Based
+Services," in J. H. Schiller and A. Voisard, ed., Location-based
+Services, Morgan Kaufmann: Elsevier, 2004, pp. 84-110.
+
+[45] B. Rao and L. Minakakis, "Evolution of Mobile LocationBased Services," Communications of ACM, vol. 46, no. 12, 2003,
+pp. 61-65.
+
+[30]
+I. Junglas and R.T. Watson, "The U-Constructs: Four
+Information Drives," Communications of AIS, vol. 17, 2006, pp.
+569-592.
+
+[46] E.M. Rogers, Diffusion of Innovations, 4th ed., New York,
+NY: Free Press, 1995.
+
+[31] D. Kim and I. Benbasat, "The Effects of Trust-Assuring
+Arguments on Consumer Trust in Internet Stores: Application of
+Toulmin's Model of Argumentation," Information Systems
+Research, vol. 17, no. 3, 2006, pp. 286-300.
+
+[47]
+B.H. Sheppard, J. Hartwick, and P.R. Warshaw, "The
+Theory of Reasoned Action: A Meta-Analysis of Past Research
+with Recommendations for Modifications and Future Research,"
+Journal of Consumer Research, vol. 15, no. 3, 1988, pp. 325-343.
+
+[32] P.H. Klopfer and D.I. Rubenstein, "The Concept Privacy
+and Its Biological Basis," Journal of Social Issues, vol. 33, no. 3,
+1977, pp. 52-65.
+
+[48] H.J. Smith, J.S. Milberg, and J.S. Burke, "Information
+Privacy: Measuring Individuals' Concerns About Organizational
+Practices," MIS Quarterly, vol. 20, no. 2, 1996, pp. 167-196.
+
+[33]
+D. Leonard-Barton and I. Deschamps, "Managerial
+influence in the implementation of new technology,"
+Management Science, vol. 34, no. 10, 1988, pp. 1252-1265.
+
+[49] E.F. Stone and D.L. Stone, "Privacy in Organizations:
+Theoretical Issues, Research Findings, and Protection
+Mechanisms," Research in Personnel and Human Resources
+Management, vol. 8, no. 3, 1990, pp. 349-411.
+
+[34]
+S. Levijoki, Privacy vs Location Awareness. 2001,
+Working Paper, Helsinki University of Technology:
+[35] S. Levijoki, Privacy vs Location Awareness. 2001, Helsinki
+University of Technology:
+
+[50]
+D. Straub, M. Limayem, and E. Karahanna-Evaristo,
+"Measuring System Usage: Implications for IS Theory Testing,"
+Management Science, vol. 41, no. 8, 1995, pp. 1328-1342.
+
+[36]
+S. Levy, A Future With Nowhere to Hide? 2004,
+Newsweek
+
+[51] S. Taylor and P. Todd, "Assessing IT usage: The role of
+prior experience," MIS Quarterly, vol. 19, no. 4, 1995, pp. 561570.
+
+[37]
+M. Ma and R. Agarwal, "Through a Glass Darkly:
+Information Technology Design, Identity Verification, and
+Knowledge Contribution in Online Communities," Information
+Systems Research, vol. 18, no. 1, 2007, pp. 42-67.
+
+[52]
+R. Thompson, C. Higgins, and J. Howell, "Personal
+Computing Toward a Conceptual Model of Utilization,"
+Management Information Systems Quarterly, vol. 15, no. 1, 1991,
+pp. 124-143.
+
+[38] N.K. Malhotra, S.S. Kim, and J. Agarwal, "Internet Users'
+Information Privacy Concerns (IUIPC): The Construct, the Scale,
+and a Causal Model," Information Systems Research, vol. 15, no.
+4, 2004, pp. 336-355.
+
+[53] R.L. Thompson, C.A. Higgins, and J.M. Howell, "Influence
+of experience on personal computer utilization: testing a
+conceptual model," Journal of Management Information Systems,
+vol. 11, no. 1, 1994, pp. 167-187.
+
+[39] D.F. Midgley and G.R. Dowling, "Innovativeness: The
+Concept and Its Measurement," Journal of Consumer Research,
+vol. 4, no. 4, 1978, pp. 229-242.
+
+[54] R. Unni and R. Harmon, Perceived Effectiveness of Push
+vs. Pull Mobile Location-Based Advertising. 2007, Journal of
+Interactive Advertising (7:2):
+
+[40]
+G.R. Milne and E.M. Gordon, "Direct Mail PrivacyEfficiency Trade-Offs Within an Implied Social Contract
+Framework," Journal of Public Policy and Marketing, vol. 12,
+no. 2, 1993, pp. 206-215.
+
+[55] V. Venkatesh, G.M. Morris, B.G. Davis, and F.D. Davis,
+"User Acceptance of Information Technology: Toward A Unified
+View," MIS Quarterly, vol. 27, no. 3, 2003, pp. 425-478.
+
+[41] P.R. Minch, "Privacy Issues in Location-Aware Mobile
+Devices," in Proceedings of Proceedings of the 37th Hawaii
+International Conference on System Sciences, Big Island, Hawaii,
+2004, IEEE Computing Society Press, pp. 127-136.
+
+[56]
+V. Venkatesh and C. Speier, "Computer Technology
+Training in the Workplace: A Longitudinal Investigations of the
+Effects of the Mood," Organizational Behavior and Human
+Decision Processes, vol. 79, no. 1, 1999, pp. 1-28.
+
+9
+
+[57] J. Von Neumann and O. Morgenstern, Theory of Games
+and Economic Behavior, 2nd ed., Princeton: Princeton University
+Press, 1947.
+[58]
+P. Wallace, A. Hoffmann, D. Scuka, Z. Blut, and K.
+Barrow, i-Mode Developer's Guide, Boston, Mass: AddisonWesley, 2002.
+[59] A.F. Westin, Privacy and Freedom, New York: Atheneum,
+1967.
+
+Appendix A. Measurement Items
+
+(measured on
+seven-point, Likert-type scale: 1 – Strongly disagree; 7
+– Strongly agree)
+
+Intention to Use LBS (INT)
+1.
+2.
+3.
+
+I intend to use the LBS in the next 6 months
+I predict I would use the LBS in the next 6 months
+I plan to use the LBS in the next 6 months
+
+Performance Expectancy (PEPT)
+1.
+2.
+3.
+4.
+
+LBS reduce my searching time to find the
+information/services that I need
+LBS reduce my searching efforts to find the
+information/services I needed
+With the LBS, I can quickly access the information/services
+that I need
+With the LBS, I can easily access the information/services
+that I need
+
+Effort Expectancy (EEPT)
+1.
+2.
+3.
+
+My interaction with the LBS would be clear and
+understandable
+I would find the LBS easy to use
+Learning to use LBS is easy for me
+
+Personal Innovativeness (INNO)
+1.
+2.
+3.
+
+If I heard about a new information technology, I would look
+for ways to experiment with it
+Among my peers, I am usually the first to try out new
+information technologies
+I like to experiment with new information technologies
+
+Privacy Concerns (PCON)
+1.
+2.
+3.
+4.
+
+Service providers are collecting too much information about
+me
+Service providers may not take measures to prevent
+unauthorized access to my location information
+Service providers may keep my location information in a
+non-accurate manner in their database
+Service providers may share my location information with
+other companies without notifying me or getting my
+authorization
+
+10
+
+

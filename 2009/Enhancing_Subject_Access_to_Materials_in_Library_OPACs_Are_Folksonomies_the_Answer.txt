@@ -1,0 +1,54 @@
+Enhancing Subject Access to Materials in Library
+OPACs: Are Folksonomies the Answer?
+Pirmann, Carrie M.
+University of Illinois at Urbana-Champaign
+pirmann2@illinois.edu
+Topics: Information organization
+Keywords: folksonomy, tagging, subject access, subject headings
+In 2004, Thomas Vander Wal coined the term “folksonomy” to refer to user-defined
+labels (or “tags”) that facilitate the organization and classification of information. Folksonomies
+are most frequently used in conjunction with social software websites, and allow users to
+collaboratively tag bookmarks, photographs, and other information items. In contrast to
+traditional subject-indexing languages that typically employ controlled vocabularies,
+folksonomies rely on the natural languages of their user base. Vander Wal (2007) maintains that
+the value of folksonomies is rooted in “people using their own vocabulary and adding explicit
+meaning, which may come from inferred understanding of the information/object. People are not
+so much categorizing, as providing a means to connect items (placing hooks) to provide their
+meaning in their own understanding.”
+LibraryThing (http://www.librarything.com), a “social cataloging” website through which
+users can catalog their personal book collections, allows users to assign descriptive metadata to
+books in the form of folksonomic tags. As a means of enhancing its records, LibraryThing also
+employs the more traditional subject language of libraries: Library of Congress Subject Headings
+(LCSH). For many years, LCSH has been heavily criticized for its lack of currency, biased
+language, and atypical syntactical structure. In a study of end-user understanding of subject
+headings, Drabenstott, Simcox, and Fenton (1999) found that in only 36% of cases did users
+correctly interpret the meaning of the headings. Despite the inaccessibility of LCSH, little has
+been done to integrate any more usable or readily understandable subject languages into library
+catalogs.
+Recently, LibraryThing has leveraged the descriptive metadata assigned to titles into
+LibraryThing for Libraries (LTFL), a series of enhancements that can be incorporated into a
+library’s online public access catalog (OPAC). In an OPAC, the LTFL display will add a tag
+cloud of the most popular tags to a title’s catalog record; libraries can also elect to include a
+recommendation feature, which will direct users to similar books in the library’s collection (FAQ
+– LibraryThing for Libraries, 2008). The evolution of folksonomies, particularly as they are
+applied on a site such as LibraryThing, raises the question: What types of descriptive languages
+provide the most comprehensive subject access to materials in libraries?
+This research will examine a given set of books and compare their LibraryThing
+folksonomic tags with their assigned Library of Congress Subject Headings. In particular, I am
+looking for commonalities and differences in the ways in which these subject languages describe
+
+the materials to which they are applied. Can folksonomies be used to enhance subject access to
+materials in library catalogs? What does user tagging tell us about the way that people think
+about the subjects of a book? In an information environment where students are so attuned to
+keyword and Google-style searching, does the application of folksonomic tags increase the
+findability of library materials?
+
+References
+Drabenstott, K. M., Simcox, S., & Fenton, E. G. (1999). End-user understanding of subject
+headings in library catalogs. Library Resources & Technical Services, 43(3), 140-160.
+FAQ – LibraryThing for Libraries. (2008). Retrieved September 22, 2008 from
+http://www.librarything.com/forlibraries/about
+Vander Wal, T. (2007). Folksonomy coinage and definition. Retrieved October 10, 2008 from
+http://vanderwal.net/folksonomy.html
+
+

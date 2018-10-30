@@ -1,0 +1,182 @@
+Critical
+
+Ethnography
+
+for
+
+Information
+
+Research
+
+Lai Ma
+School of Library and Information Science
+Indiana University Bloomington
+1320 E. 10th St., LI 011
+Bloomington, IN 47405-3907
+
+lama@indiana.edu
+
+Categories and Subject Descriptors
+K.7.0 [The Computing Profession]: General.
+
+General Terms
+Theory
+
+Keywords
+Critical Ethnography, Information Research, Social Informatics,
+Technology, Affordances
+
+Poster Abstract
+Research in Library and Information Science (LIS) often involves
+the use of various types of information and of information
+technology. As such, it is primarily concerned with problemsolving in social spaces (e.g., as manifested in user studies) and in
+designing and troubleshooting of technological systems (e.g.,
+research in information retrieval in general). Although most
+information research is oriented towards some kind of problemsolving, its nature is not purely technical as many have perceived;
+rather, it requires analyses of the interrelationship among human
+(users), technology, and society. In other words, information
+research is cultural and social in nature and it asks for the search
+for “affordances” (which can be analyzed in terms of Heidegger’s
+interpretation of Aristotle’s four types of causality) which bring
+forth, for example, user needs and technology uses1. The widely
+and commonly used quantitative methods, however, are not
+sufficient for comprehensive analyses of cultural and social
+phenomena or affordances because quantitative methods are
+teleological in nature (often in a hypothetical-deductive manner).
+The search for affordances begs for a critical and conceptual
+space in research, on the one hand, and empirical approaches in
+which the understanding of the cultural and the social are central
+concerns, on the other. Critical ethnography is a critical and
+empirical research methodology that encompasses these two
+criteria.
+Ethnographic methods are not new in information research—
+researchers who investigate human-human and human-technology
+interactions (e.g., those in the area of ‘information behavior,’
+
+1
+
+For a more detailed explanation of Heidegger’s analysis of the
+four causes and their relations to technology and technique
+(techne), see Day and Ma.
+
+‘user studies’) are well aware of the importance of qualitative
+research and have adopted methods such as observation,
+interview, focus group study, and so on in their research projects.
+How is critical ethnography different from more traditional
+qualitative social research, then?
+Methodologically, critical ethnography uses a form of
+hermeneutic-reconstructive analysis: researchers make use of the
+hermeneutic circle to attain intersubjective insider views for their
+analyses of observational and interview data; at the same time,
+researchers take into account their pre-understanding and prejudgment during the interpretative and reconstructive process.
+That is to say, they must be aware of their initial interpretative
+frameworks that may enable and also restrict interpretations. The
+circular feature of the process leads to alterations in initial
+interpretative frameworks so that they encompass those of the
+culture, subculture of interest.
+The very strength of critical ethnography is its capability in
+explicating ideology and power relations by reconstruction of
+meaning and conceptualization of social systems. In his book,
+Critical Ethnography in Educational Research (1996),
+Carspecken has provided a practical guide for doing critical
+ethnography,
+with
+easy-to-understand
+explanations
+of
+philosophical and theoretical backgrounds throughout the text.
+His approach includes an application of Habermas’s
+differentiation of three formal-ontological categories: subjective,
+objective, and normative-evaluative for the analysis of meaning
+and human interactions, on the one hand, and the differentiation
+of sites, settings, locales, and social systems, on the other. The
+theory of meaning core to this approach makes it possible to
+reconstruct meanings at various levels, from meanings that are
+obvious and discursively expressible for the members of a cultural
+group (e.g., producers and users of information) to levels that
+have significant effects but escape explicit awareness. The theory
+of social sites and systems makes it possible to find explanations
+for the prevalence of certain cultural and social forms of, for
+example, information production and use, and to discover both
+overt and latent functions served by these cultural and social
+forms.
+From a more theoretical perspective, critical ethnography opens
+up ways of reconceptualizing “information.” For example, critical
+researchers can look at information in the sense of “information as
+thing” (Buckland, 1991), such as books, journals, cataloged
+objects (such as the antelope described in Suzanne Briet’s What is
+
+Documentation?) and so on. “Information as thing” is not an
+objective entity (e.g., ‘facts,’ raw data, etc.) in the empiricist
+sense; rather, they are cultural products resulting from a process
+of objectivation and decontextualization. These processes are
+associated with social practices of different cultural and
+professional groups. As such, the production of information is
+seen as part of the modern social system that serves certain
+economic and political functions. The use of information, on the
+other hand, may be viewed as the recontextualization of
+information corresponding to the forms of life of different cultural
+and professional groups of users. In sum, both the production and
+use of information may be located within a theory of social
+system and are related to the economic, political, and cultural
+features of that system. The manner in which information is
+produced, the type of “information” produced, as well as the
+possible types of information that are not produced, can be
+studied in terms of the cultures of producers and the relation of
+these cultures to the economic and social locations of production.
+This means, among other things, that information production must
+be studied with a critical perspective. Similarly, information use
+can be studied in terms of socially constructed needs, in terms of
+“overt use” and “covert/latent” uses that escape the awareness of
+users, but serve various system functions. A critical-ethnographic
+framework makes it possible to study such things.
+
+relevant information involves an understanding of users and their
+relationship with contexts. Context, in turn, needs to be addressed
+in terms of cultural affordances, including an examination of the
+cultural horizons by which certain material forms and expressions
+are considered to be “information.” In other words, we need to
+understand the interrelationship among human (users),
+technology, and society.
+
+Thus, from a practical perspective, critical ethnography is
+particularly useful for information behavior research and user
+studies because it goes straight to the core concepts of these types
+of research, namely, information needs, information seeking
+behavior, context, and so on. Further, the conceptual framework
+of critical ethnography can be used to research other areas of
+information science, such as “epistemic culture” in the area of
+scholarly communication, human-computer interaction (HCI),
+and, of course, social informatics.
+
+[2] Briet, S. 2006. What is documentation? In R. E. Day & L.
+Martinet (Eds.), What is documentation? English translation
+of the classic French text (pp. 9-46). Lanham, MD: The
+Scarecrow Press.
+
+To conclude, I argue that the practical concerns of information
+research are not merely technical problems; rather, they are social
+in nature—the working of a system or the successful retrieval of
+
+Critical ethnography is a critical and an empirical research
+methodology. Its approaches are based upon a solid theoretical
+framework grounded in social critical theory. The methodology
+can stand alone as a research method, as well as complement
+other methods (both qualitative and quantitative) for social
+research.
+ACKNOWLEDGMENTS
+I would like to thank Phil Carspecken and Ron Day for their
+invaluable comments in this project and their encouragement and
+support.
+REFERENCES
+[1] Buckland, M. K. 1991. Information as thing. Journal of the
+American Society for Information Science 42(5), 351-360.
+
+[3] Carspecken, P. F. 1996. Critical ethnography in education
+research: A theoretical and practical guide. New York:
+Routledge.
+[4] Day, R. E., & Ma, L. (2009). Examining together social and
+technological research in library and information science. To
+be included in Proceedings of iConference 2009.
+
+

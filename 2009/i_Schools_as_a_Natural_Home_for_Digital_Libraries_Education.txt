@@ -1,0 +1,221 @@
+I-SCHOOLS AS A NATURAL HOME FOR
+DIGITAL LIBRARIES EDUCATION
+Barbara M. Wildemuth
+Jeffrey Pomerantz
+Sanghee Oh
+
+Seungwon Yang
+Edward A. Fox
+Department of Computer Science
+Virginia Tech
+Blacksburg, VA USA
++1 540-231-5113
+
+School of Information & Library Science
+University of North Carolina
+Chapel Hill, NC USA
++1 919-962-8366
+
+<seungwon,fox>@vt.edu
+
+<wildem,pomerantz,shoh>@email.unc.edu
+
+ABSTRACT
+Given that digital libraries bring together technology, information,
+and the people using the information, it can easily be argued that
+i-schools should play a central role in educating DL professionals.
+This study examines the existing roles that i-schools play in DL
+education from two different vantage points: their offering of DL
+courses and their participation in a DL curriculum development
+project. In addition, we explore the potential to expand the
+iSchools Caucus by recruiting those schools that are active in DL
+education efforts (i.e., those that offer courses or participate in
+curriculum development) but are not yet members of the Caucus.
+based on the seven course syllabi available on the open Web, DL
+courses in the i-schools are further analyzed, in terms of the topics
+covered, the textbooks used, and the types of assignments used.
+From this analysis, we conclude that there is not yet a consensus
+on the topics covered or the assignment used in DL courses.
+
+Categories and Subject Descriptors
+K.3.2 [Computing Milieux]: Computer and information science
+education; H.3.7 [Information Systems]: Digital libraries
+
+General Terms
+Management
+
+Keywords
+i-schools, Digital libraries, Curriculum
+
+1. INTRODUCTION
+Both the federal government and individual institutions have
+made significant investments in research and development related
+to digital libraries (DLs) over the 15 years since the original
+National Science Foundation funding of the Digital Library
+Initiative [1]. Capitalizing on these investments, digital libraries
+have become a standard part of many academic and research
+organizations. However, the same investment has not been made
+Poster presented at iConference 2009, Chapel Hill, NC,
+February 8-11, 2009.
+
+in the education of staff capable of building and managing DLs.
+Given that digital libraries bring together technology, information,
+and the people using the information, it can easily be argued that
+i-schools should play a central role in educating DL professionals.
+
+2. CURRENT I-SCHOOL INVOLVEMENT
+IN DL EDUCATION
+One way that i-schools might provide the education needed to
+train DL professionals is to offer a full course (or two) related
+specifically to digital libraries. Two prior studies of curricula in
+information and library science (ILS) schools and computer
+science (CS) departments identified 29 ILS schools and five CS
+departments that offer such courses [3,4]; the results of this study
+are updated here. There are now 39 schools offering DL courses.
+Of the 21 i-schools participating in the iSchools Caucus [2], 10
+were found to offer a digital libraries-related course: Drexel,
+Florida State, Illinois, Indiana, Michigan, North Carolina,
+Pittsburgh, Rutgers, Syracuse, and Texas. From these data, we
+can conclude that, if one considers CS departments, ILS schools,
+and i-schools, it is among the i-schools that the probability is
+highest that there will be a digital library course.
+Another way to examine the involvement of the i-schools in
+digital library education is through the lens of a particular
+curriculum development project’s participants. Over the past three
+years, the University of North Carolina at Chapel Hill (a member
+of the iSchools Caucus) and Virginia Tech have been involved in
+a
+collaborative
+curriculum
+development
+project
+(http://curric.dlib.vt.edu/) funded by the National Science
+Foundation. 1 The project has expanded well beyond the borders
+of those two universities, involving over 100 different scholars
+and educators in developing or reviewing curriculum modules,
+field testing those modules in their classes, or serving on the
+project advisory board. Faculty from 11 of the 21 members of the
+iSchools Caucus participated in some significant way in this
+project. Those schools are: Carnegie Mellon, Drexel, Illinois,
+Indiana, Maryland, North Carolina, Penn State, Rutgers,
+Syracuse, UCLA, and Washington.
+1
+
+NSF grant IIS-0535060 was awarded to UNC-CH and grant IIS0535057 was awarded to Virginia Tech.
+
+In addition to participating in this particular project, i-schools can
+increase their offerings of DL-related instruction by incorporating
+one or more DL-related modules in courses that make up their
+respective degree programs. The recommended curriculum
+framework articulated by the curriculum development project
+(http://curric.dlib.vt.edu/DLcurric_images/ModuleFramework200
+8-08-23.pdf) includes 10 areas, made up of a total of 46 modules.
+Courses commonly taught at i-schools – on information
+organization, collection development, information retrieval,
+knowledge representation, metadata, preservation, or project
+management, as well as digital libraries – could cover one or
+more of the 14 modules already developed (or other modules
+planned or recommended). There are currently 10 modules
+(available at http://curric.dlib.vt.edu/modDev/modDev.html)
+ready to use (i.e., they have already been reviewed and field
+tested). They cover the history of DLs, digitization, metadata,
+architecture, application software, information needs/relevance,
+information seeking behaviors/ search strategies, interaction
+design and usability assessment, reference services, and
+evaluation/user studies. Typically, one or two class sessions will
+suffice to cover a single module, so it should be relatively easy to
+include a number of modules within the constraints of a one- or
+two-year graduate degree program.
+
+3. DL COURSES TAUGHT AT I-SCHOOLS
+As noted above, 10 members of the iSchools Caucus offer a
+course focused on digital libraries. Further investigation into these
+courses was based on the seven syllabi that were available on the
+open Web; these included syllabi from the courses at Drexel,
+Indiana, North Carolina, Pittsburgh, Rutgers, Syracuse, and
+Texas. We examined the topics covered, the textbook used and
+the major assignments in each course.
+The most common topics covered included: introduction to DLs,
+DL history, metadata, architecture, interaction design and
+usability, preservation, intellectual property, economics of DLs,
+and the future of DLs. In general, these correspond to modules in
+the curriculum framework referenced above. Topics not included
+in the curriculum framework, but added by an individual
+instructor, include: natural language processing, DL development
+issues, professional competencies, the DL community, and
+personal information management.
+A half dozen different textbooks are used in these courses. They
+include:
+• Witten, I.H., & Bainbridge, D. (2003). How to Build a Digital
+Library. Amsterdam: Morgan Kaufmann. (used in 5 courses)
+• Arms, W.Y. (2000). Digital Libraries. Cambridge, MA: MIT
+Press. (used in 4 courses)
+• Borgman, C.L. (2000). From Gutenberg to the Global
+Information Infrastructure: Access to Information in the
+Networked World. Cambridge, MA: MIT Press. (used in 4
+courses)
+• Lesk, M. (2005). Understanding Digital Libraries. (2nd
+Edition) San Francisco, CA: Morgan Kaufmann. (used in 3
+courses)
+A variety of activities are assigned in these courses. The two
+assigned most frequently are 1) the review or evaluation of an
+existing DL, and 2) the development of a DL. Both these types of
+
+assignments appeared in almost every syllabus available for
+analysis.
+
+4. CONCLUSION
+From the data reviewed here, we can conclude that the members
+of the iSchools Caucus are actively involved in DL education.
+Well over half the Caucus members either offer a course in digital
+libraries or have faculty who are actively involved in curriculum
+development in this area. While there still seems to be no clear
+consensus on the content needed in DL courses (or the textbooks
+or assignments used), continuing to learn from each other about
+educational initiatives can only help improve the current situation.
+Another conclusion one could draw from this analysis is that the
+iSchools Caucus has an opportunity to expand its membership
+among the other schools that offer courses in digital libraries or
+are active in curriculum development efforts. This analysis
+identified 32 schools that fit this description. They include:
+Alabama, Alberta, British Columbia, Buffalo (SUNY), Catholic,
+Clarion, Dalhousie, Denver, Dominican, Hawaii, Iowa, Kent
+State, Louisiana State, Missouri, North Carolina Central, Old
+Dominion, Pratt, Queens, San Jose State, Simmons, South
+Carolina, South Florida, Southern Connecticut, Southern
+Mississippi, Tennessee, Texas A&M, Valdosta State, Villanova,
+Virginia Tech, Western Ontario, Wisconsin-Madison, and
+Wisconsin-Milwaukee. If the iSchools Caucus is seeking new
+members, these schools would be prime candidates.
+We believe that i-schools should play an active role in developing
+strong educational programs to educate digital library
+professionals, and hope that i-schools not yet involved in the DL
+curriculum development project will begin to participate. Indeed,
+as the DL curriculum development project addresses
+sustainability issues, we hope that the members of the iSchools
+Caucus will step forward to integrate support of DL curricular
+activities into their future plans, and will help to ensure that
+digital library professionals will graduate in sufficient numbers
+from some of the most innovative schools involved in this
+important field.
+
+REFERENCES
+[1] Griffin, S.M. (1998, Jul/Aug). NSF/DARPA/NASA Digital
+Libraries Initiative: A program manager’s perspective. D-Lib
+Magazine, 4. http://www.dlib.org/dlib/july98/07griffin.html.
+[2] iSchools Caucus. (2008). Who are the iSchools? Retrieved
+November 24, 2008, from
+http://www.ischools.org/oc/schools.html.
+[3] Pomerantz, J., Oh, S., Wildemuth, B.M., Yang, S., & Fox,
+E.A. (2007). Digital library education in computer science
+programs. Short paper presented at the Joint Conference on
+Digital Libraries, Vancouver, June 20-23, 2007.
+http://eprints.cs.vt.edu/archive/00000945/01/Pomerantz_CSs
+yllabi.pdf.
+[4] Pomerantz, J., Oh, S., Yang, S., Fox, E.A., & Wildemuth,
+B.M. (2006). The core: Digital library education in library
+and information science programs. D-Lib Magazine, 12(11).
+http://www.dlib.org/dlib/november06/pomerantz/11pomerant
+z.html.
+
+

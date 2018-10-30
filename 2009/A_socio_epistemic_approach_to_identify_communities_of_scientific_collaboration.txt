@@ -1,0 +1,92 @@
+A socio-epistemic approach to identify communities of
+scientific collaboration
+Alberto Pepe
+Department of Information Studies
+University of California, Los Angeles
+
+apepe@ucla.edu
+ABSTRACT
+The processes that drive collaboration in scientific environments are embedded within the social, technical, cultural
+and epistemic practices of the constituent research communities. This poster presents a methodology to unpack specific social and epistemic dimensions of scientific collaboration using, as a case study, a “little science” research center:
+the Center for Embedded Networked Sensing (CENS).
+CENS is a National Science Foundation venture involved in
+the development and application of wireless sensing systems
+to critical scientific and societal pursuits. CENS consists of
+scholars at all levels (faculty, scientists, engineers, graduate
+and undergraduate students) from five member institutions
+with a headquarter base located at the University of California, Los Angeles. The type of research conducted at CENS
+spans across a wide spectrum of disciplines and applications
+(from biology to seismology, from wireless telecommunications to statistics) requiring continuous cooperation among
+participating researchers. Unlike ”Big science” collaborations [3], such as those typically found in many high energy
+physics and observational astronomy laboratories, CENS is
+a typical ”little science” research center: CENS research does
+not require continuous use of massive amounts of human and
+computational resources. Yet, similar to big science endeavors, CENS research is highly collaborative and relies heavily
+on information and communication technologies. Since multiple disciplines intersect at CENS, multiple scholarly and
+scientific practices of collaboration exist. Despite such multitude of practices, a collaborative activity that is performed
+across the entire spectrum of disciplines is the production
+and publication of scholarly artifacts in the form of conference papers and journal articles. Scholarly publication is
+entrenched in the modus operandi of engineers, natural scientists, statisticians, computer scientists and life scientists
+alike and thus depicts very well the extent and arrangement
+of scientific collaboration at CENS.
+
+In this poster, I present the methods by which the scholarly
+output of CENS researchers can be analyzed to identify communities of collaboration using a socio-epistemic approach.
+I employ the entire historical bibliographic record of CENS,
+consisting of over 600 manuscripts, authored by nearly 300
+authors over a period of 7 years: from the inception of CENS
+to present day (2002-2008). I construct two networks of scientific collaboration:
+1. a social network of coauthorship, linking individuals
+that have coauthored scholarly artifacts (journal articles and conference papers). This consists of a weighted
+network in which each author of a scholarly item, represented by a node, is connected to another author,
+represented by another node, if a coauthorship event
+exists.
+2. a social epistemic network of intellectual relationship,
+linking individuals who have utilized identical or related concepts, keyphrases, and knowledge constructs
+in their scholarly production. A social epistemic network can be intended as an extension of an “epistemic
+network” — a network describing associations between
+the many heterogeneous entities that lead to the construction of scientific facts into an array that is “strong
+and durable” [2, 4]. The social epistemic network consists of a weighted network in which authors, represented by nodes, are connected with one another if
+they have employed similar or related topics in their
+scholarly production.
+This poster reports on ongoing work directed at the analysis
+of the structure and evolution of these networks of scientific
+interaction. In particular, I introduce a theoretical framework to analyze the community structures of these networks
+of scientific collaboration from a socio-epistemic perspective.
+I employ a popular community detection mechanism, Newman’s leading eigenvector algorithm [5], to identify communities of collaborating researchers in the two aforementioned
+networks. This method computes the repartition of the network in structural communities based on the vertices’ eigenvector centrality [1]. Each community repartition captures
+a different structural arrangement. I present the results of a
+preliminary comparative analysis aimed at delineating structural differences among the detected configurations of communities of scientific collaboration. This work is expected
+to determine how social and epistemic networks of scientific collaboration, constructed from the same bibliographic
+
+data, interface with each other. Moreover, it will provide a
+platform for future work aimed at the investigation of the
+relationship between communities of collaboration and given
+organizational, disciplinary, and institutional arrangements
+of scientific research.
+
+Keywords
+social studies of science, laboratory studies, social networks,
+community detection, epistemic networks, socio-epistemic
+analysis, scientific collaboration
+
+1.
+
+REFERENCES
+
+[1] P. Bonacich. Power and centrality: A family of
+measures. American Journal of Sociology,
+92(5):1170–1182, 1987.
+[2] M. Callon, J. Law, and A. Rip. Qualitative
+scientometrics. In M. Callon, J. Law, and A. Rip,
+editors, Mapping the dynamics of science and
+technology. London: Macmillan., 1986.
+[3] D. J. de Solla Price. Little Science, Big Science.
+Columbia University Press., 1963.
+[4] L. Leydesdorff. In search of epistemic networks. Social
+Studies of Science, 21(1):75–110, 1991.
+[5] M. E. J. Newman. Finding community structure in
+networks using the eigenvectors of matrices. Physical
+Review E, 74, 2006.
+
+

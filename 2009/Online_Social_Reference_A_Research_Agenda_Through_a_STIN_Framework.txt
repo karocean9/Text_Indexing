@@ -1,0 +1,786 @@
+Online Social Reference: A Research Agenda Through a
+STIN Framework
+Pnina Shachaf
+
+Howard Rosenbaum
+
+Indiana University Bloomington
+th
+1320 E 10 St. LI 005A
+Bloomington, IN
+1-812-856-1587
+
+Indiana University Bloomington
+th
+1320 E 10 St. LI 001
+Bloomington, IN
+1-812-855-3250
+
+shachaf@indiana.edu
+ABSTRACT
+
+hrosenba@indiana.edu
+
+This paper suggests a research agenda for online social reference
+using the Socio-Technical Interaction Network (STIN) framework
+[21]. It addresses the need for more research on social reference,
+which refers to online question asking and answering services that
+are provided by communities of volunteers on Q&A sites. Social
+reference exemplifies an interesting stage of development in two
+information research domains: 1) information retrieval, as it
+combines social input into the technological challenges; 2)
+reference research, as it signifies a group collaborative efforts to
+answer questions instead of the traditional dyadic question
+negotiation. The proposed research agenda draws from social
+informatics and suggests questions that address both the social
+and technological factors at work on Q&A sites.
+
+Categories and Subject Descriptors
+K.4.m. [Social Issues]: Miscellaneous.
+
+General Terms
+Theory.
+
+Keywords
+Social Reference, Q&A Sites, Web 2.0, STIN, Socio-technical
+Interaction Network, Social Informatics.
+
+1. INTRODUCTION
+As a result of the growth of Web 2.0 and its participatory social
+sites, such as Flickr, YouTube, Wikipedia, and Yahoo! Answers,
+along with the spread of ideas such as the wisdom of the crowd
+[32], many traditional conceptions of information creation,
+dissemination, and use are being challenged. One increasingly
+popular type of web 2.0 application is the question and answer
+(Q&A) site. The increase in the popularity of these sites is
+remarkable; from 2006 to 2008, the number of visits to the top
+five Q&A sites increased by 889 percent [13]. The largest among
+these sites, Yahoo! Answers, includes over 23 million resolved
+questions and over 100 million users [1, 7]. Yahoo! Answers,
+attracts the greatest number of visits, with 74% percent of the
+market share of U.S. visits; WikiAnswers is second with 18% and
+Permission to make digital or hard copies of all or part of this work for
+personal or classroom use is granted without fee provided that copies are
+not made or distributed for profit or commercial advantage and that
+copies bear this notice and the full citation on the first page. To copy
+otherwise, or republish, to post on servers or to redistribute to lists,
+requires prior specific permission and/or a fee.
+iConference’09, February 8-11, 2009, Chapel Hill, NC, USA.
+Copyright 2004 ACM 1-58113-000-0/00/0004…$5.00.
+
+Answerbag is third with 4% of visits [13]. Hitwise [13] also
+reports that the majority of the visitors to these sites are female
+(52%), and most are users between the ages of 35-44 (24%), and
+25-34 (21% percent).
+While online social reference is flourishing, research on Q&A
+sites is in its infancy. Because Yahoo! Answers is the most
+popular Q&A site it has been the focus of the majority of these
+studies [1, 2, 4, 7]; only a few have looked at other Q&A sites,
+such as Answerbag, Google Answers, and the Wikipedia
+Reference Desk [9, 10, 12, 30]. The research on Yahoo! Answers
+mainly addresses questions in the domain of information retrieval
+and seeks to identify high quality answers in order to facilitate the
+automatic prediction of best answers [e.g., 2. 4, 7]. The
+identification of best answers is crucial because answer quality
+varies on each of these sites. Likewise, the quality of service
+varies from one site to another [12, 26]; in fact, some sites provide
+better services than libraries do [12, 30].
+An examination of the literature on online social reference
+indicates that researchers have not yet unpacked the black box of
+the processes that characterize Q&A sites. While the research is
+driven by questions and theories in the domain of information
+retrieval [31], the interaction among members of the community is
+largely being neglected. Likewise, online social reference has not
+been examined in the context of larger societal or even industry
+trends. It is possible that this is partially due to the fact that online
+social reference is a relatively new phenomenon and because of
+the assumption that existing knowledge and theories about
+traditional reference activities can be used here. There is a need
+to address online social reference from a critical point of view to
+gain a better understanding of the socio-political environment of
+Q&A sites. This analysis will inform future researchers, and will
+suggest implications for system designers, policy makers, and
+information professionals. As will be argued below, the SocioTechnical Interaction Network (STIN) framework, a theoretical
+extension of social informatics, in particular, can be useful here
+because it provides a systematic, sociotechnically-oriented model
+to study this phenomenon, accounting for the technological and
+social systems and their intertwined interactions in the routine use
+of technologies [21].
+Some questions from a social informatics point of view that can
+be useful here are: What are the social, technical, and
+organizational factors that shape successful and unsuccessful
+services? How do participant communities develop over time?
+How do leadership, motivation, conflict resolution, and norms of
+behavior play a role in the question answering processes? In what
+ways do the technologies that support online social reference,
+shape the social worlds that they make possible? How do these
+technologies affect the social interactions that take place in these
+
+communities? How do the participants shape the technologies
+they use?
+
+2. SOCIAL REFERENCE
+What is online social reference and why is it an interesting
+phenomenon to investigate?
+
+2.1 What is Social Reference?
+Social reference refers to online question answering services that
+are provided by communities of volunteers on Q&A sites. In
+addition to Yahoo! Answers, other examples of Q&A sites include
+Wiki Answers (a user-driven Q&A component of Answers.com),
+Askville (Amazon’s question answering service), Answerbag (the
+first social reference site) and the Wikipedia Reference Desk
+(where Wikipedia volunteers answer questions). It does not refer
+to fee based online question answering services (e.g., Google
+Answers, which has recently discontinued its operation), services
+on which only a few users can answer (e.g., ChaCha, libraries,
+AllExpert), or e-services of businesses provided for their own
+clients.
+Social reference is a participatory, online group collaborative
+effort that utilizes wikis and blogs to answer questions.
+Boundaries between users, who ask, and those who answer, are
+blurred in social reference; power is decentralized, users are
+empowered and power distance is minimized. This is especially
+the case when these are compared to institutionalized questions
+answering services that professional reference librarians provide
+[30]. While in the institutionalized setting there is a clear power
+distance and role separation between service providers and
+costumers, on Q&A sites, users can serve on dual roles (asking
+and answering) and in that manner the boundaries between those
+who ask and those who answer are blurred. Users participate in
+various roles on these sites: askers, answerers, and evaluators [4],
+or consumers who ask and contributors who answer [31]. About
+one fifth of the users participate in dual roles on Q&A sites,
+asking and responding to questions [1, 30], but a few highly active
+users on each of these sites only answer questions and do not ask
+many [1, 30, 31, 33]. Furthermore, on Q&A sites a bottom up
+approach is encouraged, in categorizing and answering questions,
+evaluating questions and answers, and defining, contributing, and
+implementing the site’s policies and guidelines (a good example is
+the Wikipedia Reference Desk Guidelines).
+Any question that is posted on a Q&A site is categorized under
+broad topical categories. Users can categorize and re-categorize
+questions and on some of these sites (for example, Answerbag,
+Askville, and Yahoo! Answers) they can rank their questions as
+well. They can also answer questions that have been posted. On
+average, more than two answers are submitted per question by
+volunteers [12, 31]; on Yahoo! Answers and the Wikipedia
+Reference Desk four or more responses, on average, are submitted
+per question [12, 30]. On Askville, a question can receive up to
+five answers and users can discuss the question in designated
+areas. Users who provide answers can simply answer the
+question, or they can elaborate, modify, clarify, or contradict
+previous answers. Because answer quality can vary, some of the
+sites enable users to determine which of the answers on a given
+question is the best (Yahoo! Answers, Askville, Answerbag). In
+addition, and because some users provide better answers than
+others, a few of the Q&A sites employ a user reputation system
+(for example, Yahoo! Answers, Answerbag, and WikiAnswers).
+
+2.2 What do we know about Social
+Reference?
+The major motivation of the research on Q&A sites is to improve
+retrieval of previously answered questions and to facilitate an
+automatic identification of high quality answers. One approach
+used to evaluate answer quality is through an examination of user
+reputation [6]. Variations on this approach have dominated the
+research on Q&A sites and have mostly tried to identify users who
+are expected to submit high quality answers that are more likely to
+be chosen as best answers. For example, researchers examined
+user contributions across topical areas. Answers by users who are
+active only on specific topics are better than those provided by
+users who participate on multiple categories in areas that require
+factual expertise [1]. Prediction of answerer credibility, based on
+the number of best answers the user had previously submitted was
+the focus of a study by Dom and Paranjpe [7]. Their calculations
+took into account the number of answers the user submitted, as
+well as the overall population statistics and those of the specific
+user. Similarly, Jurczyk and Agichtein [16, 17] used link analysis
+to identify authoritative answerers and rank them. Researchers
+developed an automatic method to identify high quality questions
+and answers that aimed to be as accurate as users’ identifications
+of best answers [1]. Their automatic identification of quality is
+based on: 1) intrinsic content quality (quality of the content of
+each answer): punctuation and typographical errors, syntactic and
+semantic complexity, and grammar; 2) user relationship through
+link analysis; and 3) usage statistics.
+Other measures of high quality answers were examined, besides
+the efforts to identify users who are more likely to provide better
+answers. The strongest predictor of answer quality, in questions
+with multiple answers, was the length of the answer [1, 12]; best
+answers are longer than non-best answers. Also, answers that
+included references to external sources were of higher quality than
+those who did not make such references [9] and the number of
+links was significantly correlated with high quality answers [12].
+Very little attention has been paid to the social dimension of the
+Q&A community or to the users of these Q&A sites. Gazan [10],
+for example, identified two types of askers on Answerbag, the
+seekers and the sloths. Seekers, who interact with the community,
+receive more responses to their questions than do sloths. In
+another study, he identified two types of answerers, the
+specialists, who do not use external references, and the
+synthesists, who refer to external sources [9]. The answers of
+synthesists were ranked more highly than were those of specialists
+on the Answerbag portal. User participation behaviors revealed
+that users who are more active participants are more likely to
+provide answers than to ask questions and more likely to have
+answers that are chosen as best answers than less active users
+[31].
+From this brief review of the literature on online social reference,
+it is clear that most researchers have taken an economic, rational,
+and somewhat deterministic approach to user behaviors,
+motivations, and interactions. This approach is not surprising as
+most of the studies are aimed at improving the system from an
+engineering point of view. The research focuses mostly on input
+and output measures and almost completely ignores the social
+processes and the nature of interactions among users on these
+sites. There is a need to unpack this black box, and to try to
+understand the process and outcomes that characterize Q&A sites,
+to challenge the deterministic rational assumptions, to look more
+
+closely at the socio-political processes on these sites, and to
+identify the motivations and actions of winners and losers in the
+context of these sites.
+
+2.3 Why Study Social Reference?
+There are several reasons why online social reference is an
+interesting phenomenon to study. From an information science
+perspective it exemplifies the appearance of a new phenomenon in
+two domains: information retrieval and reference research.
+First, for information retrieval researchers, social reference adds
+collective human answers and relevance rankings as an integral
+part of the creation of a repository of hundreds of millions of
+humanly generated answers to previously asked questions [4].
+Effective retrieval of (the best) answers from these repositories is
+critical, especially since answer quality varies significantly.
+Furthermore, because the content on Q&A sites differs from
+traditional web content in quality and style while supporting
+innovative online social interactions, social reference requires
+“new techniques for analyzing and retrieving relevant content” [4,
+p. 467]. Since online social reference includes users responses,
+comments and discussions, as well as users’ ranking of questions,
+answers, and other users, retrieval mechanisms should integrate
+social interactions and user feedback [2, 4, 7, 16, 17].
+Second, for reference researchers, online social reference
+exemplifies a new stage in question asking and answering. This
+new stage involves a transition from a dyadic question negotiation
+to a collaborative group effort and a technological change.
+Traditional reference is perceived as the antecedent of online
+social reference [10, 12, 30]. In recent years, the utilization of
+Web 2.0 technologies has facilitated the growth of Q&A sites that,
+in turn, has enabled these sites to capitalize on mass collaborative
+user participation; these technologies and this social activity have
+also enabled the development of new business models, such as
+those of Google Answers (that has ceased operation) and ChaCha.
+Questions about cost-benefit, economic viability and
+sustainability, answer quality, and service effectiveness are more
+critical than ever and should be systematically addressed. Answer
+and service quality varies between Q&A sites [5, 12, 26, 30].
+Hence, social reference effectiveness should be examined, quality
+measures should be clearly determined, and theoretical models
+should be identified, modified, or developed in order to explain,
+analyze, predict, and evaluate the performance of Q&A sites.
+Moreover, the research on online social reference is scarce;
+despite the popularity of Q&A sites among users, they have
+attracted little research attention and have been almost ignored in
+mass media. Q&A sites attract millions of visitors each month;
+the Yahoo! Answers site alone receives as many daily hits as
+flickr [27]. It is possible that the lack of research and media
+interest in Q&A sites is partially due to the sites’ user
+demographics, which are composed mostly of teenagers and stay
+at home moms [11]. While these Q&A sites capitalize on the
+wisdom of the crowd, as do other web 2.0 sites, they differ from
+them in that they are female dominated [13]. As such, it is likely
+that patterns of interaction and norms of communication on Q&A
+sites will differ from those that characterize sites like Wikipedia;
+valid extrapolation from this body of knowledge to explain
+behaviors on Q&A sites is questionable.
+Above all, it is clear that the human and the technological
+components cannot be meaningfully separated from each other in
+any analysis of Q&A sites, under the information retrieval or
+
+reference research domains. Q&A sites, along with other Web 2.0
+sites, could possibly threaten the continuation of traditional
+cultural institutions [18], such as libraries, if they can provide the
+same services to users at lower costs. Research is needed to
+understand these sites in a larger socio-political context, with
+various stakeholders’ interests and motivations taken into account.
+Technological determinism should be replaced by approaches that
+assume an intertwined relationship between the technological
+systems and the social factors; towards this end, the STIN
+approach [21] is discussed below as promising alternative.
+
+3. STIN: A SOCIO-TECHNICAL
+INTERACTION NETWORK
+3.1 What Is A STIN?
+A socio-technical interaction network (STIN) is a conceptual
+model and a framework for understanding complex networks of
+people,
+ICTs,
+organizations,
+and
+their
+structured
+interrelationships. The STIN model was developed by Kling and
+colleagues [19, 20, 21] to extend the theoretical reach of social
+informatics (SI), which studies the design, uses, and implications
+of ICTs in ways that take into account their interactions with their
+social and cultural contexts [22]. The socio-technical interaction
+network has since been used to study collaboratories [19]
+scholarly communication forums and scientific epublishing [19,
+21, 24], communication regimes in digital photography [25] web
+information systems [8], digital libraries [28] and the free and
+open source software movement [29]. Scacchi [29, p. 2] argues
+that a STIN framework is useful “for identifying, organizing, and
+comparatively analyzing patterns of social interaction, system
+development, and the configuration of components that constitute
+an information system.” This paper suggests that the STIN
+framework can be usefully applied to the investigation of Q&A
+sites and online social reference. The STIN model has its origins
+in the social construction of technology approach and actornetwork theory (ANT), sharing some epistemological assumptions
+(see [23] for an analysis of the connections among these
+approaches). Kling et al. [21; 48] define a STIN as:
+A network that includes people (including organizations),
+equipment, data, diverse resources (money, skill, status),
+documents and messages, legal arrangements and
+enforcement mechanisms, and resource flows. The elements
+of a STIN are heterogeneous. The network relationships
+between these elements include: social, economic, and
+political interactions.
+Kling and colleagues [19, 20, 21] originally proposed the STIN
+model in order to understand networked scientific phenomena.
+With this tool, they investigated various aspects of collaboratories
+and scientific epublishing such as the conditions, activities, and
+social behaviors supporting these phenomena and the working
+relationships that influence and shape their development and
+operation. Kling, et al [21; 1] quickly saw that the framework had
+wider applicability arguing that it could “help explain the
+sustainability, or conversely, the failure of collaboration within
+collaborative systems” and direct research attention towards
+“more integrated conceptions of the interaction of people and
+technologies.” According to Kling, McKim and King [21; 48]
+“the insights from STINs can also be extended to other electronic
+communication forums … STIN models help us to understand
+human behaviors in the use of technology-mediated social
+
+settings”. Online social reference in Q&A sites is one such
+collaborative technology-mediated setting.
+The STIN framework assumes that a network can be best
+understood through the processes (rather than results) of social
+interactions among its heterogeneous components. In particular,
+“participants are embedded in multiple, overlapping, and nontechnologically mediated social relationships, and therefore may
+have multiple, often conflicting, commitments” [20; 57]. A value
+of the STIN approach is that it “looks beyond the socio-technical
+system under study and also examines how other portions of an
+actor’s social world are connected to their use and understanding
+of technology” [23; 39]. It assumes a relationship of mutual
+shaping where “technology-in-use and the social world are viewed
+as coconstitutive” [3; 237], meaning that researchers can explain
+and understand information systems through social and cultural
+contexts and bi-directional relationships.
+The STIN framework focuses research attention on the complex
+interactions among the heterogeneous human and non-human
+participants involved in the design, use, and operation of
+networked digital phenomena such as online social reference
+systems. To set the boundaries of the STIN requires making
+decisions about what is inside and what is outside of the network.
+Kling, McKim and King [21; 54] argue that two main categories
+of social interaction can be seen as “generative of” a STIN. The
+first, resource dependencies, includes relationships through which
+needed resources flow into the network and through which people
+are able to use the ICTs in the network. The second, accounttaking, includes relationships through which discourses about the
+network are created and disseminated, linking actors to others
+who serve as “reference points.”
+
+3.2 How can the STIN Framework Help
+In short, the STIN framework can inform and deepen research
+about online social reference and extend the applicability of the
+framework into the Web 2.0 environment.
+If online social reference is considered as an ICT-based network
+within which heterogeneous components interact, it can be
+described as a STIN. In the same way as other networks, online
+social reference systems are constituted out of heterogeneous
+components, which include human resources (participants
+including question posers, question answerers, answers and
+questions evaluators, readers, system moderators, system
+technicians, advertisers, and others) non-human resources
+(technologies, funding, digital collections, status of the host
+organization, norms, and rules), the contexts of resources and of
+the parent organization, as well as the social, political, and
+economic relationships among these resources.
+From the
+standpoint of a STIN framework, the design, implementation,
+operation, maintenance, and uses of Q&A sites are affected by
+interactions among these heterogeneous components [15].
+Many kinds of ICTs used in developing and operating online
+social reference services are also shaped by social and
+organizational contexts. One important context is that of the
+people who participate in these services. They have different
+educational backgrounds, different intellectual and social histories
+and levels of technical experience, different technological
+configurations used to access the service, and different abilities to
+search for, find, evaluate, and make use of information. These
+users’ contexts influence how and why they use information, what
+
+kinds of information they use, and the results of their use of
+information. That is, the processes and results of the introduction
+of ICTs in online social reference services are interrelated with
+users’ contexts. The interactions among people using the online
+social reference service, their cultural contexts, and the ICTs they
+use unfold within a web based information system and also in a
+much broader social space that includes the institutional and
+cultural environments of the societies in which the online social
+reference services are constructed and operated. Within these
+environments ICTs for social reference and their various contexts
+and users are tightly interwoven.
+As a STIN, a Q&A site includes actors (individuals, groups,
+organizations, and institutions), ICTs, and relations of dependency
+among them. The design, implementation and maintenance of the
+system, as well as its configurability, are impacted by the actions
+of and interactions among these actors. Because mutual shaping
+is a key process in STINs, the relationships, interactions and
+practices of actors are shaped by their uses of ICTs. For example,
+Yahoo! Answers, and Answerbag sites are designed to increase
+users’ active participation through the posting of users’
+contributions, and their levels on their profiles. Although a user’s
+reputation on each of these Q&A sites is based on a different set
+of criteria, both utilize this information to create competition
+among users, which increases participation in the specific
+community. These mechanisms may partially explain the high
+rate of repeat visits to the top 5 Q&A sites (almost 50% of the
+visits) [13]. On the Wikipedia Reference Desk, this mechanism is
+not part of a structured user page; users can design their own user
+pages, and their contributions to the Wikipedia Reference Desk
+are only part of their activities on Wikipedia. The factors that
+determine user reputation and status on the Wikipedia Reference
+Desk is based on contributions made to the Wikipedia project in
+general (e.g., Bureaucrats) and not to the Q&A segment of the
+project. While on Yahoo! Answers and Answerbag, recognized
+users have their status revealed through various symbols and
+ranks on their user pages, on the Wikipedia Reference Desk, the
+symbols and status ranks are those of the larger Wikipedia
+community. These differences may reflect the variations in the
+structures of these communities; Wikipedia with a bottom up
+approach, that empowers users to design their own user pages,
+compared with Yahoo! Answers and Answerbag, that implement
+a top down a system where user pages are structured, and where
+users can only partially modify their user pages in designated
+areas. Furthermore, this example illustrates clearly the ways in
+which technology in use and systems are co-constitutive, how
+actors (users and institutions) and technologies are engaged in
+relations of dependency and mutual shaping.
+Research about STINs has focused mainly on the interactions
+among components needed to construct networks, but it has not
+studied deeply what leads to the interactions in the STIN.
+According to Eschenfelder and Chase, [8; 5] this next step is
+useful because “social components comprise an integral part of
+the technological system, and by providing examples of how
+social forces shape the technical components of the system,” the
+bases of interactions can be uncovered. By studying online social
+reference systems and the interactions that take place within them,
+it becomes possible to analyze them within larger and more
+complex contexts than merely the question and answering
+interaction. For example, there are certain social reference sites
+that have clearly awakened the interest of potential users, draw
+these people to them, and then facilitate the achievement of their
+
+objectives [14]; within a STIN framework (via ANT) these are
+“enrollment strategies” [28]. By observing the extent to which
+participants have made use of enrollment strategies during the
+development and operation of a social reference site, it becomes
+possible to explain how these strategies enable and maintain this
+type of STIN. In addition, this type of study would show how the
+STIN alters the existing relationships between information and
+users, staff and users, and users and users in the process of the
+interaction. This can be particularly useful given the nature of
+Q&A sites in a Web 2.0 environment, where the mass
+collaborative effort of knowledge production and use is a routine
+form of social interaction that supports and maintains these sites.
+From a social informatics perspective, it has become clear that
+there is often much more socio-technical complexity to many
+digital spaces than is often realized [22], and online social
+reference is no exception. Socio-technical complexity means that
+ICTs are not isolated from the society of which they are a part,
+and, in fact, there is a strong bi-directional relationship between
+society and technology. In this sense, the STIN approach is
+“particularly useful for understanding the mutual shaping between
+technology and social context and the consequences of ICT use”
+[8, p. 5].
+
+4. A RESEARCH AGENDA FOR SOCIAL
+REFERENCE BASED ON THE STIN
+FRAMEWORK
+Research on social reference can be broadened and deepened by
+employing a social informatics perspective and a STIN
+framework. Ongoing efforts to determine the characteristics that
+generate high quality answers is useful since they may lead to
+automated question answering systems. However, as has been
+argued above, there are many additional interesting questions to
+ask about social reference than those posed from an information
+retrieval standpoint. By adopting a social informatics perspective,
+it is possible to move beyond instrumental questions about social
+reference (assessing the quality of answers to improve predictive
+power of service) to understanding Q&A sites in their social and
+organizational contexts.
+Treating social reference as a STIN means attending to a
+particular set of elements including [23]:
+
+4. Identify excluded actors and undesired interactions
+5. Identify existing communication forums
+6. Identify resource flows
+7. Identify system architectural choice points
+8. Map architectural choice points to socio-technical
+characteristics.
+The STIN approach seems apposite in an environment where
+there is increasing competition among Q&A site providers,
+increasing amounts of capital invested in these services, and at
+least one service, Google Answers, that has already ended
+operations. Research using a STIN framework can describe and
+analyze the distinct human and technological components that
+have to work together in some way, and the relationships of these
+components with their socio-political contexts. It should focus on
+the groups of technical and non-technical stakeholders some of
+whom have an interest in the success of the service and some of
+whom may not. A STIN framework leads to a range of interesting
+questions about Q&A sites and online social reference systems:
+•
+
+How do these services work? What are the business models
+that drive them? What are their roles in their host
+organizations? What are the social, technical, and
+organizational factors that shape successful and unsuccessful
+services?
+
+•
+
+Who are the key stakeholders involved in social reference on
+Q&A sites? Who are the winners and losers when these sites
+succeed? When they fail? How do participant communities
+develop over time? How do leadership, motivation, conflict
+resolution, and norms of behavior play a role in the question
+answering processes? How does boundary crossing occur?
+
+•
+
+What are the limitations of these sites? What are the possible
+damages that can result from further popularity of Q&A
+services? To what extent do these sites exemplify the
+paradox of expertise, and what are the consequences of this
+phenomenon for the future of libraries, and possibly other
+cultural institutions?
+
+•
+
+Do underrepresented groups benefit from Q&A sites? If so,
+how and in what ways? If not, why not? Can evidence of
+benefits and costs to these groups be identified?
+
+•
+
+People in various social roles with each other and with
+system elements
+
+•
+
+How do Q&A sites differ from each other? To what extent
+they complement each other or overlap with each other?
+
+•
+
+Support resources (training/support/help)
+
+•
+
+•
+
+Information structures (content and content providers,
+rules/norms/regulations including those that authorize people
+to use information and systems in specific ways and those
+involving access controls)
+
+•
+
+The network’s content for various constituencies, who is
+authorized to change the content, and how that matters
+
+How do libraries’ reference services and Q&A sites differ,
+complement, or overlap with each other? How do library
+reference services compared in quality to Q&A sites? How
+do Q&A sites compare to other Web 2.0 sites (e.g.,
+Wikipedia, especially given the fact that they differ in their
+user demographics)?
+
+•
+
+What are the motivations that drive user contributions on
+these Q&A sites? How are these motivations compared to
+those of users on other Web 2.0 sites (e.g., Wikipedia), and
+to reference librarians?
+
+Given the brevity of this paper, only a sketch of a research plan
+will be provided based on the steps identified to conduct research
+on a STIN, provided by [21]:
+1. Identify a relevant population of system interactors
+2. Identify core interactor groups
+3. Identify incentives
+
+Investigating each of these questions might require the use of
+different research designs, a variety of methods for data collection
+and data analysis, the discussion of which is beyond the scope of
+this brief paper.
+
+5. CONCLUSION
+An analysis of Q&A sites from a social informatics approach,
+using the STIN framework will not only contribute to the study of
+social reference, but will also enable the extension of the STIN
+framework into Web 2.0 environment. We hope to report on the
+preliminary results of an investigation of online social reference
+services using a STIN framework at next year’s iConference.
+
+6. REFERENCES
+[1] Adamic, L. A., Zhang, J., Bakshy, E., and Ackerman, M. S.
+2008. Knowledge sharing and Yahoo! Answers: Everyone
+knows something. In Proceedings of the International World
+Wide Web Conference. Beijing, ACM.
+[2] Agichtein, E., Castillo, C., Donato, D., Gionides, A., and
+Mishne, G. 2008. Finding high-quality content in social
+media. In Proceedings of Web Search and Web Data Mining.
+Palo Alto, CA, ACM.
+[3] Barab, S.A., MaKinster, J.G., and Scheckler, R. 2003.
+Designing System Dualities: Characterizing a WebSupported Professional Development Community. The
+Information Society, 19, 237–256
+[4] Bian, J., Liu, Y., Agichtein, E., and Zha, H. 2008. Finding
+the right facts in the crowd: factoid question answering over
+social media. In Proceedings of the International World Wide
+Web Conference. Beijing, ACM.
+
+[13] Hitwise. March 19, 2008. U.S. Visits to Question and
+Answer Websites Increased 118 Percent Year-overYear Yahoo! Answers receives 74 percent of all U.S. visits.
+Retrieved November 22, 2008 from
+http://www.hitwise.com/presscenter/hitwiseHS2004/question-and-answer-websites.php
+[14] Horton, K., Davenport, E. and Wood-Harper, T. 2005.
+Exploring sociotechnical interaction with Rob Kling: five
+“big” ideas. Information Technology & People, 18,1, 50-67.
+[15] Jackson, M., Poole, M.S., and Kuhn, T. 2002. The social
+construction of technology in studies of the workplace. In
+Handbook of New Media: Social Shaping and Consequences
+of ICTs. Lievrouw, L.A. and Livingstone, S. (eds.) London:
+Sage Publications. 236-253.
+[16] Jurczyk, P., and Agichtein, E. 2007a. Discovering authorities
+in question answer communities by using link analysis. In
+Proceedings of the Conference on Information and
+Knowledge Management. Lisbon, ACM.
+[17] Jurczyk, P., and Agichtein, E. 2007b. Hits on question
+answer portals: Exploration of link analysis for author
+ranking. In Proceedings of the Annual ACM Conference on
+Research and Development in Information Retrieval.
+Amsterdam, ACM.
+[18] Keen, E. 2008. The cult of the amateur: How today’s Internet
+is killing our culture. Doubleday/Currency, New York, NY.
+
+[5] Cahill, K. 2007. Worth the price? : Virtual reference, global
+knowledge forums, and the demise of Google Answers”,
+Journal of Library Administration, 46, 3/4, 73-86.
+
+[19] Kling, R. 2000. Learning about information technologies and
+social change: The contribution of social informatics. The
+Information Society, 16, 217-232.
+
+[6] Chen, W., Zeng, Q., and Wenyin, L. 2006. A user reputation
+model for a user-interactive question answering system. In
+Proceedings of the Second International Conference on
+Semantics, Knowledge, and Grid. .
+
+[20] Kling, R., McKim, G., Fortuna, J. and King, A. 2001.
+Scientific Collaboratories as Socio-Technical Interaction
+Networks: A Theoretical Approach. Retrieved from
+http://arxiv.org/abs/cs.CY/0005007
+
+[7] Dom, B., and Paranjpe, D. 2008. A bayesian technique for
+estimating the credibility of question answerers. In
+Proceedings of the Society for Industrial and Applied
+Mathematics (SIAM). Retrieved August 20, 2008 from
+http://www.siam.org/proceedings/datamining/2008/dm08_36
+_Dom.pdf
+
+[21] Kling, R., McKim, J., and King , A. 2003. A bit more to IT:
+Scholarly communication forums as socio-technical
+interaction networks. Journal of the American society for
+Information Science and Technology, 55, 2, 127-148.
+
+[8] Eschenfelder, K.R,. and Chase, L.C., 2002. Socio-technical
+networks of large, post-implementation web information
+systems: Tracing effects and influences. In Proceedings of
+the 35th Hawaii International Conference on System
+Sciences – 2002
+[9] Gazan, R. 2006. Specialists and synthesists in a question
+answering community. In Proceedings of the American
+Society for Information Science & Technology Annual
+Meeting, 3-9 November 2006, Austin, TX.
+[10] Gazan, R. 2007. Seekers, sloths and social reference:
+Homework questions submitted to a question-answering
+community. New Review of Hypermedia & Multimedia, 13,
+2, 239-248.
+
+[22] Kling, R., Rosenbaum, H., and Sawyer. S. 2005.
+Understanding and communicating social informatics: A
+framework for studying and teaching the human contexts of
+information and communication technologies. Medford, NJ:
+Information Today.
+[23] Meyer, E.T. 2006. Socio-technical interaction networks: A
+discussion of the strengths, weaknesses and future of Kling’s
+STIN model. In Berleur, J., Numinen, M.I., Impagliazzo, J.,
+(Eds.), IFIP International Federation for Information
+Processing, Volume 223, Social Informatics: An Information
+Society for All? In Remembrance of Rob Kling (pp. 37-48).
+Boston: Springer.
+
+[11] Harper, F. M. 2008. Q&A still overlooked. Retrieved
+November 25, 2008, from http://maxharp3r.wordpress.com/
+
+[24] Meyer, E. T. and Kling, R. 2002. Leveling the playing field,
+or expanding the bleachers? Socio-Technical Interaction
+Networks and arXiv.org. CSI Working Paper. [Online]
+Available: http://www.slis.indiana.edu/CSI/WP/WP0210B.html.
+
+[12] Harper, F. M., Raban, D., Rafaeli, S., and Konstan, J. A.
+2008. Predictors of answer quality in online Q&A sites. In
+Proceedings of Conference on Human Factors in Computing
+Systems. Florence, ACM.
+
+[25] Meyer, E.T. and Kling, R. 2003. To Photoshop or Not to
+Photoshop: Digital Manipulation and the STIN Framework.
+Paper presented at the Association of Internet Researchers
+Annual Meeting, Toronto, ON.
+
+[26] O’Neill, N. 2007. Chacha, Yahoo!, and Amazon, Searcher,
+15, 4, 7-11.
+[27] Quantcast.com 2008. Retrieved November 25, 2008 from:
+http://www.quantcast.com/
+[28] Rosenbaum, H. and Joung, K. 2004. Sociotechnical
+interaction networks as a tool for understanding digital
+libraries. In Proceedings of the 67th Annual Meeting of the
+American society for Information Science and Technology,
+(41). Information Today. 206-212.
+[29] Scacchi, W. 2005. Socio-Technical Interaction Networks in
+Free/Open Source Software development processes. In S. T.
+Acuña & N. Juristo (Eds.), Software Process Modeling (pp.
+1-27). New York: Springer Science+Business Media Inc.
+[30] Shachaf, P. 2008. The paradox of expertise: Is the Wikipedia
+Reference Desk as good as your library? Retrieved
+Deceember 2, 2008 from
+http://ella.slis.indiana.edu/~shachaf/paradox.pdf.
+
+[31] Shah, C., Oh, J.S., and Oh, S. 2008. Exploring characteristics
+and effects of user participation in online social Q&A sites.
+First Monday, 13, 9. Retrieved September 29, 2008 from
+http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/art
+icle/viewArticle/2182/2028
+[32] Sureowiecki, J. 2004. The wisdom of the crowds, Anchor
+Books, New York, NY.
+[33] Zhang, J., Ackerman, M.S., Adamic, L., and Nam, K.K.
+2007. QuME: A mechanism to support expertise finding in
+online help-seeking communities. Symposium on User
+Interface Software and Technology. Newport, RI, ACM.
+
+

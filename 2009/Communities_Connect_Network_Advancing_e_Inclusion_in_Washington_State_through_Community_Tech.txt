@@ -1,0 +1,216 @@
+Communities Connect Network: Advancing e-Inclusion in
+Washington State through Community Technology
+Michael Crandall
+
+Karen E. Fisher
+
+Carol Landry
+
+University of Washington
+Box 352840
+Seattle, WA 98195-2840
+206-897-1798
+
+University of Washington
+Box 352840
+Seattle, WA 98195-2840
+206-543-6238
+
+University of Washington
+Box 352840
+Seattle, WA 98195-2840
+206-543-0242
+
+mikecran@u.washington.edu
+
+fisher@u.washington.edu
+
+cflandry@u.washington.edu
+
+ABSTRACT
+Community Technology Centers (CTCs) are community-based
+organizations providing public access to computer-based
+training, content, and services (including the Internet) for a
+target population, usually underserved. We describe our study of
+a two-year effort by a consortium of organizations in
+Washington State to document, describe, and communicate the
+impact of CTCs on the lives of the individuals, families, and
+communities engaged in using their services.
+The findings and results directly address the conference theme
+of e-inclusion in the iSociety: addressing under represented
+groups among iDesigners as well as iConsumers (e.g., women,
+children and youth, the aging, people with disabilities, racial and
+ethnic minorities, immigrant communities, non-Western
+cultures). The study represents a concrete example of “digital
+inclusion” and provides a strong model for other efforts of this
+nature in the future.
+As discussed by Crandall and Fisher [1] and in the seminal
+“Falling through the Net: Toward digital inclusion” NTIA report
+[5], digital inclusion goes beyond access to include technology
+literacy and relevant content and services as the cornerstones of
+full engagement in the iSociety. The Communities Connect
+Network adopted this framework in their work to develop a
+statewide network of CTCs over the past two years, through
+targeted training activities for CT providers, development of an
+online community network for the providers, and advocacy
+efforts in which the providers were engaged to present a
+common voice to the state legislature.
+As a member of CCN, the aim of our research was to gauge how
+people of Washington State were (a) using and (b) benefitting
+from CT services. Two primary methods were used to collect
+data: 1) a telephone survey with staff from the 211 CTCs in the
+state (identified through combining existing directories and lists
+available at the time of the study), and 2) case studies of 7
+organizations to explore user and staff perceptions of the
+benefits obtained from using the CTCs. Dervin’s Sense-Making
+approach [c.f., 7], Durrance and Fisher’s outcomes-based toolkit
+[2], and Fisher, Marcoux, Miller, Sanchez and Cunningham’s
+work [3] informed the study, specifically the structuring of the
+data collection and early analytic tools.
+Regarding the survey, 47 of the 211 responding agencies
+provided self-reported data, including: the frequency and
+volume of service use, the demographics, and barriers and
+enablers to delivery of services. Key characteristics of the CTCs
+
+were also documented in this survey to provide a broad picture
+of the nature of services offered, staffing characteristics, and
+longevity.
+For the CTCs responding to the survey, three quarters of the
+programs had been in existence for more than 5 years, indicating
+both the community need and the success that most of the
+programs had in meeting that need for an extended period of
+time. Slightly less than two thirds of the centers (64%) had less
+than 5 staff members, with another 19% having between 5 and
+10 people on staff. The small size of most of these centers
+reflects the budgetary constraints and localized nature of their
+services. Almost all of the centers are non-profits, and selfidentify as neighborhood community or service centers of some
+type.
+Using the combined results from the survey and previous data
+collected from grantees in the Bill & Melinda Gates
+foundation’s Community Access to Technology program, equal
+to about half of the known community technology providers in
+the state (total of 103 CTCs), we found that these agencies serve
+a minimum of 99,467 unique users per year. Weekly counts
+show that on average, a user visits 14 times during the year,
+resulting in an estimated total of 1,392,538 visits per year.
+These descriptive statistics were combined with findings from
+the in-depth field studies, conducted through on-site interviews
+and focus groups with CTC staff and users (ages 14 and older),
+and field observation. The transcripts and field notes were
+analyzed to discover the emergent themes among staff and users
+of the centers, using standard qualitative methods [e.g., 4], and
+used in conjunction with the descriptive statistics to present an
+in-depth picture of the impacts of CTCs in the state.
+Analysis of the case study interviews revealed that users had
+varied reasons for using the CTCs. Learning new social and
+technical skills, preparing for jobs, connecting with others, and
+education were some of the more important reasons voiced by
+both staff and users. Significant outcomes identified clustered in
+6 areas: employment/economic, academic skills and literacy,
+social inclusion and personal growth, independence, access to
+information and resources, and communication.
+When asked how users benefited by their associations with the
+CTCs, approximately 12% of 235 responses alluded to the
+Academic skills and literacy outcome such as providing
+references and/or resumes for college or jobs, academic
+improvement like raising math scores one letter grade, and
+
+preparing users to obtain a GED or go to college. With regard to
+fiscal concerns, 23% pointed to the Employment/Economic
+outcome where users developed job skills that prepared them for
+getting a job, empowered them to obtain additional technical
+skills and helped them to gain employment. By far, however,
+the greatest individual impact was noted for the Social inclusion
+and personal growth outcome (36%). An assortment of
+characteristics such as relationship building and friendship,
+staying out of trouble, developing or expanding interests,
+tangible skill development (e.g. leadership, public speaking) and
+providing connections to community leaders were identified as
+benefits for users in this area. The building confidence and
+elevating expectations attribute was most mentioned by users.
+The most common response for family benefits applied to the
+Academic Skills and literacy outcome (40%), and of these, 85%
+referred to the Connecting families to technology attribute.
+Under the Social inclusion and personal outcome, 22% of
+answers applied to improving family relationships and keeping
+kids safe by checking their online activities. CTCs also
+benefited families by keeping them connected, shown by the
+18% of responses attributed to the Communication outcome.
+Many users are immigrants and CTCs allow them to stay in
+touch with family members, for example, in Mexico where there
+are many cybercafés. In terms of the Employment/economic
+outcome, 12% of answers credited CTCs for helping users to get
+a better paying job, and higher income employment benefited
+families by making it easier to meet daily living expenses.
+Of the 76 responses pertaining to community impact,
+participants indicated that the Employment/Economic outcome
+was the most significant to users’ communities, as 42% were
+ascribed to a more skilled work force and to a better educated
+population. CTC impact was soundly represented in the Social
+inclusion and personal growth outcome. Just over 42% of
+responses revealed that the community benefited from CTCs as
+they helped to develop future leaders, users were motivated to
+take action in their communities and, most notably, by the
+community building that it engendered.
+Lastly, the
+Independence outcome associated with community is the ability
+to speak and be understood without the need for a translator.
+Although more important to immigrants than other CTC users,
+such independence lessens the demands on community
+resources as fewer translators are required for medical
+appointments or government and law enforcement interactions.
+These types of activities are often the ones called out in major
+policy initiatives targeted at underserved populations, yet CTCs
+are rarely included in those discussions when policy is being
+made. The challenge, then, is how to bring the voice of these
+programs to the table when decisions are being made on policy
+and funding issues. To frame this discussion, a situated logic
+model was developed to provide a linkage between the policy
+arena and the CTC impact areas on individuals, families and
+communities [6].
+Figure 1 shows how we related the program outcomes identified
+in the study to the larger policy model for workforce related
+issues.
+
+Figure 1: Situated Logic Model for Workforce Development
+In November 2007, Communities Connect Network organized
+training events for CTC providers in conjunction with legislative
+hearings, and arranged for the providers and the researchers to
+present their results to the legislators. As a direct result of the
+testimony and research, a bill was passed and signed into law
+[8], defining Community Technology in the state of Washington
+and allocating $500,000 for support of innovative programs
+serving underrepresented populations.
+
+REFERENCES
+[1] Crandall, M., and Fisher, K. E. Forthcoming. Digital
+Inclusion: Communicating Impact through Practice and
+Research. Medford, NJ: Information Today.
+[2] Durrance, J. C., and Fisher, K. E. 2005. How Libraries and
+Librarians Help: A Guide to Identifying User-Centered
+Outcomes. Chicago: American Library Association.
+[3] Fisher, K. E., Marcoux, E., Miller, L. S., Sanchez, A., and E.
+R. Cunningham. 2004. Information Behavior of Migrant
+Hispanic Farm Workers and Their Families in the Pacific
+Northwest. Information Research, 10.1, paper 199
+[http://InformationR.net/ir/10-1/paper199.html]
+[4] Glaser, B. G., and A.L. Strauss. 1967. The Discovery of
+Grounded Theory: Strategies for Qualitative Research. New
+York: Aldine Publishing.
+[5] National Telecommunications and Information
+Administration (NTIA). 2000. Falling through the Nnet:
+Toward Digital Inclusion. Washington, DC.
+[http://www.ntia.doc.gov/ntiahome/fttn00/contents00.html]
+[6] Naumer, C. Forthcoming. Situated Logic Model: Using the
+Model in the Real World. In Digital inclusion:
+Communicating Impact through Practice and Research. M.
+Crandall and K.E. Fisher, Editors). Information Today,
+Medford, N.J.
+[7] Naumer, C. M., Fisher, K. E., and B. Dervin. 2008. SenseMaking: A Methodological Perspective. Sensemaking
+Workshop @ CHI 2008. ACM SIG CHI Conference,
+Florence, Italy, April 6, 2008.
+[http://dmrussell.googlepages.com/sensemakingworkshoppa
+pers]
+[8] S.B. 6438, 60th Leg., 2008 Reg. Sess. (Wash. 2008).
+
+

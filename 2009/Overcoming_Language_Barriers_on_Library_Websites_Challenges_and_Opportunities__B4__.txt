@@ -1,0 +1,290 @@
+Overcoming Language Barriers on Library Websites: Challenges and Opportunities
+
+Shaoyi He
+California State University, San Marcos 333 S. Twin Oaks Valley Rd. San Marcos, CA 92096
+she@csusm.edu
+
+ABSTRACT
+In this paper, we investigate the issues related to language barriers on library websites, focusing on the websites of the 50 state libraries and the library websites of the top 50 cities in the United States. The opportunities as well as challenges brought up by language barriers are also discussed with an emphasis on multilingual access to the contents and services provided on the library websites. Future research directions are outlined with some recommendations for conducting a content analysis on multilingual access to library websites in a larger scale.
+Keywords
+Language Barriers, Library Websites, Multilingual Websites, Multilingual User Interfaces, Online Machine Translation.
+
+1.   INTRODUCTION
+
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee.
+iConference’09, February 8–11, 2009, Chapel Hill, NC, USA
+Copyright 2009 ACM 1-58113-000-0/00/0004…$5.00.
+
+The language barriers as natural outcomes of human communications across national boundaries not only refer to the historical dominance of the English language, but also refer to the presently increasing multilinguality on the Internet (Crystal, 2001b; He, 2008a). Since 2000, the language representation on the Internet has evolved from then monolingual with one English language into now multilingual with more than one thousand languages (Crystal, 2001a; Global Reach, 2004). The emergence of multilinguality on the Internet not only brought in the challenges with language barriers, but also called for collective efforts to overcome language barriers, thus enabling multilingual users to effectively browse, navigate, access, filter, process and retrieve multilingual information on the library websites (Appleby, 2003; Dubois, 1979; He, 2008b; Tixier, 2005; Yunker, 2003).  The library websites that are only available in English have contributed to an information accessibility gap between English and non-English speaking library users. Many researchers regarded language barriers as being one of the major problems for searching, accessing, and retrieving multilingual information and knowledge on the Internet, and looked at the role that language played in creating difficulties for online information access as well as the impact of language technologies on the development and maintenance of multilingual websites (Berner, 2003; Cheon, 2005; MacLeod, 2000; Perrault and Gregory, 2000; Seilheimer, 2004; Spethman, 2003). In this paper, we investigate the issues related to language barriers on library websites, focusing on the challenges and opportunities brought in by the multilinguality of the websites of the 50 state libraries and the library websites of the top 50 cities in the United States.
+
+2.	LITERATURE REVIEW
+
+2.1	Language Barriers and Multilingual Websites
+
+Language barriers would create obstacles to effective communication on a website, such as: 
+Languages around the world differ in display, alphabets, grammar, and syntactical rules. For example, such languages as European French and German do not have a one-to-one mapping between upper- and lowercase characters, while most non-Latin character-based languages, such as Chinese, Japanese, Korean and Vietnamese, do not even use the concept of lower- and uppercase (MSDN Library, 2007).
+Many idioms and expressions may have different meanings when literally translated into another language. There also exist regional variants of the same language. For example, Simplified Chinese is mainly used in Mainland China, and Traditional Chinese is mainly used in Taiwan. The French spoken in France is very different than that spoken in Canada (Goswami, 2003). 
+
+There has been an increasing demand for multilingual websites:
+Many multinational companies, e.g., Computer Associates, Cisco, IBM, Intel and Microsoft, have developed their websites in the languages, cultures, and business practices of their users in the world. 
+In 1999, 33 Fortune 100 companies had multilingual websites was 33, the number grew to 57 by the end of 2000 (Aberdeen Group, May 18, 2001). 
+58% of the Fortune 500 companies currently have multilingual websites, 70% of the largest 20 Fortune 500 companies have localized content on the websites (thebigword.com, 2006). 
+In order to meet the needs of their users, many government websites have their contents available in many languages other than the native language. For example, the website of Canadian government is accessible in both English and French. The website of Chinese government is available in both Chinese and English.
+
+2.2	Multilingual Library Websites
+
+A multilingual library website should provide the same information in different languages. For the online services provided by libraries via their websites, multilingual accessibility is significantly important in meeting the needs of a diverse library clientele by making information available in as many languages as possible and to overcome language barriers. Multilingual access to information on library websites is of great interests for libraries as well as their multilingual patrons. Therefore, multilingual websites play a strategic role in the quality and effectiveness of the information and services provided by libraries on the Internet.
+
+The multilinguality of library websites had drawn little attention from researchers and librarians until recent years. While few studies were done in the USA, there were several studies done in Europe and Australia.
+
+A survey on public library websites in Australia reveals that very few of them had multilingual pages and resources for users to select (Hildebrand, 2003).
+
+In September 2005, a study was conducted on the availability of multilingual websites of cultural establishments in Latvia. The survey found that 15 out of 18 public library websites were monolingual; representing 83% of the total number of such websites; and only 3, or 17%, of public library websites bilingual in Latvian and English (MINERVA Plus, 2006).
+
+From June 2004 to May 2005, MINERVA Plus (2006) conducted a major survey on the multilinguality of the websites of 265 museums, 138 libraries, 98 archives, 65 cultural websites, and 129 other websites in 24 European countries. The findings were very interesting as follows: Of the 695 websites, 179 of them were monolingual, 310 were bilingual, 129 were available in 3 languages, 26 were available in 4 languages, 14 were in 5 languages, 10 were in 6 languages, 4 were in 7 languages, 3 were in 9 languages, and 1 was in 34 languages. 
+
+From the above we could see that multilinguality of library websites as an emerging issue has drawn attentions from researchers but still calls for further investigations. In order to address the challenges as well as the opportunities brought up by the language barriers on the websites of libraries, we need first find out the multilinguality of the population of the 50 states and the 50 largest cities in the United States, and then find out the need for multilingual websites by the diverse population of each state and city and how their library websites meet such a need.
+
+3.   METHODOLOGY
+
+3.1. Data Collection and Analysis
+
+The multilinguality of the state libraries in the United States is firstly dealt with by visiting each state library’s website and recording the availability of the languages on each website. Based on the data from the city-data.com, the multilingual population of each city is determined and the major ethnic groups of the multilingual population are also identified. The websites of all the 50 largest US cities are visited to reveal the languages available on the websites. The data collected are further used to determine how the multilinguality is provided by the cities’ websites that provide multilingual access. There are two ways of multilingual access: the first is to provide bilingual or multilingual content on the library websites, and the second to use online machine translation to turn the English website into multilingual websites in different languages.
+
+The collected data from the websites are analyzed to answer the following questions:
+How many state library websites are bilingual or multilingual, and what languages are available there?
+How many city library websites are bilingual or multilingual, and what languages are available there?
+For both state and city library websites, how do they meet the needs of their diverse ethnic groups in the multilingual population?
+For the multilingual access to the state and city libraries, which way is more common: 1) bilingual or multilingual websites already available and 2) multilingual websites translated via online machine translation?
+Why and how could online machine translation be used on the library websites to overcome language barriers?
+
+4.   RESULTS AND DISCUSSIONS
+
+Multilinguality of State Library Websites
+
+Table 1. Multilinguality of State Libraries’ Websites
+State Libraries
+State Libraries with ML Websites
+State Libraries without ML Websites
+50 (100%)
+2 (4%)
+48 (96%)
+
+Among the 50 US state libraries’ websites, there are only 2 with multilinguality: Alabama and Idaho. They both use the free online translation services provided by Google Translate to translate the English website into Spanish. 
+
+Multilinguality of City Library Websites
+
+    Table 2. Multilinguality of City Libraries’ Websites
+City Libraries
+City Libraries with ML Websites
+City Libraries without ML Websites
+50 (100%)
+18 (36%)
+32 (64%)
+
+A quick survey of the library websites of the top 50 US cities found only 18 of them are multilingual, which is a little more than one third of the total. There are 16 languages available on these websites, and these languages are listed in Table 3 as follows:
+
+Table 3. Multilinguality of City Libraries’ Websites
+# of Language
+Language
+
+16
+Arabic, ChS; ChT;, Dutch, French, German, Greek, Italian, Japanese, Korean, Nederland, Polish, Portuguese, Russia, Spanish, Vietnamese
+
+Ethnic Groups and Library Websites 
+
+For  the 18 cities that have multilingual library websites, the languages available should meet the needs of the ethnic groups.
+
+Table 4. Diverse Ethnic Groups and Languages on City Library Websites 
+City
+Top 3 Ethnic Groups
+Languages on Websites
+New York
+Hispanic (27.0%); Chinese (4.5%); Korean (1.1%)
+English, Spanish
+Los Angeles
+Hispanic (46.5%); Filipino (2.7%); Korean (2.5%)
+English, Spanish
+Chicago 
+Hispanic (26.0%); Chinese (1.1%); Filipino (1.0%)
+English, Spanish, Polish
+ HYPERLINK "http://www.city-data.com/city/Houston-Texas.html" Houston
+
+Hispanic (37.4%); Vietnamese (1.7%); Chinese (1.2%)
+English, Spanish
+ HYPERLINK "http://www.city-data.com/city/Phoenix-Arizona.html" Phoenix
+Hispanic (34.1%)
+English, Spanish
+ HYPERLINK "http://www.city-data.com/city/San-Antonio-Texas.html" San Antonio
+Hispanic (58.7%)
+English, Spanish
+ HYPERLINK "http://www.city-data.com/city/Dallas-Texas.html" Dallas
+Hispanic (35.6%); Asian Indian (0.6%); Vietnamese (0.6%)
+English, Spanish
+ HYPERLINK "http://www.city-data.com/city/Indianapolis-Indiana.html" Indianapolis
+Hispanic (3.9%)
+English, Spanish
+ HYPERLINK "http://www.city-data.com/city/San-Francisco-California.html" San Francisco
+Chinese (19.6%); Hispanic (14.1%); Filipino (5.2%)
+English, Spanish, Chinese
+ HYPERLINK "http://www.city-data.com/city/Charlotte-North-Carolina.html" Charlotte
+Hispanic (7.4%); Asian Indian (0.9%); Vietnamese (0.8%)
+English, French, German, Portuguese, Spanish
+ HYPERLINK "http://www.city-data.com/city/Seattle-Washington.html" Seattle
+Hispanic (5.3%); Chinese (3.4%); Filipino (2.8%)
+English, Spanish, Chinese, Vietnamese, Russia
+ HYPERLINK "http://www.city-data.com/city/Denver-Colorado.html" Denver
+Hispanic (31.7%)
+Vietnamese (0.8%)
+English, Spanish
+ HYPERLINK "http://www.city-data.com/city/Las-Vegas-Nevada.html" Las Vegas
+Hispanic (23.6%); Filipino (2.3%); Chinese (0.6%)
+English, Spanish
+ HYPERLINK "http://www.city-data.com/city/Tucson-Arizona.html" Tucson
+Hispanic (35.7%)
+Chinese (0.6%)
+English, Spanish
+ HYPERLINK "http://www.city-data.com/city/Fresno-California.html" Fresno
+Hispanic (39.9%); Filipino (0.9%); Chinese (0.8%)
+English, Spanish
+ HYPERLINK "http://www.city-data.com/city/Sacramento-California.html" Sacramento
+Hispanic (21.6%); Chinese (4.8%); Filipino (2.1%)
+English, Spanish, Chinese, Vietnamese, Russia
+ HYPERLINK "http://www.city-data.com/city/Virginia-Beach-Virginia.html" Virginia Beach
+Hispanic (4.2%)
+Filipino (3.4%)
+
+MT: Arabic, ChS; ChT;, Dutch, French, Nederland, German, Greek, Italian, Japanese, Korean, Portuguese
+ HYPERLINK "http://www.city-data.com/city/Oakland-California.html" Oakland
+Hispanic (21.9%); Chinese (8.0%); Vietnamese (2.2%)
+English, Spanish, Chinese
+
+The language diversity of the population in those cities is not reflected in the content available in English only or bilingual or multilingual library websites of these cities. In Table 5 below, among the nine US cities with a most-foreign-born population, six of them have either bilingual or multilingual library websites. Only three of them do not have library websites in different languages.
+
+   Table 5.Website Multilinguality of Cities with Most Foreign-Born
+City 
+Foreign Born 
+Library ML Website 
+Languages 
+Los Angeles 
+29.6 % 
+YES 
+English;  Spanish 
+San Francisco 
+28.3 % 
+YES 
+English;  Spanish, Chinese 
+New York 
+22.8 % 
+YES 
+English;  Spanish 
+Dallas 
+12.8 % 
+YES 
+English;  Spanish 
+Boston 
+12.5 % 
+No
+N/A
+Chicago 
+12.3 % 
+YES 
+English;  Spanish, Polish 
+Wash, D.C. 
+11.9 % 
+YES 
+MT in 7 Languages 
+Detroit 
+7.4 % 
+NO 
+N/A 
+Philadelphia 
+5.1 % 
+NO 
+N/A 
+  Source: U.S. Census Bureau, 2001, Table 5–2A
+
+From Tables 1 to 5 we could see that the library websites of the 50 states and the 50 cities do not meet the needs of the diverse multilingual population. First, only two state libraries, Alabama and Idaho, provide multilingual contents on their websites. Second, only 18 of the 50 largest US cities have their library websites accessible in 16 different languages. Third, there is a limitation of the number of languages available on the library websites. For example, 11 out of 18 city library websites only have bilingual contents or services in English and Spanish. The reason is straightforward: Hispanic and White Non-Hispanic are the two largest ethnic groups. In this way, other ethnic groups, such as Chinese, Filipino, Korean, and Vietnamese, would face a difficult situation in which their needs would not be met. For instance, New York, Chicago, Houston, Las Vegas, Tucson and Fresno all have Chinese as one of the 3 largest ethnic groups, yet, their library websites do not provide any content or service in Chinese. Such language barriers have brought up challenges as well as solutions to providing multilingual access to library websites. 
+
+Developing vs. Translating Websites in Multiple Languages
+
+We have already noticed that there are two ways to achieve multilinguality for library websites: 1) develop the websites in multiple languages, and 2) translate the websites into multiple languages. The former way aims at a global website that would operate in the languages, business practices, and cultures of its users, and the later way applies machine translation to online environments to empower websites in different languages. The advantages of developing multilingual websites are three fold: 1) Provide the user with content written in the language of her/his choice; 2) Allow the user to enter data written in the language of her/his choice; and 3) Provide the users with content and functionality relevant to the region of her/his choice. The advantages of translating websites in multiple languages are also three fold: 1) Multilingual user interface enables access to shift between specified languages; 2) Multilingual accessibility in searching, sorting and filtering, preserving or maintaining multilingual resources; and 3) Multilingual applications in online URL or text translation, such as website content in multiple languages and cross-language information retrieval. 
+
+Therefore, besides multilingual websites development and maintenance, there are website online translation services that allow visitors to translate our website into their native language, For example, the website of the Virginia Beach Public Library enables online translation from English to 12 languages, such as Arabic, Simplified Chinese, Traditional Chinese, Dutch, French, Nederland, German, Greek, Italian, Japanese, Korean, and Portuguese. Both websites of the Sacramento Public Library and the Seattle Public Library provide online machine translation service and Information in five languages: English, Spanish, Chinese, Vietnamese, and Russia. The following are four major players in online machine translation services:
+Babel Fish  HYPERLINK "http://babelfish.altavista.com/" http://babelfish.altavista.com 
+Provided by AltaVista, Babel Fish enables the translation of short passages and websites to and from English in 12 languages 
+FreeTranslation.com  HYPERLINK "http://www.freetranslation.com/" http://www.freetranslation.com/ 
+Powered by SDL's Enterprise Translation Server, It offers free translation of text or web pages in one of 11 language pairs. 
+WorldLingo   HYPERLINK "http://www.worldlingo.com/en/websites/url_translator.html" http://www.worldlingo.com/en/websites/url_translator.html 
+A free web translation service that can translate single words, phrases, sentences and entire web pages in one of 15 languages.
+Google Translate  HYPERLINK "http://translate.google.com/translate_t" http://translate.google.com/translate_t HYPERLINK "http://www.google.com/" / 
+Provided by Google. It can translate texts and websites between 15 pair of languages. 
+
+Babel Fish used to be preferred over others, e.g., a study found 19 websites of a sample of 36 (53%) implemented Babel Fish. But, 
+Google Translate is becoming more popular in library’s websites, e.g.,
+ HYPERLINK "http://www.ewashtenaw.org/government/departments/library_for_the_blind_and_physically_disabled" Washtenaw County Library for the Blind and Physically Disabled, There are 12 languages available: Arabic, Simplified Chinese, Traditional Chinese, Dutch, French, Nederland, German, Greek, Italian, Japanese, Korean, and Portuguese.
+ HYPERLINK "http://www.greenburghlibrary.org/index.php" Greenburgh HYPERLINK "http://www.greenburghlibrary.org/index.php"  Public Library, Powered by Google Translate, online machine translation from English to 10 languages: Arabic, Simplified Chinese, Dutch, French, Nederland, German, Greek, Italian, Japanese, Korean, and Portuguese, 
+ HYPERLINK "http://www.lili.org/portal/index.php" Idaho State Library, Online translation from English to Spanish, powered by Google Translate.
+ HYPERLINK "http://statelibrary.alabama.gov/Content/Index.aspx" Alabama State Library, Online translation from English to Spanish, powered by Google Translate.
+.
+Some limitations should be addressed when considering online machine translation services for library websites:
+Subject matter in special domains 
+Big volume 
+Slow speed
+Level of accuracy
+Consistency of vocabulary, syntax 
+
+But, limited machine translation is better than no translation. 
+
+5.   CONCLUSIONS
+
+In this paper, we firstly addressed the topic of language barriers with a reference to the multilinguality of the Internet and the Web. Secondly, we discussed the need for a multilingual website by the diverse population of each city and how the library websites meet such a need. Thirdly, we discussed the challenges brought up by language barriers in terms of providing multilingual contents and services on the library websites, and the opportunities to bring solutions for overcoming language barriers on library websites. Fourthly, using online machine translation as an example, we illustrate how the language barriers could be overcome on library websites. Finally, we briefly summarize the significance of this study with some recommendations for future research agenda.
+
+The significance of this paper is twofold. First, it has provided first hand findings on the multilinguality of the 50 state library websites and the library websites of the 50 largest cities, focusing on the challenges of and solutions for overcoming language barriers on library websites. The findings are also potentially useful for modifying user services in public libraries where there are significant non-English-speaking ethnic groups. Second, this paper discussed the potential usefulness of online machine translation applicable to provide public libraries with capability to disseminate website contents in languages other than English. Therefore, future research emphases on online machine translation application to multilingual library websites would include the following:
+What user needs for multilingual access to the websites of public libraries;
+Which online machine translation service to recommend based on what features;
+What major impact of multilinguality on the users of the library websites;
+What trends in the use of online machine translation services within library websites.
+
+Another immediate research direction would be the evaluation of machine translation service on the library websites:
+Evaluate quality of the translated interface as well as content on the websites, thus proposing assessment categories for online machine translation services
+Evaluate the usage of and user feedback on the translated websites, thus knowing better about users’ needs for multilingual access to websites
+Evaluate the practice to incorporate online machine translation services for dissemination purposes, thus suggesting future implementation strategies 
+
+Finally, this study could be extended to the assessment of the relationship among the language barriers and multilingual websites and the services and collections of libraries. First, assessing which non-English languages are most prevalent in each geographic area, and then assessing the breadth of each library's services and collections in those languages, because having multilingual websites is only useful if there are underlying collections and services that support those linguistic communities.
+
+6.   ACKNOWLEDGMENTS
+The author would like to thank the two anonymous reviewers of iConference 2009 who have provided insightful and constructive comments on and suggestions for this paper.
+
+7.	REFERENCES
+
+Aberdeen Group. (May 18, 2001). Multilingual sites imperative for large firms. [Online]. [No Pagination]. Available:  HYPERLINK "http://www.nua.com/surveys/index.cgi?f=VS&art_id=905356776&rel=true" http://www.nua.com/surveys/index.cgi?f=VS&art_id=905356776&rel=true Accessed on January 26, 2009.
+Berner, S. (2003).“Lost In Translation”: Cross-Lingual Communication, and Virtual Academic Communities. Proceedings of 5th Annual Conference on World Wide Web Applications. [Online]. [No Pagination]. Available:  HYPERLINK "http://general.rau.ac.za/infosci/www2003/Papers/Berner,%20S%20Lost%20in%20Translation.pdf" http://general.rau.ac.za/infosci/www2003/Papers/Berner,%20S%20Lost%20in%20Translation.pdf. Accessed on January 26, 2009.
+Cheon, K. (2005). Multilingualism and the Domain Name System. In Reforming Internet Governance: Perspectives from the Working Group on Internet Governance (pp. 67-72). . [Online]. [No Pagination]. Available:  HYPERLINK "http://www.wgig.org/docs/book/Kangsik_Cheon%20.pdf" http://www.wgig.org/docs/book/Kangsik_Cheon%20.pdf. Accessed on January 26, 2009.
+Crystal, D. (2001a). Weaving a Web of Linguistic Diversity. Guardian Weekly, January 25, 2001. [Online]. [No Pagination]. Available:  HYPERLINK "http://www.guardian.co.uk/GWeekly/Story/0,3939,427939,00.html" http://www.guardian.co.uk/GWeekly/Story/0,3939,427939,00.html. Accessed on January 26, 2009.
+Crystal, D. (2001b). Language and the Internet. Cambridge, UK: Cambridge University Press
+Dubois, C.P.R. (1979). Multilingual Information Systems: Some Criteria for the Choice of Specific Techniques. Journal of Information Science, 1(1), 5-12.
+Goswami, A. (2003). Perspectives on E-globalization. Digital Web Magazine. [Online]. [No Pagination]. Available:   HYPERLINK "http://www.digital-web.com/articles/perspectives_on_e_globalization/" http://www.digital-web.com/articles/perspectives_on_e_globalization/ Accessed on January 26, 2009.
+He, S. (2008a). Multilingual Web Sites in Global Electronic Commerce. In Annie Becker (Editor), Electronic Commerce: Concepts, Methodologies, Tools and Applications, pp. 1187-1194. Hershey, PA: IGI Global. 
+He, S. (2008b). Multilingual Issues in Global E-commerce Web Sites. In Charles Wankel (Ed.), The Handbook of 21st Century Management, pp. 391-400. Thousand Oaks, CA: SAGE Publications. 
+Global Reach. (2004). Evolution of Online Populations. [Online]. [No Pagination]. Available:   HYPERLINK "http://global-reach.biz/globstats/evol.html" http://global-reach.biz/globstats/evol.html. Accessed on January 26, 2009.
+Hildebrand, Ian. (2003). Rethinking Public Library Websites. Proceedings of the 11th Information Online Conference and Exhibition, January 2003, Sydney, Australia.
+MacLeod, M. (2000). Language Barriers. Supply Management, 5(14), 37-38.
+MINERVA Plus. (2006). Multilingual Access to the Digital European Cultural Heritage. Online]. [No Pagination]. Available:   HYPERLINK "http://www.mek.oszk.hu/minerva/survey/" http://www.mek.oszk.hu/minerva/survey/. Accessed on January 26, 2009.
+MSDN Library. (2007). Language Issues. [No Pagination]. Available: from:  HYPERLINK "http://msdn2.microsoft.com/en-us/library/aa292134(VS.71).aspx" http://msdn2.microsoft.com/en-us/library/aa292134(VS.71).aspx. Accessed on January 26, 2009.
+Perrault, A. H. and Gregory, V. L. (2000). Think Global, Act Local: The Challenges of Taking the Website Global. International Journal of Special Libraries (INSPEL). 34(3/4), 227-237.
+Seilheimer, S. (2004). Productive Development of World Wide Web Sites Intended for International Use. International Journal of Information Management. 24, 363-373.
+Spethman, M. (2003). Web Site Globalization. World Trade, 16(11), 56-57.
+Stepanov, V. (2000). Multilingual Capabilities of Search Engines. Internet Librarian International 2000, London, March 22, 2000. . [No Pagination]. Available:  HYPERLINK "http://www.infotoday.com/ili2000/presentations/stepanov.doc" http://www.infotoday.com/ili2000/presentations/stepanov.doc. Accessed on January 26, 2009.
+thebigword. (2006). Fortune 500 - Multilingual Websites. Articles [Online]. [No Pagination]. Available:  HYPERLINK "http://www.thebigword.com/Fortune500MultilingualWebsites.aspx" http://www.thebigword.com/Fortune500MultilingualWebsites.aspx. Accessed on January 26, 2009.
+Tixier, M. (2005). Globalization and localization of contents: Evolution of major internet sites across sectors of industry. Thunderbird International Business Review, 47(1), 15-48.
+Yunker, J. (2003). Beyond Borders: Web Globalization Strategies. New Riders Press.
+ 
+
+
+
+
+
+
+
+

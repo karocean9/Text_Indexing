@@ -1,0 +1,40 @@
+Information Spaces in the Community
+Claudia Serbanuta
+University of Illinois 501 E. Daniel Street Champaign, Il +1 (217) 333-3280
+cserban2@illinois.edu
+Sara Thompson
+University of Illinois  501 E. Daniel Street Champaign, Il +1 (217) 333-3280
+sara.q.thompson@gmail.com
+Chip Bruce
+University of Illinois  501 E. Daniel Street Champaign, Il +1 (217) 333-3280
+chip@illinois.edu
+
+
+ABSTRACT
+Information Spaces in the Community is a workshop frame designed to promote e-inclusion by helping participants understand the iSociety in which they live. An information space (IS) is defined as a place where people go to access information and technology for their personal or community development. Living and learning in a developed society we are able to access and be comfortable with multiple information spaces. However, in our daily lives, close to where we live, there are many IS we don't know about or know how to use effectively. Moreover, access to these IS's is very unequal.
+The Community Informatics research group from Graduate School of Library and Information Science, University of Illinois at Urbana-Champaign has a long history of working with underserved communities in programs using diverse Information and Communication Technologies. In an attempt to reach the youth in these communities, a workshop frame was developed in the summer of 2008. Participants in the workshop used inquiry-based learning to discover different IS's in the community, and then to create a presentation describing their findings. In this process, participants learn to use different computer programs, media and Internet tools to help them present the IS visited. Based on the earlier success, the same workshop frame was used by the research group and students from a Community Informatics Concepts online class to host a different group of participants: international librarians.
+Yearly, Mortenson Center focuses on "international education, understanding, and peace" through library programs and brings to a US campus a group of international librarians. The program aims to provide them with a broad knowledge of, and exposure to, the theory and practice of librarianship in the USA. The Fall 2008 edition of this program offered the participants the opportunity to explore US iSociety through a two-day workshop that engaged them in visiting, learning about, and presenting different IS's on campus and in the surrounding community. Thirty librarians from fourteen countries, including Vietnam, Japan, China, Palestine, Kenya, Nigeria, and Colombia, joined a work group and visited up to three IS's each. These included libraries, health or art centers, a movie rental shop, and a bus stop. Using a geographic positioning system (GPS) unit, a video camera, and notebooks, each group of librarians gathered data about the IS and created a presentation based on it. Participants also engaged in online mapping using Google maps and movie editing. There were also formal presentations on open source software and web 2.0 tools.
+The hosts of this workshop were students and professors from the Community Informatics group on campus. Other participants included students from the online class who were learning about community informatics and how professionals in information science can engage with their own communities. They were leaders in the workshop as well as learners. On the first day session in campus they accompanied librarians on their visits to the different IS's, to facilitate communication with and inquiring of information providers. Students came from different parts of US and had a unique learning experience together with international librarians. Besides finding out about the IS on campus they learned, for example, how to use GPS and how to effectively communicate with people that use English as a second language. In addition they looked at what was the relation between physical spaces for community informational needs from librarians' home and the visited ones in US.
+The "Information Spaces in the Community" poster presents how inquiry about IS was beneficial for this group of librarians: the way in which participants presented their findings, what they thought about the places they visited, what was most interesting to them and how it related to back home in terms of information access, how they learned to use different technologies. Since the workshop was a rare learning experience for the US students hosting this workshop the poster will present some of their experiences as well.
+Even though the workshop was initially developed having a specific public in mind (youth in economically struggling communities), it was easily adapted to a different public. We believe that the main reason for this success is that the inquiry-based learning process was well received and assimilated by participants of different ages. International librarians appreciated inquiring about how community members in a US city obtain information through various organizations and sites, and learning how new digital technologies can be used to investigate communities and to communicate the findings.
+Categories and Subject Descriptors
+K.3.1 [Computers and Education]: Collaborative learning
+General Terms
+ Human Factors.
+Keywords
+Community informatics, information space, community engagement, librarianship,
+
+
+
+
+
+
+
+
+PAGE  
+
+
+
+
+
+

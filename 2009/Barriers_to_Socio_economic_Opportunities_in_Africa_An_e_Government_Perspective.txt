@@ -1,0 +1,372 @@
+Barriers to Socio-economic Opportunities in Africa:
+An e-Government Perspective
+Devendra D. Potnis
+
+Dawit H. Demissie
+
+Doctoral Candidate
+College of Computing and Information
+State University of New York –
+University at Albany
+7A Harriman Campus, Suite 220
+1400 Washington Ave, Albany
+NY - 12222
+Tel: 518-956-8248
+
+Doctoral Candidate
+College of Computing and Information
+State University of New York –
+University at Albany
+7A Harriman Campus, Suite 220
+1400 Washington Ave, Albany
+NY - 12222
+Tel: 518-956-8248
+
+dp772351@albany.edu
+
+dd536519@albany.edu
+
+Economics, Human Factors, Legal Aspects
+
+surveys measuring “willingness” and “capacity” of more than 178
+member states of UN infer e-Government to be a gateway to
+socio-economic opportunities which eventually lead to a creation
+of a knowledge-based society in respective member states [3,4,6].
+Hence, various factors influencing the successful implementation
+of e-Government initiatives also affect socio-economic
+opportunities experienced by citizens. e-Government being one of
+the gateways to socio-economic opportunities for citizens, barriers
+to e-Government initiatives essentially act as barriers to potential
+socio-economic opportunities. Past studies reveal that impacts of
+e-Government implementations are comparatively more visible in
+the context of developing nations including Africa, than the rest of
+the developed world [9,10]. This research will identify a set of
+barriers to socio-economic opportunities in Africa, which in turn
+influence the success of e-Government initiatives in Africa. Our
+research will also carve out inter-relationships among barriers to
+socio-economic opportunities in Africa.
+
+Keywords
+
+2. RESEARCH METHODOLOGY
+
+e-Government in Africa, Socio-economic Opportunities
+
+Grounded theory research methodology analyzes secondary data
+in the form of scholarly literature on e-Government initiatives in
+Africa, published after the year 2001, a milestone year in the eGovernment area. According to UN e-Government Readiness
+Assessment Surveys, in 2001, e-Government was a new trend
+then and not a regular practice for governments to offer their
+services [2]. Hence, secondary data analysis under grounded
+theory research methodology focuses on scholarly literature
+published after the year 2001, which elaborates on barriers to
+socio-economic opportunities in Africa. When compared to other
+fields related to governance, the research on e-Government seems
+to be in embryonic stage. There are not many theoretical models
+which are derived from empirical evidences in the area of eGovernment (Ridley 2008).
+
+ABSTRACT
+Various barriers to socio-economic opportunities in Africa are
+explored though e-Government as a lens of study. Using grounded
+theory methodology, scholarly literature on e-Government in
+Africa has been analyzed to model various barriers. The research
+is expected to serve as a scholarly reference for decision-makers
+in the private and the public sector organizations, as well as
+policymakers, for making decisions about design, development
+and execution of e-Government initiatives in Africa.
+
+Categories and Subject Descriptors
+K.4.1-3 [Computing Milieux]: COMPUTERS AND SOCIETY
+public policy, social issues, organizational impacts
+
+General Terms
+
+1. INTRODUCTION
+Since the year 2001, e-Government has emerged as a
+programmatic tool for executing government operations with a
+key focus on offering government services to citizens [1, 2, 3, 4,
+5, 6, 7]. e-Government initiatives which encourage citizens’
+participation in government activities act as participatory tools
+through which citizens can contribute actively in government
+thereby bolstering the core notion of democracy.
+UN defines e-Government as “…use of ICTs and its application
+by the government for provision of information and public
+services to the people [8].” United Nations has championed
+deployment of information and communication technologies
+(ICTs), an indispensible construct for building e-Government
+initiatives [2]. Various UN e-Government readiness assessment
+
+In the context of e-Government initiatives undertaken by U.N.
+member states in Africa, this research paper identifies a number of
+barriers to providing socio-economic opportunities to citizens via
+e-Government initiatives. In the first round of grounded theory
+research methodology, codes are identified from a vast body of
+literature on e-Government initiatives deployed by various
+member states in Africa (See Table 1). In the second round of
+axial coding, codes identified in the first round are labeled
+according to their coherence and proximity in terms of their
+meanings. In the third round, axial coding in the form of various
+
+labels are grouped and key categories for barriers to socioeconomic opportunities in Africa are surfaced.
+Table 1. Grounded Theory Research Methodology: A Process
+of Deriving Categories of Barriers to Socio-economic
+Opportunities in Africa
+
+1
+
+First Round
+
+Second Round
+
+Third Round
+
+of Coding
+
+of Axial Coding
+
+Surfacing
+Possible
+Categories of
+Barriers to Socioeconomic
+Opportunities in
+Africa
+
+Software, hardware,
+technological
+infrastructure,
+sophisticated IT
+mobile
+telephony
+
+cellular
+
+Who owns
+information?
+Trained
+workforce,
+human capital
+2
+
+what
+
+Human Factor in
+IT Deployment
+
+Local and foreign
+investment, network
+economy, cost of
+accessing internet
+
+Financial Status
+
+Supply
+Demand,
+Commerce,
+Business
+
+4
+
+Myriad of
+attributes related
+to Information
+and
+Communication
+Technologies
+(ICTs)
+
+Information
+Management
+Issues
+
+IT
+IT
+
+Knowledge
+economy,
+information
+economy,
+
+3
+
+Technology
+Related
+
+Economic Status
+of Member States
+
+Economic
+Impacts
+
+and
+ee-
+
+e-Government
+
+just 4% of ICTs
+users in the Arab
+world )
+Food,
+drinking
+water, shelter
+
+Basic Needs of
+Citizens
+
+Source: All the findings in the above table are resulted from the
+secondary data analysis of literature covered in references 12 –
+23.
+So far, our secondary data analysis has identified four possible
+broad categories of barriers to socio-economic opportunities in
+Africa, which are as follows: political context of member states,
+social environment in nations running e-Government activities,
+myriad of attributes related to information and communication
+technologies (ICTs), and economic status of member states.
+
+3. FUTURE RESEARCH AND
+APPLICATIONS
+As mentioned earlier, the research also aims to capture interrelationships among various codes identified in the first round of
+coding. The set of inter-relationships will be incorporated with the
+above mentioned key categories which are surfaced in the third
+round. As a result of this research, a new model including key
+categories of barriers to socio-economic opportunities in Africa
+along with inter-relationships among them will be proposed. The
+resultant model is expected to inform polices and strategies for
+strengthening e-Government movement, a gateway to offer better
+socio-economic opportunities in Africa. This model of barriers to
+socio-economic opportunities in Africa could serve as a rich and
+quick reference for decision-makers in private and public sector
+organizations as well as policymakers while making decisions
+about design, development and execution of e-Government
+initiatives in Africa.
+
+Market Force
+
+4. REFERENCES
+
+Lack of peace,
+unstable
+government,
+government
+structure
+
+Political
+Phenomena
+
+Developed
+legal
+system to facilitate
+effective regulatory
+policies
+
+Legal System
+
+Lack of establishing
+and
+setting
+up
+appropriate policies
+to identify research
+areas
+
+Policy
+
+Education level of
+citizens,
+gender
+inequalities
+(eg.
+Women account for
+
+Social Issues
+
+Political context
+
+[1] United Nations Division for Public Economics and Public
+Administration & American Society for Public Administration
+(2001). Benchmarking E-government: A Global Perspective:
+Assessing the Progress of the UN Member States.
+
+[2] UN Department of Economic and Social Affairs (UNDESA)
+and the Civic Resource Group (CRG) (2003). UN Global Egovernment Survey. Retrieved June 19, 2008, from
+unpan1.un.org/intradoc/groups/public/documents/UN/UNPAN028
+607.pdf
+[3] United Nation Department of Economic and Social Affairs
+Division for Public Administration and Development
+Management (2004).Global e-Government Readiness Report
+2004: Towards Access for Opportunity.
+
+Social
+Environment in
+Nations deploying
+
+[4] United Nation Department of Economic and Social Affairs
+Division for Public Administration and Development
+Management (2005).Global e-Government Readiness Report
+2005: From E-Government to E-Inclusion.
+[5] United Nations Department of Economic and Social Affairs
+Division for Public Administration and Development
+
+Management (2006). E-Participation and E-Government:
+Understanding the Present and Creating the Future.
+[6] United Nations Department of Economic and Social Affairs
+Division for Public Administration and Development
+Management (2008).UN e-Government Survey 2008: From eGovernment to Connected Governance.
+[7] Potnis, D. & Pardo, T.(2008). A work in progress: The United
+Nations eGRI, 2008 Digital Government Conference, Montreal,
+Canada.
+[8] Curtin, G.(2007). Encyclopedia of Political Communications.
+Thousand Oaks, CA: Sage Publications.
+[9] Heeks, R. (2006). Understanding and measuring
+eGovernment: International benchmarking studies. Paper prepared
+for UNDESA workshop, E-Participation and E-Government:
+Understanding the Present and Creating the Future (Budapest,
+Hungary, 27-28 July 2006). Retrieved September 1-10, 2008,
+from
+http://www.ansaafrica.net/uploads/documents/publications/eGovernment_benchm
+arking_2006.pdf.
+[10] Heeks, R. (2002). iGovernment Working Paper Series:
+eGovernment in Africa: Promise and Practice Institute for
+Development Policy and Management.
+[11] Ridley, G. (2008). e_Government: making sense of
+fragmentation and contradiction. E-gov pre-ECIS Workshop,
+Galway Ireland. (Unpublished).
+[12] Molla, A., (2000). Downloading or Uploading? The
+information economy and Africa's current status”, Information
+Technology for Development. 9, 205-221
+[13] Frohmann, B.,(2007). Assembling an African Information
+Ethics. International Review of Information Ethics.7, 1-11
+[14] International Food and Policy Research Institute (2000).
+Bridging the Digital Divide. (unpublished)
+
+[15] Stambach, A.,
+& Malekela, G.(2006). Education,
+technology, and the 'new' knowledge economy: views from
+Bongoland. Globalization, Societies and Education. 4(3), 321-336
+[16] Weber, S., & Bussell, J.(2005).Will Information Technology
+Reshape the North-South Asymmetry of Power in the Global
+Political Economy? Studies in Comparative International
+Development, 40(2),62-84.
+[17] Britz,J., Lor,p., Coetzee, I., & Bester, B.(2005). Africa as a
+knowledge society: A reality check. The International Information
+& Library Review, 38(1), 25-40
+[18] Heeks, R. (2002). Information Systems and Developing
+Countries: Failure, Success, and Local Improvisations, The
+Information Society, v. 18.
+[19] Huyer, S. (2002).ICTs, Globalization and Poverty Reduction:
+Gender Dimensions of the Knowledge Society, IDRC
+Publications.
+[20] Chikonzo, A.(2006). The potential of information and
+communication technologies in collecting, preserving and
+disseminating indigenous knowledge in Africa. The International
+Information & Library Review, 38, 132–138
+[21] Lor, J., & Britz, J.(2007).Is a knowledge society possible
+without freedom of access to information? Journal of Information
+Science, 33, 387
+[22] Kabamba, J.(2008). Globalization a disservice to human
+development in Africa: the impact of ICT, Central University of
+Technology, Free State, South Africa, unpublished.
+[23] Voutier, R.(2005). Leading Africa into the knowledge society
+Speech to Knowledge Management Africa 2005, Johannesburg,
+South Africa., unpublished.
+
+

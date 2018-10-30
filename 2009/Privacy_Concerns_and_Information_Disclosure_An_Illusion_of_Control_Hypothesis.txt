@@ -1,0 +1,188 @@
+Privacy Concerns and Information Disclosure:
+An Illusion of Control Hypothesis
+Laura
+Brandimarte
+
+Alessandro
+Acquisti
+
+George
+Loewenstein
+
+Carnegie Mellon
+University, Heinz
+College
+4800 Forbes Avenue
+HBH 238
+Pittsburgh, PA 15213
+(+1) 412 268 8892
+
+Carnegie Mellon
+University, Heinz
+College
+4800 Forbes Avenue
+HBH 2105C
+Pittsburgh, PA 15213
+(+1) 412 268 9853
+
+lbrandim@andrew.cmu.edu
+
+acquisti@andrew.cmu.edu
+
+Carnegie Mellon
+University – College
+of Humanities &
+Social Sciences
+5000 Forbes Avenue
+PH 208
+Pittsburgh, PA 15213
+(+1) 412 268 8787
+
+Linda Babcock
+Carnegie Mellon
+University, Heinz
+College
+4800 Forbes Avenue
+Pittsburgh, PA 15213
+lb2k@andrew.cmu.edu
+
+gl20@andrew.cmu.edu
+
+ABSTRACT
+In this paper, we run a series of experiments in order to
+investigate one possible cause of inconsistency in people’s
+behavior and concerns regarding online privacy. Even though
+individuals claim that privacy is very important, many end up
+revealing considerable private information in online social
+networks. It is possible that individuals suffer from illusion of
+control when dealing with the privacy of their data: when
+subjects are personally responsible for the publication of
+private information online, they may also tend to perceive
+some form of control over the access and use of that
+information by others. If, instead, a third party were
+responsible for the publication of the same data, they may
+feel a loss of control and realize that once private information
+is posted online not only can it be accessed, but also used by
+others without authorization: once it is available on the
+network, that information becomes indeed public.
+
+Keywords
+Digital Information, Privacy, Illusion of Control.
+
+1.
+
+can influence an event with his behavior, while rationally it is
+clear that he has no power to affect the outcome. Ellen
+Langer referred to the attitude of people to “behave as though
+chance events are subject to control” (Langer, 1975). Langer
+emphasized the fact that people have troubles in
+distinguishing cases where skill is necessary for success from
+instances where success relies exclusively on chance, a
+common feeling that is also captured by proverbs like “God
+helps those who help themselves”, or “Fortune favors the
+bold”. This heuristic has been detected in several
+experiments, which provide significant supporting evidence
+of illusion of control, not only when the outcome depends
+totally on chance but also when it is contingent on somebody
+else’s behavior.
+
+2.
+
+EXPERIMENTAL DESIGN
+
+In order to test for illusion of control in the privacy realm we
+are running a series of experiments which focus on
+information revelation in online social networks. The illusion
+of control in the context of privacy in online social networks
+can be interpreted as the belief that direct publication of
+private information on an online profile implies control over
+access and use of that information by third parties.
+
+INTRODUCTION
+
+We investigate one possible cause of inconsistency in
+people’s behaviors and concerns regarding online privacy.
+Even though most individuals claim that their privacy is
+important, many end up revealing considerable private
+information in numerous occasions. Many explanations for
+this (real or apparent) dichotomy have been proposed in the
+literature; we investigate the novel hypothesis that individuals
+may suffer from a form of “illusion of control” when dealing
+with the privacy of their data. Namely, we hypothesize that
+when subjects are personally responsible for the publication
+of private information online, they may also tend to perceive
+some form of control over the access of that information by
+others, thereby confounding publication with access. If,
+instead, a third party were responsible for the publication of
+the same data, they may feel a loss of control and realize that
+once private information is made public (for instance,
+published online) not only can it be accessed, but also used
+by others without authorization.
+
+In the psychological literature, the illusion of control is
+defined as a cognitive bias by which one is convinced that he
+
+In one study, we created two online surveys, containing
+questions about students’ life on campus. Subjects were
+randomly assigned to take one or the other survey. In a
+control condition, the first page of the questionnaire
+contained three lines of instructions, explaining that none of
+the questions required an answer, but that all the answers
+provided would be published on a new campus networking
+website under construction, accessible to the campus
+community only (students, professors, and staff). Instead,
+individuals in a treatment group answered the same
+questions, but were also explicitly asked whether they wanted
+each single answer to be published on the website or not. The
+questionnaire included personal questions in open-ended,
+multiple choice, and rating formats. The difference between
+the two conditions consisted of the treatment group being
+endowed with more control over the publication of private
+information, because they could choose whether to post each
+single answer on their profile or not. In none of the
+conditions, however, subjects controlled the access to their
+profiles and use of the published information by others.
+
+In a second study (in progress), Study 1 protocol was
+modified in the following way: a control group is informed
+that none of the question is mandatory but all the answers
+will be automatically posted as part of the subjects’ profile;
+the treatment group, on the other hand, is informed that only
+a random 50% subset of the answers provided will be posted
+as part of their profile. If our hypothesis is correct, people
+may be willing to reveal more in the control condition, where
+there is no random outcome, despite the fact that the amount
+of information published online will certainly be lower in the
+treatment condition.
+In a third study (also in progress), we turned the framework
+of Study 1 into a 2x2 design: we manipulate both the control
+that subjects have over the publication of private information
+and the accessibility of their profile by others. In one
+condition, subjects are informed that none of the questions is
+mandatory but that all the answers provided will be part of
+their online profile, which will only be accessible by the
+campus community. In a second condition, we vary the
+control dimension telling subjects that a random (50%) subset
+of the answers provided will be posted online, but we leave
+the accessibility dimension unaltered (the profile will still be
+accessible by the CMU community only). In a third
+condition, subjects are informed that all the answers provided
+will be part of their online profile, which will be accessible
+by members of campus community, but also communities at
+other nearby campuses. In a fourth condition, subjects are
+told that a random (50%) subset of the answers provided will
+be published and that their profile will be accessible by
+members of the various nearby campuses mentioned above. If
+subjects were not responding to the accessibility
+manipulation, they would be strongly suggesting
+“irrationality” in their decision of publication of private
+information, reinforcing our hypothesis that other
+psychological mechanisms and heuristics, rather than
+classical rationality, guide people’s online privacy decision
+making.
+Across the various studies, the dependent variable of interest
+is, primarily, whether the subject decides to answer the
+questions, and in particular whether she answers the more
+privacy-intrusive questions.
+
+

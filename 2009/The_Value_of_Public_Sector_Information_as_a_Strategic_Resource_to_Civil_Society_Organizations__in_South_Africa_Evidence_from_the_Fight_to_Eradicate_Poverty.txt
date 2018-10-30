@@ -1,0 +1,578 @@
+The Value of Public Sector Information as a Strategic Resource to Civil
+Society Organizations’ in South Africa: Evidence from the Fight to
+Eradicate Poverty
+Background and Rationale
+The public sector in most countries is the
+biggest single producer and owner of a large
+variety of information. Governments create,
+collect, manage, and store vast quantities of
+data and information and increasingly try to
+disseminate much of it online (see Steinberg
+& Mayo, 2007). The data and information
+that are produced by and for public sector
+bodies include, for example, health and
+education data, geographic data, financial
+reports, social and economic statistics,
+legislation and judicial proceedings, food and
+water resources data, and many other kinds of
+data and information, collectively referred to
+as Public Sector Information (PSI). Given the
+special characteristics of the PSI (e.g.,
+comprehensiveness, reliability, timeliness,
+and accuracy), this information is considered
+by different stakeholders to have economic,
+social, and political values (Uhlir, 2004; Abd
+Hadi & McBride, 2000; Sheriff, 2000;
+Young, 1992).
+These information resources are used broadly
+by public-sector organizations themselves,
+through intra- and inter-governmental
+exchange of information (see Sheriff, 2000;
+Abd Hadi & McBride, 2000); by privatesector companies in general and by
+information industry firms in particular as reusers, to use it in their operations or to
+produce value-added information products
+and services (Abd Hadi & McBride, 2000;
+Young, 1992); by scientific communities
+(e.g., employment information is now used
+extensively in the social sciences and in
+policy making; and data from public health
+organizations play a growing role in the
+advancement of life sciences) (see Arzberger
+et al., 2004) ; by individual users (e.g., for
+health and educational purposes and for
+making social and economic decisions); and
+by civil society organizations (e.g., the use of
+
+geospatial data, economic statistics, health
+and education information for poverty
+mapping and other related activities) (see
+CIESIN, 2006).
+Problem Statement
+In the last two decades or so, the countries in
+the Organization for Economic Co-operation
+and Development (OECD) have engaged in
+serious policy discussions about access to and
+use of PSI, and its potential impact on
+societies’ socioeconomic development. But
+little scientific research has been done to
+produce empirical evidence about access to
+and utilization of the PSI and its
+socioeconomic value and benefits to the
+communities using it. Furthermore, most of
+these discussions and activities were
+primarily focused on the commercial use of
+PSI by industry or in some cases by
+governments. None of these efforts and
+studies has ever examined the noncommercial use of PSI, especially its
+utilization by Civil Society Organizations
+(CSOs), and its impact on their effectiveness
+and innovativeness. Moreover, with only a
+few exceptions, discussions of the importance
+of PSI and efforts to take advantage of this
+strategic resource are almost absent in the
+developing world and the PSI-related
+literatures. This is very ironic given that PSI
+can be of special importance to these
+countries, especially in their fight against
+poverty, in the public health and in other
+socioeconomic problems.
+South Africa is one of the exceptions, where a
+number of strategic steps have been taken
+after the historic transformation of the country
+to a democratic state in 1994 to make more
+PSI available to the public and to encourage
+different groups of the South African society
+to use and maximize the value of this
+information. This makes South Africa a
+
+unique case for the study of the importance
+and value of PSI in the developing world,
+given that very few developing countries have
+taken similar steps to make their information
+more openly available to the public.
+Furthermore, almost all of the pressing
+socioeconomic problems in the developing
+world are present in South Africa, which
+makes any empirical evidence about the value
+of PSI to socioeconomic development in this
+country applicable to other developing
+nations.
+Research Purpose and Questions
+The main purpose of this dissertation research
+is to investigate whether, and if so how, PSI is
+utilized by the South African CSOs to add
+value to their efforts to eradicate poverty.
+Employing a mixed-method, multiple case
+study approach (Yin, 2003), I draw upon
+literature from the fields of economics of
+information and organizational studies. The
+concepts of value of information (Parker and
+Houghton, 1994), management of external
+knowledge (Sammons, 2005), absorptive
+capacity (Cohen & Levinthal, 1990; Zahra &
+George, 2002), organizational learning
+(Argyris
+and
+Schön,
+1978),
+and
+organizational innovation (March & Simons,
+1958) will be used to guide my inquiry to
+demonstrate the value of PSI to South African
+CSOs through describing and explaining the
+CSOs processes to identify, acquire
+(including factors that can facilitate or hinder
+access and acquisition of the PSI; e.g.,
+technical, legal, economic and institutional
+barriers.), assimilate, transform and exploit
+this strategic resource. The organizational
+conditions for successful utilization of the PSI
+will be identified as well. More specifically,
+the study has three objectives:
+
+-
+
+-
+
+-
+
+Identifying and documenting successful
+approaches and mechanisms: the research
+will develop more systematic knowledge
+about the successful approaches and
+mechanisms that CSOs follow to utilize
+PSI and add value to their work in the
+poverty reduction area.
+Building a knowledge base of the
+successful utilization processes: the
+research will identify and document the
+variables,
+relationships,
+problems,
+patterns, opportunities and conditions
+involved in the processes of successful
+utilization of the PSI to gain better
+understanding of what works and what
+doesn’t work in these processes.
+Sharing approaches that work: to provide
+a series of “tried and tested” transferable
+approaches and mechanisms of successful
+utilization of PSI as a means of helping
+and educating similar CSOs in the poverty
+reduction area and other similar areas.
+
+To that end, the main research question of my
+dissertation is:
+To what extent and in what ways is PSI
+utilized to add value to South African CSOs
+efforts to eradicate poverty?
+The study will begin by identifying what
+types of PSI are being used by the relevant
+population of South African CSOs, and for
+what purposes. It will then answer the
+following questions:
+1- What characteristics and conditions of
+the PSI facilitate or hinder its
+acquisition and assimilation?
+2- What organizational conditions enable
+successful exploitation of PSI by the
+CSOs?
+
+Figure 1:Study Conceptual Framework
+Internal Factors:
+67%)7 7-0/(-8 9*):0-82-;-<=-7%-*"5*(-7*/0 4-"./*%&4&
+
+CSOs9 Absorpti=e Capacit?
+New$
+External
+Information
+(PSI)
+
+Potential
+!"#$%&%
+'(%)*
+
+RealiDeE
+!&&%4%'
+0/(%)*
+
+,7/*&>)7'
+4/(%)*
+
+3<=0)%'
+(/(%)*
+
+CSOs New$
+Inno=ati=e
+Acti=ities,
+Ser=ices,
+Publications,
+etc H
+
+External Factors: PSI Barriers
+•,-".*%"/0
+•1-2/0
+•3")*)4%"
+•5*&(%($(%)*/0
+As shown in figure 1, the study adopts
+Zahara & George (2002) reconceptualized
+version of the absorptive capacity
+construct, which is defined as the
+organization’s ability to recognize the value
+of new external knowledge, assimilate it
+and apply it to commercial ends (Cohen &
+Levinthal,
+1990).
+In
+their
+reconceptualization, Zahra & George
+(2002) introduced a “transformation” stage
+to the construct and distinguished between
+an organization’s “potential capacity”,
+defined as the ability to acquire and
+assimilate external knowledge; and the its
+“realized capacity”, defined as the ability to
+transform and exploit external knowledge.
+I argue that the absorptive capacity
+construct and its links to organizational
+learning and organizational innovation
+literatures provides a comprehensive
+framework to describe and explain the
+processes of PSI utilization by the CSOs
+(i.e., acquire, assimilate, transform, and
+
+exploit the PSI) and will help in identifying
+the organizational conditions for successful
+exploitation of this strategic resource.
+Methodology
+I am interested in understanding the
+processes by which the South African
+CSOs utilize PSI to add value to their
+efforts to eradicate poverty. Thus, I need to
+develop a close, empirical understanding of
+the conditions, variables, and relationships
+involved in these processes. I need to
+understand why and how the PSI is
+recognized to have value for CSOs’ work,
+what are the characteristics and conditions
+of the PSI that can facilitate or hinder these
+processes, and finally, what are the
+organizational conditions for successful
+utilization of such a strategic resource. In
+order to shed a light on these issues, I will
+use a mixed-method, multi-phase study of
+several cases. I will collect both
+quantitative and qualitative data through
+
+document review, surveys and fieldwork in
+the form of in-depth semi-structured
+interviews. This will allow me to acquire a
+richer understanding of these processes
+within the CSOs context. Also, the use of
+multiple methods will allow me to get
+various types of data to answer my research
+questions (Tashakkori & Teddlie, 1998).
+The case study approach (Yin, 1984) is
+considered to be one of the powerful and
+frequently used research methods in social
+science, sociology, and social work
+(Gilgun, 1994). The use of case study
+method is well-recognized for studies
+where the context is important (Yin, 2003).
+This method “seeks to understand the
+problem being investigated … and provides
+an opportunity to delve into issues for
+richness; to understand the nature and
+complexity of a given phenomenon that is
+contemporary and not yet thoroughly
+researched” (Yin, 1984, p. 13). The
+advantage of following the case study
+approach for this study is that I can capture
+and understand the distinctive variables and
+relationships involved in the processes of
+utilizing the PSI by the South African
+CSOs. If I don’t use these multiple methods
+under the case study umbrella, I might not
+be able to be a full picture of these
+processes and I might be missing some
+important aspects of it.
+Significance and Expected Contributions
+It is expected that the discussions and
+findings of this study will have practical
+and theoretical contributions, and will
+greatly contribute to bridging some of the
+gaps in the related literatures.
+Although there appears to be broad
+recognition by different stakeholders of the
+key role that PSI can play in the
+socioeconomic development of societies,
+yet there are significant gaps in our
+understanding of how PSI is actually
+utilized
+by
+different
+communities,
+especially for non-commercial purposes by
+
+CSOs. There is also little systematic
+analysis of PSI’s socioeconomic value and
+impact on societies. The lack of
+comprehensive, detailed empirical data and
+systematic research applies especially to
+PSI disseminated online in both the
+developed and the less economically
+developed regions.
+However, the need to conduct such studies
+in the developing countries, in my opinion,
+is much more critical and needed because,
+in addition to its expected value to the
+creation of innovative products and
+services, increasing employment and
+generating considerable revenues (similar
+to the situation in some OECD countries),
+PSI has a great potential to address
+fundamental development problems in the
+developing world such as poverty, public
+health and environmental issues.
+It is expected that the findings of this study
+will provide policy makers in South Africa,
+as well as in other developing countries,
+with evidence about the value of making
+more PSI easily and freely available,
+especially online. It will also shed some
+light on the problems resulting from putting
+barriers to this resource, hoping that this
+will help improve or rationalize their
+policies. It is also expected that this
+evidence will motivate other CSOs working
+in the poverty reduction and other
+development areas to take full advantage of
+the available PSI. Moreover, the findings of
+this research could have some implications
+for funding agencies and international
+organizations working in the poverty
+reduction area, especially by encouraging
+them to explore the ways by which they can
+build CSOs internal capacities, so these
+organizations become better prepared to
+take full advantage of the available PSI.
+Also, answers to the study questions will
+contribute to filling some theoretical and
+methodological gaps in the related
+literatures. In the PSI area, the main
+theoretical and methodological contribution
+
+of this study will be the application of
+organizational studies theories and concepts
+(i.e., absorptive capacity, organizational
+learning and innovation) to the study and
+understanding
+of
+PSI
+value
+and
+contribution to societies. Among the main
+observations of the OECD-US National
+Academies workshop on “Measuring the
+Social and Economic Cost and Benefits of
+Access to and Use of Public Sector
+Information” (2008) were: (1) the lack of
+strong theoretical foundation and robust
+data collection approaches in the study of
+the social and economic value of PSI; and
+(2) the insufficient multidisciplinary or
+multidimensional studies in this area. To
+that end, the workshop emphasized the
+need to promote and facilitate more
+academically-focused research that is
+informed by well-established theories and
+methodologies
+(OECD-US
+National
+Academies, 2008). Furthermore, in their
+article titled “Access to Public Sector
+Information in Europe: Policy, Rights and
+Obligations”, Blakemore & Craglia (2006)
+discussed some explanatory perspectives
+that could be adopted for the analysis of
+PSI policy, rights and obligations. These
+approaches were: organizational theory,
+actor-network theory, the postmodernist
+work of Foucault focusing on power
+relations, and the economic approach. The
+authors concluded that “ at the end of
+discussion, we are still grappling with the
+theoretical models applicable to digital
+information that link rights to citizen
+obligations and to the responsibilities of
+government” (p.21).
+Also, this study
+focuses on the user rather than the producer
+perspective on access to and use of the PSI.
+This is consistent with Blakemore and
+Craglia (2006) proposal that “the focus of
+the PSI debate needs, first and foremost, to
+move away from an agenda articulated
+primarily through the power of the PSI
+producers, and more toward an agenda that
+is clearly based on the citizen/consumer
+
+needs, but also where the agenda is
+mediated by the need to identify resources
+that will maintain the quality of PSI”(p.20)
+(see also summary of the OECD-US
+National Academies workshop, 2008).
+The study is also expected to fill some gaps
+in the field of organizational studies,
+especially in the area of absorptive
+capacity. Fosfuri et al. (2008) argue that
+while much research has been conducted
+about the absorptive capacity of
+organizations; the link between external
+knowledge and organizational performance
+hasn’t been studied enough. Also, Lane et
+al. (2002), who reviewed about 180 papers
+that cited Cohen & Levinthal (1990),
+emphasize that not only that the lack of a
+direct empirical measure of absorptive
+capacity caused some problems with the
+comparability of research results, it has also
+led to little research “on the process by
+which absorptive capacity is developed”
+(p.5). Furthermore, Veugelers (1997) called
+for more work “to identify specific firm
+characteristics generating this absorptive
+capacity” (p.314).
+The study of PSI as a source of external
+knowledge to South African CSOs offers a
+unique opportunity to investigate this
+theme of research. Given the special
+characteristics (e.g., diversity in types,
+volumes, sources, formats, accuracy,
+timeliness, etc) and conditions (e.g.,
+technical, economic, legal and institutional
+barriers) of the PSI; and given the assumed
+potential value of the PSI to the work of
+these organizations, I argue that the
+absorptive capacity construct and its links
+to
+organizational
+learning
+and
+organizational
+innovation
+literatures
+provides a comprehensive framework to
+describe and explain the processes of PSI
+utilization by the CSOs and will help in
+identifying the organizational condition for
+successful exploitation of this strategic
+resource.
+
+Keywords: public sector information, civil
+society organizations, poverty reduction,
+socioeconomic development, absorptive
+capacity.
+References
+Abd Hadi, Z., and McBride, N. (2000). The
+commercialization of public sector
+information within UK government
+departments. The Journal of Public
+Sector Management, 13 (7), p. 552-70.
+Argyris, C. and Schon, D. (1978).
+Organizational Learning: A Theory of
+Action Perspective. Reading, MA:
+Addison-Wesley.
+Arzberger, et al. (2004). Promoting Access to
+Public Research Data for Science,
+Economic, and Social Development.
+Data Science Journal, CODATA, p.135152.
+Blakemore, M. and Cragila, C. (2006). Access
+to Public Sector Information in Europe:
+Policy, Rights and Obligations. The
+Information Society, 22:13-24.
+CIESIN (Center for International Earth Science
+Information Network), Columbia
+University. 2006. Where the Poor Are:
+An Atlas of Poverty. Palisades, NY:
+Columbia University. Available at:
+http://www.ciesin.columbia.edu/povmap/.
+
+Cohen,W. M., and Levinthal, D. A., (1990).
+Absorptive Capacity: A new perspective
+on learning and innovation.
+Administrative Science Quarterly, 35(1),
+128-152
+Gilgun, J. F. (1994). Hand into glove: The grounded
+theory approach and social work practice
+research. In E. Sherman & W. J. Reid (Eds.),
+Qualitative research in social work (pp. 115–
+125). New York: Columbia University Press.
+
+Fosfuri, A. and Tibo, J. A. (2008). Exploring
+the antecedents of potential absorptive
+capacity and its impact on innovation
+performance. Omega, (36) 173-187.
+Lane, P. J., Koka, B., and Pathak, S. (2002). A
+thematic analysis and critical assessment
+of absorptive capacity research.
+Academy of Management Proceedings.
+March, J. G. and Simon, H. A. (1958).
+Organizations. John Wiley & Sons
+
+OECD- U.S. National Academies
+Summary Report (Forthcoming).
+Workshop on Measuring the
+Social and Economic Cost and
+Benefits of Access to and Use of
+Public Sector Information (PSI).
+Paris, France. Feb. 4-5, 2008.
+Parker, J. and Houghton, J. (1994). The
+value of information: paradigms
+and Perspectives. Paper
+presented at 57th Annual
+Meeting of the American Society
+for Information Science,
+Alexandria, VA, Learned
+Information, Inc.
+Sammons, P. A. (2005). Buying Knowledge:
+Effective Acquisition of External
+Knowledge. Gower Publishing, Ltd.,
+Sheriff, M. (2000). The value of information in
+organizations: a study of information use
+situations as context of value.
+Unpublished Ph.D. Thesis, London
+School of Economics.
+Tashakkori,A., & Teddlie,C. (1998). Mixed
+Methodology: Combining Qualitative and
+Quantitative Approaches (vol.46). Thousand
+Oaks, California: Sage Publications.
+
+Uhlir, P. (2004). Policy Guidelines for the
+Development and Promotion of
+Governmental Public Domain
+Information. UNESCO, Paris. Accessed
+Sept. 10, 2008 at
+http://portal.unesco.org/ci/en/ev.phpURL_ID=15863&U
+RL_DO=DO_TOPIC&URL_SECTION=201.html/.
+
+Veugelers, R. (1997). Internal R&D
+expenditures and external technology
+sourcing. Research Policy (26) 303-315.
+Young, R. H. (1992). The tradable information
+initiative. In Heywood, I. & Hudson,
+J.K. (Eds), Geographical Information
+1993-Year Book of the Association of
+Geographic Information, Taylor and
+Francici, London, pp.231-238.
+Zahra, S. A., and George, G. (2002).
+Absorptive Capacity: A review,
+reconceptualization, and extension.
+Academy of Management Review, 27
+(2), 185-203.
+Yin, R. (2003). Case Study Research, 3rd ed.
+Sage Publications, Thousand Oaks, CA.
+Yin, R. (2003). Case Study Research, 3rd ed.
+Sage Publications, Thousand Oaks, CA.
+
+

@@ -1,0 +1,83 @@
+A Dynamic Visualization Interface for Search Service
+Haozhen Zhao, Tom Casteel, Xia Lin
+The iSchool at Drexel
+College of Information Science and Technology
+Drexel University 
+Philadelphia, PA 19104 USA
++1.215.895.2447
+{haozhen.zhao,tom.casteel, xlin}@ischool.drexel.edu
+ABSTRACT
+Visualization methods such as node-link trees and space-filling representations expose semantic relationships using spatial arguments to communicate information in ways that text cannot. In this paper, we describe a prototype system that visualizes semantic relationships of search results from the XML-based search service APIs of a large database. OSTI, the source selected for our proof-of-concept prototype, is a major government energy database offering broad coverage of alternative energy resource information including solar, wind, hydroelectric and geothermal topics, among others. The intent is to expand this prototype to facilitate document retrieval clustering around subject terms from any of several large databases with XML-enabled APIs. 
+Categories and Subject Descriptors
+D.2.2 [Software Engineering]: Design Tools and Techniques –Modules and interfaces.
+General Terms
+Algorithms, Design, Languages
+Keywords
+Web service, API, Visualization, Semantic Mapping
+
+INTRODUCTION
+
+
+Many Web services are now available for search engines and scientific literature databases (Google[1], PubMed[2], OSTI[3], etc.). To use such a Web service, the user needs only to specify a query in a URL to fetch search results from the service provider API. To interact with the search results, however, a good graphical interface is essential as most of these web services return search results in XML format. In this paper, we present a prototype interface that renders XML search results to a visual interface, facilitating rich user experience and interaction with the search results.  The current interface is being tested with various APIs from the Office of Scientific and Technology Information of the U.S. Department of Energy (DOE OSTI). The APIs allow access to multiple OSTI key databases of scientific literature such as Information Bridge, Energy Citations, and Science Conference Proceedings, etc. [3]. All the databases contain millions of full text documents and bibliographic citations that are fully indexed by controlled vocabularies [4]. The objectives of our interface thus include: (1) to make it easy and transparent for the user to take advantage of controlled vocabularies for precision searching and browsing in large databases, (2) to visualize semantic relationships of terms and documents in the result sets, and (3) to provide various interactive functions to enrich user experience with the interface, content, and databases.  
+
+In the following, various mapping procedures underlying the interface will be described first. The architecture and design of the interface will be introduced next. User experience through the interface then will be discussed. During the conference poster session, we will show the prototype system live to demonstrate the dynamic and interactive nature of the interface.
+Semantic Mapping for Visualization
+The searching process is essentially a mapping process that maps a user’s query to a set of retrieval results. As the user most often will not be satisfied with the result of his or her initial query, a good search interface needs to adequately support search strategy formulation and reformulation [5]. One objective of our interface is to invite the user to browse, interact, and explore the initial and subsequent search results before they reformulate a new search strategy with controlled vocabulary terms whenever possible. To achieve this, we utilize three types of mappings to support our visualization interface. The first is the mapping of the user’s query to a set of most relevant controlled vocabulary terms. The second is the mapping of semantic relationships of subject terms through co-occurrence counts of the terms in the databases and in the search results. The third is the mapping of semantic relationships to a visual display that optimizes the display and shows only the most salient relationships among the terms or documents. 
+
+The mapping of the user’s query to subject terms is based on the topic signature language model developed by Zhou et. al. [6]. Subjects of documents here are regarded as topic signatures which convey much contextual information present in the documents, and therefore could be mapped to terms through a process of semantic translation. The relatedness between a term  EMBED Equation.3 and a subject  EMBED Equation.3  is generated through the following model:
+ EMBED Equation.3 ,
+where  EMBED Equation.3  is a topic model representing the chance of term  EMBED Equation.3 co-occurring with  subject  EMBED Equation.3 ,  EMBED Equation.3  represents background global information about terms distribution in the whole collection, and   EMBED Equation.3 is the background coefficient and set to 0.5 in our model. Since the model considers both topic and collection level information on relevance, it is a context-sensitive semantic mapping between queries and subjects. For example, if a user chooses “solar” as a query, it will be mapped to subjects with a high degree of semantic relevance, presenting results such as “SOLAR ENERGY”, “SOLAR EQUIPMENT”, “PHOTOVOLTAIC CELLS”, “SOLAR ENERGY CONVERSION” and so on.
+
+Term co-occurrence is often used to represent the semantic relationship of terms [7, 8, 9]. In our interface, we exploit the co-occurrence information between subjects in a sample collection. The sample collection is readily transformed into a co-occurrence matrix among subjects, where each cell represents the frequency of documents in which the two subjects co-occur. The justification of this kind of co-occurrence is that it reveals richer information about the relationship between subjects beyond the general term relationships, such as NT/BT, in a hierarchical taxonomy, therefore making subjects much more flexible in reflecting relationships between relevant groups of documents. 
+
+To make the subject co-occurrence information intuitive and tangible to the end user, we introduce some visualization techniques to visualize the result. Pathfinder Networks (PFNETs) is a popular visualization algorithm which eliminates less salient links while retaining the most salient links among concepts, therefore making the relationships among them intelligible [10]. We choose here the PFNETs algorithm to project the high dimension co-occurrence matrix among subjects to a visual plane of two dimensions, using nodes to represent subjects and links to explicitly connect most directly-associated subjects. 
+System Design
+In this section, we present the architecture of our system. (Figure 1) There are five major components of our system: (1) The API Adapter could be set to parse XML files from different search services into the collection format of the Dragon Toolkit [11]. (2) The Indexing Module takes the collection file produced by the API Adapter as input to build a term-document index and a subject-document index with the Dragon Toolkit. Based on these two indices, it will generate a term-subject matrix and a subject-subject matrix. (3) The Mapping Module accepts the user’s query and returns a relevant subject list based on the semantic mapping mode described in section 2. (4) The Visualization Module takes any subject, either submitted by the user from the subject list or the subject map, to generate a subject map based on the co-occurrence counts among 25 most relevant subjects. These co-occurrence counts are further processed using the PFNET algorithm described in Section 2. The result is encoded in XML format and sent to The User Interface Module. (5) The User Interface Module presents an XML file of the subject map in a node-link tree layout. It also presents the relevant subject list to the user and lets the user interact with the interface.
+
+
+
+
+
+
+
+
+User Experience with the Interface
+The interface provides access to the literature databases through our backend servlets and web services. For each user query, the interface not only returns relevant terms conventionally as a list, but also presents the user with a mapping of the semantic relationships among the terms. The mapping is represented graphically with nodes and edges. Each node represents a term with a unique label that either shows on the screen or appears on the screen upon mouseover. The X and Y coordinates and edges are determined by the mapping algorithm described earlier. The size parameter of nodes represents term rank, where larger nodes correspond with higher term frequency ranks. The user is able to drag and drop nodes and manipulate the overall structure in order to better expose semantic relationships. Clicking on a node, or on a listed link, submits a new search query to the backend services, causing a new mapping to be generated dynamically.  
+
+
+
+Figure 2.  Two UI Screenshots.
+The goal of the visualization interface is to expose the contents of a large database more quickly, and to represent semantic relationships among terms more accurately than simple ranked search lists. Figure 2 shows a visualized display of two different search results. On the top, the display shows the term relationships; on the bottom, the display shows document relationships using node-link trees. Interaction with one display will automatically show on the other display. At a glance, users will be able to determine the relative frequencies of terms as well as use edges and X and Y coordinate space to visually explore relationships among terms that may not have been revealed by ranked lists. Users are also able to customize such parameters as number of nodes displayed, or color.
+ACKNOWLEDGMENTS
+The first and second authors are supported by IMLS fellowships.
+REFERENCES
+Google (n.d.).  Google AJAX Search API (website). http://code.google.com/apis/ajaxsearch/
+National Center for Biotechnology Information (n.d.).  NCBI Entrez Utilities Web service.  http://www.ncbi.nlm.nih.gov/entrez/query/static/esoap_help.html
+Office of Scientific and Technical Information (n.d.). OSTI key databases and resources. http://www.osti.gov/collections.html 
+Office of Scientific Technical Information (n.d.)  OSTI Thesaurus. http://www.osti.gov/taxonomy/ 
+Wildemuth, B. M. (2006). Evidence-based practice in search interface design. Journal of the American Society for Information Science and Technology, 57(6), 825-828.
+Zhou, X., Hu, X., & Zhang, X. (2007). Topic Signature Language Models for Ad Hoc Retrieval. IEEE Transactions on Knowledge and Data Engineering, 1276-1287.
+White, H. D., & McCain, K. W. (1998). Visualizing a discipline: An author co-citation analysis of information science, 1972-1995. Journal of the American Society for Information Science, 49(4), 327-355.
+Lin, X., White, H. D., & Buzydlowski, J. (2003). Real-time author co-citation mapping for online searching. Information Processing and Management, 39(5), 689-706.
+Chen, C. (1999). Visualising Semantic Spaces and Author Co-Citation Networks in Digital Libraries. Information Processing and Management, 35(3), 401-420.
+Lin, X., White, H. D., & Buzydlowski, J. (2003). Real-time author co-citation mapping for online searching. Information Processing and Management, 39(5), 689-706.
+Zhou, X., Zhang, X., & Hu, X. (2007). Dragon Toolkit: Incorporating Auto-Learned Semantic Knowledge into Large-Scale Text Retrieval and Mining. In Proceedings of 19th IEEE International Conference on Tools with Artificial Intelligence (ICTAI 2007). 
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+
+
+Figure 1. System Architecture.
+
+
+

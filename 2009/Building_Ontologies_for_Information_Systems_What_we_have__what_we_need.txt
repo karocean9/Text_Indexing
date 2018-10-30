@@ -1,0 +1,255 @@
+Building Ontologies for Information Systems:
+What we have, what we need
+Andrey Soares
+
+Frederico Fonseca
+
+Pennsylvania State University
+University Park, 16802
++1(814)865-6177
+
+Pennsylvania State University
+University Park, 16802
++1(814)865-6460
+
+asoares@ist.psu.edu
+
+fredfonseca@ist.psu.edu
+
+ABSTRACT
+
+driving all of its aspects and components.
+
+In this research, we investigate how we can build ontologies that
+are suitable to Information Systems design. We analyzed
+methodologies for building ontologies from scratch. Preliminary
+results show that the process of building ontologies for
+Information Systems should address issues of metamodels,
+procedural knowledge, temporal relations and knowledge
+acquisition.
+
+Building ontologies for Information Systems is not an easy task,
+and requires a great set of skills from the Ontology Engineer.
+There has been a proliferation of conceptual modeling methods
+that use ontology as an artifact in Information Systems Analysis
+and Design (ISAD). Despite almost three decades of research and
+a shared understanding that ontology plays a central role in
+Information Systems [2, 4, 5, 6], researchers have not yet
+produced a standard set of methodological guidelines for building
+ontologies to be used in ISAD.
+
+Categories and Subject Descriptors
+I.2.4 [Knowledge Representation Formalism and Methods]:
+Representations, Semantic Networks. I.2.6 [Learning]: Concept
+Learning, Knowledge Acquisition.
+
+A survey [7] shows that 60% of the participants did not use any
+methodology to build their ontologies (Figure 1).
+
+General Terms
+Management, Documentation, Design, Theory
+
+Keywords
+Building Ontology, Information Systems Design, Methodologies
+
+1. INTRODUCTION
+The first step in the conceptual modeling activities of
+Information Systems (IS) is the transformation of the perceived
+real-world into a model of the world it intends to represent. As
+ontology is used to represent the real-world, “our descriptions [of
+the world] will only be as good as our ontologies” [1, p.xii], and
+because information systems are models of real-world systems,
+“our information systems will only be as good as our ontologies”
+[1, p.xii].
+We are interested in ontologies in the context of Ontology-Driven
+Information Systems (ODIS), where they can be used at
+development time and at run time [2, 3]. At development time,
+an ontology can be used in the conceptual modeling phase of IS,
+representing the knowledge of a given domain and supporting the
+creation of IS components, such as information resources,
+applications programs, and user interfaces. At run time, an
+ontology can be used as another part of the information system
+Permission to make digital or hard copies of all or part of this work for
+personal or classroom use is granted without fee provided that copies are
+not made or distributed for profit or commercial advantage and that copies
+bear this notice and the full citation on the first page. To copy otherwise, or
+republish, to post on servers or to redistribute to lists, requires prior specific
+permission and/or a fee.
+iConference’09, February 8–11, 2009, Chapel Hill, NC, USA.
+Copyright 2004 ACM 1-58113-000-0/00/0004…$5.00.
+
+Figure 1: Methodologies used to develop ontologies [7].
+The goal of this research is to identify guidelines for the process
+of building ontologies that are suitable to IS design. We studied
+existing methodologies and we identified four main issues that
+need to be considered when designing ontologies to be used in
+ISAD.
+
+2. RESEARCH
+For our sampling, we selected methodologies that fall into the
+category of building ontologies from scratch [8]. In this category,
+we envision ontologies that are built from ground up by designers
+who are acquiring knowledge about a domain through
+interactions with stakeholders and observations of their daily
+activities.
+Our initial investigation revealed important issues that should be
+taken into consideration in the process of building ontologies for
+ISAD. These issues are related to:
+
+
+Metamodels: guide the construction of domain
+ontologies and increases the semantic for
+understanding the domain.
+
+
+
+
+
+Procedural knowledge: describes a set of tasks for
+achieving goals.
+Temporal relations: represent the chronological
+arrangement of the tasks
+Knowledge acquisition: relates to a systematic
+approach for capturing domain knowledge
+
+A thorough analysis of existing methodologies for building
+ontologies should uncover important lessons learned and
+practical approaches that can support the process of building
+ontologies for the purpose of modeling and designing Information
+Systems. It should also provide a list of issues that still need to
+be addressed to allow that to happen.
+We used the issues above and some other criteria that we
+developed to frame the analysis of the methodologies, as follows:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Knowledge Acquisition: we are looking for techniques
+that can help acquiring knowledge about a domain.
+Identify Concepts: we want to know how the
+methodologies support the identification of domain
+concepts, including their related attributes and
+relationships.
+Identify Tasks: this criterion covers how the
+methodologies identify and represent the procedural
+knowledge needed to achieve goals.
+Identify Temporal Relations: we are looking for
+particular ways to identify and to represent the
+chronology and dependences of the tasks within the
+ontology.
+Identify Axioms: an important feature of ontology is the
+possibility of representing relevant constraints of the
+domain. This criterion gives us valuable information on
+how the methodologies propose the identification and
+description of theses constraints as well as what logic
+approaches are used to describe the constraints (e.g.,
+descriptive logic).
+Ontology Levels: developing ontologies with the help
+of a metamodel ontology can provide additional
+knowledge about the domain. This criterion focuses on
+the methodologies that are using different levels of
+ontology.
+Identify Constructs: if a methodology has adopted
+different levels of ontologies, we want to know if they
+propose guidelines for identifying the constructs of the
+higher-level ontologies as well as if they suggest a
+method for mapping the levels.
+Domain Specific: we want to know if the methodology
+was developed to accommodate a specific domain or if
+it is flexible to be applied to other domains, especially
+the Information Systems domain.
+
+Motivated by Guarino’s caveat about the lack of principled
+methodologies to build ontologies [9], we are also paying careful
+attention to the issues identified by each methodology as well as
+the approaches used to overcome the issues. In particular, we
+want to track the influences behind the methodologies by
+identifying (1) if a methodology has included parts from other
+methodologies within its own approach, (2) which methodologies
+have been analyzed to identify open issues, and (3) what specific
+theories have been adopted to support the methodology.
+
+3. CONCLUSION AND FUTURE WORK
+This work reports the preliminary results of our analysis of
+methodologies for building ontologies. Suggesting guidelines for
+building ontologies either by reusing existing approaches or by
+proposing new ones constitutes a significant contribution to IS
+researchers and practitioners.
+As the use of ontology for representing knowledge increases and
+crosses different domains, we see the need for simplified
+approaches for people to build ontologies about their domains. In
+this case, we envision methodologies that will allow end-users
+(i.e., non-ontologists) to build their own ontologies without the
+burden of learning the underpinnings of ontology engineering,
+and in a way that is similar to how they think and communicate.
+Also, people should be able to quickly identify important
+conceptual and procedural knowledge from the domain, and map
+them to the proper constructs of computational ontologies.
+
+4. ACKNOWLEDGMENTS
+We thank Dr. Steve Sawyer, Dr. Mary Beth Rosson, and Dr.
+Timothy Simpson for their valuable criticism and comments on
+the development of this research.
+
+5. REFERENCES
+[1]
+
+[2]
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+Wand, Y. and Weber, R. 2004. Reflection: Ontology in
+Information Systems - Foreword. Journal of Database
+Management, 15, 2, (Apr/Jun), iii-vi.
+Guarino, N. 1998. Formal Ontology in Information
+Systems. In Proceedings of the FOIS'98, Trento, Italy,
+Amsterdam, IOS Press.
+Uschold, M. 2008. Ontology-Driven Information Systems:
+Past, Present and Future. In Proceedings of the 5th
+International Conference on Formal Ontology in
+Information Systems (FOIS2008), Saarbrücken, Germany,
+(Oct 31st - Nov 3rd).
+Bubenko, J. A. 1979. On the Role of 'Understanding
+Models' in conceptual schema design. In Proceedings of the
+Fifth International Conference on Very Large Data Bases,
+Rio De Janeiro, Brazil, IEEE.
+Fonseca, F. 2007. The Double Role of Ontologies in
+Information Science Research. Journal of the American
+Society for Information Science and Technology, 58, 6,
+786-793.
+Wand, Y. and Weber, R. 1989. An Ontological Evaluation
+of Systems Analysis and Design Methods. In Proceedings
+of the Information Systems Concepts: An in-Depth
+Analysis, Elsevier Science Publisher.
+Cardoso, J. 2007. The Semantic Web Vision: Where are
+We? IEEE Intelligent Systems, (September/October), 2226.
+Pinto, H. S. and Martins, J. P. 2004. Ontologies: How can
+They be Built? Knowledge and Information Systems, 6, 4,
+441-464.
+Guarino, N. and Welty, C. 2000. A Formal Ontology of
+Properties. In Proceedings of the EKAW'2000, SpringerVerlag Berlin Heidelberg.
+
+

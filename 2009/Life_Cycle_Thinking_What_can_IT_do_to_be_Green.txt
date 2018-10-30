@@ -1,0 +1,671 @@
+Life-Cycle Thinking: What can IT do to be green?
+Shuyuan Mary Ho
+
+Conrad F. Metcalfe
+
+Syracuse University
+
+Performance Systems Development
+
+325 Hinds, School of Information Studies
+
+124 Brindley Street, Ste. #4
+
+Syracuse, NY 13244-4100
+
+Ithaca, NY 14850
+
+(315) 443-7267
+
+(607) 277-6240
+
+smho@syr.edu
+
+cmetcalfe@psdconsulting.com
+
+ABSTRACT
+Sustainability is a critical theme in transforming both our
+environment and our society to adapt to the rigorous demands of
+the future. This paper serves an educational purpose, and
+introduces the central concept of sustainability; life-cycle
+thinking. Three fundamental problems are discussed with the
+purpose of highlighting the importance and awareness of energy
+use, environmental protection, and the potential for climate
+change. Our current industrialized economy is highly dependent
+on non-renewable fossil fuels that have many negative effects on
+our way of life, and it will take the combined efforts of every
+sector of society to develop suitable alternatives. In response, this
+paper examines the role of information technology (IT) in
+assisting sustainable activities which can transform our economy,
+environment and society. We discuss several opportunities for
+change, such as innovation, new technology adoption,
+manufacturing, cyber-infrastructure, IT management for campus
+operations, and IT research into sustainability activities, etc. in the
+context of how information technology – and iSchool activities
+can support transformation to a green economy. In conclusion, the
+importance of green activities - and research into opportunities for
+sustainability are emphasized.
+
+Categories and Subject Descriptors
+K.4 [Computers and Society].
+
+General Terms
+Reliability, Management.
+
+Keywords
+Sustainability, Campus Operations.
+
+1. INTRODUCTION
+Our society was agriculturally-based up until approximately 1900,
+when the industrial revolution enacted major social changes on
+just about everything. With the discovery of oil, industrial
+Permission to make digital or hard copies of all or part of this work for
+personal or classroom use is granted without fee provided that copies are
+not made or distributed for profit or commercial advantage and that
+copies bear this notice and the full citation on the first page. To copy
+otherwise, or republish, to post on servers or to redistribute to lists,
+requires prior specific permission and/or a fee.
+iConference’09, Feb 8-11, 2009, Chapel Hill, NC, USA.
+Copyright 2009 ACM 1-58113-000-0/00/0004…$5.00.
+
+production and transportation became cheap, and our entire
+culture was shifted accordingly. Families could move farther
+apart, yet still see one another. The workplace could be farther
+from the home. The food we eat could be grown in California and
+shipped to New York without adding much to the overall lifecycle cost. As we now come to the end of this era of cheap
+energy, we will have to change consumer behavior by relocalizing our lives, paying special attention to the life cycle of
+the goods and services that sustain us. We need to re-examine the
+ways that we interface with the global economy to figure out what
+makes sense with regards to sustainability. We need to migrate
+our communities to focus on using products and eating foods that
+are produced locally and/or require less energy - to reduce the use
+of carbon-based fossil fuels.
+We had mechanistic worldview even before our industrialization
+[2, 15]. A mechanistic perspective does not take into
+consideration the interconnectivity of our many disparate systems
+(or elements). The mechanistic / industrialist world-view
+encourages us to look at things as separate components rather than
+understanding the integration of systems. But in fact, as in the
+natural world, everything needs to be integrated for sustainability
+cycles to be maintained. The mechanistic perspective is a useful
+model to observe, but we must move beyond this to look at
+systems in a larger perspective befitting a lifecycle analysis.
+Our current economy is not sustainable; all our major systems are
+based on fossil fuels that are now becoming more and more
+expensive. This basic truism will have a huge impact on
+transportation systems, food production systems, manufacturing
+systems, economic systems, and our most basic life-support
+systems as well. In our society, there has been virtually no
+thought given to the large-scale sustainability of the basic
+fundamentals required for day-to-day survival. For example,
+despite the fact that the majority of advanced society eats meat at
+most meals, this diet is not really sustainable. Worldwide, we do
+not have enough productive farm land to sustain the earth’s
+population through conversion of plant matter to beef and then to
+humans. As a result, humans will eventually be forced to eat
+lower on the food chain. This is just one example of how
+increasing populations will require re-thinking of basic human
+needs.
+An even more compelling example might be the way we have
+come to think about waste. Product designers have been trained to
+design obsolescence into the development of all products; useful
+for a period of time, and then discarded so the consumer buys
+again. This creates a cycle of waste that is now threatening the
+health and well-being of the entire industrialized world. Landfills
+
+are building up at an alarming rate, and cities are being forced to
+spend significant money to separate this waste from the people
+creating it. In response, our entire product life-cycle needs to be
+reformed. And we need sustainability to be worked in to every
+part of our human life-cycle as well.
+
+addition, much of the under-developed world is now looking to
+emulate the western civilization. This means that the cost of all
+energy, commodities, and even the most basic necessities, will
+continue to rise accordingly.
+
+The characteristics that made our civilization great now actually
+threaten to overwhelm us. But the many problems we face can
+also be viewed as opportunities. Overall, we have the opportunity
+to make the world a better place for our future generations. If we
+do not, we will face a world of scarcity and struggle. So the need
+to re-think our activities in a holistic way also offers us the
+opportunity to correct some mistakes we have made. The
+consumerist petroleum-based economy that has created so much
+wealth is now starting to unravel. The system that will replace the
+current economy is now being referred to as the “green”
+economy.
+
+The environment we are living in is constantly being degraded
+[18]. This depletion of resources includes even the most basic
+necessities; air, water and soil. Our ecosystems have become
+damaged and our life support systems have become significantly
+compromised. The degraded and polluted environment results in
+poor health across the population, for example; cancer, asthma,
+toxic chemical build-up, etc. Poor health amongst the population
+also results in increased health costs, and adds to the complexity
+of possible solutions. The costs of re-claiming the environment,
+and the costs associated with shielding the populace from the
+harmful effects of large-scale environmental degradation will
+inevitably start to have an impact on the costs of all goods and
+services.
+
+In order to enable the green economy, we must each ask a
+question in everything we do: “Is it sustainable?” People need to
+have the sustainability infused into their mental framework for all
+things created, generated, built, manufactured, operated and
+managed. As such, life-cycle thinking must also be included when
+we are shaping and re-shaping information systems for the benefit
+of our society. This will enable information technology (IT) to
+support the movement towards a sustainable green economy.
+
+2. FUNDAMENTAL PROBLEMS
+There are three fundamental problems in the industrialized
+societal development which impact the future of our society.
+
+2.1 The End of Inexpensive Energy
+The use of fossil fuel in our current economy is still growing
+exponentially, yet supplies within easy reach are diminishing [1].
+We are on the downside of the bell curve that represents oil
+supplies while demand continues to rise. As Figure 1 depicts, the
+exploration and extraction of oil development that started in the
+mid-1800’s has increased steadily ever since, but it is now widely
+recognized that accessible supplies are being used up [19].
+
+2.2 Environmental Degradation
+
+2.3 Climate Change
+In a long-term evaluation of the climate, human activities in
+general may be starting to affect the atmosphere. Changes
+recently noted by scientists worldwide include a rise in average
+global temperatures, revised patterns of high-altitude wind
+channels, rising sea levels as a result of deteriorating structural ice
+around the world [9, 14, 21]. Carbon dioxide 1 levels (parts per
+million) are rising worldwide at an alarming rate [16], and other
+“greenhouse gases” are also rising in patterns that are
+uncharacteristic of natural cycles. As Figure 2 depicts, the rise in
+greenhouse gas may be causing an increase in global temperature
+that cannot easily be reversed [19].
+
+Figure 2: Rising CO associated with higher global
+temperatures
+
+Figure 1: Oil and Gas Liquids 2004 Scenario
+According to Duncan’s Olduvai Theory, it is becoming
+increasingly difficult to locate and obtain fossil fuels [5]. Fuels
+are not exactly running out; but, developers will have to go deeper
+and farther to obtain fossil fuels. Meanwhile, our whole firstworld economy is totally dependant on fossil fuels – civilization
+as we know it requires an endless supply of low-cost energy. In
+
+Recently, it is becoming generally accepted that weather patterns
+are becoming increasingly unpredictable. There is basic
+agreement among top scientists worldwide that these climactic
+changes are being caused by the non-sustainable activities of
+humans, and this may be drastically affecting the environment we
+are living in [8].
+
+1
+
+Same as CO2.
+
+3. LIFE-CYCLE THINKING
+The mechanistic world-view began to dominate our society in the
+sixteenth and seventeenth centuries, encouraging scientists to look
+at things as separate components rather than parts of integrated
+systems [2, 15]. Consequently, natural systems began to be
+looked at in the same way that industrial designers looked at
+machines. Integration points were defined in the natural systems,
+with very few organized attempts to understand the larger
+ecosystematic infrastructure as a whole. When society moved
+away from its agricultural base, it also moved away from the
+associated natural world-view. Industrial society was defined by
+the machines that started to gain widespread acceptance as a sign
+of progress. Today, it is time to realize that we lost some very
+important lessons in this transformation.
+In nature’s economy, nothing is ever wasted. Everything is used,
+recycled, and re-used. When animals die in nature, the carcass
+provides food for other animals. When plants die, their decayed
+remains become nutrients for other plants. Leaves fall from the
+trees and become compost to sustain the same tree. Nature
+provides many examples of this type of natural recycling of
+nutrients.
+
+calculators are one of many IT innovative examples. They require
+an individual to input key data about his or her life activities, and
+then calculate the amount of carbon produced as a result. Once an
+individual understands what activities create the most carbon,
+modifying one’s life style can be planned to reduced one’s carbon
+footprint. There are several carbon calculators that have been
+developed:
+•
+
+Nature Conservancy 2
+
+•
+
+Clean Air Cool Planet 3
+
+•
+
+Empowerment Institute 4
+
+The technology and design of each carbon calculator listed here
+reflects a slightly different focus, and each will yield a slightly
+different number to characterize the carbon-generating activities
+of the end-user. But the IT community is making a significant
+contribution regarding technological design and innovation in
+continuing to refine the algorithms that define society’s carbon
+footprint. The real and required improvement lies in reducing
+carbon emissions by calculating and educating society as to how
+much carbon each individual has produced as we try to improve.
+
+Adopting the same basic principles, our design strategy in all
+human engineering endeavors should include life-cycle thinking.
+The concept of “cradle to grave” (products used and discarded)
+has characterized product design strategy since the dawn of the
+industrial age. However, as we go forward this strategy has to be
+replaced with the concept of “cradle-to-cradle.” Products need to
+be designed in a way that when their useful life ends, there is a
+plan. Used plastics need to be collected, shredded, and processed
+to become the raw materials for new plastic products. Metals from
+old cars or machines need to be separated and melted down to
+produce the raw materials for new cars and machines.
+
+4.1.2 Building Modeling Software
+
+The concept of recycling - and doing more with less - is critical
+for all sectors of society. As such, it needs to be encouraged in IT
+innovation, adoption, manufacturing, cyber infrastructurebuilding, operation, and management. The IT community should
+infuse life-cycle thinking into all facets of information systems
+innovation.
+
+The National Renewable Energy Lab (NREL) has developed
+SUNREL™, a physics calculation engine that is useful in the
+modeling of the building’s life-cycle for energy purposes [4]. This
+engine is an energy simulation program that ensures that
+occasional dramatic changes in temperature do not affect the
+overall calculations of energy use. Because the amount of energy
+used is greater when outdoor temperatures are significantly
+different than indoor temperatures, dramatic weather fluctuations
+must be taken out of the equation in order to maintain the
+accuracy of building modeling.
+
+4. IT ENABLING THE GREEN ECONOMY
+In the context of life-cycle thinking, we present several examples
+of how information technology can enable the next “green”
+economy in real-time practical ways.
+
+4.1 IT Innovation
+To understand how we use energy is the first step. Information
+systems are being built to easily calculate energy use (and waste)
+of individuals, and entities such as a building or a manufacturing
+process.
+
+4.1.1 Carbon Calculators
+Carbon is one of the more prevalent greenhouse gases [13].
+Human activity cannot help but create carbon dioxide. Even so,
+the carbon-producing activities of most Americans have
+dramatically exceeded those of most other countries. However
+there are many ways to reduce carbon. The amount of carbon one
+produces is referred to as one’s “carbon footprint” [11]. The first
+step to reducing an individual’s carbon footprint is to figure out
+how much carbon his or her activities generate. Carbon
+
+IT can also help estimate the amount of energy we use in the lifecycle of our living spaces, and the amount of energy we can save.
+Building modeling software is another example of IT innovation,
+which makes it easy for building professionals to calculate energy
+use and identify key activities that can reduce energy waste.
+When energy bills are included and validated as part of the
+modeling, the model can be “calibrated” with such precision that
+it is possible to determine exactly what energy-saving
+improvements will yield the best results with a high degree of
+accuracy.
+
+An example of IT innovation built upon this SUNREL physics
+engine is a software product, called TREAT 5 (an acronym for
+Targeted Residential Energy Analysis Tools). TREAT is a set of
+energy analysis tools for modeling the energy consumption of
+buildings, as a means to identify the most cost-effective energy
+efficiency upgrades for both single-family and multifamily
+buildings. TREAT allows building professionals to make
+educated decisions about how to eliminate energy waste. TREAT
+is one example of how software can make a significant impact on
+2
+
+www.nature.org/initiatives/climatechange/calculator/
+
+3
+
+http://dev.cleanair-coolplanet.org/toolkit/inv-calculator.php
+
+4
+
+www.empowermentinstitute.net/lcd/lcd_files/LCDcalcNet.html
+
+5
+
+http://treatsoftware.psdconsulting.com/
+
+human activity, with the goal of reducing energy use, energy
+waste, and the carbon emissions that result. The IT community
+has the potential to make many significant contributions to help
+make human activity sustainable, and the list is limited only by
+our collective imagination.
+
+4.2 IT Adoption
+Information technology can be adopted to assist with the task of
+reducing energy waste. A few examples below demonstrate how
+life-cycle thinking is infused in IT adoption, which improves a
+sustainable community.
+
+4.2.1 Programmable Buildings
+The heating and cooling of buildings produce bulk of carbon
+worldwide. Many opportunities exist to improve building
+performance by using technologically-based improvement
+strategies. For example, real-time web-based monitoring and
+automated control of building operating systems can help to solve
+building performance problems as they occur. Simply adding a
+programmable thermostat can result in significant energy (and
+carbon) savings to a building’s operating system. This single
+example of information technology adoption can pay for itself in
+a short period of time. Automated sun-shading, automated
+ventilation systems, and automated lighting control can all make a
+huge difference if appropriately adopted and maintained.
+
+4.2.2 Benchmarking Building Tools
+To make educated decisions regarding the building performance
+of large non-residential buildings, IT offers the opportunity to
+make comparisons regarding energy within a community. One
+example of this is the benchmarking of building performance 6 .
+Benchmarking allows for building comparisons that can help
+building owners and operations managers to make useful
+decisions about where to implement energy-based improvements.
+Benchmarking sets a baseline for energy utilization, whereby a
+building can be compared to other buildings of similar size and
+use-type - and to itself over time. This is initially helpful in
+determining which buildings (in a group) need the most
+improvement. Once improvements are made, tracking the
+performance of a building’s systems can provide important data
+that can be used to maintain or increase energy efficiency and
+reduce carbon emissions. Long-term reporting is required to
+determine the effectiveness of energy/carbon reducing efforts
+over time. Underneath the user interface for benchmarking tools,
+there is a database and a set of algorithms. Data from utility
+companies - from energy improvements – from carbon footprint
+measurements – and more - are archived and used to make
+important decisions on energy use and energy waste.
+
+4.2.3 Power Surge Switching Technology
+Another example of IT adoption is the study of switching
+undesirable power surge [3] because power surges can reduce the
+efficiency of the power supply, and consequently the amount of
+power drawn by computer accessories when they are not being
+used.
+
+6
+
+Compass is an example of a benchmarking tool for large
+buildings.
+
+4.2.4 Smart Grid Technologies
+On a larger scale, “smart grid” technologies are just starting to be
+considered by utility companies that have a vested interest in
+meeting the power demands of their customers. Smart grid
+technologies are defined as a digital upgrade of distribution and
+long distance power transmission using a combination of
+advanced communications, strategically-placed sensors, and
+distributed computer controllers to improve the efficiency,
+reliability and safety of electricity delivery and use [12]. IT is a
+critical element of this new and over-arching vision for an
+intelligent infrastructure that seeks to deliver power to end-users
+instantaneously - based on real-time use requirements.
+
+4.3 IT Manufacturing
+From a direct aspect of life-cycle thinking, computer components,
+devices, or production lines, etc. need to be redesigned and reengineered according to the concept of “cradle-to-cradle.”
+Computer systems need to be developed and manufactured to
+reduce waste, not produced as a one-time use commodity.
+Laptops and their components should not be disposable. They
+should be designed to last longer, and then to be recycled.
+Components should be replaceable and upgradeable in a cost
+effective manner. The social and environmental implications of
+the entire life-cycle of IT components (such as computers,
+monitors, keyboards, etc.) - from the source of raw materials through to the production and ultimately disposal - must be taken
+into account.
+
+4.4 Cyber Infrastructure
+When implementing cyber infrastructure, life-cycle thinking
+should also be planned and incorporated into network
+infrastructure design. For example, alternative solutions for less
+energy and resources should be put in the client-server
+architecture.
+
+4.4.1 Thin Client Computing
+When planning a client-server architecture network, a processing
+server can be placed centrally, with multiple thin clients
+connected to its services. A thinner client 7 can allocate more
+processing activities to the server, and require fewer servers to
+accomplish relatively the same processing.
+
+4.4.2 Software-based vs. Hardware-based
+To further reduce resource requirements, software-based routing
+or firewall solution should be considered more desirable than
+having a hardware-based routing or firewall solution.
+
+4.4.3 Virtual Machine
+The use of virtual machine provides high-level program
+representation, which allows large networks to be programmable
+in a simplified and energy-efficient manner [10].
+
+4.4.4 Grid Computing
+Grid computing is a scalable, distributed networking environment
+where a clustered computers work together to solve a single
+problem. The fact that grid computing utilizes the processing
+7
+
+such as http://www.ncomputing.com/
+
+power from distributed thin clients can replace the needs of using
+supercomputer [6]. Grid infrastructure will enable power usage on
+each thin client. When a thin client is turned on, it can share some
+unused processing power to solve another task that requires much
+processing power in the grid environment.
+
+4.5 IT Management for Campus Operations
+iSchools should be more than just an “engine of innovation,” but
+should take a leadership role in reaching out to the community to
+drive ecosystematic thinking in local systems. To be effective in
+this way, sustainable life-cycle thinking needs to be integrated
+into all iSchool activities.
+
+4.5.1 Campus Life-Cycle
+“Buying green” is a concept being promoted by a governmentbased program called EPEAT 8 . Energy Star standards have been
+widely adopted for government purchases at the Federal, State,
+and Local government levels. Additional requirements around
+reducing packaging waste and management for product end-oflife should be engineered and designed for environment.
+All purchasing decisions should be made with thoughts of
+sustainability. Reusing things that are typically thrown away has
+an important role. For example, when SUNY New Paltz 9 required
+new desks because of worn desk-surfaces, instead of purchasing
+new desks, a decision was made to turn over the desktops
+themselves and reuse the desks instead of buying new. In this
+case, students have new desk surface to use, and schools can be
+exempted from purchasing new desks. There are many examples
+of ways that resources which are typically wasted can be utilized
+to reduce the purchasing requirements of school operations, and
+every instance that results in less manufacturing also results in a
+reduced energy use and carbon emissions. For example, typically
+lockers are cleaned out at the end of each academic year, and the
+leftover contents are discarded. In a forward-thinking iSchool, a
+green staffperson could be positioned in the school maintenance
+department, whose role is to clean out those lockers, and recycle
+useful supplies among incoming students.
+Re-lamping (replacing incandescent light bulbs with compact
+florescent lamps), and perhaps ultimately LED bulbs (lightemitting diode) provides easy and effective ways to reduce energy
+and carbon when applied campus-wide. Education on “green”
+behaviors, such as closing windows and turning off lights when
+not being used, are critical practices in reforming basic campus
+activities.
+
+4.5.2 Reuse and Recycle Hardware
+Re-use and recycling of hardware for computer labs should be
+considered as part of student education. For example, Google
+recycled old AT computers to build servers for the infrastructure
+and foundation for what has become a huge industry of data
+aggregation. The fact that Google chose to utilize out-dated
+equipment - rather than purchase new servers - was a decision
+based on cost as well as resource management [7, 17]. Google
+
+8
+
+EPEAT stands for Electronic Product Environmental
+Assessment Tool. http://www.epeat.net
+
+9
+
+http://www.newpaltz.edu/news/news.cfm?id=4491
+
+serves as a role model and an example of the many creative
+opportunities that exist for IT.
+
+4.5.3 Forming Action Groups
+Sustainability action groups for energy efficiency and climate
+protection initiative can be formed and organized on campus.
+iSchools should form such committees for ongoing localized
+coordination with the national Association for Sustainability in
+Higher Education (AASHE) in publicizing and encouraging green
+activities in campus activities and operations.
+
+4.6 IT Research into Debatable Activities
+There should be more research encouraged regarding sustainable
+activities in information technology. The issues of sustainability
+in information technology are complex and far-reaching. For
+example, the debate on whether to leave hard-drives spinning
+when not use (which uses more electricity) versus shutting
+computer down (which means more “wear and tear” on the
+hardware – leading to earlier disposal) needs resolution.
+Addressing issues like this is referred to as “triple bottom line.”
+The term, “triple bottom line” refers to the uses and impacts of
+information technology on 1) economy, 2) environment, and 3)
+society. Life-cycle considerations must include an expanded
+spectrum of values and criteria for measuring organizational /
+societal acceptability.
+
+5. CONCLUSION
+Nature showcases competition in many ways. However, from a
+high-altitude perspective, such competition is a very refined level
+of cooperation. The eagle feeds on the mouse, but each player in
+this life-and-death struggle is also part of a larger dance of life,
+where mice are free to grow, and where the eagle has its own
+predators to deal with. The concept of “coop-etition” is one that
+our societal planners must adopt, to place the interests of the
+masses (and future generations) before the interests of the
+individual. The synergistic planning of integrated sustainability
+needs to be ingrained in our societal systems at all levels.
+Our current society, based on non-renewable energy and nonrecyclable waste, is in jeopardy of driving off a metaphorical cliff.
+Modern civilization as we know it could end if we can not find
+ways to transform our current activities, and make them
+sustainable. Our society must meet the needs of today’s activities
+without sacrificing the well-being of future generations. This is
+the responsibility of all citizens in all sectors, but IT plays a
+critical role which must be addressed. Being able to recognize and
+promote sustainable activities while providing research in
+sustainable IT options ultimately creates significant opportunities
+for green jobs in the IT sector. These jobs cannot be outsourced to
+distant lands. Green jobs represent opportunities created for
+workers in the homeland while enabling economic growth,
+reducing energy dependence, and improving the health of the
+populace. In the end, these green choices create an opportunity for
+students to align themselves with meaningful life goals that
+strengthen communities and the country as well.
+
+6. REFERENCES
+[1] Bentley, R.W. (2002). Global Oil & Gas Depletion: An
+Overview. Energy Policy, 30(3), Feb 2002, 189-205.
+
+[2] Capra, F. (1982). The Turning Point: A New Vision of
+Reality. Futurist, 16(6), Dec 1982, 19-24.
+[3] Chen, M.P., Chen, J.K., Murata, K., Nakahara, M., and
+Harada, K. (2001). Surge Analysis of Induction Heating
+Power Supply with PLL. IEEE Transactions on Power
+Electronics, 16(5), September 2001, 702-709.
+[4] Crawley, D.B., Hand, J.W., Kummert, M., and Griffith,
+B.T. (2008). Contrasting the capabilities of building
+energy performance simulation programs. Building and
+Environment, 43(4), April 2008, 661-673.
+[5] Duncan, R. (1996). The Olduvai Theory: Sliding Towards
+a Post-Industrial Stone Age. Obtained from
+http://www.dieoff.org/page125.htm on 11/18/2008.
+[6] Foster, I., and Kesselman, C. (2004). The Grid: Blueprint
+for a New Computing Infrastructure. Morgan Kaufmann,
+2004.
+[7] Google Commitment to Sustainable Computing. (2008).
+Obtained from
+http://www.google.com/corporate/datacenters/serverretirement.html on November 30, 2008.
+[8] Houghton, J.T., Jenkins, G.J., and Ephraums, J.J. (1990).
+Climate Change: The IPCC Scientific Assessment.
+Cambridge, MA: Cambridge University Press.
+[9] Langdon, P.G., Barber, K.E., and Lomas-Clarke, S.H.
+(2004). Reconstructing Climate and Environmental
+Change in Northern England Through Chironomid and
+Pollen Analysis: Evidence from Talkin Tarn, Cumbra.
+Journal of Paleolimnology, 32 (2), 197-213.
+[10] Levis, P., and Culler, D. (2002). Mate: a tiny virtual
+machine for sensor networks. ACM SIGOPS Operating,
+Systems Review, 36(5), December 2002, 85-95.
+[11] Magnani, F., Mencuccini, M., Borghetti, M., Berbigier, P.,
+Berninger, F., Delzon, S., Grelle, A., Hari, P., Jarvis, P.G.,
+Kolari, P., Kowalski, A.S., Lankreijer, H., Law, B.E.,
+Lindroth, A., Loustau, D., Manca, G., Moncrieff, J.B.,
+Rayment, M., Tedeschi, V., Valentini, R., & Grace, J.
+(2007). The Human Footprint in the Carbon Cycle of
+Temperate and Boreal Forests. Nature, 447, June 2007,
+[12] Massoud Amin, S. and Wollenberg, B.F. (2005). Toward a
+Smart Grid: Power Delivery for the 21st Century. IEEE
+Power and Energy Magazine, 3(5), September-October
+2005, 34-41.
+
+[13] Mitchell, J.F.B., Johns, T.C., Gregory, J.M., Tett, S.F.B.
+(1995). Climate Response to Increasing Levels of
+Greenhouse Gases and Sulphate Aerosols. Nature, 376,
+August 1995, 501-504.
+[14] Petit, J.R., Jouzel, J., Raynaud, D., Barkov, N.I., Barnola,
+J.M., Basile, I., Bender, B.M., Chappellaz, J., David, M.,
+Delaygue, G., Delmotte, M., Kotlyakov, V.M., Legrand,
+M., Lipenkov, V.Y., Lorius, C., Pepin, L., Ritz, C.,
+Saltzman, E., and Stievenard, M. (1999). Climate and
+Atmospheric History of the Past 420,000 Years from the
+Vostok Ice Core, Antarctica. Nature, 399, 429-436.
+[15] Rigney, D. (2001). The Metaphorical Society: An
+Invitation to Social Theory. Rowman & Littlefield
+Publishers, Inc.
+[16] Royer, D.L., Berner, R.A., Park J. (2007). Climate
+Sensitivity Constrained by CO2 Concentrations Over the
+Past 420 Million Years. Nature, 446 (7135), 530-532.
+[17] Shankland, S. (2008). Google Spotlights Data Center Inner
+Workings. CNet News Blog, posted on May 30, 2008.
+Obtained from
+http://news.cnet.com/newsblog/?keyword=%22BigTable
+%22 on November 30, 2008.
+[18] Stern, D.I., Common, M.S., and Barbier, E.B. (1996).
+Economic Growth and Environment Degradation: The
+Environmental Kuznets Curve and Sustainable
+Development. World Development, 24(7), July 1996,
+1151-1160.
+[19] US Global Change Research Program. (2005). Supporting
+Document for the URSI While Paper on Solar Power
+Satellite Systems. URSI Inter-Commission Working
+Group on SPS, November 2005. Obtained from
+http://www.ss.ncu.edu.tw/~ursi/record/WP_SPS_supdoc_0
+51129.pdf on November 30, 2008.
+[20] Warner, M.J., Bullister, J.L., Wisegarver, D.P., Gammon,
+R.H., and Weiss, R.F. (1996). Basin-wide distributions of
+chlorofluorocarbons CFC-11 and CFC-12 in the North
+Pacific: 1985-1989. Journal of geophysical research, 101,
+20525-20542.
+[21] Welbergen, J.A., Klose, S.M., Markus, N., and Eby, P.
+(2008). Climate Change and the Effects of Temperature
+Extremes on Australian Flying-Foxes. Proceedings of The
+Royal Society, 275 (1633), 419-425.
+
+

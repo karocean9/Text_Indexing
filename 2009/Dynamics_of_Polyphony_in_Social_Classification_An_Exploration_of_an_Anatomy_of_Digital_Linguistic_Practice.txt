@@ -1,0 +1,134 @@
+Dynamics of Polyphony in Social Classification:
+An Exploration of an Anatomy
+of Digital Linguistic Practice
+Lilly U. Nguyen
+UCLA
+Department of Information Studies
+GSE&IS Building, Box 951520
+Los Angeles, CA 90095-1520
+
+lillynguyen@ucla.edu
+Keywords
+Social classification, polyphony, discursive practice, heteroglossia
+
+1. INTRODUCTION
+As the information technologies grows and the digital online
+spaces become increasingly popular places for social interaction,
+we are confronted with new forms of sociality, practice, and
+knowledge organization that defy traditional distinctions between
+document, text, speech, language, and practice. This paper
+presents a study of use and practices of a social classification
+system, del.icio.us, through an overall theoretical approach that
+draws from the disciplines of linguistic anthropology, a sociology
+of interaction, speech act theory, and literary theory. From the
+ensemble of these approaches, this pilot study tentatively
+identifies an anatomy of social classification practices based on
+speech genres of monologue and dialogue. The use of a linguistic
+practice approach for the study of online classificatory practices is
+informed by the recognition of convergence among documents,
+text, language, and practice. The field of linguistic anthropology
+has long made the argument that language both produces and
+reflects social action. In turn, language is thus a reflection and
+enactment of action. Language and action are fundamentally
+intertwined and mutually constitutive. This idea is essential in
+digital environments where action is solely evidenced through
+textual forms of communication on-screen.
+
+2. MONOLOGUE AND DIALOGUE IN
+SOCIAL CLASSIFICATION
+From this linguistic practice approach, it appears that individuals
+are able to constitute and classify themselves into digital existence
+through the kinds of digital classificatory practice in which they
+engage. These digital linguistic practices can be distinguished in
+terms of monologue and dialogue. Within monologic practice,
+individuals typically use social classification systems as a space
+for collecting and storing their digital documents. As such,
+monologic practice consists of efforts to archive, remember, and
+ensure memory. Individuals contribute and save content to
+del.icio.us based on the notion that they might need it at a future
+date and would thus like to be able to easily refind and access
+their documents. With these efforts, monologue entails a kind of
+
+communication to the self, where classification practices consist
+of the present self communicating to an imagined future self.
+In addition to monologue, we also find dialogue forms of
+linguistic practice in social classification systems. While
+monologue practices focus primarily on internal selfcommunication, digital dialogue in social classification systems
+consist of utterances made based on imaginations and perceptions
+of interlocutors, audience, and their extended digital social
+network. As such, dialogue forms of practice help to weave
+individuals within a larger social fabric. This is achieved primarily
+through a play on voicing within the forms of commentary and
+annotation. Within social classification systems, it appears that
+dialogue manifests itself in several distinct forms: attribution,
+quotation, description, and assessment. These four forms represent
+a spectrum in which individuals animate others’ voices or actively
+assert their own. At the far end of the spectrum, in the form of
+attribution, the individual’s voice is barely present in their
+classificatory practices. At the other end of the spectrum, in the
+form of assessment, the individual’s voice is of primary
+distinction.
+
+3. DISCUSSION
+The tentative findings from this study lay out a preliminary
+framework for understanding the nature and dynamics of digital
+linguistic practice. Using concepts of speech, language, and
+practice, this study attempts to identify the nature and dynamics of
+memory, social interaction, and information organization in an
+online social classification system. In digital social classification
+contexts, these private memory practices also happen concurrently
+with public acts of information sharing and recommendation. In
+turn, monologue and dialogue consists simultaneously of
+collecting information and organizing information. Dialogic
+practice in social classification systems thus consists of a series of
+speech genres such as quotation, attribution, description, and
+assessment. These speech genres reflect the various ways in which
+individuals negotiate the multiple authorial voices within their
+documents. In this view, social classification systems appear to
+accommodate and explicitly render the polyphonic nature of
+linguistic practice. This suggests that social classification systems
+have been designed in such a manner such that individuals are
+able to represent the plurality of voices that are embedded within
+any given document.
+
+Heteroglossia in this digital environment includes the voice of the
+individual tagger-collector, the voice of the document, the voice
+of the document’s author, and the voice of recommender. The
+continual switching of voicing demonstrates how oftentimes in
+our speech we do not speak from our own original voice.
+Following Erving Goffman’s work on footing [1], examples of
+quotation in social classification demonstrate the ways in which
+individuals are able animate the voice of others in their digital
+utterances. This ability to call forward multiple voices can be seen
+as a kind of corporal displacement that is also complemented by a
+temporal negotiation in which individuals manage their records
+and documents of their past and present based on their
+anticipation of the future. This is seen in the participants’ use of
+future action tags as well as in their diary forms of annotation. In
+this way, linguistics practices in social classification systems are
+ideal examples of the ideas of polyphony in linguistic
+anthropology, sociology of interaction, and notions of intertextuality in literary theory.
+
+4. CONCLUSION
+Subsequently, the micro-narratives that emerge from these digital
+practices constitute a form of self-inscription in which individuals
+constitute themselves through digital speech. Through this
+
+performative quality, individuals are able to create their digital
+selves through their digital speech. Individuals are able to
+constitute their digital selves through the very acts of collecting
+information and writing public commentary. As a result,
+individuals are able to write and classify themselves into digital
+existence. In part with this performativity, I would argue further
+that digital linguistic practice is, in part, informed by larger
+processes of interpellation in which individuals recognize
+themselves as subjects of address by choosing to speak and
+articulate their own voices. Moreover, if we extend this corporal
+metaphor, we can argue that speech genres form the underlying
+anatomy of the digital body and the digital self.
+
+5. REFERENCES
+[1] Goffman, E. 1981. Forms of Talk. Philadelphia, PA:
+University of Pennsylvania Press.
+
+

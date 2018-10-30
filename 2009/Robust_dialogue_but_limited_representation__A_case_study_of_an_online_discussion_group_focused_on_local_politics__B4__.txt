@@ -1,0 +1,81 @@
+Robust dialogue but limited representation: A case study of an online discussion group focused on local politics
+
+1. INTRODUCTION
+The use of social networking technologies to discuss, organize and participate in the political process, both during and in between election cycles, seems to be gaining popularity (Davis, 2005; Rainie, 2005b). There is a growing body of literature that examines the use of the Internet and its various technologies as tools to improve the democratic process (Brunsting, 2002; Dahlberg, 2001; Harrison & Falvey, 2001; Jensen, 2003; Kavanaugh, Carroll, Rosson, Reese, & Zin, 2005; Stromer-Galley, 2002, 2003).  Some researchers have studied technology’s impact on access to information, government services, officials and candidates (Harrison et al., 2005; Jensen, 2003; Kavanaugh et al., 2005) Some researchers have focused on the quality of discourse within the communities (Dahlberg, 2001; Davis, 2005; Wilhelm, 2000). Others have highlighted technology’s ability to transcend geographic, social  and ideological boundaries (Hacker & Dijk, 2001; Kavanaugh et al., 2005;Stromer-Galley, 2002, 2003). 
+
+What much of the research has in common is that the studies have centered on political discussion groups such as those found on USENET newsgroups (now Google groups), chat rooms, and Yahoo! groups, which are organized by political ideologies or topics generally associated with national issues. There is some research on community computer networks, but these are mostly products of a collaboration between universities, government, and citizens (Harrison, Zappen, Stephen, Garfield and Prell, 2001; Harrison, Zappen and Adali, 2005; Kavanaugh, Carroll, Rosson, Reese and Zin, 2005; Kavanaugh, Reese, Carroll, and Rosson, 2005). Needed are studies that examine citizens’ uses of web technologies to talk about local political issues. Eliasoph (1997) has argued that people avoid publicly talking about politics in their home communities. The question is: Can online discussion space focused on local politics expand participation as well as create an environment where diverse ideas and informed discussion thrives?  In addition to providing insight to the academic community, the answers to these questions may assist local communities looking to foster public discussion about issues that affect the everyday lives of average people.
+
+2. SVC CASE STUDY
+Utilizing a case study approach, the research that will be highlighted in the poster examines the Schenectady Virtual Community (SVC), an online grass roots discussion forum about the politics of a small urban city in upstate New York. Similar to other small cities across America, Schenectady is struggling to recover from the flight of large industrial companies overseas, which damaged the local economy. Again, much of the current research on community computer networks focuses on areas connected to universities. Since the SVC is citizen-generated and focuses on an economically depressed area, the study offers the perspectives of individuals who are traditionally unrepresented in the current research.    
+
+3. METHODOLOGY
+The study draws on the political communication discipline’s Uses and Gratifications theory, as a lens to view citizens’ motivations to discuss local political issues using message board technology as an alternative to traditional discourse spaces. Online discourse spaces offer the potential of extended dialogue as well as the use of outside sources, such as newspaper articles, to support positions and create more informed discussions.  Further, the study includes the SVC’s use of local newspapers as a means to generate discussion, thus providing an ecological perspective of local political discourse.  
+
+The study is the result of a doctoral dissertation in an interdisciplinary program in the information studies and political communication fields. Data analysis was based on a convenience sample survey administered to SVC participants that generated 52 responses. In addition, a random sample of discussion threads from the message board over a three-month period was qualitatively analyzed for themes that describe the motivations, characteristics and behaviors of SVC participants. The discussion threads were also analyzed to provide a descriptive account of the content of average citizens’ discussions about local politics. 
+
+4. PRELIMINARY FINDINGS
+Preliminary findings suggest that approximately 50 percent of survey respondents participate in the SVC to learn what is going on in the community. A majority also reported that they were interested in learning about others’ opinions in regard to community issues. This affirms Stromer-Galley’s (2003) study of online political discussion groups, including USENET newsgroups, chat rooms and message boards, which suggested individuals prefer to hear opinions different from their own. Another popular reason reported by the SVC community for participating was to be entertained. Many of the respondents, 79 percent, indicated that they feel the board has benefitted the community as a source of information. Reasons cited included “[the SVC] points out problems that need attention,” and “[the] media does not have the time and space to report all the facts. On this board we many times share facts we are aware of that we would not have gotten otherwise”.
+
+As far as who participates in the online local political discussion group, survey results suggest that the average SVC participant is a Caucasian male between the ages of 40-65, with some college education, and earning in the $35,000 to $49,000 range. This further affirms several studies over the last 20 years that indicate that the average participant in online discussion groups is male (Garramone et al., 1986; James, Wotring, & Forrest, 1995; Stromer-Galley, 2002, 2003) and Caucasian (Kavanaugh et al., 2005; Pew Research Center for the People and the Press, 2005). However, the SVC data differs from other studies that suggest the typical discussant is well educated, earns a decent wage (Garramone et al., 1986; James et al., 1995; Kavanaugh et al., 2005), and is under 50 years old (Jensen, 2003; Stromer-Galley, 2002, 2003). However, this is likely related to the overall demographic profile of Schenectady, an economically struggling city.  According to U.S. Census Bureau statistics (2000) the current median household income in the city of Schenectady is $29,000 with only 19% of the population holding a bachelor’s degree or higher. Other survey findings indicate that the majority of SVC participants are registered voters but are not affiliated with a political party. Most reported that they rarely attend public meetings and prefer to talk politics with friends and family. The majority of discussants use pseudonyms, however some individuals post using their real names including one county legislator who regularly participates under his real name. The number of public officials participating is currently unknown given the ability to use pseudonyms, but a survey addressed to local elected officials is being contemplated as part of the study. 
+
+The qualitative analysis of discussion threads shows a more complex picture of the use of online technologies to discuss local politics. Perhaps the most consistent pattern is the use of local daily newspaper articles to generate discussion. Most of the threads contain at least one if not several newspaper articles. However, instead of mostly criticizing the media as Park (2004) demonstrated in his analysis of political weblogs, SVC participants mainly used the articles as a beginning point of discussion. Affirming Cramer Walsh’s (2003) and Gamson’s (2001) research on political discussion groups, SVC participants did not simply mimic the newspaper themes but used external sources, such as experience or other information sources, to expand discussion. Specific themes, such as economic revitalization in the downtown area and crime appear consistently as SVC thread topics. 
+
+In terms of quality of discussion, several discussions seem to indicate that the participants focus on the main topic of the thread and when others diverge from the main topic their fellow discussants reel them back. In addition, while some researchers suggest that the online behavioral standards are not as high and less enforceable as in face-to-face relationships (Davis, 2005; Sypher & Collins, 2001), much of the debate on the SVC is polite and focused. The discussions that contain personal insults seem to be dismissed or criticized by other participants. That said some particular individuals repeatedly make disrespectful comments toward other participants. Further, as opposed to Wilhelm’s (2000) conclusion that online political communities consist of like-minded individuals, there is much disagreement in the SVC’s dialogue. However, confirming Wilhelm’s (2000) and Jankowski and Van Os’ (2004) observations of other online political communities, a small group seems to dominates discussions despite the SVC’s 700 member roster. 
+
+5. CONCLUSION
+In conclusion, preliminary findings in regard to the SVC case study show that an online environment may be able to create a discourse space where diverse ideas and informed discussion can thrive. However, the demographic profile of study participants and the consistent pattern indicating that a few individuals dominate discussion raises questions about exactly how inclusive and representative online political talk can be even when that discussion is about local issues affecting the everyday lives of citizens.   
+
+6. REFERENCES 
+[1]  ADDIN EN.REFLIST Brunsting, P. (2002). Social participation in the digital age: predicting offline and on line collective action. Small Group Research, 33(5), 525-554.
+
+[2] Cramer-Walsh, K. (2003). Talking about Politics: Informal Groups and Social Identity in American Life. Chicago: University of Chicago Press.
+
+[3] Dahlberg, L. (2001). The Internet and democratic discourse: Exploring the prospects of online deliberative forums extending the public sphere. Information, Communication & Society, 4(4), 615–633.
+
+[4] Davis, R. (2005). Politics Online: Blogs, Chatrooms, and Discussion Groups in American Democracy New York: Routledge.
+
+[5] Eliasoph, N. (1997). Close to Home: The Work of Avoiding Politics. Theory and Society  26(5), 605-647.
+
+[6] Gamson, W. A. (2001). Media discourse as a framing resources. In A. Crigler (Ed.), The psychology of political communication. Ann Arbor, MI: University of Michigan Press 
+[7] Garramone, G., Harris, A., & Anderson, R. (1986). Uses of Political Computer Bulletin Boards Journal of Broadcasting and Electronic Media, 30(3), 325-339.
+
+[8] Hacker, K., & Dijk, J. V. (2001). Digital Democracy: Issues of Theory and Practice Thousand Oaks Sage Publications.
+
+[9] Harrison, T., & Falvey, L. (2001). Democracy and New Communication Technologies. In W. Gudykunst (Ed.), Communication Yearbook 25. Mahway, NJ  Lawrence Yearbook.
+
+[10] Harrison, T., Zappen, J., Stephen, T., Garfield, P., & Prell, C. (2001). Building an Electronic Community: A town-gown collaboration. In G. Shepherd & E. Rothenbuhler (Eds.), Communication and Community. Mahwah: Lawrence Erlbaum Associates Publishers.
+
+[11] Harrison, T. M., Zappen, J. P., & Adali, S. (2005). Building Community Information Systems: The Connected Kids Case. IEEE Computer Society(December ).
+
+[12] James, M., Wotring, C. E., & Forrest, E. (1995). An exploratory study of Electronic Bulletin Board Use and their Impact on other Communication Activities. Journal of Broadcasting and Electronic Media, 39, 30-50.
+
+[13] Jankowski, N. W., & Os, R. V. (2004). Internet-Based Political Discourse: A Case Study of Electronic Democracy in Hoogeveen. In P. M. SHanne (Ed.), Democracy Online (pp. 181-193). New York: Routledge.
+
+[14] Jensen, J. (2003). Virtual democratic dialogue? Bringing together citizens and politicians. .
+
+[15] Kavanaugh, A., Carroll, J., Rosson, M. B., Reese, D., & Zin, T. (2005). Participating in civil society: the case of networked communities Interacting with Computers
+17, 9-33.
+
+[16] Kavanaugh, A., Reese, D., Carroll, J., & Rosson, M. B. (2005). Weak Ties in Networked Communities. The Information Society, 21, 119-131.
+
+[17] Park, D. (2004). From many, a few: Intellectual authority and strategic positioning in the coverage of and self-descriptions of the "Big Four" weblogs. Paper presented at the International Communication Association, New Orleans.
+
+[18] Pew Research Center for the People and the Press. (2005). The Dean activists: Their profile and prospects. Retrieved May 23, 2005, from  HYPERLINK "http://people-press.org/reports/display.php3?ReportID=240" http://people-press.org/reports/display.php3?ReportID=240
+
+[19] Rainie, L. (2005b). The State of Blogging. Retrieved May 15, 2005, from  HYPERLINK "http://www.pewinternet.org/PPF/r/144/report_display.asp" www.pewinternet.org/PPF/r/144/report_display.asp
+
+[20] Stromer-Galley, J. (2002). New Voices in the Public Sphere: A comparative anaysis of interpersonal and online political talk. The Public, 9(2), 23-42.
+
+[21] Stromer-Galley, J. (2003). Diversity of Political Conversation on the Internet: Users' Perspectives. Journal of Computer Mediated Communication, 8(3).
+
+[22] Sypher, H. E., & Collins, B. (2001). VIrtual-Online Communities: How might new technologies be related to community? In G. Shepherd & E. Rothenbuhler (Eds.), Communicatio and Community. Mahwah: Lawrence Erlbaum Associated Publishers.
+
+[23] US Census Bureau. (2000). US Census Bureau: State and count quick facts. Retrieved 
+January 12, 2008, from http://quickfacts.census.gov
+
+ 
+  
+
+ 
+
+ 

@@ -1,0 +1,153 @@
+A Cooperative Approach to Lab-Based,
+Multi-Team Courses in an iSchool
+Carlos E. Caicedo
+
+Aylin Aksu
+
+Walter Cerroni
+
+University of Pittsburgh
+135 N. Bellefield Avenue
+Pittsburgh, PA 15260
++1 412 624 9490
+
+University of Pittsburgh
+135 N. Bellefield Avenue
+Pittsburgh, PA 15260
++1 412 624 9490
+
+University of Bologna
+via Venezia, 52
+47023 Cesena (FC) - ITALY
++39 0547 339209
+
+ccaicedo@sis.pitt.edu
+
+aaksu@sis.pitt.edu
+
+walter.cerroni@unibo.it
+
+ABSTRACT
+The iSchool at the University of Pittsburgh has designed a new
+learning experience that will allow future leaders of the
+iProfession to gain critical skills and to experience working in
+culturally diverse teams. The iSchool has, as one of its missioncritical goals, to create learning experiences that imitate the
+collaborative nature of the information professions. To provide
+this opportunity and following the advice from industry experts,
+our iSchool redesigned the laboratory for teaching and learning
+computer networking topics to support hands-on lab experiences
+for students as well as the research activities of the iSchool
+faculty. However, it goes beyond mere workstations in a lab
+space – it is an experiment to create a multi-team environment
+that facilitates cooperative approaches to problem solving. It also
+requires the students to participate in self-directed learning.
+This poster presentation reports how the lab and accompanying
+courses were designed to address a key aspect in working in the
+information field – how to work as a team to solve a problem.
+Although the iSchool created this lab as part of its graduate
+program in Telecommunications, the pedagogical aspects of the
+lab and curriculum design would be applicable to any discipline
+within the information field.
+In 2007, the iSchool’s Industry Advisory Council recommended
+that the laboratory infrastructure used to teach computer
+networking concepts needed to be completely redesigned. The
+requirements set forth by the advisory council stated that the labs
+should engage students in the use of both current networking
+technologies and those to be used in future work environments.
+The iSchool took this opportunity to not only redesign the lab,
+but to completely reconceptualize the curriculum and the
+physical lab layout to support a different kind of teaching
+methodology and learning experience. A distributed laboratory
+infrastructure was implemented, to achieve an effective teaching
+environment for lab-based, multi-team courses that enables
+cooperative interaction among the students. This design replaced
+the existing centralized layout of the lab, which only allowed one
+group of students to work at a time, and helped the integration of
+isolated laboratory experiences from many courses into a single,
+coherent lab course.
+
+The iSchool retained the services of an international visiting
+faculty member who had already developed an innovative labbased networking experience for students in his own country.
+The iSchool’s laboratory will primarily be used for a new
+networking laboratory course required for graduate students and
+offered as an optional senior elective for undergraduate students.
+Our iSchool acknowledges the importance of having IS
+professionals that can work in teams with people from different
+backgrounds and nationalities; thus, the design of the lab course
+incorporates these aspects into its structure. The iSchool has a
+diverse student population and in this direction the lab
+experiences promote the interaction of student teams comprised
+of people of different nationalities. In this environment, students
+have to adopt communication styles appropriate for the
+interactions of future information professionals in a globalized
+world.
+More specifically, the objective of this lab-based course is to
+provide the students with experience on computer networking
+topics through hands-on experiments using equipment and
+services in lab exercises that promote team-work. During the
+course, students will progress with a bottom-up methodology
+through increasingly-complex networking concepts, from basic
+connections between two PCs to routing to advanced network
+applications. Each lab experience is NOT a stand-alone
+experience: rather they are structured to incorporate concepts and
+knowledge gained by the students in previous exercises. The
+course covers topics such as connectivity at the physical layer,
+Ethernet and WLAN performance and management, IP address
+planning and management, routing protocols, network monitoring
+and management, signaling protocols for VoIP services, and webbased services configuration.
+In order to promote critical thinking and foster problem solving
+skills, the exercises do not force the students to follow a recipelike step-by-step approach. There are no lectures in the course
+and the students are supposed to apply the knowledge gained
+from previous theoretical courses, integrated with some specific
+suggested readings. Furthermore, the requirements for each
+exercise are presented as a statement of goals to accomplish.
+This mimics the environment that students will deal with in their
+profession where they have to do their own research and use their
+expertise to solve problems, meet goals and elaborate appropriate
+
+reports while respecting deadlines. Additionally, the course
+requires students to specify and undertake a final project which
+emphasizes self-driven research and problem solving.
+State-of-the-art devices were acquired in order to support these
+lab exercises, but that were also in line with the pedagogical
+objectives of the lab. The lab facility provides for four
+independent workbenches accommodating four students each.
+Each workbench has 3 PCs, one laptop and a networking
+equipment rack. This will allow students at each workbench to
+work together on the assigned problem or design –allowing them
+to experience the team approach to problem-solving that exists in
+industry. An extra equipment rack in the lab provides
+interconnectivity between the four workbenches; thus, allowing
+for complex lab exercises where separate teams have to interact.
+To support the self-driven approach to learning and problem
+solving in this course, the instructor only acts as a supervisor and
+a consultant. As a supervisor, he/she demands and expects the
+completion of the objectives of each assignment within an agreed
+time schedule; however, each team is free to structure the
+presentation of results and the level of detail provided. As a
+consultant, the instructor provides guidance towards finding the
+solution to practical problems a student might encounter during a
+lab experiment.
+
+iSchools should give their students more than technical skills and
+theoretical knowledge. They should enable the student to
+experience and master working in an environment that is everchanging, diverse and relatively unstructured. Our iSchool has
+developed and implemented a lab-based course that will
+encourage team approaches to problem solving, self-directed
+learning, and appropriate communication capabilities for working
+in a culturally-diverse setting. We hope our experience can be
+useful to other iSchools in the development of courses and
+infrastructure with similar objectives.
+
+Categories and Subject Descriptors
+K.3.2 [Computers and Education]: Computer and Information
+Science Education – Information Systems Education
+
+General Terms
+Design, Experimentation
+
+Keywords
+Team-based experimentation, self-directed learning, laboratory
+and curriculum development.
+
+

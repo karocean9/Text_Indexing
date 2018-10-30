@@ -1,0 +1,651 @@
+The FCC’s “White Spaces” decision and its implications
+for iSchools
+Martin Weiss
+School of Information Sciences
+University of Pittsburgh
+Pittsburgh PA 15260
++1 412 624 9430
+
+mbw@pitt.edu
+ABSTRACT
+New technologies can have a significant impact on what we teach
+and what we do in an iSchool. In this paper, I describe how a new
+infrastructure option has emerged for information systems and
+services. The FCC’s “White Spaces” decision involved a large
+segment of what used to be the NII (National Information
+Infrastructure) community, a community of considerable affinity
+to iSchools. In this paper, I argue that this decision is of broad
+interest to iSchools because: (1) it is a case study that highlights
+how policy decisions and technology developments interact with
+each other and (2) many aspects of the follow-up to this decision
+fall squarely in the domain of iSchools, from the development of
+white space devices, to building systems to utilize these devices,
+to building information services to communities that are currently
+underserved.
+
+Categories and Subject Descriptors
+A.m
+
+General Terms
+Management, Economics, Legal Aspects.
+
+Keywords
+FCC, Telecommunications, Cognitive Radio, Spectrum, Policy
+
+1. INTRODUCTION
+While most of the country was busy casting ballots on November
+4, 2008, the US Federal Communications Commission ruled that
+“white spaces” in the television band were available for
+unlicensed use on a non-interfering basis.
+While not without
+controversy, the White Spaces Decision has a significant potential
+to transform the communications industry and is thus relevant to
+iSchools.
+The white spaces decision has its origins in the wireless
+revolution, which caused industry participants to explore new
+approaches to gaining access to radio spectrum that had become
+more costly and/or congested. Measurements showed that much
+of the spectrum that had been assigned was underutilized, leading
+to proposals on how this spectrum might be used more efficiently.
+Concurrently, advances in microelectronics, software systems,
+and communications technology led to the emergence of new
+types of communications systems, such as ultra-wideband
+(UWB), software-defined radios (SDRs) and cognitive radios.
+Without delving into the details of these technologies, these
+systems largely shared the characteristic that advances in and
+deployment of these systems required actions on the part of the
+civil sector spectrum administration agency, the Federal
+Communications Commission (FCC). The “White Spaces”
+
+decision is the outcome of one of those explorations – the use of
+cognitive radio technology to improve electromagnetic spectrum
+utilization through opportunistic use.
+It is often the case that innovation in information system design
+and implementation requires one or more specific policy actions
+to enable further development. The white spaces decision
+discussed in this paper is an excellent example of such a situation
+– serious commercial development and deployment of devices
+would not proceed without an enabling policy action. Because of
+the competing interests, policy action is often difficult because
+entrenched interest (or incumbents) have a concern about the
+deleterious effects of this decision. Thus, agencies must often
+gather data to assuage these concerns, which can require testing
+prototype systems, which requires significant investments on the
+part of the proponents. Thus, we have a cycle of incremental
+commitment on the part of stakeholders. The white spaces
+decision is an excellent example of innovation that requires
+government engagement, and could be a good teaching case to
+illustrate how and why information system innovation may
+require engagement in the policymaking process.
+But the relevance of this decision extends beyond its use as a
+classroom case to research opportunities for iSchools. There are
+many opportunities for applying this emergent technology to
+information systems, especially since, as I argue below, the best
+application may be in (underserved) rural areas. Cognitive radio
+technology is still new, so there are still considerable technical
+research opportunities, as well as systems research opportunities,
+since cognitive radios have the capability to act in response to
+environmental changes.
+Finally, there are many new research areas that are created in the
+general domain of interest of iSchools when we consider these
+kinds of devices. An example of this kind of research is presented
+to stimulate our thinking and conversation.
+
+2. BACKGROUND
+Early in this decade, the US Federal Communications
+Commission (FCC) began exploring ways in which
+electromagnetic spectrum might be used more effectively. There
+were several products of that effort, the earliest being the
+Spectrum Policy Task Force (SPTF) report [1]. In this report, all
+under- or un-utilized spectrum were referred to as “white spaces”.
+The SPTF provides a fairly comprehensive discussion of
+alternatives that might be used individually or in concert to
+improve spectrum utilization, such as secondary use, opportunistic
+use, underlay rights, spectrum markets, etc. to utilize these white
+spaces.
+
+The FCC followed up this report with several dockets exploring
+some of the more promising approaches identified by the SPTF.
+In 2002, the FCC released a Notice of Inquiry (NOI) in which
+comment was sought on using a particular group of these white
+spaces, those in the broadcast television band [2]. In this NOI, the
+FCC was “seeking comment on the possibility of allowing
+unlicensed devices to operate in the TV broadcast bands at
+locations and times when the spectrum is not being used by
+authorized services.” The rationale for this inquiry was:
+“The Commission noted that unused portions of the TV
+spectrum appear to be a suitable choice for expanded
+unlicensed operations. In this regard, the Commission
+observed that there is significant bandwidth available
+because each TV channel occupies six megahertz and
+multiple channels are generally vacant or unused in a
+particular area. The Commission stated that allowing
+unlicensed devices to operate on unused TV channels
+would lead to more efficient use of the spectrum.”
+This was followed up with a Notice of Proposed Rulemaking
+(NPRM) [3], based on the feedback received from the NOI in
+which the FCC detailed a specific approach to using these TV
+white spaces. Finally, on November 4, 2008, the FCC issued an
+Order that paved the way for the unlicensed use of the “TV White
+Spaces” spectrum [4].
+As might be expected, the NOI and the NPRM were embraced by
+some parties, but not others. While it is beyond the scope of this
+paper to provide a detailed and nuanced analysis of the Comments
+and Reply Comments, it soon became clear that several key
+stakeholder groups emerged:
+The broadcast industry, which generally opposed this
+approach, fearing interference by these “opportunistic”
+devices, especially at the margins of their viewing areas.
+The Internet-based service providers generally favored
+this approach, as it provided opportunities for
+innovation and for bypassing the broadband access
+market, which is costly to enter.
+The entertainment industry and providers of equipment
+for that industry, which generally opposed this approach
+because the wireless microphones that many stage
+entertainers use also operate in these frequencies.
+Rural wireless ISPs, which favored this approach
+because the electromagnetic spectrum in the television
+band was favorable for their application and less
+congested than the existing unlicensed spectrum.
+Equipment manufacturers and software developers, who
+were generally in favor of this approach, as it provided
+new potential markets.
+There was also a debate about whether this spectrum should be
+auctioned or treated as unlicensed spectrum. Many technology
+industry participants were in favor of using these as unlicensed
+(see, generally, the Wireless Innovation Alliance), and some
+prominent telecommunications economists advocated auctioning
+this spectrum [5]. Hazlett urged abandoning broadcast television
+entirely and auctioning the spectrum, avoiding the discussion of
+television white spaces altogether [6].
+In order to alleviate the concerns of some of the stakeholders, the
+FCC required that they use “smart” radio technology that is
+
+capable of identifying “the unused TV channels in the area they
+are located”. These radios, also called cognitive radios, are
+leading edge devices that, for the most part, exist as prototypes in
+research laboratories. To evaluate whether these radios would be
+capable of performing as needed, the FCC’s Office of Engineering
+and Technology conducted extensive tests of manufacturer’s
+prototypes [7]. Five prototype radios were provided for these
+tests, which were conducted at nine locations outside of the
+laboratory. These tests showed that the devices were usually able
+to detect the presence of both Digital Television (DTV) signals
+and wireless microphones to very low levels.
+
+2.1 Cognitive radios
+The idea of cognitive radios was first proposed by Mitola [8], and
+subsequent research was summarized in [9]. In a nutshell,
+cognitive radios are designed to sense their environment,
+determine whether (or how) the environment matches the
+application requirement, and, if possible, configure the radio to
+utilize the environment as long as it is available. If the
+environment changes, the cognitive radio would respond by
+reconfiguring themselves to adapt to the new environment. Since
+these new radios have to work with incumbent devices, the use of
+signaling between the (incumbent) license holder and the
+opportunistic user cannot be assumed. Signaling of this kind
+greatly simplifies interference avoidance.
+It turns out that spectrum sensing, especially when the signals are
+weak and unknown, is a difficult technical problem. Limiting the
+devices to the television band simplifies this problem somewhat,
+in that the signal characteristics of television are known and the
+sensing bandwidth is limited to the TV band. Sensing in the TV
+band is also simplified because we know where the (licensed)
+transmitters are and what their signal power is. Thus, we know
+where to look and what signal level that we might expect.
+Spectrum sensing is made more difficult because a radio may be
+located in place that is in the “shadow” of an obstacle (like a
+building)1. This is a problem because some stations that the radio
+is communicating with may not be in the shadow and would thus
+be subject to unwanted interference. Dealing with hidden nodes
+like this may require the cooperation of radios in the region. This
+cooperative sensing generally improves the sensing of cognitive
+radios, and requires a communication protocol to enable the radios
+to share information. One of the interesting research directions is
+to discover the bounds of (truthful) information sharing when the
+radios are selfish.
+
+2.2 Characteristics of spectrum use
+Radio spectrum and its use have some unique characteristics that
+deserve mention when considering white spaces. Chief among
+them are propagation and practical aspects of receivers.
+Radio waves propagate mostly as a ground wave2. At lower
+frequencies, radio waves can refract around buildings, can travel
+over the horizon, and propagate well through the walls of
+buildings. As the frequencies become higher, refraction becomes
+more limited, as does the radio wave’s ability to propagate over
+the horizon and through building walls. It turns out that signal
+attenuation also increases with frequency, so that higher
+1
+
+Such a radio is known as a “hidden node”.
+
+2
+
+At some frequencies, radio waves also propagate as a sky wave,
+in which the signal is “bounced” off of the upper atmospheric
+layers, resulting in extraordinarily long propagation.
+
+frequency signals have more limited range than lower frequency
+ones. To overcome this increasing attenuation, the signal power is
+often concentrated into a narrower beam using a directional
+antenna so that reasonable distances can still be achieved.
+The propagation characteristics of signals from 700MHz to about
+3GHz are generally considered near optimal from a propagation
+perspective. Thus, they are highly sought after and are used for
+applications that include television and mobile telephones. If the
+television band had been located in a less desirable band, it is
+likely that we would not have seen such a concerted push for the
+right to use this spectrum opportunistically.
+It is also useful to keep in mind some practical aspects of radio
+system design because it has a significant impact on the way in
+which spectrum is used. Most radio systems of the kind that we
+envision for white spaces devices are duplex (two-way). Thus,
+they usually have a separate radio channel for communication in
+each direction (uplink and downlink). To minimize interference
+between these two channels, it is normally desirable to locate
+them at significantly different frequencies to avoid interference
+between these channels without the use of costly filters. As a
+result, most communications systems prefer a “band plan” that
+consists of two “paired” channels, each being sufficiently large to
+support the application’s requirements.
+
+3. ALTERNATIVES TO WHITE SPACE
+DEVICES
+Cognitive radios, also called White Space Devices (WSDs), exist
+in a continuum of spectrum access options, as described by
+Buddhikot [10]. On one extreme, we find unlicensed devices that
+share spectrum, such as WiFi. On the other extreme, we find
+licensed devices that use exclusive spectrum. Basically, users are
+faced with a choice of making a tradeoff between price and
+quality; with shared spectrum unlicensed devices, users obtain
+uncertain quality at zero price while with licensed devices, users
+obtain certain quality at a price greater than zero.
+WSDs in the television spectrum are unlicensed, so they are close
+to the WiFi end of the continuum. But because
+WSDs have better sensors (to mitigate interference with
+license holders),
+WSDs may communicate with each other to coordinate
+spectrum usage,
+there is (potentially) so much more spectrum available,
+we may anticipate higher quality than might be expected of WiFi
+devices.
+Another alternative technology is WiMAX, which boasts higher
+speeds and longer transmission distances than WiFi. The
+WiMAX services that are emerging in the US are from the
+Sprint/Clearwire partnership. These do not have zero price, and
+since spectrum is shared, the quality is also not certain, though
+quality can be managed by the service provider.
+
+4. WHAT IS THE EXPECTED IMPACT OF
+THIS DECISION?
+Since devices that might use these white spaces are still in the
+prototype stage, the immediate impact will be minimal. As these
+devices become available, we will gradually see service providers
+building systems on these technologies. For reference purposes,
+the FCC distinguishes mobile devices from fixed services.
+Mobile services have lower power thresholds (and hence shorter
+
+transmission distances) than fixed services because the chance of
+interference from mobile devices is higher.
+I believe that the initial applications will be for fixed radio
+systems. There are three major reasons for this. First, since the
+power required by cognitive radios is still significant, access to
+the electric grid will be important in the near term. Second, the
+spectrum sensing/detection time varies from less than a second to
+two minutes in the FCC test devices [7]. Long spectrum
+acquisition times are inconsistent with the mobile environment.
+Finally, fixed devices can transmit at a higher power level.
+Studies indicate that the amount of spectrum in the white spaces
+varies considerably [11]. In general, it is fair to say that the
+availability of white spaces is much more limited in urban areas
+than in rural areas. A careful analysis of this question has been
+done by Brown and Sicker [12]. They conclude that the biggest
+likely beneficiaries of these systems would be rural communities,
+where the general availability of white spaces is high and the
+relatively long propagation characteristics in the UHF band are
+well suited to the low population densities in these areas.
+Furthermore, they point out that fewer broadband access options
+exist, which also serves to make WSD-based access more
+attractive. To the extent that white spaces are available in urban
+areas, available spectrum is far more fragmented than in rural
+areas and may not cover an entire metro area.
+But even in urban areas where white space spectrum is available,
+the emergence of devices that can take advantage of this spectrum
+means that users of unlicensed wireless systems, like those based
+on Wi-Fi, can expect better performance. Some industry
+observers expect a wave of innovation in broadband access (see,
+for example, [13]), even though the economic models for
+deploying these new access networks remains unclear (we present
+some research results below that begin to address this question).
+The application of “smart antenna” technology can do much to
+enhance the feasibility of white space devices. This technology
+allows for rich spatial diversity. Thus, many devices in the same
+geographic area will be able to use the same frequency resource
+without interference.
+
+5. WHAT, IF ANYTHING, DOES THIS
+MEAN FOR iSCHOOLS?
+Broadband access has been an area of interest in many iSchools
+for some time, though often for different reasons. More
+technologically oriented iSchools would have an interest in
+exploring the technical aspects of building white spaces devices;
+more systems oriented iSchools would have an interest in
+considering the new options offered by these devices; and more
+service oriented iSchools would have an interest in considering
+and evaluating the extent to which these systems could provide
+new opportunities to meet the community’s information needs.
+
+5.1 Illustrating information systems
+innovation
+It is incumbent on us, as teaching faculty, to give our students a
+deeper appreciation of the policy context of information systems.
+Policy matters because it can drive the requirements of
+information systems, drive the behavior of these systems, and,
+guide innovations in this domain. In the introduction, I showed
+how the white spaces decision was an exemplar of the latter – to
+
+enable further development of this technology, changes in
+government policy were necessary.
+
+5.2 Technology research
+There are many opportunities for technology research in white
+spaces. This is particularly true since there are no commercial
+devices yet. While some of the basic technologies that are
+required for implementation and product launch will (and should)
+be accomplished by equipment manufacturers, there are still many
+research opportunities for universities that have iSchools. These
+include:
+Innovation in cognitive radio design for white spaces
+Innovation in spectrum assignment, including secondary
+use markets, spectrum trading markets, and markets in
+interference rights
+Improving the energy efficiency of cognitive radios for
+mobile devices
+Reducing the chance of interference by improvements
+in detection, including:
+o Using exogenous information to improve
+detector performance
+o Optimal cooperation among cognitive radios
+(even those that might be competing for the
+same white space spectrum)
+Economics of cognitive radios and intelligent radio
+systems
+Behaviour of systems of WSDs, i.e., cooperation,
+collusion, and competition of potentially selfish devices
+Using white spaces effectively in urban environments,
+which may constitute new approaches in power control
+and/or intelligent antenna systems (such as MIMO).
+
+5.3 Applications and systems
+When new technologies enter the marketplace, the opportunities
+to apply the new technology multiply. While there is nothing new
+about broadband access, there is something new about broadband
+that has the characteristics of white space devices. Because of the
+uncertain nature of the available spectrum, the system could be
+subject to significant variations in available bandwidth, depending
+on the system’s location. Because the radios themselves have
+significant processing capabilities and are able to respond to their
+environment, it becomes important to understand the behavior of
+systems of intelligent radios.
+
+5.4 Services
+The proponents of unlicensed use of white space devices have
+high hopes for providing services to communities of that are
+currently either underserved or unserved. The greatest promise
+for white space based systems is in rural areas, as I remarked
+above. Thus, it is conceivable that a new broadband capability
+could be deployed in these areas.
+In most cases, rural
+communities have less access to libraries, information services
+and medical systems. Because of the availability of broadband
+systems capable of propagating long distances, it may be feasible
+to deploy a new generation of public safety communication
+system that can provide not just dispatch-oriented voice
+communication, but a system capable of data, image and video
+communication that can help reduce the response time of first
+responders.
+
+6. SOME RELATED RESEARCH RESULTS
+The iSchool at Pitt has research capabillities that are service,
+technology and application oriented. Research in alternatives to
+spectrum access has been going on at Pitt for most of this decade,
+though it has not been in unlicensed WSDs like those that were
+approved by the FCC in the November decision. Nonetheless,
+some of the research results that have been obtained can inform
+about some of the possible impacts of WSDs and can serve as an
+example to illustrate what is possible at an iSchool.
+In [14], we report on the results of a project that studied secondary
+spectrum use. Unlike unlicensed WSDs, this paper was studying
+a system in which secondary users would purchase temporary
+usage rights from license holders on a market. So, while the
+details of the study are different in significant ways from
+unlicensed WSDs, the overall context was similar.
+To aid in understanding the results, it is necessary to say a bit
+more about the details of the model. First of all, Agent-based
+Computational Economics (ACE) is a “bottom up” tool that is
+being used by some economists to observe market outcomes
+without some of the sometimes restrictive assumptions that have
+to be made in analytical economics.
+When using ACE,
+researchers create software agents that are capable of interacting
+with each other. These interactions include buying and selling
+goods, bidding in auctions, etc. Researchers can control the rules
+that govern the interactions (market rules) and the behavior of
+agents. ACE researchers can collect a variety of data about the
+interactions (such as prices paid, choices made), which can then
+be used to gain insight into the effects of certain behavioral and
+market rules.
+In our analysis, we were interested in incorporating technological
+parameters (such as propagation and quality of service) as well as
+some behavior ones (such as bounded rationality and
+opportunism). The latter set were included because we wanted to
+be able to study the bounds within which such a market would be
+feasible; given the realities of today’s wireless marketplace, the
+ability to model the consequences of a small number of license
+holders was important.
+While it is relatively easy to see how license holders could benefit
+from monetizing unused spectrum through secondary use,
+understanding the behavior of secondary users is a bit more
+challenging. In our model, we allow secondary users to choose
+between unlicensed use, secondary use, and license acquisition.
+Secondary use rights are purchased at an auction, where multiple
+primary and secondary users might be competing. In the results
+being reported here, we examine how these choices were made
+under different circumstances. These included the number of
+consumers, the size of the area being covered, and the sensitivity
+to quality (represented by differing values of ). Figure 1
+illustrates what users choose when secondary use is added as an
+access option.
+This figure, which models 13 simulated consumers and 19 license
+holders – a medium-sized scenario – presents several different
+results:
+Each group of six bars represents a coverage area of
+different size, from 250 to 1000 meters.
+Each column within a coverage area shows the
+outcomes with different degrees of sensitivity to quality,
+from less to more as you move from left to right.
+
+The cross-hatched bars represent results when
+secondary use is permitted and the clear bars show the
+results that obtain without secondary use.
+Color represents the choices made by secondary users,
+where
+o red represents users that chose to acquire
+licenses,
+o blue represents users that chose unlicensed
+use, and
+o green represents users that chose secondary
+use.
+
+numbers of either are small, secondary use is not chosen. When
+the number of providers (license holders) is small, opportunism
+prevails and users make other choices. When the number of
+consumers (secondary users) is small, then unlicensed is an
+attractive option.
+
+Figure 2 - User behavior at lower user densities
+
+Figure 1 - Impact of secondary use on user behavior
+
+This figure suggests that we might expect secondary use to be
+evolutionary. That is, as more users enter the market, we might
+expect an increasing number to choose secondary use.
+Furthermore, a move away from unlicensed WSDs to a marketbased approach would require the active participation of sufficient
+license holders to be successful.
+
+Clearly, without secondary use, users were divided into either
+unlicensed or licensed use. When secondary use was permitted,
+our results show that adding secondary use completely eliminates
+the demand for licenses, as users have cheaper access options with
+equivalent quality. This could result in lower prices at auction for
+spectrum licenses.
+The choice that users make also depends on their sensitivity to
+quality and the coverage area. Not surprisingly, as the user’s
+sensitivity to quality increases, their willingness to choose
+unlicensed decreases, even when secondary use is added.
+Similarly, we see that larger coverage areas result in fewer users
+choosing unlicensed spectrum. This is because the chance of
+interference increases with the service area, so the quality
+decreases as the service area increases.
+Although the model did not explicitly consider unlicensed WSDs,
+this result has has relevance. While the price for spectrum is zero
+for both WiFi unlicensed service and WSDs, it is reasonable to
+assume that WSDs will be more costly than WiFi devices, so they
+represent the same kind of cost/quality tradeoff faced by the users
+in our modelled scenario. Thus, the introduction of unlicensed
+WSDs will provide more options for users and simultaneously
+should reduce the demand for licensed spectrum.
+While we did not model rural use explicitly, we can get a sense of
+this scenario by examining user behavior at lower user densities.
+Figure 2 is like Figure 1 with only five secondary users and 19
+license holders. We can see that relatively more users choose
+unlicensed service for all coverage areas. This is expected, given
+that the interference would be lower for smaller numbers of users.
+If we allow the number of license holders and secondary users to
+vary, we obtain the result that is shown in Figure 3. When the
+
+Figure 3 - Secondary use as a function of the number of
+primary and secondary users
+In the TV bands affected by the White Spaces order, the marketbased secondary use and the unlicensed use of white spaces are
+largely disjoint phenomena. The unlicensed WSDs covered in the
+FCC’s Order would exist in geographic, temporal and spectral
+regions outside of the television broadcaster’s license, so the
+broadcaster would not have license rights in these regions
+anyway. Thus, the market-based secondary use that was examined
+in this research could emerge in conjunction with unlicensed
+WSDs if broadcasters found it more valuable to lease spectrum to
+secondary users at certain times of day than to use it for television
+broadcasts.
+While this scenario seems unlikely if one considers a
+broadcaster’s entire viewing area, it could be much more likely if
+we imagine an area within the broadcaster’s license domain where
+
+cable television subscriptions are very high. Since the broadcaster
+would not lose market share by sub-leasing spectrum in this area
+to secondary use, they may find a secondary use transaction
+financially superior. This would require changes in public policy,
+however, since broadcasters have limited ability to use this
+spectrum for purposes beyond its allocation.
+
+7. CONCLUSIONS
+One of the distinguishing features of many iSchools is a systemsoriented approach. A key variable of this view is the context of a
+system – government policy is often a key contextual element.
+But government policy can go beyond this to shaping what is
+possible. Helping our students achieve a richer understanding of
+the role of policy in information systems is often best achieved by
+constructing teaching cases (or, at least, developed examples).
+The FCC “White Spaces” decision is an excellent exemplar of this
+kind of teaching case. Without explicit public action, it would
+have been a poor investment on the part of researchers in academe
+and industry to focus on cognitive radio, as it would have
+remained at the idea stage. Thus, it would have been moot to
+consider the cost/performance combination that these systems
+may offer in the future. Because of the FCC’s interest in this
+(culminating in their Nov. 4 Order), numerous corporations have
+invested in building prototype WSDs, some of which have been
+demonstrated at the Dynamic Spectrum Access Networks
+(DySPAN) conferences. While they are still in the early
+development stage, it is not too early to re-imagine the
+information systems and services that might use them.
+From a research perspective, WSDs and the associated
+technologies offer a rich set of opportunities in the domain of
+iSchools. The technologies themselves and their implementation
+details (eg. markets) require more study. Also, since these
+devices offer new tradeoffs in cost, quality and coverage, these
+WSDs may offer new opportunities for service delivery at prices
+and performance levels that were impossible before. For iSchool
+researchers, this means that capabilities such as telemedicine in
+rural areas may now be feasible and cost effective where it once
+was not.
+Beyond that, iSchools can, and should, be leaders in implementing
+and making use of this new, emergent technology. There are
+many opportunities across the traditional domains of iSchools that
+may benefit from considering this new class of devices. I invite
+you to join me in thinking through and acting on these emerging
+research opportunities.
+
+8. REFERENCES
+[1] Spectrum Policy Task Force Report. Federal
+Communications Commission ET Docket No. 02-135.
+November 2002.
+http://hraunfoss.fcc.gov/edocs_public/attachmatch/DOC228542A1.pdf .
+[2] Federal Communications Commission. In the Matter of
+Additional Spectrum for Unlicensed Devices Below 900
+MHz and in the 3 GHz Band. ET Docket 02-380. December
+11, 2002.
+http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-02328A1.pdf.
+
+[3] Federal Communications Commission. In the Matter of
+Unlicensed Operation in the TV Broadcast Bands and
+Additional Spectrum for Unlicensed Devices Below 900
+MHz and in the 3 GHz band. Notice of Proposed
+Rulemaking. FCC 04-113. May 13, 2004.
+http://fjallfoss.fcc.gov/edocs_public/attachmatch/FCC-04113A1.pdf.
+[4] Federal Communications Commission. In the Matter of
+Unlicensed Operation in the TV Broadcast Bands and
+Additional Spectrum for Unlicensed Devices Below 900
+MHz and in the 3 GHz band. Second Report and Order and
+Memorandum Opinion and Order. FCC 08-260. November 4,
+2008.
+http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-08260A1.pdf .
+[5] Comments of Charles L. Jackson, Dorothy Robyn and
+Coleman Bazelton in WT Docket 06-150 and PS Docket 06229, June 20, 2008.
+[6] Hazlett, T. Don’t Let Google Freeze the Airwaves. Wall
+Street Journal. October 3, 2008. See also
+http://arstechnica.com/articles/culture/dtv-transition-toyesterday.ars.
+[7] Jones, S.K., Phillips, T.W., Van Tuyl, H.L., and Weller, R.D.
+Evaluation of the Performance of Prototype TV-Band White
+Space Devices, Phase II. FCC OET Report 08-TR-1005.
+October 15, 2008.
+http://hraunfoss.fcc.gov/edocs_public/attachmatch/DA-082243A3.pdf
+[8] Mitola, J. Cognitive radio – model-based competence for
+software radios. Licentiate Thesis. KTH. Stockholm.
+September 1999.
+[9] Akyildiz, I.F., Lee, W.L., Vuran, M.C., and Mohanty, S.
+NeXt generation/dynamic spectrum access/cognitive radio
+wireless networks: A survey. Computer Networks 50 (2006),
+2127-2159.
+[10] Buddhikot, M. Understanding Dynamic Spectrum Access:
+Models, Taxonomy and Challenges. 2nd International IEEE
+Symposium on New Frontiers in Dynamic Spectrum Access
+Networks (DySPAN 2007). April 17-20, 2007. pp. 649-663.
+[11] Scott, B. and Calabrese, M. Measuring the TV “White
+Space” Available for Unlicensed Wireless Broadband. New
+America Foundation Policy Paper. November 18, 2005.
+http://www.newamerica.net/files/archive/Doc_File_2713_1.p
+df .
+[12] Brown, T.X. and Sicker, D.C. Can Cognitive Radio Support
+Broadband Wireless Access? 2nd International IEEE
+Symposium on New Frontiers in Dynamic Spectrum Access
+Networks (DySPAN 2007). April 17-20, 2007. pp. 123-132.
+[13] Ganapati, P. FCC White Spaces Decision Kicks Off the Next
+Wireless Revolution. Wired. November 5, 2008.
+http://blog.wired.com/gadgets/2008/11/fccs-decision-t.html.
+[14] Tonmukayakul, A. and Weiss, M. A study of secondary
+spectrum use using agent-based computational economics.
+Netnomics 2009 (forthcoming).
+
+

@@ -1,0 +1,50 @@
+The impact of Identity Supportive Games (ISGs) on ethnic minority possible selves and learning
+
+	Serious Games are digital games with an educational, informative, or persuasive goal beyond mere entertainment (Abt, 2002).  They are promising because they often contain features that appear to be useful for learning (Squire, 2003), eliciting behavioral or attitudinal change (Yee, 2007) or encouraging new perspective taking, empathy, and new ways of thinking (Thomson, 2006; Gee, 2005).  As of yet, not much research yet exists on how to effectively use this form of technology to support identity development, raise awareness about social issues, or foster positive social or personal change (Thomson, 2006).
+
+In this Design-Based Research (DBR) study, I propose and test a specific Serious Game design that I call Identity Supportive Games (ISGs).  Specifically, I design and test game designs that allows players to explore Asian-American identities in relation to ethnic stereotypes.  Many misconceptions and myths persist regarding Asian-American issues (e.g., the effects of seemingly positive stereotypes such as the “Model Minority” image that depicts Asian-Americans as intelligent overachievers who rarely fail).  In reality, these stereotypes and self-beliefs can lead to problems including identity crisis (Erikson, 1968), mental illnesses and depression (Cohen, 2007), poor self-esteem and self-image (Mok, 1998; Sue & Sue, 2004), decreased academic performance (Steele, 1997), decreased opportunities (Cheng & Thatchenkery, 1997), and pigeonholing (Sue & Sue, 2006).  With this in mind, I seek to understand how Serious Games can support identity development, impact self-concept, and broaden possible selves (Markus & Nurius, 1986) in the face of the limiting and damaging effects of ethnic minority stereotypes.  This work also seeks to produce design principles for attitudinal, affective, and learning outcomes in digital games.
+
+The issues to be explored run parallel to those in similar groups in other contexts, such as other ethnic minorities in schools and the workplace, as well as women in science, technology, engineering, and math (STEM) fields.  This mixed-methods dissertation study, largely drawing upon the theoretical frames of Erik Erikson’s model of identity development, Marcia’s Identity Status paradigm and Markus and Nurius’ notion of possible selves, leverages recent work on identity play in digital games (e.g. Turkle, 1995; Yee, 2007) and generates “theories-in-action” (Sandoval & Bell, 2004) on identity and learning within digital games for social impact.
+
+References
+
+Abt, C. (2002).  Serious Games.  University Press of America.
+
+Cheng, C., & Thatchenkery, T. J. (1997). Why is there a lack of workplace diversity research on Asian Americans? The Journal of Applied Behavioral Science, 33(3), 270-277.
+
+Cohen, E. (2007, May 16).  Push to achieve tied to suicide in Asian-American women.  CNN.  Retrieved May 5, 2008, from http://www.cnn.com/2007/HEALTH/05/16/asian.suicides.index.html
+
+Erikson, E. H. (1968). Identity: youth and crisis. New York: Norton. 
+
+Gee, J. P. (2005). Why video games are good for your soul: Pleasure and learning. Melbourne: Common Ground.
+
+Markus, H., & Nurius, P. (1986). Possible Selves. American Psychologist, 41(9), 954-969.
+
+Mok, T. (1998). Asian americans and standards of attractiveness: what's in the eye of the beholder? Cultural Diversity and Mental Health, 4(1), 1-18.
+
+Sandoval, W. A., & Bell, P. (2004).  Design based research methods for studying learning in context: introduction.  Educational Psychologist, 39(4), 199-201.
+
+Squire, K. (2003).  Video games in education.  International Journal of Intelligent Systems and Gaming.  2(1).  Retrieved August 11, 2008, from http://www.cyberfest.us/Education/Video_Games_in_Education-MIT_Study.pdf
+
+Steele, C. M. (1997). A threat in the air: How stereotypes shape intellectual identity and performance. American Psychologist, 52(6), 613-629.
+
+Sue, D., Sue D. W. Sue, S. (2006). Understanding abnormal behavior (8th ed.). Houghton Mifflin Company. Boston, New York. 352-387, 441.
+
+Thomson, C. (2006).  Saving the world, one video game at a time.  The New York Times.  Retrieved May 27, 2008, from http://www.nytimes.com/2006/07/23/arts/23thom.html?pagewanted=print
+
+Turkle, S. (1995).  Life on the screen: Identity in the Age of the Internet. New York: Simon and Schuster, 1995.
+
+Yee, N., & Bailenson, J. (2007). The Proteus Effect: The Effect of Transformed Self-Representation on Behavior. Human Communication Research, 33(1), 271-290.
+
+
+
+
+
+
+
+
+
+
+
+
+

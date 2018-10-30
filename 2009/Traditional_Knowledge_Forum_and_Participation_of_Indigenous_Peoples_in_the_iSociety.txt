@@ -1,0 +1,174 @@
+Traditional Knowledge Forum
+and
+Participation of Indigenous Peoples in the iSociety
+Poster Presentation
+
+Ulia Gosart
+UCLA
+Department of Information Studies
+ugosart@ucla.edu
+
+Abstract
+This poster presentation envisions the initial steps in fostering indigenous e-inclusion by proposing the creation of an
+intercultural, multi-disciplinary dialog between representatives of academia, indigenous communities, and policy
+makers. This dialog would take the form of a Traditional Knowledge Forum and would be based upon and promote the
+standards for the fair treatment of indigenous peoples as outlined in the United Nations Declaration on the Rights of
+Indigenous Peoples. The issues that will be addressed in the Forum include the protection and development of
+indigenous knowledge sources, the creation of a venue for meaningful cooperation and sharing of indigenous
+knowledge, and the establishment of an ethic for indigenous knowledge management.
+The presentation intends to create a productive discussion among representatives of iSchools on practical steps to
+launch a Traditional Knowledge Forum in the near future.
+
+Keywords
+traditional indigenous knowledge, cultural information systems, indigenous peoples, intellectual property, indigenous
+e-inclusion.
+
+1. Introduction
+The iSociety is a creation of Western culture. Yet, its global character requires the commitment of nonWestern actors for its growth. Development of relations between those, engaged in the creation of global
+information environments, and their counterparts from non-Western cultural settings is a challenging issue
+in the future of the iSociety. One of the aspects of this process is collaboration between indigenous
+peoples 1 and prospective designers of the information products that are relevant for indigenous cultural
+settings.
+
+2. The body of the paper
+In observance of the Second International Decade of the World’s Indigenous Peoples 2 , and following the
+standards of the United Nations Declaration on the Rights of Indigenous Peoples 3 the main principles of
+collaboration with indigenous communities include:
+- non-discrimination,
+- effective participation,
+- respect for cultural diversity;
+- emphasis on the women, children, and youth;
+- effective monitoring and accountability. (UNFPII, 2004).
+1
+
+Indigenous peoples is a legal category, most broadly referring to “the living descendants of preinvasion
+inhabitants of lands now dominated by others.” (S. James Anaya quoted in Rodríguez-Piñero, L. (2005).
+Indigenous peoples, postcolonialism, and international law, p. 40, note 124). Each member state employs
+its own standards to define populations as indigenous peoples, while following the principles of fair
+treatment of indigenous peoples developed by the international community and expressed in a set of human
+rights documents most prominent being The Declaration on Rights of Indigenous Peoples (2007).
+2
+The United Nations General Assembly adopted Resolution A/RES/59/174 for a Second International
+Decade on December 22, 2004. The Decade commenced on January 1, 2005.
+3
+The Declaration was adopted by the UN General Assembly during the 62-d Assembly session on
+September 13, 2007.
+
+The central objective behind these principles is to include indigenous peoples in the processes of designing,
+implementing, and evaluating policies, resources, and programs that directly involve the well-being of
+indigenous communities. (UNFPII, 2004).
+Collaborative efforts between indigenous communities and academia to design information products
+relevant to indigenous settings began as early as the 1980s. However, the consequences of this
+collaboration were at times unexpectedly harmful to the indigenous communities. One of the saddest
+examples of this harm was the creation of indigenous databases. While composed with assistance and help
+from the indigenous peoples, these information resources often bore little relevance to the needs of the
+communities from whom the information was taken. (Agrawal, 2002). Further, as these databases entered
+the public domain, they made the knowledge expressions of indigenous communities vulnerable to
+copyright infringement (WSIS, 2003, Brown, 2003).
+An analysis of these efforts outlined the lack of clear understanding of the crucial issues involved in the
+process of collaborative work with indigenous peoples. (The Tulalip Tribes, 2003). To clarify the issues
+and to create solutions to the existing and potential problems related to indigenous traditional knowledge, a
+dialog among representatives of academia, indigenous communities, and policy makers is needed. As an
+initial step in the process of engaging indigenous peoples into the iSociety, such a dialog could take a form
+of a Traditional Knowledge Forum. The Forum will elicit ways in which the principles of the treatment of
+indigenous peoples as promoted by the Declaration on the Rights of Indigenous Peoples can be
+implemented within the educational practices of the iSchools.
+3. Traditional Knowledge Forum will address the following issues:
+Protection of Traditional Knowledge expressions
+As the past experience has shown, a leading problem with the growth of information society is insuring the
+protection of knowledge expressions of non-Western cultures, especially of indigenous peoples.
+The following subject areas are related to this protection:
+- Mechanisms for the protection of traditional indigenous knowledge: Intellectual Property system
+and customary laws;
+- Traditional indigenous knowledge and the public domain: danger and benefits;
+- Internet and traditional indigenous knowledge: the adequacy of digital formats for the content of
+indingeous knowledge expressions.
+Sharing Traditional Knowledge expressions
+Another related issue is the question of sharing the expressions of indigenous knowledge on the terms of
+indigenous peoples. In particular:
+- Practicing principles of mutual exchange and reciprocity within the educational endeavors of the
+iSchools;
+- Practicing principles of free and informed consent in the fields of iSchools research and
+professional engagement.
+Development of knowledge management ethics for future cooperative efforts
+The next prospective area of development is knowledge management ethics. How can issues of intellectual
+property rights, privacy, accuracy and accessibility in relation to the ethical management of indigenous
+knowledge expressions be addressed in collaborative efforts between indigenous and non-indigenous actors
+within the practices of the iSchools? (Mason, 1995)
+Creating novel information products.
+Finally, is it possible (or practical) to create information products that would both preserve the traditional
+core of indigenous knowledge expressions, and provide the benefits of a Western information system for
+indigenous peoples?
+Who are prospective participants?
+
+Indigenous peoples
+While indigenous communities differ depending on their geo-political locations, historical backgrounds,
+economic situations and social structures, representatives of indigenous communities often share a common
+agenda on national and international forums. These representatives, who include activists, researchers, and
+members of traditional leadership, are the key links between the communities and the outside social and
+political structures. Participation of these actors is crucial to the working of the Forum; it would also be
+useful for creating projects between representatives of the iSchools and indigenous communities.
+Academia
+Traditional indigenous knowledge is a theme of multi-disciplinary character. The stakeholders involved in
+this field include researchers from a wide range of disciplines that include natural and social sciences,
+professional fields of law, business and education. However, only the multi-disciplinary focus of the
+iSchool can bring these diverse aspects under one umbrella of a common aim: the collaboration with
+indigenous peoples and the creation of information resources for indigenous communities. The Forum is an
+opportunity to bring diverse academia members together as a step toward indigenous e-inclusion.
+Policy makers
+Traditional indigenous knowledge is the focus of work of the World Intellectual Property Organization
+Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional Knowledge and
+Folklore (IGC), among other policy insitutions involved in this field. Participation of the IGC members
+including representatives to the IGC from indigenous peoples organizations, as well as policy makers and
+professionals involved in the area of customary laws development will enhance relations among academia
+and policy making circles with the active involvement of indigenous researchers and activists.
+
+3. Conclusion
+The poster presentation intends to create a meaningful discussion among i-conference participants on
+practical steps for launching a Traditional Knowledge Forum within the realm of the iSchools educational
+practices.
+
+4. Acknowledgements
+The author expresses her gratitude to Dr. Sharon Traweek for her encouragement and support in developing
+the idea of the Forum, and to Dan Haley for his constructive comments on presenting the poster proposal.
+5.
+
+References
+
+1.
+
+Agrawal, A. (2002). Indigenous knowledge and the politics of classification. In International
+Social Science Journal, 54 (173), 287-297.
+Brown, M. (2003). Who owns native culture? Cambridge, MA: Harvard University Press.
+Mason,
+R.,
+&
+Culnan,
+M.
+(1995).
+Ethics
+of
+Information
+Management.
+Thousand Oaks, CA: Sage Publications, Inc.
+Rodríguez-Piñero, L. (2005). Indigenous peoples, postcolonialism, and international law. Oxford
+University Press: Oxford, New York.
+The Tulalip Tribes of Washington, (2003). Statement of the Tulalip Tribes of Washington on
+Folklore, Indigenous Knowledge, and the Public Domain. In Proceedings of the
+Intergovernmental Committee on Intellectual Property and Genetic Resources, Traditional
+Knowledge and Folklore, Fifth Session, Geneva, July 6-17, 2003,. Available online at
+http://www.wipo.int/tk/en/igc/ngo/tulaliptribes.pdf
+UNPFII, (2004). Second International Decade of the World’s Indigenous Peoples.. Available
+online at http://www.un.org/esa/socdev/unpfii/en/second.html
+WSIS, (2003). Indigenous Position Paper for the World Summit on the Information Society.
+Available online at http://www.unige.ch/iued/wsis/DEVDOT/02511.HTM .
+
+2.
+3.
+4.
+5.
+
+6.
+7.
+
+

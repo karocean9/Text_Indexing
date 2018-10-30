@@ -1,0 +1,117 @@
+Effect of Early Requirements Analysis and Participative Design on Staff in an Urban Health Clinic:  Civic Engagement through CollaborationPrudence W. Dalrymple 
+Institute for Healthcare Informatics
+iSchool at Drexel
+3141 Chestnut St.
+Philadelphia, PA 19104
+215 895 2699
+ HYPERLINK "mailto:Prudence.Dalrymple@ischool.drexel" Prudence.Dalrymple@ischool.drexel
+           Michelle Rogers
+iSchool at Drexel
+3141 Chestnut St.
+Philadelphia, PA 19104
+215 895 2922 HYPERLINK "../../../../../Documents and Settings/pdalrymple/Desktop/Michelle.Rogers@ischool.drexel.edu"Michelle.Rogers@ischool.drexel.edu
+Yuan An
+iSchool at Drexel
+3141 Chestnut St.
+Philadelphia, PA 19104
+215 895 2633
+HYPERLINK "../../../../../Documents and Settings/pdalrymple/Desktop/Yuan.An@ischool.drexel.edu"Yuan.An@ischool.drexel.edu
+
+ABSTRACT
+
+In this paper, we describe our work for the past year assisting a nurse-managed primary clinic that serves a medically-disadvantaged urban population. Building on the prior year’s work in which our team became acquainted with the mission and goals of the clinic, the community characteristics  and the current challenges facing the implementation of the current HIT system, we are now engaged in a process to specify requirements for health information technology (HIT) that can support a transdisciplinary model of care. This approach takes the approach of collaborative (or, participatory) research between an academic institution's research unit and a community-based organization. Our on-going efforts at the 11th Street Clinic in Philadelphia illustrate how the iSchool at Drexel joins with the College of Nursing and Health Professions through its Institute for Healthcare Informatics in order to address the healthcare needs of one urban medically-disadvantaged community. Our work combines both civic engagement through service to the staff and (indirectly) to its patients, while at the same time providing an opportunity for inter-disciplinary faculty research.
+Keywords
+Health informatics, Transdisciplinary model of care, Early requirements analysis, Behavioral models for IT implementation, Civic engagement
+
+INTRODUCTION
+
+Healthcare information technology (HIT) holds great promise for improved patient outcomes, increased cost-effectiveness and better patient and staff satisfaction.  However, implementation of HIT has been fraught with problems as organizations have struggled with the transition to e-health.  Adoption of electronic medical records (EMRs) in ambulatory medical practices has lagged behind that of hospitals, and diffusion to non-traditional practices has been even slower. Few settings experience this frustration more keenly than clinics that operate using a care delivery model that differs from the “normal” physician-centered, medical model initially designed to support in-patient care in a medical center or hospital.  One example of such a clinic is the 11th St. Clinic in Philadelphia, a nurse-managed, primary care clinic that coordinates patient services from a variety of health care professionals to deliver patient-centered care to populations that are medically under-served.  Such nurse-managed care is likely to gain importance as the prevalence of chronic conditions requiring  the services of multiple, varied health professional increases in our society, especially among those who have little or no access to insurance-supported medical care. The aim of this project is to explore the feasibility of creating a HIT system for such a transdisciplinary model of care. 
+Background & setting
+
+The 11th Street Clinic is an urban, nurse-managed primary care clinic in Philadelphia serving a population that is medically disadvantaged and has a high chronic disease burden accompanied by psychosocial and socio-economic challenges. The Clinic has been cited nationally for its transdisciplinary approach to primary care, in which a variety of services aimed at encouraging healthy lifestyles is part of every care plan. [1] [2] The Clinic has adopted a Chronic Care Model (Figure 1) that brings together an informed and activated patient with a prepared and proactive practice team.  
+
+To be successful, in the Chronic Care Model, both patients and staff must have access to integrated information systems that capture data to enable monitoring of progress over time.  The Chronic Care Model also assumes at least a moderate level of decision support in terms of reminders, templates for data input, calculators, and alerts.  Systems need to be simple enough that patients can input data in response to a questionnaire or survey, yet sophisticated and complete enough to provide an adequate record for clinical care and billing reimbursement. The system needs to conform to accepted messaging standards for communicating with labs and other medical systems such as local and regional hospitals and medical facilities. 
+
+The clinic has access to a well-known EHR system through a consortial arrangement; however, this system, like many others, was designed for organizations where the physician-based medical model of care predominates.   Few electronic medical record systems can accommodate the data input, storage, and retrieval methods necessary to track patient outcomes across multiple providers.  In the transdisciplinary model of care, patients are seen by a variety of health professionals, beginning with the nurse practitioner, but including dentists, social workers, and dietitians   while also being referred to “activities of healthy living:” such as cooking classes, yoga and exercise classes, and smoking cessation and weight loss clinics.  All these services are available at the Clinic, including social activities for children, teens and adults.  
+
+In order to track the effectiveness of these interventions on patient outcomes, the Clinic’s staff needs a flexible electronic patient record, as well as additional data collection tools, templates and reminder systems. These tools include patient surveys to assess stress, depression, screening for autism, and other psychosocial conditions.  Many of these tools—standard surveys and inventories--already exist in electronic format but they are not currently integrated into the patient record.  Furthermore, the population served by the clinic presents special challenges in terms of the patients’ ability to directly input data into a computer survey. 
+
+Over the past year, faculty from Drexel University’s  iSchool have begun to meet with Clinic staff seeking to understand their model of care and the unique technology needs of the staff and their patients. Our efforts are aimed at enabling the staff to articulate their HIT needs, to help them recognize both the benefits and limitations of HIT, to represent the workflow challenges of the transdisciplinary approach to chronic care, and to provide a well-specified model of HIT that supports the delivery of care in a  transdisciplinary model. 
+
+The three members of the iSchool team bring varied expertise—IT, informatics, and behavioral science—as well as both qualitative  and quantitative research methods to assist the Clinic and to address fundamental research questions (see next section).   On the clinical side, the Director and Associate Director of the Clinic have been instrumental in acquiring funding for the Clinic and for setting a strategic direction that is both research and service-oriented. The Clinic’s transdisciplinary approach to care is evidence of their commitment to working in a team environment, and they have welcomed our participation and expertise.  Our approach, described in the next section, combines both early requirements analysis and theoretical models widely used to study technology adoption and use. 
+APPROACH
+
+Early Requirements Analysis
+We are currently introducing a model for early requirements analysis, whose aim is to elicit from stakeholders their fundamental ideas and needs for a technological system.  That is, rather than drawing from existing systems with features that are tried, used and discarded without ever fully meeting the user’s basic requirements, we are helping users to break free from their initial, negative experiences in order to “think large” about how automation has the potential to improve patient care.  By focusing on the final goal—improved patient care—we hypothesize that the requirements elicited from this process will more completely and effectively meet the needs of clinicians
+The primary method for eliciting requirements for the system is the i* (“I star”) method. [3] [4]  The i* framework offers an agent-oriented approach to requirements engineering. By explicitly modeling and analyzing strategic relationships among multiple actors, the approach incorporates some simple social analysis into a systems analysis and design framework. In the view of i*, individuals, referred to as actors, depend on each other for goals to be achieved, tasks to be performed, and resources to be furnished.  Desirable attributes—simple inputs, mobility or portability for example, are also elicited.   Within i*, actors are both dependent on one another, creating both opportunities as well as vulnerabilities. Networks of dependencies are analyzed using a qualitative reasoning procedure. During systems design, actors explore alternative configurations of dependencies to assess their strategic positioning in a multi-agent, social context.
+There are parallels between the concepts of social network analysis and i*  and the process of mapping these relationships also reinforces for both users and designers, the importance of seeing the information system as a social system as well as a technical undertaking. 
+ The i* star method consists of a series of group sessions during which the clients (in this case the clinic staff) are given a set of simple tools with which to represent their tasks, the individuals with whom they interact to accomplish those tasks (the dependency relationships) and the information or data that is needed to accomplish the task.  Using simple representations such as lines and arrows, the clients engage in a series of meetings during which they iteratively de-compose their requirements.  During a typical session, the clients will verbalize their goals, objectives, and tasks, and represent them on large sheets of paper.  The sheets are collected an analyzed by the team, and presented back to the group in an iterative process.  Each cycle comes closer to specifying the tasks, and the dependency relationships needed to accomplish an objective in the service of the overall goal—in this case, improved patient care.
+Although the i* process has been introduced successfully in a variety of environments, it has yet to be trialed in a health care environment.  Our initial experience suggests that it will not be without its challenges.  Tasks, dependencies and relationships are akin to tacit knowledge—knowledge of specific content (what is a HbA1c  value that is out of range, for example) as well as activity patterns (Clinic has to receive lab results before follow-up visit can be scheduled) and cultural realities (patients may use aliases or produce “borrowed” insurance cards) that affect workflow and HIT system design.  Yet tacit knowledge is notoriously difficult to elicit.  
+Similarly, iterative decomposition of goals into tasks is also difficult, and actor dependencies often emerge only after multiple iterations as staff struggle to see how their roles integrate into the workflow of others.   The value of the i* process, we believe, is its recognition of the social and organizational context of HIT systems. It is this contextual orientation of the i* method that makes it intrinsically appealing to researchers working in the i-School environment in which information, people and technology are brought together. 
+Theoretical Frameworks for Technology Acceptance and Use
+The failures of health information technology are well documented in the health informatics literature. [5] Though it may be argued that healthcare is not unique in its IT failure rate, the ramifications of IT failure in this sector are significant.  Designing the right system, building it correctly and implementing it wisely remain challenging, despite the steps that have been taken to ameliorate problems. 
+Establishing linkages between information behavior and requirements engineering can lead to improved system design and can contribute to the theory of systems adoption, use and satisfaction. [6]  Furthermore, approaches such as i* have another potentially beneficial component—the participation of the ultimate users in the design of “their” system.  The implications of participatory design for technology implementation are potentially powerful.
+Our work at the 11th St. Clinic draws upon theoretical models that have been utilized widely to explain the implementation failures of health information technology and to propose alternate approaches.  Theories such as the Technology Adoption Model (TAM), Social Cognitive Theory (SCT) and Diffusion of Innovation theory (DOI)  have all contributed to aspects of system implementation, though they have rarely been integrated into a single explanatory theory. [7] We note that they focus on implementation of HIT, and on efforts to design more effective interventions at the implementation  stage of technology adoption. In contrast, we hypothesize that successful implementation starts earlier--at the design stage--and that focusing attention on behavioral components of design has a positive impact on later system implementation and use.  That is, the value that an individual places on how and whether  a particular outcome  is supported by the IT system originates from the user’s needs and perceptions.  If the user has the opportunity to specify the tasks that she needs to accomplish, she is more likely to adopt the system and to benefit from its implementation.  Benefit is intrinsically tied to the professional values and goals of the individual health professional and HIT that does not offer benefit will not be adopted.  Our long term goal, therefore, is to demonstrate over the long term that the opportunity to engage in system design through early requirements analysis results in more effective adoption of HIT—and ultimately to improved healthcare delivery. 
+IMPLICATIONS FOR I-SCHOOLS
+Our work with the 11th Street Clinic has implications for i-schools that address both research and service.  We place these implications in a brief discussion of research trends. 
+Recent attention in biomedical informatics has been given to issues surrounding implementation of systems in complex organizations and there have been calls for a Team Science for  Implementation. [5]  This movement in informatics has a parallel in the clinical world, as reflected in the American Journal of Preventive Medicine’s recent supplement devoted to the “science of team science”  and a recent article from nursing calling for transdisciplinary research in nursing. [9]   Both recent developments reflect greater recognition of the need for a transdisciplinary  approach to address the crisis in health care delivery.  These calls for a transdisciplinary approach to implementation link what has been known and accepted about information behaviors in the i-School environment to the healthcare domain and suggest the potential for making a substantive impact there.
+Our overall goal is to build upon this initial, exploratory work to develop a collaborative research model to investigate the impact of an IT-enabled transdisciplinary care model on patient outcomes. Our research objectives for this exploratory phase of the  program are more modest, but are in line with current trends.  We are introducing the i* approach for early requirements analysis in order to test our belief that involving the user in the early stages of systems design will increase the likelihood that the ensuing design will meet their needs and  will facilitate adoption in practice.  We also expect that our results will demonstrate that a transdisciplinary model of care differs sufficiently from the medical model that specific design requirements will emerge.  These design requirements can be incorporated into other HIT systems whose service model matches that of the 11th St. Clinic.  Our inter-disciplinary team, through its engagement with the transdisciplinary model of the 11th St. Clinic is itself modeling a transdisciplinary research effort that is especially compatible with current i-School activities.  
+Our service objectives are to provide needed support to the staff of the Clinic, and indirectly, to their patients.  We also embody the values  derived from combining the expertise of two major colleges within the University to form interdisciplinary partnerships in the service of our community through the provision of integrated healthcare services to those in need.
+REFERENCES
+REFERENCES
+
+Multidisciplinary Family Clinic Increases Access to Care for Inner-City Residents, Leading to Improved Outcomes and High Patient Satisfaction
+ HYPERLINK "http://www.innovations.ahrq.gov/content.aspx?id=2186" http://www.innovations.ahrq.gov/content.aspx?id=2186
+American Academy of Nursing Joins Movement to Transform Health Care
+ HYPERLINK "http://www.aannet.org/i4a/pages/headlinedetails.cfm?id=167" http://www.aannet.org/i4a/pages/headlinedetails.cfm?id=167
+[3]   Yu, E.S.K.  Towards modeling and reasoning support for    early-phase requirements engineering.   Proceedings of the 3rd IEEE International Symposium on Requirements Engineering (RE ’97). 
+[4]    iStar Quick Guide. 
+ HYPERLINK "http://istar.rwth-aachen.de/tikiindex.php?page=iStarQuickGuide" http://istar.rwth-aachen.de/tikiindex.php?page=iStarQuickGuide 
+[5]  Lorenzi, N.M., Novak, L.L., Weiss, J.B., Gadd, C.S., Unertl, K.M.  2008.  Journal of the American Medical Informatics Association. 15(3): 290-296. 
+[6] Alexander, M.  2008. Information behavior in requirements engineering: an initial review of the research.     Proceedings of the American Society for Information Science.  
+[7]  Kukafka, R, Johnson, S.B., Linfante, A., Allegrante, J.P.  2003.  Grounding a new information technology implementation framework in behavioral science: a systematic analysis of the literature on IT use.  Journal of Biomedical Informatics 36; 218-227. 
+
+
+[8] Stokols, D. Hall, K.L., Taylor, B.K., Moser, R.P.  2008.  The science of team science.  American Journal of Preventive Medicine 35 (2S): S77-S89.
+
+
+
+
+
+
+
+
+
+
+[9]  Grey, M., Connolly C.A. 2008.  “Coming together, keeping together, working together”: interdisciplinary to transdisciplinary research and nursing.  Nursing Outlook 56: 102-107
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+
+
+
+Figure 1.  Chronic Care Model (used with permission)
+
+
+

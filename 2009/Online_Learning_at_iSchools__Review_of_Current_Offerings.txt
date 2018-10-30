@@ -1,0 +1,225 @@
+Online Learning at iSchools – Review of Current Offerings
+Julia Kampov-Polevoi, Javed Mostafa
+Laboratory for Applied Informatics Research
+University of North Carolina
+100 Manning Hall, CB #3360
+Chapel Hill, NC 27599
+
+jkampov@email.unc.edu, jm@unc.edu
+1.
+
+INTRODUCTION
+
+The rapid growth in the knowledge and information sector of
+economy in the recent decades has led to a shift from the
+traditional educational paradigm to the concept of lifelong
+learning. Wide acceptance of this concept in the US can be
+illustrated by the fact that overwhelming majority of state
+governors ranked encouraging lifelong learning as the top
+educational issue [1]. According to the most recent government
+report [2], there has been a steady increase in student enrollment
+in post-secondary educational institutions and the trend is
+expected to continue over the next decade with most significant
+growth in the 25-34 age group (near 30%) and almost as much
+growth in the over 35 age group as among 18-24 year olds with
+the number of graduate and professional students increasing 18%
+and 20% respectively. In other words, it is expected that people
+will be seeking more advanced education or new professional
+skills and at later stages of their lives. It is reasonable to expect a
+proportionate increase in the demand for degrees in the field of
+Information Science.
+Higher education infrastructure cannot handle such growth in
+demand without exploring alternatives to traditional classroom
+learning. One of the ways to meet the projected demand in
+graduate/professional education is to develop or extend online
+education offerings.
+By expanding temporal and spatial
+boundaries of educational institutions, online learning not only
+allows the educational institutions to grow beyond the physical
+limits of their campuses, but also increases accessibility of
+education to students that, for various reasons, cannot take part in
+traditional educational programs. In fact, there has been a steady
+increase in student demand for online learning opportunities that
+provide the flexible, time-efficient, and relevant to workplace
+education they desire. According to most recent nationwide
+survey [3], the number of students taking at least one online
+course in a semester has been increasing steadily and is projected
+to continue to grow with online enrollment currently comprising
+nearly 20% of total student enrollment. Not, surprisingly,
+majority of post-secondary educational institutions consider
+online learning important to their overall strategy [3] with two
+thirds having online offerings ranging from select courses to fullyonline degree programs. Yet, one third of institutions have no
+online offerings.
+How do information science programs fit into the online learning
+landscape? Our study will attempt to answer this question by
+exploring the current status of online education in IS.
+Specifically, we plan to review existing programs in terms of their
+business models, technological platforms and delivery format as
+well as assess barriers to establishing or expanding online
+programs. The goal is to understand what opportunities and
+
+challenges affect building online education capacity for the IS
+programs. This poster reports the preliminary findings from a
+pilot study focused on the 19 US based members of iSchool
+Caucus and aimed at pilot-testing our methodology.
+
+2.
+
+METHODS
+
+The study uses a three-stage approach: (1) analysis of content of
+the programs’ websites, (2) email survey of programs’
+administrators, and (3) in-depth telephone interviews of a small
+sample of administrators.
+The goal is to gain a better
+understanding of online learning in the IS environment by
+gradually progressing from informal search to more detailed and
+structured inquiry.
+For the pilot, we started by browsing the websites of the US
+iSchools, looking for any information about online offerings,
+which we expected to find in the sections labeled as “academics”,
+“programs”, “courses” and “schedules” (in the latter we looked
+for “web”, “online” or similar indication for course
+location/delivery). This intensive browsing was augmented with
+thorough keyword searches.
+Keywords, such as “online
+course(s)”, “web-based”, “distance learning”, “distance
+education”, “online degree”, were used to search the web site of
+each iSchool as well as the site of its parent university. Despite
+the differences in web site structures, the amount and granularity
+of information provided, we were able to obtain similar
+information for all programs enabling us to do the initial
+comparison and providing the basis for development of the survey
+questions. Additionally, we were interested in the format and
+technology platform(s) used to deliver online courses. This
+information, when not explicitly stated as part of the description
+of available online options, was obtained by expanding browsing
+and search to technical support areas of the web sites of each
+school and its parent university. While this approach may fail to
+capture all the different technologies used for online education, it
+allows us to determine the main delivery platform(s), which was
+deemed sufficient for the current stage of the pilot.
+
+3.
+3.1
+
+PRELIMINARY RESULTS
+Online Learning Offerings
+
+The majority of US iSchools (14 of 19) offer some online learning
+options. Nine schools offer complete online degrees. Of the
+other five schools, four offer limited number of online courses
+with availability changing every semester and one has a
+substantial number of online courses and is in the process of
+developing a fully-online degree. Surprisingly, using methods
+described above, we were unable to find any information about
+online credit course or degree offerings for five of the schools in
+the sample. Still, compared to national averages, US iSchools
+
+appear to be more engaged in online learning: 48% vs.35% offer
+online degrees and 74% vs. 66% have some online learning
+options.
+Preliminary analysis of the details of online options offered by
+fourteen iSchools reveals several patterns. First, the schools
+offering full degrees or having plans to offer such degrees in the
+near future are affiliated with universities that have strong online
+branches and offer a number of online degrees from different
+fields of study. Second, the fully-online degrees offered by
+iSchools tend to be career-oriented professional degrees at the
+Master’s level or advanced practice post-Masters’ certificates that
+are geared towards working professionals in need of additional
+education to meet new career challenges or those seeking to
+prepare for a new career in the information related field.
+The prevalence of Library Science related online degrees
+prompted us to conduct a survey of web sites of all US based
+ALA accredited schools (majority of iSchools being also in this
+group) using the same methodology as described in section 2.
+The comparison revealed that the patterns of online engagement
+for ALA schools/programs is very similar to national averages,
+but the ALA schools that are also members of the iSchool Caucus
+lead with 54% offering full degrees and 85% having some online
+learning options.
+
+3.2
+
+Delivery Platform and Format
+
+The vast majority of iSchools offering online courses use some
+commercial or open-source Course Management System (CMS)
+to deliver course materials. Blackboard is the most popular
+system used by eight schools. Other CMS used include Moodle,
+Sakai, eCollege and ANGEL Learning.
+Web-conferencing
+software seems to be gaining popularity, but only one school uses
+such technology as the main online platform. Mixing different
+technologies within the same program appears to be uncommon.
+The delivery formats of online courses ranges from fully-online to
+hybrid (requiring some face-to-face meetings). Individual courses
+tend to be fully-online, but degree programs often have a
+mandatory short-term (4-10 days) residency requirement at the
+beginning of the program or semester.
+Survey of ALA accredited programs produced largely similar
+results, including dominance of CMS, particularly Blackboard, as
+the delivery platform. However, there are more programs in this
+group that use a mix of technologies and there is a wider
+utilization of broadcast and videoconferencing.
+
+4.
+
+DISCUSSION AND FUTURE PLANS
+
+From the preliminary analysis, it would seem that the presence
+and nature of online offerings at an iSchool largely depends on
+
+the level of online learning engagement of the parent institution.
+It is much easier to offer an online degree as part of an existing
+“university online”, and it may be not feasible for an individual
+school to acquire and support the technology needed for online
+course delivery. But what about schools that offer some online
+courses and are affiliated with universities that have contracts
+with vendors of online learning platforms? Indeed, roughly equal
+number of iSchools uses Blackboard or Moodle to deliver either
+select online courses or full degrees. What prevents the programs
+offering select courses from growing their online capacity when
+they have access to the same technology as the peer programs
+offering full online degrees? What barriers exist to these iSchools
+becoming leaders in online learning at their respective
+universities? Most of the degree programs available online are
+professional practice oriented. Perhaps programs with strong
+academic research emphasis have lesser interest in developing
+online capacity. We plan to explore all these dimensions further
+through our survey and interviews.
+Other factors we plan to explore in the next stage of the pilot
+project include: business models, program histories, strategic
+plans and resistance to engaging in online education. We want to
+take a closer look at some successful online IS programs and see
+what lessons can be learned from them. This work will lay the
+foundation for a broader study, including international
+institutions, that is currently in the planning stage.
+
+5.
+
+ACKNOWLEDGMENTS
+
+Partial funding for this project was provided by SILS, UNC at
+Chapel Hill. We are grateful for this support. We are also
+indebted to AMICAL for partial support of this initiative,
+particularly for the part focusing on current online learning
+technologies and their application in distance education.
+
+6.
+
+REFERENCES
+
+[1] de Alva, J.K. (2000). Remakign the Academy. 21st-Century
+Challenges to Higher Education in the Age of Information.
+Educause Review, 35(2), 32 –40..
+[2] Hussar, W.J., and Bailey, T.M. (2008). Projections of
+Education Statistics to 2017. Washington, DC: National
+Center for Education Statistics, US Department of
+Education.
+[3] Allen I.E., and Seaman, J. (2007). Online Nation. Five
+Years of Growth in Online Learning. Needham, MA: Sloan
+Consortium
+
+

@@ -1,0 +1,237 @@
+Weathering the Storm: The Policy Implications of Cloud
+Computing
+Justin M. Grimes
+
+Paul T. Jaeger
+
+Jimmy Lin
+
+Center for Information Policy
+and E-Government
+College of Information Studies,
+University of Maryland
+4105 Hornbake Building
+College Park, MD 20742-4343
+
+Center for Information Policy
+and E-Government
+College of Information Studies,
+University of Maryland
+4105 Hornbake Building
+College Park, MD 20742-4343
+
+College of Information Studies,
+University of Maryland
+4105 Hornbake Building
+College Park, MD 20742-4343
+
+jgrimes2@umd.edu
+
+pjaeger@umd.edu
+
+ABSTRACT
+Throughout the history of computing, there have been several paradigm shifts from main-frames to mini computing to
+microprocessing to networked computers. On track to be the
+next major paradigm shift is that of cloud computing. While
+the definitions are still being debated (see: http://videos.
+techielife.com/what-is-cloud-computing/video-online/
+2008/11/13), fundamentally, cloud computing can be defined as a push in designing services where information is
+stored and processed on the Internet (i.e., “the cloud”) usually via massive large scale data centers which can be accessed remotely through various clients and platforms [18,
+2]. Cloud computing itself has often been referred to as a
+conglomeration of ideas such as Software as a Service, Web
+2.0, grid computing, and utility computing [2]. In essence,
+cloud computing is an umbrella concept which attempts to
+synthesize and encapsulate this over arching movement of
+access anywhere, process anywhere while abstracting the entire process to the user masking it in the cloud.
+The advantages of cloud computing is that it offers enormous
+amounts of power in terms of computing and storage while
+offering improved scalability and elasticity. Moreover, with
+efficiency and economics of scale, cloud computing services
+are becoming not only a cheaper solution but a much greener
+one to build and deploy IT services [7, 6]. For example, in
+terms of processing power potential, Google recently used
+its cloud computing infrastructure to process and sort one
+petabyte of data in six hours [5]. In terms of time and cost,
+the New York Times used Amazon Web Services to process
+and convert an archive of 11 million articles in less than a
+day and for a fraction of the cost [8].
+Cloud computing is quickly taking the IT community by
+storm as more platforms, applications, and services are being developed for cloud computing. While many users may
+
+jlin@umd.edu
+
+have never heard of cloud computing, a recent report by
+Pew Internet Life found that 69% of Internet users are already using a type of cloud computing based application
+[14]. Furthermore, Microsoft, Amazon, Google, IBM, Yahoo, Oracle, and Salesforce are all heavily investing in cloud
+computing as the future of computing. Industry experts estimated the current market for cloud computing to be worth
+$160 billion [2]. Acknowledging its importance, in terms of
+education, Google and IBM have put forward an academic
+initiative with six major universities to help explore and foster research in the area of cloud computing, of which four of
+the six universities are iSchool members [12].
+Given this, researchers in the academic community and interested parties in the IT and business world are just now
+exploring new and exciting ways to harness the true power
+of the cloud, however key legal and policy questions remain
+unanswered [10].
+These problems include both new policy issues unique to
+cloud computing and existing technology/policy issues, including:
+• Jurisdiction and regulation (Where and how will
+it be governed?)
+• Ownership of Data (Who owns the data in the cloud?)
+• Data Portability (Can you migrate between services?)
+• Data Retention/Permanence (What happens to
+data over time?)
+• Intellectual Property
+• Security and Privacy (How is data secure and protected?)
+• Reliability, Liability and Quality of Service (What
+happens when the cloud fails?)
+• Government Surveillance (How much data can the
+government get from the cloud?)
+• Monopolization of computing
+• Net Neutrality
+
+Moreover while looking at these problems, we need to consider the stakeholders involved in cloud computing. The
+stakeholders are cloud platform providers, software developers building applications on the cloud, general consumers,
+researchers, and the government including policy makers.
+The primary questions revolve around how cloud computing
+will be regulated. If the goal of cloud computing is to transcend location of both processing and storage, the obvious
+quandary is: How will it be regulated and where will the
+boundaries of jurisdictions form inside the nebulous cloud?
+While cloud providers tout the feature of “locationlessness”,
+boundaries do not disappear and geography does and will
+matter in terms of law and regulation. Will the jurisdiction
+be dictated by where these data centers are located, where
+the data is temporarily stored, by the contractual agreements cloud users agree to, or something wholly different?
+In terms of monopolization of computing, in 1943, Thomas
+Watson SR, former chairman of IBM, said that the total
+world market for computers would not exceed five [3]. While
+five years ago this would seem laughable to many in the
+IT community, with cloud computing this may no longer
+be a funny mis-prediction, but some what eerily truthful.
+Cloud computing data centers, plainly speaking, are massive amounts of computers all functioning together as one
+supercomputer. With economics to scale and network effects, we may see a future with only a handful of cloud computing providers in which the world will do their computing
+on [10]. Therefore, there are concerns of the potential for
+cloud monopolies to form.
+This push towards moving the responsibility of processing
+and storage of information away from the end user has clear
+ramifications in terms of privacy and data retention [15].
+Who owns the data that is uploaded or generated on the
+cloud and what can the providers of cloud services do with
+this information? Other concerns, as vocalized by free software advocate Richard Stallman, come from the move towards computing as a service, which pushes data ownership
+and control towards these service providers [11]. Stallman,
+has called cloud computing a “trap” that will take control
+and freedom away from users and force them into an unnecessary dependency. What happens when individuals are no
+longer the stewards of their own digital environment?
+What are the possible ramifications to society and culture
+as data is amassed, stored, and retained for long periods
+in the cloud? [13, 15] Cloud computing is, in effect, making
+supercomputer-like power readily available to anyone. Given
+its storage and processing power, more data can be stored
+and processed by everyone. With modern society creating
+increasingly larger amounts of data, cloud computing could
+be the ultimate storage answer to this exabyte flood of data
+[17]. However, what happens now that we have the ability
+to store more information for indefinite periods of time?
+In terms of reliability and liability, technology is not perfect and failures can and have occurred in cloud computing platforms. In February 2008, Amazon’s Web Services
+(specifically Amazons S3 cloud storage infrastructure) went
+down for several hours, causing data loss and access issues
+with multiple Web 2.0 services [4]. This type of failure is
+
+by no means a unique event [16]. With more services being
+built on top of cloud computing infrastructures, an outage
+or failure can create a domino effect, effectively taking down
+large amounts of Internet services and Internet based applications. In cases of failure, what forms of arbitration exist for stakeholders, and what is the responsibility of cloud
+providers?
+In terms of government intervention, how will cloud computing function with existing regulation such as the Patriot
+Act, HIPAA (Health Insurance Portability and Accountability Act), COPA (Child Online Protect Act), Sarbanes-Oxley
+Act, and federal discovery regulation requirements? For example, many countries are leery of using cloud computing
+services because of the potential for data to be exposed to
+the US government via clauses of the USA Patriot Act [1].
+How will regulations adapt to cloud computing and how will
+cloud computing evolve to fit existing regulations?
+The policy implications may appear to be endless, but solutions do exist. Given the potential impact of cloud computing, these problems will not remain unresolved and will
+eventually be answered [9]. The question is how? A proactive approach, in the form of education and policy analysis,
+is necessary to ensure that cloud computing will succeed and
+that vested stakeholders are protected [10].
+Therefore, this poster will provide an overview of cloud computing and its policy implications. In addition the poster
+will be used as a springboard to discuss the opportunities
+for research that exist for iSchools.
+
+Keywords
+Cloud computing, Information Policy, Information Ethics
+
+1.
+
+REFERENCES
+
+[1] S. Avery. Patriot act haunts google service. Available
+on: http:
+//www.theglobeandmail.com/servlet/story/RTGAM.
+20080324.wrgoogle24/BNStory/Technology/home/,
+March 2008.
+[2] R. Buyya, C. S. Yeo, and S. Venugopal.
+Market-oriented cloud computing: Vision, hype, and
+reality for delivering it services as computing utilities.
+In HPCC ’08: Proceedings of the 2008 10th IEEE
+International Conference on High Performance
+Computing and Communications, pages 5–13,
+Washington, DC, USA, 2008. IEEE Computer Society.
+[3] N. Carr. Big switch: Rewiring the world, from Edison
+to Google. Norton, 2008.
+[4] T. Claburn. Amazon s3 crash raises doubts among
+cloud customers. Available on: http:
+//www.informationweek.com/news/showArticle.
+jhtml?articleID=209400729\&cid=feed-yahoo-news,
+July 2008.
+[5] G. Czajkowski. Sorting 1pb with mapreduce. Available
+on: http://googleblog.blogspot.com/2008/11/
+sorting-1pb-with-mapreduce.html, November 2008.
+[6] Economist. Down on the server farm. Available on:
+http:
+//www.economist.com/business/displayStory.cfm?
+story/\_id=11413148\&fsrc=nwlehfree, May 2008.
+
+[7] G. Gilder. The information factories. Available on:
+http://www.wired.com/wired/archive/14.10/
+cloudware/\_pr.html, July 2008.
+[8] D. Gottfried. Self-service, prorated super computing
+fun! Available on:
+http://open.blogs.nytimes.com/2007/11/01/
+self-service-prorated-super-computing-fun/,
+November 2007.
+[9] G. Gross. Cloud computing may draw government
+action. Available on: http://www.infoworld.com/
+article/08/09/12/Cloud\_computing\_may\_draw\
+_government\_action\_1.html, September 2008.
+[10] P. T. Jaeger, J. Lin, and J. M. Grimes. Cloud
+computing and information policy: Computing in a
+policy cloud? Journal of Information Technology &
+Politics., 5(3):269–283, 2008.
+[11] B. Johnson. Cloud computing is a trap, warns gnu
+founder richard stallman. Available on:
+http://www.guardian.co.uk/technology/2008/sep/
+29/cloud.computing.richard.stallman, September
+2008.
+[12] S. Lohr. Google and ibm join in ‘cloud computing’
+research. Available on: http://www.nytimes.com/
+2007/10/08/technology/08cloud.html, October
+2007.
+[13] V. Mayer-Schoenberger. Useful void: The art of
+forgetting in the age of ubiquitous computing.
+Working Paper Series rwp07-022, Harvard University,
+John F. Kennedy School of Government, Apr. 2007.
+[14] Pew. Use of cloud computing applications and
+services. Technical report, Pew Internet & American
+Life Project, 2008. Available on: http:
+//www.pewinternet.org/pdfs/PIP\_Cloud.Memo.pdf.
+[15] R. C. Picker. Competition and Privacy in Web 2.0 and
+the Cloud. SSRN eLibrary, 2008.
+[16] D. Sotnikov. Cloud computing: Incidents database.
+Available on: http://wiki.cloudcommunity.org/
+index.php?title=CloudComputing:
+Incidents\_Database\&oldid=4869, Dec 2008.
+[17] B. Swanson. The coming exaflood. Available on:
+http://www.discovery.org/a/3869, January 2007.
+[18] A. Weiss. Computing in the clouds. netWorker,
+11(4):16–25, December 2007.
+
+

@@ -1,0 +1,283 @@
+HIB & HCI:  Common Interests in Different Communities
+Sean P. Goggins
+University of Missouri – Columbia  School of Information Science and Learning Technology
+outdoors@acm.org
+Sanda Erdelez
+University of Missouri – Columbia  School of Information Science and Learning Technology erdelezs@missouri.edu
+
+
+ABSTRACT
+New connections between research and practice are necessary to address human information behavior in an increasingly technologically mediated world.  Socio-technical systems for encountering, finding and sharing information have become sophisticated enough to blur the boundary between human and computer, and transform important design and research questions in human computer interaction (HCI) to questions for which human information behavior research (HIB) offers a deep tradition.  We sought to understand present connections between these two progressively more interrelated research areas by performing a citation analysis of prominent HIB research with the most prominent publications in the HCI field.  While the conceptual affinity between the two research fields is increasingly strong, the production of ideas and the exchange of research agendas between them is weak in the citations we analyzed.  We propose a number of explanations for this gap, and suggest a more activist research agenda by HIB in the realm of HCI as one potential means for bridging this gap.  
+Categories and Subject Descriptors
+H.1.1 [Systems and Information Theory] 
+General Terms
+Human computer interaction (HCI), Human information behavior (HIB), Human information interaction (HII), information needs and uses.
+Keywords
+
+Permission to make digital or hard copies of all or part of this work for personal or classroom use is granted without fee provided that copies are not made or distributed for profit or commercial advantage and that copies bear this notice and the full citation on the first page. To copy otherwise, or republish, to post on servers or to redistribute to lists, requires prior specific permission and/or a fee.
+iConference ‘09
+
+Information behavior, human computer interaction, socio-technical systems.
+INTRODUCTION
+The boundaries of information behavior research have extended to understanding the social-psychological effects of including a computer as a  member of the team [11], the role of emotional state on search engine efficacy [13] and the reduction in information overload experienced in 2D and 3D data spaces [24].  With the explosion of information resources available, and the growing role of computers in the access and retrieval of information [5,18], a new breed of user interface is called for.  Designs that consider both the social and technical aspects of information seeking, discovery and use are now essential, though not common [16,23].  
+Human information behavior research is found in the LIS literature decades before the introduction of information technology.  HIB studies today, however, usually incorporate information and communication technology (ICT) as an assumed part of the user’s information context.  Mansourian & Ford [14], for example, described search satisficing behavior among 37 researchers, raising questions about the extent to which a user’s information seeking behavior consistently resulted in a quality result.  The information seeking in their study was electronically mediated.  Kwon [12] demonstrated the continued existence of library anxiety among undergraduate students, and the relationship between library anxiety and lower levels of critical thinking.  It appears that even in a technologically savvy generation, anxiety about information seeking and use remains an issue that influences work and learning.  Perhaps suggesting a solution to library anxiety, the probability of information resources being accessed appears to increase when the information is available through information and communication technology.  Chen & Choi [3] discovered a strong preference among students for access to video information over the internet, and a statistically significant increase in the likelihood of information use when texts and video are made available online and do not require a visit to a library building.  
+None of the above mentioned HIB studies referenced relevant HCI theories or prior works that speak to the importance of design in the use of ICTs.  Fitt’s law [2], for example, suggests that the time required to move to a target area is a function of the distance to the target and the size of the target, i.e., small buttons matter.  While the human computer interface is central to information seeking behavior in these studies, the role of the ICT interface itself in the results is not discussed.  
+While HIB studies now incorporate ICTs as a matter of course, studies of human computer interaction increasingly focus on socio-technical and collaborative computing systems that blend communication, information and work in a complex socio-technical arc. Poltrock, Grudin, Dumais, Fidel et al [18] contrasted the information seeking and sharing behaviors of two different design teams, one solving a hardware problem and the other solving a software problem.  They showed that design teams identify information needs, form questions and seek information collaboratively.  Their information behavior is closely connected to technology and social behavior.  Gu & Mendonca [7] designed a discrete event simulator to allow the safe manipulation of information resource availability in emergency response simulations.  Their simulator recognizes resource information availability within ICTs as a significant risk factor that influences appropriate emergency response.  
+HCI studies also extend from existing interaction designs toward the socio-technical experience of user communities.  Harper, Raban, Rafaeli, & Konstan [8] examined differences in answer quality from a set of online question and answer websites.  Their results showed that paying more – a decidedly economic indicator – yielded better results.   They also showed that kindness from an answer provider influences the likelihood of a user revisiting a particular site, suggesting that answer quality is not the only predictor of what sources a person will rely on.  Social, technological, economic and information factors all played a role in the descriptive results from this exploratory HCI study.  While the computer aspect of this information behavior is novel, the experience of users searching for information from experts in a constrained environment has received extensive treatment in the HIB literature.  For example, Information Horizons Theory [20], Information Encountering Theory [6] and Zipf’s law [24] all provide relevant theoretical frames to guide this type of HCI study.  
+While the line between human-information and human-computer interaction research questions continues to blur, studies that integrate theories of human information behavior with theories of human-computer interaction remain rare.  Sawyer, et al. [19] examined the adoption of ICTs by real estate agents.  Their work is an integrated study of the roles of information, social structures and ICTs on the once common practice of purchasing residential real estate.  This work is found in the emerging information science literature, but remains uncommon in HIB or HCI literature that examines similar and related questions.
+Given this picture of computer-mediated information behavior slowly giving way to ubiquitous computing tools, the overarching question of this paper is:  What connections presently exist in the research literature between the research community focused on human information behavior (HIB), and the community focused on human computer interaction (HCI)?  
+THEORY AND HISTORY
+Researchers focused on human computer interaction (HCI) and the community of researchers focused on human information behavior (HIB) each hold important perspectives for the examination of ICT’s in use across a range of contexts.  HCI rests on the fulcrum of tools as mediators of communication, information and technology facilitated problem solving [2], while HIB has its origins in the nature of the human species [21]. The Association for Computing Machinery’s (ACM) Special Interest Group on Human Computer Interaction (SIGCHI) is the dominant community of practice for HCI researchers [1]. The most influential HCI conference is SIGCHI’s annual conference.  The American Society for Information Science and Technology’s (ASIS&T) Special Interest Group on Information Needs, Seeking and Use (SIG USE) is a prominent community concerned with HIB. The conference dedicated to HIB research is the biannual Information Seeking in Context (ISIC) conference, most recently held in Sydney, Australia in 2006 [8] and Vilnius, Lithuania in 2008 [9].  One group (SIGCHI) focuses on the design of software tools to suit human needs when interacting with technology; the other group (SIGUSE) is “concerned with the activities, both behavioral and cognitive, of people who are interacting with information”[8,9].
+Research in human information behavior (HIB) has evolved from its roots in information needs and uses and studies in Library and Information Science (LIS).  As in the early days of user interface design, HIB theories first took a decidedly systems-oriented view of tools (not ICT’s, but their precursors) that mediate information.  Dervin & Nilan [4] marked a fundamental shift from system-centered research toward user-centered research.  In HIB, the shift explicitly called for: a focus on subjective human experience rather than an objective ideal.  As opposed to the previous, passive view, this shift recognized that users are active participants in the information gathering and use process. Among the changes called for by the shift are a direct addressing of situational context, a holistic view of user experience and a study of cognition and affect in addition to behavior. 
+Context and user experience are shifting rapidly.  Technology is merely part of a larger socio-technical context within which both of these research traditions are conducting sometimes parallel inquiry.  The good news is that the HCI and HIB research communities provide complementary theories, methods and frameworks that will have utility for understanding how ICTs influence our information and technology experience today and inform the design of the ICTs of tomorrow.  Understanding how HCI and HIB research might be integrated in the future begins with this examination of their current state of integration.
+METHODOLOGY
+The applicability and use of HIB research in HCI research and practice is apparent from surface examination of the similarity of research topics across the disciplines, but is not well understood from a cross-community sharing point of view.  We conducted a citation analysis across the HIB-HCI research communities in order to determine the degree of interaction that presently exists.  Our study addressed two specific questions:
+To what extent is HIB research cited in the HCI literature?
+To what extent does the HIB research community cite the HCI literature?
+We operationalized HIB research as a collection of research articles written by the HIB authors. Our process included several steps.  First, we relied on the recent bibliographic analysis of HIB authors by McKechnie et. al [14] to identify the ten most cited papers in HIB and their authors. (See Table 1) 
+Table  SEQ Table \* ARABIC 1 - The ten most cited papers in human information behavior
+Authors
+Title
+Bates, M. J., Wilde, D.N., & Siegfried, S.L. (1993)
+An analysis of search terminology used by humanists: the Getty Online Search Project report number 1. Library Quarterly, 63(1), 1-39.
+Byström, K, & Järvelin, K. (1995)
+Task complexity affects information seeking and use. Information Processing & Management, 31, 191-213.
+Chatman, E.A. (1996)
+The impoverished life-world of outsiders. Journal of the American Society for Information Science and Technology, 47(3), 193-206.
+Ellis, D., Cox, D., & Hall, K. (1993)
+A comparison of the information seeking patterns of researchers in the physical and social sciences. Journal of Documentation, 49(4), 356-369.
+Gorman, P.N. (1995)
+Information needs of physicians. Journal of the American Society for Information Science, 46(10), 729-736.
+Kuhlthau, C. C. (1993)
+A principle of uncertainty for information seeking. Journal of Documentation, 49(4), 339-355.
+Leckie, G. J., Pettigrew, K.E., & Sylvain, C. (1996)
+Modeling the information seeking of professionals: a general model derived from research on engineers, health care professionals, and lawyers. Library Quarterly, 66(2), 161-193.
+Savolainen, R. (1993)
+The sense-making theory: reviewing the interests of a user-centered approach to information seeking and use. Information Processing & Management, 29(1), 13-28.
+Savolainen, R. (1995)
+Everyday life information seeking: approaching information seeking in the context of 'Way of Life.' Library and Information Science Research, 17(3), 259-294
+Schacter, J., Chung, G. & Dorr, A. (1998)
+Children's Internet searching on complex problems: performance and process analyses. Journal of the American Society for Information Science and Technology, 49(9), 840-849.
+Wilson, T.D. (1997)
+Information behavior: an interdisciplinary perspective. Information Processing & Management, 33(4), 551-572
+Wilson, T.D. (1999)
+Models in information behaviour research. Journal of Documentation, 55(3), 249-270.
+
+Next, all of the papers written by the first authors of the above 10 most cited papers were pulled from ISI’s Web of Knowledge, which is the same tool used in McKechnie, et al’s bibliographic analysis.  The rationale for this search is that, by expanding the list of 10 most cited papers to all papers written by the same first author, we would gather a comprehensive citation list for the thought leaders in HIB.  This step resulted in 216 papers. Though only first authors of the top 10 papers were included in the expanded search, the resulting 216 papers did not discriminate as to where, in the author order, the 10 were.  Thus, the sample included a larger number of authors than the initial 10 and arguably was more comprehensive in terms of capturing HIB research community. Some authors were not easily retrieved from the database, as they share names with other individuals.  Gorman and Ellis, for example, required more advanced search techniques.  In these cases, the names of authors’ institutions were added to search statements to ensure that only those authors associated with the most cited papers were, in fact, retrieved.
+To answer research question 1, (To what extent is HIB research cited in the HCI literature?) we searched the ISI Web of Knowledge for all of the papers that cited the above 216 papers between 1990 and 2008.  The resulting set included 1,637 papers.  Within this set we identified the papers that were published in the key HCI journals. We identified the following key HCI journals through an informal survey of participants at the 2006 SIGCHI conference on computer supported cooperative work in Banff, AB, and a review of the conference proceedings of the ACM SIGCHI. 
+The International Journal of Human Computer Interaction, abbreviated ‘INT J HUM-COMPUT INT’
+The International Journal of Human Computer Studies, abbreviated ‘INT J HUM-COMPUT ST’
+The Communications of the ACM, abbreviated ‘COMMUN ACM’
+Computers in Human Behavior, abbreviated ‘COMPUT HUM BEHAV’
+Journal of Computer Mediated Communication, abbreviated ‘J COMPUT-MEDIAT COMMUN’
+To answer research question two (To what extent does HIB research community cite the HCI literature?) the bibliographic records for the 216 HIB papers with citations were pulled from ISI’s Web of Knowledge. 
+The flow of citation analysis for the two questions is depicted graphically in Figure 1, below.  
+Figure  SEQ Figure \* ARABIC 1 - Citation analysis flow
+
+
+We had to mitigate several constraints in the ISI Web of Knowledge in order to create and analyze the study data.  First, the number of bibliographic records that can be pulled at once from the database is limited to 500.  As a result, we extracted several files from the ISI Web of Knowledge, 500 at a time, and later merged them into a MySql database. We then used the components of the ISI Web of Knowledge file structure to define the tables in that database. Second, citations contained within a specific bibliographic record in the ISI Web of Knowledge are not stored consistently. This problem complicated the data analysis for question 2, which required an additional table structure for citations contained within each of 216 HIB papers.  We used this structure to determine if a specific HCI journal was cited by these papers.  For example, one citation may take on a format like this, {AuthorName, Year, Journal Abbreviation, Volume, Page} as in this citation:
+BRASCHLER M, 2004, INFORM RETRIEVAL, V7, P7
+While another citation, in a different journal, may be formatted {Author Name, Journal Abbreviation} as in this citation:
+LEVI MD, USABILITY TESTING WO.
+The challenge is that names and journal abbreviations do not appear in a consistent location in the citations, which made parsing them complex.  The quality of our data was reviewed by two independent researchers to ensure accuracy.
+RESULTS
+HIB research, as defined and identified in our study, is very infrequently cited in the literature on human computer interaction.   As presented in Table 2 below, between 1990 and 2006, the 216 papers by the authors of the 10 most cited HIB papers were cited only 22 times in the five key HCI journals. 
+Table  SEQ Table \* ARABIC 2 - The Citation Frequency of HIB Papers in five key HCI Journals
+Publication
+Citation Count
+Computers in Human Behavior
+13
+Human-Computer Interaction
+1
+International Journal of Human-Computer Interaction
+2
+International Journal of Human-Computer Studies
+4
+Journal of Computer Mediated Communication
+2
+Total
+22
+
+In contrast, the same set of 216 papers was cited a total of 1,637 times in all journals available in the ISI Web of Knowledge.  Table 3 below includes the list of 20 journals with the highest citations counts. All of these journals have high LIS focus.
+
+Table  SEQ Table \* ARABIC 3 - Top 20 Journals Citing 216 Papers in Our Data Set
+Journal
+Citation Count
+Journal of the American Society for Information Science and Technology**
+128
+Information Processing & Management
+95
+Journal of the American Society for Information Science**
+89
+Journal of Documentation
+75
+Library & Information Science Research
+75
+Journal of the American Medical Association
+54
+Information Research-An International Electronic Journal
+51
+Annual Review of Information Science and Technology
+34
+Journal of Information Science
+33
+Proceedings of the ASIS Annual Meeting
+30
+Journal of Academic Librarianship
+26
+Library Quarterly
+26
+Journal of the Medical Library Association
+24
+Library Trends
+23
+Aslib Proceedings
+22
+College & Research Libraries
+22
+International Journal Of Information Management
+22
+Bulletin of the Medical Library Association
+21
+Canadian Journal of Information and Library Science
+17
+International Journal of Medical Informatics
+17
+
+Our second question concerned whether or not HIB authors cite the HCI literature, and to what degree.  To examine this question, the citations listed in each of the 216 HIB papers were analyzed for inclusion of the five most prominent HCI journals.  Of the 216 papers, only 19 cited at least 1 HCI related journal. 
+Table  SEQ Table \* ARABIC 4 - HIB Articles from the study data set that cite key HCI Journals
+Author
+Year
+Article Title
+Journal Of Publication
+Bates, MJ
+1990
+Where Should The Person Stop And The Information Search Interface Start
+Information Processing & Management
+Savolainen, R
+1990
+Fee Or Free - The Socioeconomic Dimensions Of The Charging Dilemma
+Journal Of Information Science
+Kuhlthau, CC
+1991
+Inside The Search Process - Information Seeking From The Users Perspective
+Journal Of The American Society For Information Science
+Ellis, D
+1992
+The Physical And Cognitive Paradigms In Information-Retrieval Research
+Journal Of Documentation
+Ellis, D
+1994
+The Cognitive Viewpoint In Ir
+Journal Of Documentation
+Ellis, D; Furnerhines, J; Willett, P
+1994
+On The Creation Of Hypertext Links In Full-Text Documents - Measurement Of Inter-Linker Consistency
+Journal Of Documentation
+Allen, DK; Wilson, TD
+1996
+Information Strategies In UK Higher Education Institutions
+International Journal Of Information Management
+Ellis, D; Ford, N; Furner, J
+1998
+In Search Of The Unknown User: Indexing, Hypertext And The World Wide Web
+Journal Of Documentation
+Wilson, TD
+1998
+Redesigning The University Library In The Digital Age
+Journal Of Documentation
+Herl, HE; O'neil, HF; Chung, GKWK; Schacter, J
+1999
+Reliability And Validity Of A Computer-Based Knowledge Mapping System To Measure Content Understanding
+Computers In Human Behavior
+Savolainen, R
+1999
+The Role Of The Internet In Information Seeking. Putting The Networked Services In Context
+Information Processing & Management
+Schacter, J; Fagnano, C
+1999
+Does Computer Technology Improve Student Learning And Achievement? How, When, And Under What Conditions?
+Journal Of Educational Computing Research
+Schacter, J
+2000
+Does Individual Tutoring Produce Optimal Learning?
+American Educational Research Journal
+Bhavnani, SK; Bates, MJ
+2002
+Separating The Knowledge Layers: Cognitive Analysis Of Search Knowledge Through Hierarchical Goal Decompositions
+Asist 2002: Proceedings Of The 65th Asist Annual Meeting, Vol 39, 2002
+Bates, MJ
+2002
+The Cascade Of Interactions In The Digital Library Interface
+Information Processing & Management
+Savolainen, R
+2002
+Network Competence And Information Seeking On The Internet - From Definitions Towards A Social Cognitive Model
+Journal Of Documentation
+Spink, A; Wilson, TD; Ford, N; Foster, A; Ellis, D
+2002
+Information-Seeking And Mediated Searching. Part 1. Theoretical Framework And Research Design
+Journal Of The American Society For Information Science And Technology
+Wilson, TD
+2003
+Philosophical Foundations And Research Relevance: Issues For Information Research
+Journal Of Information Science
+Blomgren, L; Vallo, H; Bystrom, K
+2004
+Evaluation Of An Information System In An Information Seeking Process
+Research And Advanced Technology For Digital Libraries
+
+In response to our two research questions we found that approximately 9% of HIB research articles in our data set cite at least one article from a HCI journal.  Among all the articles citing the same sample of HIB articles only 1.3% (22/1,637) are from HCI journals.  As measured through the citation analysis in our study sample, in both directions the links between these two research communities appear to be weak.
+DISCUSSION
+The citation analysis represented in the sample discussed shows that, through the literature, one cannot identify a strong link between the human information behavior research community and the human computer interaction community.  Absence of co-citation between these two fields at this point in the evolution of the use of technology to support information seeking and use appears to be based on the historical citation patterns of both the HIB and HCI research communities.  No argument that information does not rely on ICTs or that ICTs themselves are not deeply contextualized in the 21st century human experience seems reasonable.  Could this condition be the result of research community inertia, and little else?
+At the outset we referenced a few of the hundreds of examples of research in each field that could likely be advanced more quickly through consideration of past findings from the other field.  
+Given this conceptual closeness, and the observed chasm between the two research communities, it is important to speculate about why the chasm exists.  Understanding how two communities with such complimentary and currently intersecting interests could, according to this analysis, have practically no relationship to each other is important.  There are several possible explanations.
+First, it could simply be that the methodology that we used in this study for identifying what is HIB research is unduly limiting.  The HIB community is rather small; it does not have a core journal dedicated exclusively to it.  As a result, the methodology in our study leveraged findings from McKechnie and al [14] by centering analysis on the publications by the authors of the 10 most cited HIB papers. Other definitions of the HIB research community could yield different results.  For example, one could survey the membership of SIGUSE and the participants of the most recent ISIC conference about a method for defining the literature base of the HCI community.  Another approach would be to conduct a content analysis of major LIS journals for HIB papers and perform a citation analysis on these papers for inclusion in/of HCI journals.  This work would be time consuming, and may or may not be a warranted target for research following our work.
+Another possible confound in the search for connections between these two communities could be the diffuse nature of the HIB community.  Unlike HCI, there are few departments at major research universities that specialize predominantly in Human Information Behavior.  In addition, it is a community that may be diffuse because it holds occasional appeal to researchers interested in other areas.  One might see the diffuse HIB community as fertile ground that is consumed by the disciplines it borders, but not nurtured or fed with the fruits of those labors. Other communities, in essence, may be foraging for ideas in HIB, but taking the sustenance back to their own “clans.” For example, the HCI community may be actively influenced by ideas and theories found in the HIB literature, however, when an idea is found in HIB literature, a researcher may intuitively transform this idea back into the language of the HCI community.  
+CONCLUSION
+Future research into the link between HIB and HCI communities should look more deeply into potential social networks that connect research in HCI with HIB theory and practice.  The deeply specialized and not well understood (at least in the HCI community) nature of human information behavior research and theory today makes it plausible that the primary connection between these two communities will occur with a few researchers who interact with both communities. However, these researchers may come from the emerging research topics, rather than established intellectual core of HIB and HCI communities.  We think it is likely these connections could be made, and are being made in some iCaucus schools.
+Future research should also seek to make connections between these two communities.  The blurring of the boundary between theory and practice, which is a challenge in both HIB and HCI research, holds great potential for progress in emerging areas of research like analytic discourse, the technology-mediated dialogue between users and the provision of information required to produce a timely judgment [22]. The intersection between HIB and HCI research communities could produce great synergy.  Realizing this potential may require a more activist approach to research.  For example, studies that deliberately contrast salient HIB and HCI theories in the data analysis of user studies may be a good start.
+Blurring the line between human and computer, which is an inevitable byproduct of the current trajectory of technology, has implications for the design of information interfaces that are usefully informed by HIB research.  Our research suggests that while this line is blurred in the world, the HIB and HCI research communities remain tightly clustered in their own rich but mostly self-referential literature.  It is time for both communities to bust out;  To bust a move;  To tear down these walls.  We expect the results could be revolutionary to both disciplines and to the emerging community of information science researchers.
+REFERENCES
+Carroll, J. M. (2001). The Evolution of Human Computer Interaction. Retrieved December 7, 2006, from http://www.awprofessional.com/articles/article.asp?p=24103&rl=1
+Carroll, J. M. (2003). HCI Models, Theories, and Frameworks: Toward a Multidisciplinary Science. San Francisco, CA: Morgan Kaufmann.
+Chen, Hsin-Liang & Choi, Gilok (2005).  Construction of a Digital Video Library:  A Socio-Technical Pilot Study on College Students’ Attitudes.  The Journal of Academic Librarianship, 31, 469-476.
+Dervin, B. & Nilan, M. (1986). Information Needs and Uses. In M. E. Williams (Ed.), Annual Review of Information Science and Technology, Volume 21, 1986. (pp. 3-33). American Society for Information Science.
+Downing, R. E., Moore, J. L., & Brown, S. W. (2005). The Effects and Interaction of Spatial Visualization and Domain Expertise on Information Seeking. Computers in Human Behavior, 21, 195-209.
+Gu, Qing & Mendonca, David (2006).  Group Information Foraging in Emergency Response:  An Illustration Incorporating Discrete-Event Simulation.  Proceedings of the 2006 Winter Simulation Conference, IEEE, 554-561.
+Harper, F. Maxwell; Raban, Daphne; Rafaeli, Sheizaf; Konstan, Joseph A. (2008).  Predictors of Answer Quality in Online Q&A Sites.  CHI 2008, Florence, Italy, 865- 874.
+ISIC. (2006). Information Seeking in Context Conference. Retrieved December 2, 2008, from  HYPERLINK "http://www.hss.uts.edu.au/isic2006/index.html" http://www.hss.uts.edu.au/isic2006/index.html
+ISIC. (2008). Information Seeking in Context Conference. Retrieved December 2, 2008, from  HYPERLINK "http://www.kf.vu.lt/isic2008/" http://www.kf.vu.lt/isic2008/  
+Johnson, D. & Gardner, J. (2007). The Media Equation and Team Formation: Further Evidence for Experience as a Moderator. International Journal of Human computer Studies, 65, 111-124.
+Kwon, Nahyn (2008).  A Mixed Methods Investigation of the Relationship Between Critical Thinking and Library Anxiety Among Undergraduate Students in their Information Search Process.  College & Research Libraries, 69, 117-131.
+Liaw, S.-S. (2004). The Theory of Planned Behaviour Applied to Search Engines as a Learning Tool. Journal of Computer Assisted Learning, 20, 283-291.
+Mansourian, Yazdan & Ford, Nigel (2007).  Search Persistence and Failure on the Web:  A “Bounded Rationality” and “Satisficing” Analysis.  Journal of Documentation, 63, 680-701.
+McKechnie, L. E. F., Goodall, G. R., Lajoie-Paquette, D., & Julien, H. (2005). How Human Information Behaviour Researchers Use Each Other's Work: A Basic Citation Analysis Study. Retrieved November 22, 2006, from http://informationr.net/ir/10-2/paper220.html
+Pace, S. (2004). A Grounded Theory of the Flow Experiences of Web Users. International Journal of Human computer Studies, 60, 327-363.
+Papaeconomou, Chariste; Zijlema, Annemarie; Ingwersen, Peter (2008).  Searchers’ Relevance Jugements and Criteria in Evaluating Web Pages in a Learning Style Perspective.   Information Interaction in Context 2008, London, UK, 123-132.
+Pirolli, P. & Card, S. K. (1999). Information Foraging. Psychological Review, 106(4), 643-675.
+Poltrock, Steven; Grudin, Jonathan; Dumais, Susan; Fidel, Raya; Bruce, Harry; Pejtersen, Annelise Mark (2003).  Information Seeking and Sharing in Design Teams.  Proceedings of Group 2003, Sanibel Island, FL, 239-247.
+Sawyer, Steve; Crowston, Kevin; Wigand, Rolf T.; Allbritton, Marcel (2003).  The Social Embeddedness of Transactions: Evidence from the Residential Real Estate Industry.  The Information Society: 19, 135-154.
+Sonnenwald, D.H., Wildemuth, B.M., & Harmon, G. (2001). A research method using the concept of information horizons: An example from a study of lower socio-economic students’ information seeking behavior. The New Review of Information Behavior Research, 2, 65-86.
+Spink, A. & Currier, J. (2006). Towards an Evolutionary Perspective for Human Information Behavior: An Exploratory Study. Journal of Documentation, 62(2), 171-193.
+Thomas, J. J. & Cook, K. A. (2006). Illuminating the Path: The Research and Development Agenda for Visual Analytics. IEEE.
+Westerman, S. J., Collins, J., & Cribbin, T. (2005). Browsing a Document Collection Represented in Two and Three Dimensional Virtual Information Space. International Journal of Human computer Studies, 62, 713-736.
+Zipf, G.K. (1949). Human Behaviour and the Principle of Least Effort.  Addison-Wesley, Reading, MA.
+
+
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+
+
+
+

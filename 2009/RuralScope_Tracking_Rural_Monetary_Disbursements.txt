@@ -1,0 +1,110 @@
+RuralScope: Tracking Rural Monetary Disbursements
+Rabin Patra, Sai Gopal Thota, Joyojeet Pal
+Disorganized data
+
+An information repository to streamline data on development funding
+Test application with rural monetary disbursements in India (NREGA)
+• The Larger Problem
+• Development projects are hard to track, data is poorly organized and difficult to
+access
+• ‘People’ as a whole do not have easy to access, compellingly visual data to
+understand development
+
+Test Implementation: NREGA in India
+
+Reorganized, browsable data
+
+• National Rural Employment Guarantee Act
+• 31 Mn. Households Serviced, 1.2 Bn. person-days of work created, $4 Bn.
+Disbursed
+• Many issues with corruption
+
+• The Immediate Problem
+• Social Audits for development projects are difficult to conduct
+• Lack of handy information makes social audits slower and more perilous for
+field workers
+
+• The Enabling Environment
+• Legal frameworks mandate the collection of such data, and public access to this
+data
+• Lack of handy information makes social audits slower and more
+
+• The Enabling Environment
+• Legal frameworks mandate the collection of such data, and public access to this
+data
+• Builds on existing ideas of using internet and Web 2.0 for political activism
+
+List of districts of a
+state
+
+Proposed Solution
+• Reorganize the data
+• Allow interactive visualization
+• Create framework for social annotation
+
+12. by joyojeet
+
+Thursday Feb 21, 2008
+
+Maybe data is incomplete for Bolangir district. Some
+blocks might not have reported information … more
+
+Web: http://tier.cs.berkeley.edu/wiki/NREGA
+http://www.cis.washington.edu/research/workbench
+Joyojeet Pal (UW CIS)
+Rabin Patra
+(UCB EECS)
+
+List of districts of
+Orissa
+
+12. by rabin
+
+Thursday Feb 21, 2008
+
+Comparing with the financial data, it looks like
+Actual
+most funds from
+Bolangir are unutilized … more
+
+Name: Uchhabahal Basti Road
+
+work
+provided
+
+District: BOLANGIR
+
+Employme
+Post new comment
+nt not
+provided
+Infact, you both are wrong, I was in
+Bolangir and my assessment was that …
+
+Block: AGALPUR
+Description: Internal Concrete Road at Tikrapara, 2409012/RCCement concrete/21096
+submit
+
+reports (2)
+
+1. report by sonesh
+
+Why is there very
+low demand in
+Bolangir?
+
+Thursday Jan 20, 2008
+
+First site report … click
+
+2. report by rabin
+
+Thursday Apr 24, 2008
+
+Construction unfinished … click
+
+Number of households
+
+Post new report
+
+

@@ -1,0 +1,330 @@
+Image-Enabled Discourse:
+A Preliminary Descriptive Investigation
+Jaime Snyder
+School of Information Studies,
+Syracuse University
+221 Hinds Hall
+Syracuse, NY 13244
+
+jasnyd01@syr.edu
+ABSTRACT
+This poster presents preliminary results of an exploratory
+qualitative research. The hypothesis of this study is that
+affordances provided by image-enabled communication practices
+(i.e. drawing) create salient or hospitable conditions for reaching
+specific conversation outcomes. Qualitative empirical research in
+the form of semi-structured interviews seeks to establish a starting
+point for more robust future investigations of image-enabled
+communicative practices.
+
+individuals. Ad hoc visualizations can anchor, bridge, and
+facilitate the flow of information at crucial moments in a
+conversation.
+Rarely seen as aesthetic objects of great admiration for their
+own sake, these information artifacts answer to a different set of
+requirements than other constructed images (such as art). Imageenabled discourse is the term used here to refer to the
+phenomenon of creating and using visual information during
+communicative acts.
+
+Keywords
+
+2. RESEARCH QUESTIONS
+
+Image-enabled discourse, ad hoc visualization, creation and use of
+visual information, multimodal communication.
+
+1. PROBLEM STATEMENT
+We might tend to think of words as being the primary
+building blocks from which we construct conversations. However,
+a number of other tactics are available to us when we try to
+communicate with others. We can gesture, growl or make a face.
+We also have an ability to exchange meaning through the use of
+images. Due to their ability to communicate across a range of
+contexts, images and visual information are playing an
+increasingly important role in how we work and collaborate with
+each other in both face-to-face and virtual environments. Images
+are ubiquitous in our daily communications. However, the various
+nascent areas of image-centered research are only beginning to
+coalesce around integrated and accepted concepts regarding the
+role images play in communication practice and culture.
+The exploratory research presented here focuses on a
+particular type of spontaneously created image, illustrated by socalled “napkin drawings.” This ubiquitous form of ad hoc
+visualization consists of marks made on an available surface
+during the flow of a conversation, sometimes kept, sometimes
+abandoned, and notoriously cryptic for those not involved in the
+discussion. These drawings often coincide with moments of great
+insight or collaborative idea generation, and thus are clearly an
+important component in the process of communication between
+
+The hypothesis of this study is that affordances provided by
+image-enabled communication practices (i.e. drawing) create
+salient or hospitable conditions for reaching specific conversation
+outcomes. The exploratory research described here seeks to
+answer the following questions:
+1. Why do people start drawing during predominately
+verbal conversations?
+2. How do image-enabled communicative practices
+support exchange of meaning?
+3. Which affordances of visual modes of communication
+are most salient to image-enabled discourse strategies?
+To address these questions, semi-structured interviews,
+conducted both face-to-face and online, were conducted.
+Narratives describing conversations where drawing occurred
+during the course of the exchange were analyzed to identify types
+of ad hoc visualization practices and corresponding conditions,
+affordances and outcomes.
+The goal of this exploratory qualitative study is to generate a
+preliminary descriptive model of image-enabled discourse based
+on empirical data. This model will seek to address how specific
+image-enabled discourse strategies create salient conditions that
+help people reach desired communication goals.
+
+3. DEFINITIONS
+Image-enabled discourse is used here to refer to any
+interaction (face-to-face or virtual) between individuals that relies
+at some point on the interjection of an image in order to meet the
+goals of the exchange. The preliminary study focuses on a
+particular type of image-centered discourse in which drawing is
+the image-based communicative practice employed and where
+two individuals are involved in face-to-face conversation.
+This phenomenon is inherently dynamic and bi-directional;
+each participant may have unique and evolving goals throughout
+the course of the exchange, and therefore, the creation of ad hoc
+
+image may serve different purposes as the conversation
+progresses. For this study, respondents were asked to focus on a
+specific conversation in which drawing took place, and described
+the beginning and end of this specific conversational. Therefore,
+the boundaries and outcomes of each episode are determined
+based on these self-reported details.
+This highlights a temporal component to the model that is
+key to understanding drawing as a communicative practice akin to
+an utterance. The ad hoc nature of the act of creating visual
+information during an exchange is an important aspect of the
+contribution images make to collaborative interactions. The notion
+of co-occurrence of multiple modes of communication (or
+simultaneous semiotic systems) is supported by research in the
+area of multimodal discourse analysis and is aligned with some
+research in multilingual communication (Auer, 1998; Gumperz,
+1982; Kress & Leeuwen, 2001; Myers-Scotton, 1993). The
+dynamic and spontaneous nature of the phenomenon also makes it
+challenging to study in a controlled way.
+This research also incorporates the concept of affordances
+applied to multimodal communicative practices. In this context,
+the term refers to those aspects of ad hoc visual communication
+(specifically mark-making) that are uniquely suited to providing
+the conditions needed to employ certain communicative practices.
+For example, drawing is by nature persistent, tangible and visible.
+These are examples of affordances of drawing (as opposed to
+utterances or gestures) (Gibson, 1986; Norman, 1999)).
+
+4. METHOD
+Semi-structured interviews were conducted, evoking rich
+descriptions of face-to-face conversations that included the
+creation of one or more drawings. Respondents were asked to
+describe face-to-face conversations they have participated in that
+included the creation of one or more drawings. The goal of semistructured interviews was to gather rich, systematic descriptions
+from participants in order to begin to isolate patterns of
+communicative practices, salient conditions, enabling affordances
+and interaction outcomes.
+An initial pilot study involved eleven face-to-face interviews.
+A follow-up study expanded this library of narratives by
+administering a very similar protocol via an online questionnaire.
+Forty usable responses were gathered in October 2008. The webbased interview protocol was delivered via Ultimate Survey and
+online participants were recruited through the Study Response
+Project (http://studyresponse.syr.edu/). Because this study
+sought to gather information about image-enabled exchanges at a
+basic interaction level, characteristics of the sample were broad:
+adults over the age of 18.
+Two research techniques commonly used in information
+science research were selected to guide the design of semistructured interview questions: critical incident technique (CIT)
+(Flanagan, 1954) and sense-making methodology (Dervin, 1999).
+Like CIT, sense-making seeks to situate respondents in a specific
+moment related to a phenomenon of interest. Respondents were
+asked to think of a specific face-to-face conversation involving
+one or two other people when a drawing was created during the
+course of the conversation. The respondent could have been the
+one drawing and/or a conversation partner could have drawn.
+Preliminary investigations revealed that the influence of a
+specific teaching technique or institutionalized practice might
+cloud descriptions of the more incremental interactions taking
+place. As such, the focus on one-on-one interactions was
+
+motivated by a desire to avoid descriptions of classroom teaching
+where drawings were used.
+Although there are certainly drawbacks to the online format,
+these were offset by the greater number of responses gathered,
+beneficial at this early stage of the research. Overall, although the
+face-to-face interviews provided far richer data, the online
+responses were detailed enough to corroborate and extend a
+preliminary scheme identifying image-enabled communicative
+practices related to the use of ad hoc visualizations.
+
+5. ANALYSIS AND RESULTS
+Inductive content analysis, guided by the semi-structured
+nature of the protocols, was conducted on both the face-to-face
+and online responses. Responses yielded consistently rich
+information about the conditions and outcomes surrounding the
+creation and use of drawing in conversations. Narratives were
+analyzed with four general concepts in mind:
+•
+Hospitable or salient conditions that seemed to
+contribute to the effectiveness of the communicative
+practice
+•
+Enabling affordances of drawing that helped to establish
+those conditions
+•
+Overall interaction outcomes
+Together these elements contributed to the identification of a
+preliminary scheme for analyzing image-enabled interactions
+(Table 1).
+From the data emerged a pattern of conversational practices
+that relies heavily on the use of drawing to establish conditions
+that enable respondents to achieve goals or contributes
+substantially to reaching certain goals. When recounting the
+details of their conversations, respondents tended to equate
+conversational episodes with a single communication outcome.
+Therefore, conversation outcomes are the anchor for this scheme.
+The outcomes listed represent dominant categories identifiable
+even in the coarsely grained data collected to date. However, it
+should be noted that other classifications are not mutually
+exclusive, as indicated by the cross-listing of conditions and
+affordances.
+On a certain level, we exhibit great expertise at deploying
+images just when we need them. Bringing this ability into a more
+conscious and deliberate domain will allow us to better exploit
+this seemingly innate human communication practice when
+building systems. Insight provided by a functional understanding
+of the role of images within conversation has great potential to
+enhance traditional information models by incorporating notions
+of context and functionality into the overall meaning of an image.
+
+6. FUTURE RESEARCH
+Preliminary analysis has revealed an interesting set of
+identifiable categories of image-enabled practices. During future
+phases of this research, increasingly robust methods, such as
+experimental protocols, will be developed to further validate these
+patterns of image-enabled communication practices.
+
+Table 1. Initial scheme for analyzing image-enabled interactions
+Interaction outcome
+
+Consensus
+
+Types of communicative
+practices
+
+Salient conditions
+
+Enabling affordances
+
+Drawing enables the use of these
+communicative practices:
+
+Ad hoc visualizations provide the ability
+to:
+
+Drawings helped provide these
+conditions because of these attributes:
+
+Normalize representation of a
+concept
+
+Establish common points of
+reference
+
+Plastic
+Mutually Accessible
+Symbolic
+
+Aggregate and synchronize input
+from multiple sources
+Build isomorphic bridges between
+knowledge domains
+Persuasion
+
+Re-focus the attention of others to
+more closely align with a specific
+ideal
+
+Independently amplify or diminish
+parts of a representation
+Perceive information as accurate,
+complete and without bias
+
+Plastic
+Mutually Accessible
+Symbolic
+Authoritative
+
+Verification
+
+Change the form of the message
+in order to verify understanding
+
+Accurately translate a representation
+into another language or mode
+
+Mutually Accessible
+Symbolic
+Visual
+
+Visualization
+
+Convey specific information in a
+mode as close to its original
+expression as possible
+
+Perceive information as accurate,
+complete and without bias
+
+Plastic
+Mutually Accessible
+Symbolic
+Visual
+
+Allow information to retain its
+context
+Synchronize
+
+Create a waypoint, or moment of
+synchronized understanding,
+before moving forward
+
+Establish common points of
+reference
+
+Mutually Accessible
+Symbolic
+
+Aggregate and synchronize input
+from multiple sources
+Build isomorphic bridges between
+knowledge domains
+Map similar but not necessarily
+identical concepts
+
+7. REFERENCES
+Auer, P. (1998). Code-Switching in Conversation: Language,
+Interaction and Identity: Routledge.
+Dervin, B. (1999). On studying information seeking
+methodologically: the implications of connecting
+metatheory to method. Information Processing and
+Management, 35(6), 727-750.
+Flanagan, J. C. (1954). The Critical Incident Technique.
+Psychological Bulletin, 51(4), 327-358.
+
+Gibson, J. J. (1986). The Ecological Approach to Visual
+Perception: Lawrence Erlbaum Associates.
+Gumperz, J. J. (1982). Discourse Strategies: Cambridge
+University Press.
+Kress, G., & Leeuwen, T. V. (2001). Multimodal Discourse: The
+Modes and Media of Contemporary Communication:
+Arnold.
+Myers-Scotton, C. (1993). Social Motivations for
+Codeswitching: Evidence from Africa: Clarendon Pr.
+Norman, D. A. (1999). Affordance, conventions, and design.
+interactions, 6(3), 38-41.
+
+

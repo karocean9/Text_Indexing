@@ -1,0 +1,69 @@
+Toward a Common Framework for Computing E-Government Index
+Abebe Rorissa
+Department of Information Studies, University at Albany, State University of New York, Draper 113 135 Western Ave., Albany, NY 12222 Tel. +1-518-442-5123
+
+arorissa@albany.edu
+
+
+Dawit Demissie
+Department of Informatics, University at Albany, State University of New York, 7A Harriman Campus, Suite 220 1400 Washington Ave., Albany, NY 12222 Tel. +1-518-421-5506
+dd536519@albany.eduTheresa Pardo
+Center for Technology in Government, University at Albany, State University of New York, Suite 301, 187 Wolf Road, Albany, NY 12205 Tel. +1- 518-442-3892
+tpardo@ctg.albany.edu
+ABSTRACT
+
+Benchmarking and rankings, with the help of indexes and indicators, are common practices to gauge the status or standing and assess the progress of entities such as institutions & countries with respect to a characteristic or variable. Countries are often ranked with respect to, among other things, their economic, human, and technological development. International organizations such as the United Nations and the World Bank are among the leading institutions that undertake massive studies to produce rankings of countries on these and other variables. There are rankings of countries on healthcare, education, press freedom, environment & eco-friendliness, corruption, governance, e-readiness, e-government, e-commerce, peace, investment, as well as characteristics such as happiness and sports, to mention a few. These rankings use various types of indexes such as the human development index, e-readiness index, e-government index, and the global peace index. With respect to the computation of e-government indexes, there is lack of a common framework. In this work, we evaluate a number of frameworks and make relevant recommendations.
+Categories and Subject Descriptors
+J.1 [Administrative Data Processing]: Government; K.6.4 [Management of computing and Information Systems]: System Management.
+General Terms
+Measurement, Performance, Design
+Keywords
+Benchmarking; E-government index; E-government ranking.
+
+INTRODUCTION
+Benchmarking tools such as the e-government index serve as useful tools for policy makers. Given the importance any benchmarking and ranking is given when devising policies regarding information and communication technologies and allocating resources to implement those technologies by institutions and countries, an objective framework to produce the rankings is paramount. 
+Indexes and indicators are generally quantitative values whose computations involve objective measures of the characteristics or variables of entities being considered for ranking purposes. A ranking is as good as the frameworks used to produce it. Any index or indicator used for ranking purposes should be based on sound computational procedures and frameworks designed to encompass the characteristics of entities so that strengths and weakness in terms of those characteristics can be reflected. 
+Frameworks and procedures for computing e-government indexes for countries have been proposed by West ([1], [2]), the United Nations (e.g., [3], [4], [5]), and its agencies such as the United Nations Department of Economic and Social Affairs (UNDESA) [6], the United Nations Division for Public Economics and Public Administration (UNDPEPA) [7]), to mention a few. Others have called for or proposed sound procedures to benchmark e-government [8] and e-readiness ([6], [9]). While these have some elements in common, there is a strong need for a set of frameworks and procedures that incorporates relevant elements and produces objective measures and benchmarking of e-government at all levels (local & national government). Toward this effort, we evaluated four frameworks and report results of the evaluation in this poster.
+E-GOVERNMENT INDEX COMPUTATION FRAMEWORKS & PROCEDURES
+Despite their wider use, some of the current procedures used for e-government index computation have limitations. For instance, they do not take into account the fact that most e-government services and websites evolve over time from static catalogues of information to fully integrated portals that serve as single-point shops for most government services needed by citizens. This poster compares four frameworks, points out their limitations and strengths, and proposes ways to remedy their limitations. 
+
+We contrasted four frameworks for computing e-government indexes for e-government service websites and countries: 
+Framework 1: First, an index is computed for each website. A weight of four (4) is assigned to each of 18 features and the total is added to the total number of online executable services. The e-government index for a country is an average of index values of the websites. Pros: simple to compute. Cons: assigns equal weight to all websites irrespective of their level of e-government service; assigns a weight of four (4) for each feature but a weight of one for each executable service. 
+
+Framework 2: Same as Framework 1 but assigns weights to the websites proportional to their level of e-government service development, which is a pro. Cons: assigns a weight of four (4) for each feature but a weight of one for each executable service. 
+
+Framework 3: A mixture of Frameworks 1 & 2 but does not assign a weight to each feature. Instead, it assigns weights to the websites proportional to the level of development of e-government services available. Pros: assigns weight to all websites proportional to their level of e-government service. Cons: online executable services have the same weight (of 1) as the number of features. 
+
+Framework 4 (Relative Index): Slightly different from the three frameworks. It is based on the relative e-government index of the websites and its value is between 0 and 1. Pros: Like Frameworks 2 & 3, weights, proportional to their level of e-government services, are assigned to websites. Cons: online executable services have the same weight (of 1) as the number of features. 
+
+Generally, frameworks that do not weight the numbers of features and online executable services when computing their e-government indexes and/or those that assign weights to websites proportional to their level of e-government service development when computing e-government indexes for countries do present better pictures of e-government services than frameworks that do otherwise. 
+FUTURE WORK
+We do not claim to have included every possible framework for computing e-government indexes for e-government service websites and countries. Neither can we make a claim that the frameworks are without any weaknesses.  First of all, the assignment of weights to e-government service websites proportional to their levels of e-government service development is but one method of many that may be used. Secondly, only one of a number of the methods of weighting is used. Thirdly, the weighting of e-government websites using our methods assumes that consecutive levels of e-government service development are equidistant.
+Future work should focus on ways to remedy the limitations of these frameworks used in the current work as well as other frameworks used for computing e-government indexes and producing e-government rankings. In conclusion, the e-government research community is at the beginning of the process of charting a new direction for benchmarking e-government services. A careful consideration of the frameworks we use to achieve the benchmarking is a worthwhile effort and we hope this work is a small contribution toward this goal.
+REFERENCES
+
+West, D. M. (2004). E-Government and the transformation of service delivery and citizen attitudes. Public Administration Review, 64(1), 15-27
+West, D. M. (2007). Global E-Government. Retrieved February 20, 2008, from http://www.insidepolitics.org/egovt07int.pdf.
+United Nations. (2003). UN global e-government survey. Retrieved February 20, 2008, from http://unpan1.un.org/intradoc/groups/public/documents/un/unpan016066.pdf.
+United Nations. (2004). United Nations global e-government readiness report. Retrieved February 20, 2008, from http://unpan1.un.org/intradoc/groups/public/documents/UN/UNPAN019207.pdf.
+United Nations. (2005). United Nations global e- government readiness report. Retrieved February 20, 2008, from http://unpan1.un.org/intradoc/groups/public/documents/un/unpan021888.pdf.
+United Nations Department of Economic and Social Affairs (UNDESA). (2008). UN e-government survey 2008: From e-government to connected governance. Retrieved June 19, 2008, from http://www.ansa-africa.net/uploads/documents/publications/UN_e-       government_survey_2008.pdf
+United Nations Division for Public Economics and Public Administration (UNDPEPA). (2002). Benchmarking e-government: A global perspective. Retrieved June 19, 2008,fromhttp://aps.vlaanderen.be/straplan/vindplaatsen/benchmarking-e-government.pdf.
+Ojo, A., Janowski, T., & Estevez, E. (2007). Determining progress towards e-government - what are the core indicators? Retrieved June 19, 2008, from http://www.iist.unu.edu/newrh/III/1/docs/techreports/report360.pdf.
+Bakry, S. H. (2003). Toward the development of a standard e-readiness assessment policy. International Journal of Network Management, 13(2), 129-137.
+
+
+
+
+
+
+
+
+
+PAGE  
+
+
+
+
+
+
