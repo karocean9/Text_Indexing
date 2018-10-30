@@ -1,4 +1,4 @@
-Text_Indexing
+<h3>Text_Indexing
 
 BigData is the term mostly used in thie era. Data is coming from different sources and there is not enough time for the data to be processed. In this repository I took a bunch of documents and did some cleansing and processing of data and represented that in the form of Inverted Index. I used shell and perl scripts for this. 
 
