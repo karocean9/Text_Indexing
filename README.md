@@ -37,6 +37,17 @@ MYREGEX=\\b\(`perl -pe 's/\n/|/g' $1`\)\\b        // This is perl regular expres
 grep [[:alpha:]]                 // Here the spaces are removed and alpha-numeric values are removed along with the spaces
 
 
+# Code
+```
+i=0
+for entry in 2009/*
+do
+        cat "$entry"| tr [A-Z] [a-z] | tr -cs "a-z_" " " | tr " " "\n" | sort | uniq -c | sort -nr > output_1/$i.txt
+        ./perl.sh stopwords.txt output_1/$i.txt | tr -s "\n" | grep [[:alpha:]] > output_2/$i.txt
+        i=$((i+1))
+done
+```
+
 License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
