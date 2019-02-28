@@ -37,7 +37,7 @@ MYREGEX=\\b\(`perl -pe 's/\n/|/g' $1`\)\\b        // This is perl regular expres
 grep [[:alpha:]]                 // Here the spaces are removed and alpha-numeric values are removed along with the spaces
 
 
-# Code
+# Code for Indexing
 ```
 i=0
 for entry in 2009/*
@@ -47,6 +47,14 @@ do
         i=$((i+1))
 done
 ```
+
+# Code for perl
+
+```
+#! /bin/bash
+ MYREGEX=\\b\(`perl -pe 's/\n/|/g' $1`\)\\b
+ perl -pe "s/$MYREGEX//g" $2
+ ```
 
 License
 
